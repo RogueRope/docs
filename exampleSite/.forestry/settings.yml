@@ -1,58 +1,32 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
+admin_path: 
 webhook_url: 
 sections:
 - type: heading
-  label: Homepage
+  label: CONFIG
 - type: document
-  path: exampleSite/data/homepage.yml
-  label: Homepage Data
+  path: exampleSite/config.toml
+  label: Settings
 - type: heading
-  label: Blog Post
-- type: document
-  path: exampleSite/content/blog/_index.md
-  label: Blog Page
-- type: directory
-  path: exampleSite/content/blog
-  label: Blog Post
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - post
-- type: heading
-  label: Others Page
-- type: document
-  path: exampleSite/content/faq/_index.md
-  label: FAQ
-- type: document
-  path: exampleSite/content/contact/_index.md
-  label: Contact
-- type: document
-  path: exampleSite/content/pricing/_index.md
-  label: Pricing
-- type: document
-  path: exampleSite/content/privacy-policy/_index.md
-  label: Privacy Policy
-- type: document
-  path: exampleSite/content/terms-conditions/_index.md
-  label: Terms & Conditions
-- type: heading
-  label: All Pages
+  label: PAGES
 - type: directory
   path: exampleSite/content
-  label: All Pages
+  label: Pages
+  create: all
+  match: "*"
+  templates:
+  - page
+- type: heading
+  label: DOCS PAGES
+- type: directory
+  path: exampleSite/content/docs
+  label: Docs
   create: all
   match: "**/*"
   templates:
-  - new-page
-- type: heading
-  label: Configuration
-- type: document
-  path: exampleSite/config.toml
-  label: Configuration
+  - page
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
@@ -61,11 +35,10 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.58.2
+  - HUGO_VERSION=0.75.1
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
-    -d public
-version: 0.58.2
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.75.1

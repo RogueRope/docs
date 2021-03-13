@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-{{- partial "head.html" . -}}
-
-<body>
-	{{- partial "preloader.html" . -}}
-	{{- partial "header.html" . -}}
-    
-    <section class="banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-10 mx-auto text-center">
-              <h1 class="mb-3">404</h1>
-              <p class="mb-4">{{ i18n "error404" }}</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-	{{- partial "footer.html" . -}}
-</body>
-
-</html>
+{{- define "main"}}
+<main>
+  <h1 id="title">Not found</h1>
+  <p>Bummer! This page doesn't exist. Y<a href='{{ absURL "" }}'>back home</a>.</p>
+</main>
+{{- end }}
