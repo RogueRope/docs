@@ -1,126 +1,113 @@
-# BlackDoc
+<p align="center">
+  <a href="https://getdoks.org/">
+    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
+  </a>
+</p>
 
-![Jekyll version](https://img.shields.io/badge/Jekyll-3.x-brightgreen.svg?style=flat-square)
+<h1 align="center">
+  Doks
+</h1>
 
-BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
+<h3 align="center">
+  Modern documentation theme
+</h3>
 
-![BlackDoc screenshot](https://raw.githubusercontent.com/karloespiritu/blackdoc/master/public/images/blackdoc-screenshot.jpg)
+<p align="center">
+  Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
+</p>
 
-## Contents
+<p align="center">
+  <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
+  </a>
+  <a href="https://github.com/h-enk/doks/releases">
+    <img src="https://img.shields.io/github/v/release/h-enk/doks?include_prereleases&style=flat-square"alt="GitHub release (latest SemVer including pre-releases)">
+  </a>
+  <a href="https://github.com/h-enk/doks/actions?query=workflow%3A%22Hyas+CI%22">
+    <img src="https://img.shields.io/github/workflow/status/h-enk/doks/Hyas%20CI/master?style=flat-square" alt="GitHub Workflow Status (branch)">
+  </a>
+  <a href="https://app.netlify.com/sites/doks/deploys">
+    <img src="https://img.shields.io/netlify/895a161c-86be-48a2-8c57-a8c5d68cd1a4?style=flat-square" alt="Netlify">
+  </a>
+</p>
 
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Scrolling sidebar content](#scrolling-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
-- [Thanks](#thanks)
+![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
 
-## Features
+## Demo
 
-* Now compatible with Jekyll 3.x
-* Two-column layout with scrolling sidebar content
-* Ideal for websites that require  master-detail view of content
+- [doks.netlify.app](https://doks.netlify.app/)
 
-## Quick Start
+## Quick start
 
-Download the zip file or clone the BlackDoc repo.
+Get your Doks site in 1 min.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/h-enk/doks)
+
+## Why Doks?
+
+Nine reasons why you should use Doks:
+
+1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
+
+2. __Fast by default__. Get 100 scores on [Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637) by default. Doks removes unused css, prefetches links, and lazy loads images.
+
+3. __SEO-ready__. Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
+
+4. __Development tools__. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
+
+5. __Bootstrap framework__. Build robust, flexible, and intuitive websites with Bootstrap. Or use any other front-end framework if you prefer.
+
+6. __Netlify-ready__. Deploy to Netlify with sensible defaults. Easily use Netlify Functions, Netlify Redirects, and Netlify Headers.
+
+7. __Full text search__. Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.
+
+8. __Page layouts__. Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.
+
+9. __Dark mode__. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
+
+## Requirements
+
+Doks uses npm to install dependencies and run commands. Installing npm is pretty simple. Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
+
+## Get started
+
+Start a new Doks project in three steps:
+
+### 1. Create a new site
 
 ```bash
-$ git clone git@github.com:karloespiritu/BlackDoc.git mysite
-$ cd mysite
+git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
 ```
-Make sure you have Ruby 2.2.5 or higher installed.
+
+### 2. Install dependencies
 
 ```bash
-$ ruby --version
-ruby 2.2.5
+npm install
 ```
 
-Install bundler and install dependencies.
+### 3. Start development server
 
 ```bash
-$ gem install bundler
-$ bundle install
+npm run start
 ```
 
-Build and run your BlackDoc site.
+## Other commands
 
-```bash
-$ jekyll serve
-```
+Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
 
-## Usage
+## Documentation
 
-BlackDoc is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+- [Netlify](https://docs.netlify.com/)
+- [Hugo](https://gohugo.io/documentation/)
+- [Doks](https://getdoks.org/)
 
+## Communities
 
-## Options
+- [Netlify Community](https://community.netlify.com/)
+- [Hugo Forums](https://discourse.gohugo.io/)
+- [Doks Discussions](https://github.com/h-enk/doks/discussions)
 
-BlackDoc includes some customizable options, typically applied via classes on the `<body>` element.
-
-
-### Sidebar menu
-
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
-
-```
----
-layout: page
-title: About
----
-```
-
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
-
-
-### Scrolling sidebar content
-
-By default, BlackDoc includes a scrolling sidebar that will display your markdown files in alphabetical order.
-
-### Themes
-
-BlackDoc ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
-
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/karloespiritu/blackdoc/blob/master/public/css/blackdoc.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
-### Reverse layout
-
-![BlackDoc reverse screenshot](https://raw.githubusercontent.com/karloespiritu/BlackDoc/master/public/images/reverse-screenshot.png)
-
-BlackDoc's page orientation can be reversed with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-## Author
-
-**Karlo Espiritu**
-- <https://github.com/karloespiritu>
-- <https://twitter.com/karloespiritu>
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-\m/
-
-## Thanks
-
-Thanks to [@mdo](https://twitter.com/mdo) for creating the awesome [Poole](http://getpoole.com) project.
+## Blog
+<!--START_SECTION:feed-->
+* [Say hello to Doks 👋](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;say-hello-to-doks&#x2F;)
+<!--END_SECTION:feed-->
