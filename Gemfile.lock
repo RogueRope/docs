@@ -86,10 +86,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler
+  bundler (~> 1.12)
   jekyll
   jekyll-theme-blackdoc!
   kramdown-parser-gfm
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
