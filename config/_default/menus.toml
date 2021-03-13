@@ -10,6 +10,12 @@
   identifier = "help"
   url = "/docs/help/"
 
+[[docs]]
+  name = "Faq"
+  weight = 70
+  identifier = "Faq"
+  url = "/docs/faq/"
+
 [[main]]
   name = "Docs"
   url = "/docs/prologue/introduction/"
