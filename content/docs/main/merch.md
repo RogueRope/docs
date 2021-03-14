@@ -20,6 +20,7 @@ toc: true
 ![](/images/f-shirts.png)
 ![](/images/f-size.png)
 
+{{< figure src="assets/images/f-shirts.png" title="Steve Francia" >}}
 
 
 
