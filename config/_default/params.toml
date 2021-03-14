@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a>. Made with love in Ghent."
+footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a>. Made with &#10084; in Ghent."
 
 # Alert
 alert = false
