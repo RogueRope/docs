@@ -61,4 +61,4 @@ Initially we set up a fancy volunteering website platform, but on second thought
 
 You will be asked to do this when you check in.
 
-![](./assets/aragorn-lets-do-this.gif)
+![](/images/aragorn-lets-do-this.gif)

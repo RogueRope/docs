@@ -17,9 +17,13 @@ toc: true
 * Material: 100% cotton 
 
 ## Close fitting shirt with room for boobies.
-![](./assets/f-shirts.png)
-![](./assets/f-size.png)
+![](/images/f-shirts.png)
+![](/images/f-size.png)
+
+
+
+
 
 ## Basic 'Classic' T-shirt.
-![](./assets/m-shirts.png)
-![](./assets/m-size.png)
+![](/images/m-shirts.png)
+![](/images/m-size.png)

@@ -28,5 +28,5 @@ People that see tying as a competition have already lost it.
 * We're not afraid of nudity or sex, the plan is to improvise a play room as well.
 * Golden showers and scat are hard to do in a 'clean' way at the camp, so we'll need to draw the line there. 
 
-![](./assets/anything.webp)
+![](/images/anything.webp)
 

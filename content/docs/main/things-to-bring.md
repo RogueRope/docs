@@ -44,4 +44,4 @@ toc: true
 * Pets.
 * Bad Vibes.
 
-![](./assets/mug.jpeg)
+![](/images/mug.jpeg)
