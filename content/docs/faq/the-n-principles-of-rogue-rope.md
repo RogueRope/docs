@@ -1,5 +1,17 @@
-# The N Principles of Rogue Rope
-
+---
+title: "Principles"
+description: "Taking care of your body includes your heart."
+lead: "The N Principles of Rogue Rope"
+date: 2020-03-13T15:21:01+02:00
+lastmod: 2020-03-13T15:21:01+02:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "faq"
+weight: 140
+toc: true
+---
 These principles are a remix of the [burning man principles](https://burningman.org/culture/philosophical-center/10-principles/), [the hackerspace blueprint](https://hackerspace.design/) and some stuff we made up ourselves. Praise remix culture!
 
 ## Radical Self-responsibility

@@ -1,9 +1,9 @@
 ---
 title: "Consent"
-description: "Doks comes with Consent for common tasks."
-lead: "Doks comes with Consent for common tasks."
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
+description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
+lead: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
+date: 2020-03-13T15:21:01+02:00
+lastmod: 2020-03-13T15:21:01+02:00
 draft: false
 images: []
 menu: 
@@ -12,10 +12,6 @@ menu:
 weight: 130
 toc: true
 ---
-# Consent
-
-**Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games.**
-
 Consent is a **whole body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.
 
 Consent is also **mutual** \(both people have to agree\) and must be **continuous**. You can stop at any time, you can change your mind, and just because you said yes to one thing doesn’t mean you have consented to anything else.

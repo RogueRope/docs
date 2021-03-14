@@ -1,9 +1,20 @@
 ---
-
+title: "Unconference"
+description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
+lead: "Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?"
+date: 2020-03-13T15:21:01+02:00
+lastmod: 2020-03-13T15:21:01+02:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "opportunities"
+weight: 130
+toc: true
 ---
+
 # Unconference
 
-Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
 
 Four easy rules for unconference sessions
 

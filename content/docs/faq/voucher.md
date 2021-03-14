@@ -1,6 +1,17 @@
-# Vouchers
-
-## How will this work?
+---
+title: "Vouchers"
+description: "Taking care of your body includes your heart."
+lead: "How will this work?"
+date: 2020-03-13T15:21:01+02:00
+lastmod: 2020-03-13T15:21:01+02:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "faq"
+weight: 140
+toc: true
+---
 A 'voucher' is a unique code that you can use to buy a ticket.
 If you registered as a couple, you will recieve 2 wouchers. If you registered as single last year, you will **also** recieve 2 vouchers
 

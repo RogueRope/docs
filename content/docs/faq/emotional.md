@@ -1,5 +1,17 @@
-# Emotional
-
+---
+title: "Emotional"
+description: "Taking care of your body includes your heart."
+lead: "Taking care of your body includes your heart."
+date: 2020-03-13T15:21:01+02:00
+lastmod: 2020-03-13T15:21:01+02:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "faq"
+weight: 130
+toc: true
+---
 Things will get chaotic at Rope Camp. For example, interacting might feel too intense at times, and/or you may feel a bit alone or alienated, without familiar comforts to rely on. But there are plenty of ways to deal with this!
 
 Here are some tips :
