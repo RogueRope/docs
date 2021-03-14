@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 130
+weight: 10
 toc: true
 ---
 Consent is a **whole body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.

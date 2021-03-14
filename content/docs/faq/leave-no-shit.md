@@ -1,5 +1,5 @@
 ---
-title: "Leave No Shit"
+title: "Not Your Mum"
 description: "Taking care of your body includes your heart."
 lead: "What's MOOP?"
 date: 2020-03-13T15:21:01+02:00
@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 140
+weight: 40
 toc: true
 ---
 Everything you bring to the site has the potential to become **MATTER OUT OF PLACE \(MOOP\)**: costumes, water bottles, booze containers, inflatable chairs, hats, fruit, cigarette butts, even rope fibers can all become MOOP. Every person is responsible for their rubbish.

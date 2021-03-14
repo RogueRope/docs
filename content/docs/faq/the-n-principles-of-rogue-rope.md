@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 140
+weight: 200
 toc: true
 ---
 These principles are a remix of the [burning man principles](https://burningman.org/culture/philosophical-center/10-principles/), [the hackerspace blueprint](https://hackerspace.design/) and some stuff we made up ourselves. Praise remix culture!

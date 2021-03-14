@@ -1,5 +1,5 @@
 ---
-title: "Filming and Photography"
+title: "Photography"
 description: "Taking care of your body includes your heart."
 lead: "Always get consent before you film or photograph someone at Rope Camp."
 date: 2020-03-13T15:21:01+02:00
@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 130
+weight: 20
 toc: true
 ---
 

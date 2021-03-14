@@ -10,7 +10,7 @@ images: []
 menu: 
   docs:
     parent: "overview"
-weight: 130
+weight: 70
 toc: true
 ---
 One aspect that is still under scrutiny is the speed of vaccinations, let's see how that goes and if there are any differences for activities where **everyone** is vaccinated. We don't want to take positions on that right now, but chances are if there's a large benefit for activities where everyone is vaccinated we might want to take that option.

@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "overview"
-weight: 130
+weight: 50
 toc: true
 ---
 We'll distribute electricity on the campsite, if you want to get hooked up bring the longest extension cord you have and a power strip. This way you can charge your mobile devices while you sleep.

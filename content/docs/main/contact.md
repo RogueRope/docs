@@ -9,12 +9,16 @@ images: []
 menu: 
   docs:
     parent: "overview"
-weight: 130
+weight: 170
 toc: true
 ---
+## Specific questions
 
+  Contact us on [whatsapp](https://api.whatsapp.com/send?phone=32476870515): +32476870515. This also works for Signal and Telegram.
 
-## Whatsapp
+  If you prefer email, hit us up on info@roguerope.be
+
+## Whatsapp Group Chat
 
 * **Announce/Official Comms:** 
 
@@ -28,9 +32,5 @@ toc: true
 
   [https://tinyurl.com/RopeCampBlaBla](https://tinyurl.com/RopeCampBlaBla)
 
-* **Specific questions:** 
 
-  Contact me on [whatsapp](https://api.whatsapp.com/send?phone=32476870515): +32476870515. This also works for Signal and Telegram.
-
-  If you prefer email, hit me up on info@roguerope.be
 

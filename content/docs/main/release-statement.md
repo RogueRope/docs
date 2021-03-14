@@ -1,5 +1,5 @@
 ---
-title: "Release Statement."
+title: "Release Statement"
 description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
 date: 2020-03-13T15:21:01+02:00
 lastmod: 2020-03-13T15:21:01+02:00
@@ -8,7 +8,7 @@ images: []
 menu: 
   docs:
     parent: "overview"
-weight: 130
+weight: 150
 toc: true
 ---
 ## Rogue Rope  vrijwaring formulier
@@ -36,8 +36,6 @@ Rogue Rope Dungeon Masters, herkenbaar door hun kleding, hebben het recht om wan
 
 Deze vrijwaring dient compleet ingevuld en ingeleverd te zijn voor aanvang van de activiteit.
 
-**Naam/nom:**
-
-**Geboortedatum/ date de naissance:**
+**Naam:**
 
 **Handtekening / Signature :**

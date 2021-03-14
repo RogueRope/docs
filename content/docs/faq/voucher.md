@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 140
+weight: 5
 toc: true
 ---
 A 'voucher' is a unique code that you can use to buy a ticket.
