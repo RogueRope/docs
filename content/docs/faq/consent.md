@@ -1,6 +1,6 @@
 ---
 title: "Consent"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
+description: "Consent is a **whole body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well."
 lead: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
 date: 2020-03-13T15:21:01+02:00
 lastmod: 2020-03-13T15:21:01+02:00
