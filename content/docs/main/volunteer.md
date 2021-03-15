@@ -53,7 +53,8 @@ There are countless other ways to get involved, including:
 * Makemusic, put on a show, or do a performance
 * Feel free to create your own way to participate!
 
-![Be a great person and rise to the challenge.](./assets/giphy.webp)
+
+![Be a great person and rise to the challenge.](./images/giphy.webp)
 
 ### How To register?
 
