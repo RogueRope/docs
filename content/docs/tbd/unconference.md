@@ -30,4 +30,4 @@ We'll follow the classical un-conference format with post-it notes. Think ahead:
 * what are topics/subject you'd like to see covered or would like to know more of?
 * What are topic, subjects, workshops or activities you'd like to share with others?
 
-![](/assets/marilia-castelli-jx_7odso9_w-unsplash.jpg)
+![](/images/marilia-castelli-jx_7odso9_w-unsplash.jpg)

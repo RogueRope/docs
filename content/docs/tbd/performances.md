@@ -20,4 +20,4 @@ Share your skill and surprise us.
 
 If you want to do a performance, let us know on the event. We might do the performances outside. For technical reasons, if you need music bring your MP3's on a thumb drive with you. If we can help you with this, let us know in advance.
 
-![](/assets/perform.png)
+![](/images/perform.png)

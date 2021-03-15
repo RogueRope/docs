@@ -14,6 +14,9 @@ toc: true
 ---
 Everything you bring to the site has the potential to become **MATTER OUT OF PLACE \(MOOP\)**: costumes, water bottles, booze containers, inflatable chairs, hats, fruit, cigarette butts, even rope fibers can all become MOOP. Every person is responsible for their rubbish.
 
+So, remember what your mum thought you, don't litter, put away your toys after playing, clean up after yourself.
+We don't clean up after you, **I am not your mum (but you can call me daddy).**, 
+
 ## What should I do with my rubbish?
 
 One of the fundamental ideas of Leave no trace is : **Pack it in, pack it out**. Everything brought at Rope Camp will have to be taken away before the end of the event.

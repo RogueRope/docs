@@ -28,4 +28,4 @@ toc: true
 * Showers! Here's the bad news: this year it's very primitive, compared to last year. Think of _one_ shower-cabin with two shower heads. So shower quickly, and don't use too much water.
 * No more public WiFi to cover the campsite, but 4G coverage is great.
 
-![](../assets/doge.png)
+![](/images//doge.png)

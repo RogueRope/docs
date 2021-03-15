@@ -28,6 +28,6 @@ From [Project Respect](https://www.yesmeansyes.com/consent/) We believe that eve
 
 If you want to learn more on the subject, check this elaborate write-up by [La Quarta Corda](https://www.laquartacorda.it/en/consent/).
 
-![](../assets/ohyes.webp)
+![](/images//ohyes.webp)
 
 **If you want to help shaping the consent/dungeon crew, [contact us](contact.md).**

@@ -15,7 +15,7 @@ toc: true
 A 'voucher' is a unique code that you can use to buy a ticket.
 If you registered as a couple, you will recieve 2 wouchers. If you registered as single last year, you will **also** recieve 2 vouchers
 
-![](../assets/voucher.gif)
+![](/images//voucher.gif)
 
 ## Vouchers are personal!
 If someone got a voucher for participating last year, and will not join us this year, the voucher is void. 

@@ -12,6 +12,8 @@ menu:
 weight: 10
 toc: true
 ---
+![](/images/newlogo.png)
+
 ### The very short details
 
 * **When:** 19/08/2020 14.00 -&gt; 22/08/2020 16.00

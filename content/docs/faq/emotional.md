@@ -34,5 +34,5 @@ Spend all the time together you want, but leave room for yourself and your inter
 
 Still, be sure to schedule plenty of ‘dates’ together, and keep them. Just make sure that you honor your time together, but also apart.
 
-![](../assets/hug.webp)
+![](/images//hug.webp)
 

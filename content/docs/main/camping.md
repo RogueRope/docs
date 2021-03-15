@@ -30,3 +30,4 @@ Other stuff to bring:
 ## Is there a possibility to sleep indoors?
 
 There is some room inside but we'll use this for activities.
+![](/images/tegan-mierle-unsplash.jpg)
