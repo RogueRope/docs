@@ -21,7 +21,7 @@ schemaGitHub = "https://github.com/RogueRope"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"
@@ -46,9 +46,9 @@ editPage = false
 
 [options]
   lazySizes = true
-  clipBoard = true
-  instantPage = true
+  clipBoard = false
+  instantPage = false
   flexSearch = false
   darkMode = true
-  bootStrapJs = true
+  bootStrapJs = false
   breadCrumb = false

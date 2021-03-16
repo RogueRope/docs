@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 40
+weight: 1040
 toc: true
 ---
 Everything you bring to the site has the potential to become **MATTER OUT OF PLACE \(MOOP\)**: costumes, water bottles, booze containers, inflatable chairs, hats, fruit, cigarette butts, even rope fibers can all become MOOP. Every person is responsible for their rubbish.

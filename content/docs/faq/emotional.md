@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 130
+weight: 1130
 toc: true
 ---
 Things will get chaotic at Rope Camp. For example, interacting might feel too intense at times, and/or you may feel a bit alone or alienated, without familiar comforts to rely on. But there are plenty of ways to deal with this!
