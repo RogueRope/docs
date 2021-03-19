@@ -1,15 +1,12 @@
 ---
-title: "Things to Bring"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
-draft: false
+title: Things to Bring
+description: Things to Bring
+date: 2020-03-13T15:21:01.000+02:00
+lastmod: 2020-03-13T15:21:01.000+02:00
 images: []
-menu: 
-  docs:
-    parent: "overview"
-weight: 60
+weight: "60"
 toc: true
+
 ---
 ### Basics
 
