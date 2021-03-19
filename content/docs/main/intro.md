@@ -1,16 +1,15 @@
 ---
-title: "Rogue Rope Camp"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
-lead: "What's this rope camp?"
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
-draft: false
+title: Rogue Rope Camp
+description: 'Rogue rope is focused on infrastructure: we provide a space, a place
+  to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
+  and power, toilets and warm showers.'
+lead: What's this rope camp?
+date: 2020-03-13T15:21:01.000+02:00
+lastmod: 2020-03-13T15:21:01.000+02:00
 images: []
-menu: 
-  docs:
-    parent: "overview"
-weight: 10
+weight: "10"
 toc: true
+
 ---
 ![](/images/newlogo.png)
 
