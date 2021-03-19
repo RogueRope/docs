@@ -1,15 +1,14 @@
 ---
-title: "Release Statement"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
-draft: false
+title: Release Statement
+description: Rogue Rope is expliciet géén vzw, maar een feitelijke vereniging, dit
+  wil kort gezegd zeggen dat alles wat tijdens de activiteit gebeurt volledig onder
+  eigen verantwoordelijkheid van de deelnemers van de activiteit valt.
+date: 2020-03-13T15:21:01.000+02:00
+lastmod: 2020-03-13T15:21:01.000+02:00
 images: []
-menu: 
-  docs:
-    parent: "overview"
-weight: 150
+weight: "150"
 toc: true
+
 ---
 ## Rogue Rope  vrijwaring formulier
 
