@@ -19,21 +19,6 @@ sections:
   label: To Be Decided
   create: all
   match: "**/*"
-- type: directory
-  path: content/docs
-  label: docs
-  create: all
-  match: "**/*"
-- type: directory
-  path: content
-  label: Content
-  create: all
-  match: "**/*"
-- type: directory
-  path: config/_default/content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
