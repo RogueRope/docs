@@ -4,8 +4,8 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
   to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
   and power, toilets and warm showers.'
 lead: What's this rope camp?
-date: 2020-03-13T15:21:01.000+02:00
-lastmod: 2020-03-13T15:21:01.000+02:00
+date: 2021-03-13T15:21:01.000+02:00
+lastmod: 2021-03-13T15:21:01.000+02:00
 images: []
 weight: "10"
 toc: true

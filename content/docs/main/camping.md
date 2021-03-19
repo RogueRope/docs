@@ -1,9 +1,9 @@
 ---
 title: "Camping"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
+description: "It's a field, it's basic, with room for a campfire, so bring your guitar and marshmallows."
 lead: "It's a field, it's basic, with room for a campfire, so bring your guitar and marshmallows."
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
+date: T15:21:01\+02:00
+lastmod: T15:21:01\+02:00
 draft: false
 images: []
 menu: 

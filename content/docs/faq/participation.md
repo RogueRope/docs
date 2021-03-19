@@ -1,9 +1,9 @@
 ---
 title: "Participation"
-description: "Taking care of your body includes your heart."
+description: "At Rope Camp, we’re all volunteers, and we always need more help!"
 lead: "We need you to help out!"
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
+date: T15:21:01\+02:00
+lastmod: T15:21:01\+02:00
 draft: false
 images: []
 menu: 
@@ -15,7 +15,7 @@ toc: true
 
 ## I’d like to help out, but honestly, I have no skills. What can I do?
 
-At Rope Camp, we’re all volunteers, and we always need more help! Two-thirds of Rope Camp participants volunteer in some capacity during, before, or after the event. Skills are less important than a can-do attitude and the willingness to work hard. Email [info@ropecamp.be](mailto:info@ropecamp.be) to offer more general help.
+At Rope Camp, we’re all volunteers, and we always need more help! All of the Rope Camp participants volunteer in some capacity during, before, or after the event. Skills are less important than a can-do attitude and the willingness to work hard. Email [info@ropecamp.be](mailto:info@ropecamp.be) to offer more general help.
 
 When you register we will give you a work shift to help out on site, many hands make light work.
 

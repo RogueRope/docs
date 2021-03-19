@@ -2,8 +2,8 @@
 title: "Food"
 description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
 lead: "Expect basic \"camp food\": dishes we can make in large quantities without breaking the bank. There should be enough for everybody."
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
+date: T15:21:01\+02:00
+lastmod: T15:21:01\+02:00
 draft: false
 images: []
 menu: 

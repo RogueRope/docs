@@ -1,10 +1,9 @@
 ---
 title: "COVID"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
-lead: "It's too soon to make solid predictions. The assumption is that, like in 2020, contact-sport activities will be allowed in bubbles of 50 people. We'll see how it evolves. 
-"
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
+description: "It's too soon to make solid predictions. The assumption is that, like in 2020, contact-sport activities will be allowed in bubbles of 50 people. We'll see how it evolves."
+lead: "It's too soon to make solid predictions. The assumption is that, like in 2020, contact-sport activities will be allowed in bubbles of 50 people. We'll see how it evolves."
+date: T15:21:01\+02:00
+lastmod: T15:21:01\+02:00
 draft: false
 images: []
 menu: 

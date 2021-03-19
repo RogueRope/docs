@@ -1,9 +1,9 @@
 ---
 title: "Not Your Mum"
-description: "Taking care of your body includes your heart."
+description: "... but you can call me daddy!"
 lead: "What's MOOP?"
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
+date: T15:21:01\+02:00
+lastmod: T15:21:01\+02:00
 draft: false
 images: []
 menu: 

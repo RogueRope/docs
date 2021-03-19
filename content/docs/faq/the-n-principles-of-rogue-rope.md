@@ -1,9 +1,9 @@
 ---
 title: "Principles"
-description: "Taking care of your body includes your heart."
+description: "Some rules to follow."
 lead: "The N Principles of Rogue Rope"
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
+date: T15:21:01\+02:00
+lastmod: T15:21:01\+02:00
 draft: false
 images: []
 menu: 

@@ -2,8 +2,8 @@
 title: "Changes"
 description: "Plans can go wrong, let's see how we can mitigate issues."
 lead: "What's different from last year?"
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
+date: T15:21:01\+02:00
+lastmod: T15:21:01\+02:00
 draft: false
 images: []
 menu: 
