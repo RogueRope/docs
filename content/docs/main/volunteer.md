@@ -1,16 +1,15 @@
 ---
-title: "Volunteer"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
-lead: "We _need_ you to volunteer!"
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
-draft: false
+title: Volunteer
+description: Very simple, there's no-one employed, every participant pays for their
+  ticket. We're in this boat together and we can make it conquer the seas or make
+  it crash into a big ice cube. It's really up to us.
+lead: We _need_ you to volunteer!
+date: 2020-03-13T15:21:01.000+02:00
+lastmod: 2020-03-13T15:21:01.000+02:00
 images: []
-menu: 
-  docs:
-    parent: "overview"
-weight: 30
+weight: "30"
 toc: true
+
 ---
 Very simple, there's no-one employed, every participant pays for their ticket. We're in this boat together and we can make it conquer the seas or make it crash into a big ice cube. It's really up to us.
 
