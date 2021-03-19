@@ -1,16 +1,13 @@
 ---
-title: "Play"
-description: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
-lead: "Kinky people play dark games."
-date: 2020-03-13T15:21:01+02:00
-lastmod: 2020-03-13T15:21:01+02:00
-draft: false
+title: Play
+description: Anything goes!
+lead: Kinky people play dark games.
+date: 2020-03-13T15:21:01.000+02:00
+lastmod: 2020-03-13T15:21:01.000+02:00
 images: []
-menu: 
-  docs:
-    parent: "overview"
-weight: 50
+weight: "50"
 toc: true
+
 ---
 ## Rope play
 
@@ -29,4 +26,3 @@ People that see tying as a competition have already lost it.
 * Golden showers and scat are hard to do in a 'clean' way at the camp, so we'll need to draw the line there. 
 
 ![](/images/anything.webp)
-
