@@ -1,0 +1,28 @@
+---
+label: Doc Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: lead
+  label: lead
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: list
+  name: images
+  label: images
+- type: text
+  name: weight
+  label: weight
+- type: boolean
+  name: toc
+  label: toc
