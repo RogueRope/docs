@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/blog
+  label: Blogs
+  create: all
+  match: "**/*"
+- type: directory
   path: content/docs/main
   label: Main
   create: all
@@ -23,7 +28,7 @@ sections:
   path: content/blog
   label: Blog
   create: all
-  match: "**/**/*"
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
