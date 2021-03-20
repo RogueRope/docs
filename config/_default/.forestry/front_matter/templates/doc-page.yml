@@ -28,3 +28,25 @@ fields:
   label: toc
 pages:
 - content/docs/main/volunteer.md
+- content/docs/main/things-to-bring.md
+- content/docs/main/covid.md
+- content/docs/main/changelog.md
+- content/docs/main/release-statement.md
+- content/docs/main/food.md
+- content/docs/main/play.md
+- content/docs/main/merch.md
+- content/docs/main/intro.md
+- content/docs/main/camping.md
+- content/docs/main/contact.md
+- content/docs/main/how-to-get-in.md
+- content/docs/main/_index.md
+- content/docs/main/cancellation.md
+- content/docs/faq/filming-and-photography.md
+- content/docs/faq/emotional.md
+- content/docs/faq/participation.md
+- content/docs/faq/voucher.md
+- content/docs/faq/consent.md
+- content/docs/faq/the-n-principles-of-rogue-rope.md
+- content/docs/faq/not-your-mum.md
+- content/docs/tbd/unconference.md
+- content/docs/tbd/performances.md
