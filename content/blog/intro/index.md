@@ -13,4 +13,4 @@ images: []
 toc: false
 
 ---
-We will also update the announce whatsapp and other channels, but who's got time for that? So before you come to the camp, check this page to see if there are any important changes of which you should be aware.
+We will also update the announce [whatsapp](\[whatsapp\]({{< ref "/docs/main/contact" >}} "About Us") "contact") and other channels, but who's got time for that? So before you come to the camp, check this page to see if there are any important changes of which you should be aware.
