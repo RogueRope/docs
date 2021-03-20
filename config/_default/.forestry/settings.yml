@@ -19,6 +19,11 @@ sections:
   label: To Be Decided
   create: all
   match: "**/*"
+- type: directory
+  path: blog
+  label: Blog
+  create: all
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
