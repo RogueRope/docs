@@ -27,6 +27,7 @@ fields:
   name: toc
   label: toc
 pages:
+- content/blog/intro/index.md
 - content/docs/faq/consent.md
 - content/docs/faq/emotional.md
 - content/docs/faq/filming-and-photography.md
