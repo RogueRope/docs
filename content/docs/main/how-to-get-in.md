@@ -20,7 +20,7 @@ Doing really well there! Almost done.
 \(you didn't just skipped all the info to get on this page did you?\)
 
 
-Do you have questions or comments? If so, [Get in touch](contact.md).
+Do you have questions or comments? If so, [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Buy a ticket.
 The amount of participants is limited, this is because of the site and because of the Covid guidelines. The assumption is that demand will be much bigger than the supply. 

@@ -32,5 +32,5 @@ If you use the qr code, it saves you typing and eliminates errors. If you do the
 If you have a voucher, and all tickets are sold out, the ticketing engine puts you on a waiting list. 
 
 ## All sales are final, but...
-You might be able to cancel your ticket), if there are people on the waiting list. You do this by [contacting us](contact.md). If we need to cancel and redistribute your ticket we reserve a 15% cancellation fee.
+You might be able to cancel your ticket), if there are people on the waiting list. You do this by [contacting us]({{< ref "/docs/main/contact" >}} "Contact us"). If we need to cancel and redistribute your ticket we reserve a 15% cancellation fee.
 When this refund is done, another ticket will be distributed to the people on the waiting list (first come, first served).

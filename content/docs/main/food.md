@@ -24,7 +24,7 @@ We provide **vegetarian** and **meat** options, anything beyond that is not with
 | 16.00 | Snacks | To be confirmed | To be confirmed | To be confirmed | Leftovers |
 | 19-21 | Dinner | Belgian Fries Truck | Pizza Buffet | BBQ | --/-- |
 
-If you have very specific nutrition needs \(vegan, gluten-free,organic\), I'm very sorry but this event does not have the human resources or capabilities to cater to you. We are open to help you though, and can provide those with specific needs access to the kitchen. [Get in touch](contact.md) to work something out.
+If you have very specific nutrition needs \(vegan, gluten-free,organic\), I'm very sorry but this event does not have the human resources or capabilities to cater to you. We are open to help you though, and can provide those with specific needs access to the kitchen. [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us") to work something out.
 
 We will also provide coffee, sparkling and still water free of charge for all participants.
 

@@ -17,7 +17,7 @@ toc: true
 
 If that you have a dispute with someone about photography, please let the organizer know. Your right to take someone’s photo and publish it **never** over-rules their right to privacy! If posting photos onto Fetlife or other social networking sites, **MAKE 100% SURE** that **EVERYONE** featured in your photos is happy for them to be posted. You should not be tagging people online unless you have their explicit permission
 
-If you have any questions about photography or filming at Rope Camp, please [contact the orga](contact.md).
+If you have any questions about photography or filming at Rope Camp, please [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Do not post pictures of the campsite!
 
