@@ -5,12 +5,12 @@ fields:
 - type: text
   name: title
   label: title
-- type: textarea
-  name: description
-  label: description
 - type: text
   name: lead
   label: lead
+- type: textarea
+  name: description
+  label: description
 - type: datetime
   name: date
   label: date
