@@ -23,7 +23,7 @@ sections:
   path: blog
   label: Blog
   create: all
-  match: "**/*"
+  match: "**/**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
