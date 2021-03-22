@@ -4,10 +4,14 @@ description: Maybe we can do some kind of semi formal knowledge-exchange/peer-le
 lead: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
 date: 2021-03-13T13:21:01+00:00
 lastmod: 2021-03-13T13:21:01+00:00
-images: []
-weight: "2020"
 toc: true
-
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "opportunities"
+weight: 2020
+toc: true
 ---
 # Unconference
 

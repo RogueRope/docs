@@ -6,10 +6,14 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
 lead: What's this rope camp?
 date: 2021-03-13T15:21:01.000+02:00
 lastmod: 2021-03-13T15:21:01.000+02:00
-images: []
-weight: "10"
 toc: true
-
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "overview"
+weight: 10
+toc: true
 ---
 ![](/images/newlogo.png)
 

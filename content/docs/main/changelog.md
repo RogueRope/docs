@@ -1,6 +1,6 @@
 ---
 title: "Changes"
-description: "Plans can go wrong, let's see how we can mitigate issues."
+description: "What is different from last year?"
 lead: "What's different from last year?"
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
