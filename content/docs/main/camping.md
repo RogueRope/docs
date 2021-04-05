@@ -25,7 +25,7 @@ Other stuff to bring:
 * No need to bring dodgy gas stoves or other cooking gear, we will provide you with warm food.
 * Please try to limit smoking on the camp-site, fire safety is important. Keep it clean! Trow your butts in the designated ash trays.
 * If your smoke smells a bit funny, that's fine, no need to hide it in your tent.
-* A box cooler, or one of those supermarket insulation bags.
+* A box cooler, or one of those supermarket insulation bags. A smaller bag or watertight container to preserve the ice, so your cooler won't become a pool. 
 
 ## Is there a possibility to sleep indoors?
 
