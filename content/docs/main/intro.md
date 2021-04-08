@@ -19,7 +19,7 @@ toc: true
 
 ### The very short details
 
-* **When:** 19/08/2020 14.00 -&gt; 22/08/2020 16.00
+* **When:** 19/08/2021 14.00 -&gt; 22/08/2021 16.00
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 100€ 
 * **Tickets:** Can be bought with voucher.
