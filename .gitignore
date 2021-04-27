@@ -52,3 +52,5 @@ tags
 # Coc configuration directory
 .vim
 
+.jekyll-cache
+resources/_gen

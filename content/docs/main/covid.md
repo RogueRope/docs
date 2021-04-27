@@ -17,7 +17,7 @@ One aspect that is still under scrutiny is the speed of vaccinations, let's see 
 To give you some idea, we take the situation seriously and operate within the boundaries set by the law. This is **not** an illegal gathering.
 
 ## Testing
-If we are required by law to do testing on-site, we will do so. Please note that we have not budgetted for this, so you will be asked to pay the cost of the test on entry.
+If we are **required** by law to do testing on-site, we will do so. Please note that we have not budgetted for this, so you will be asked to **pay the cost of the test** on entry.
 
 ## Protocols (info from 2020, needs update)
 
