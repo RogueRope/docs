@@ -14,6 +14,7 @@ Gemfile.lock
 # Generated files by hugo
 /public/
 /resources/_gen/
+.jekyll-cache
 
 # Executable may be added to repository
 hugo.exe
@@ -52,5 +53,4 @@ tags
 # Coc configuration directory
 .vim
 
-.jekyll-cache
-resources/_gen
+resources/_gen/assets/scss/scss/app.scss_1920d2ec1ff1120c91690141d2072447.content
