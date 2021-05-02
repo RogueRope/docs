@@ -28,3 +28,4 @@ One of the fundamental ideas of Leave no trace is : **Pack it in, pack it out**.
 * If you’re a smoker, **carry a portable ashtray** such as a mint tin with you at all times. Or put butts in your pocket. **Never, ever drop butts**.
 * Do not let bins overflow and MOOP get out of hand.
 
+![](https://i.imgur.com/XS3diJ1.jpeg)
