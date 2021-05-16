@@ -56,10 +56,8 @@ If you bring a camper we will be able to put that on the field using our combine
 
 You made it! Make sure to bring your order confirmation with the qr-code, so we can verify payment, you will get a release statement to sign.
 
+We will do the covid procedure required by law, not clear what that is at this moment.
+
 You will get a shift of work... this could be cleaning up, going to the bakery or making sure the fire is hot, we will ask you to put your name down.
-
-Next we will measure your body temp, if it's above 37.2 C you will be asked to leave.
-
-If it's lower you will get a nice bracelet in return to prove you are now one of the cool healthy kids.
 
 Now it's time to relax, set up your tent and share a drink with us.
