@@ -12,5 +12,4 @@ menu:
 weight: 70
 toc: true
 ---
-We await clear procedures set by the authorities, these are dependant on factors that change over time.
-So let's wait and see, the timeline looks promising. 
+We see shibari as a form of sport, so we follow [the procedures](https://www.sport.vlaanderen/media/17493/protocol-sportkampen-en-sportstages_25-juni.pdf) in this regard.
