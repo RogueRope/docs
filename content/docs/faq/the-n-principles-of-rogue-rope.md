@@ -17,7 +17,7 @@ These principles are a remix of the [burning man principles](https://burningman.
 ## Radical Self-responsibility
 
 Rogue Rope encourages the individual to discover, exercise and rely on his or her inner resources. We don’t care about your hangups, or politics.  
-You’re mental state is also your responsibility you are what/who you are, and what you take.
+You’re mental state is also your responsibility you are what/who you are, and what you consume.
 
 ## Solutions before shame
 
