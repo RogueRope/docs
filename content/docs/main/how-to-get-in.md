@@ -23,33 +23,26 @@ Doing really well there! Almost done.
 Do you have questions or comments? If so, [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Buy a ticket.
-The amount of participants is limited, this is because of the site and because of the Covid guidelines. The assumption is that demand will be much bigger than the supply. 
+The amount of participants is limited.
 
-There are 2 ways to handle this: 
-* The Tomorrowland way: open ticket sales at a certain time and hope for the best. Tickets sales will essentially become a lottery. 
-* The meritocratic way: people who've participated before and made a positive contribution will have the opportunity to buy a pre-sale-ticket first. 
+This time everyone who's on the mailinglist will get **one voucher**, wich gives you the opportunity to buy **2 tickets**. Create your order on the link from the email. Once submitted, your order will be reviewed by the orga. You will be asked for you r fetlife name. 
+When we recieve your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer. This evaluation will be done by the orga, a next-gen neural-network based AI, and 3 chickens. The orga has final call.
+If you get denied, no problem, this event is not for you but there's so much other things going on.
 
-Sadly, we assume that it will be fully booked when this pre-sale is over. We were almost fully booked last year, and we give all participants a voucher. Also, the people that came as a single last year, will receive two vouchers.
-
-Looking forward to next year, the plan is to double the available capacity, so more new people will have a chance to sign up.
+Once confirmed you get a week or so to pay, Belgians and Dutchies we prefer you use Bancontact or Mollie. Other countries standard SEPA banktransfer.
 
 ## Timeline
 
-* March: mails will be sent out with vouchers to the people that participated.
-* After two weeks, vouchers will be sent to people on the [mailing list](https://roguerope.be/pages/newsletter.html).
-* 
-
-## Stay safe.
-
-Nothing much more to do than to take care of yourselves and your loved ones. Follow the guidelines as defined by the authorities.
+* March: vouchers will be sent to people on the [mailing list](https://roguerope.be/pages/newsletter.html).
+* After that a signup link will be posted on fetlife, but still, people need to be vetted to be able to buy a ticket.
 
 ## Get to the location
 
 The site is in the Lokeren area, you can get there by car, but there's also a train station a 3km walk away. You can take a bus, then it's only a 1km walk.
 
-Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car back on the main road. Take into account: you cannot drive with your car on the camping area! So the last 30 meters or so, you need to drag your stuff.
+Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car **back on the main road**. Take into account: you cannot drive with your car on the camping area! So the last 40 meters or so, you need to drag your stuff.
 
-If you bring a camper we will be able to put that on the field using our combined people-power, same goes for trailers.  
+If you bring a camper we will be able to put that on the field using our combined people-power, same goes for trailers. If you bring a van or camper, contact us to make sure there is some space.
 
 
 ## Give your order number to the greeter.
