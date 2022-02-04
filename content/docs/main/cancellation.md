@@ -25,8 +25,8 @@ In case something happens which forces us to cancel the camp, you will get a ful
 
 ## Personal Cancellation
 
-If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know so we can update the guest list and send the last minute info to the new ticket holder.
-If you don't know anyone to take your ticket, and we have people on the waiting list, you can get a refund of 85% of the ticket price. If we don't have people on the waiting list, we can't make any refund promises but we will do our best to make you a deal. Also in this case [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").
+If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know so we can update the guest list and send the last minute info to the new ticket holder. 
+If you don't know anyone to take your ticket, and we have people on the waiting list, you can get a refund of 90% of the ticket price. If we don't have people on the waiting list, we can't make any refund promises but we will do our best to make you a deal. Also in this case [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Early termination of the event.
 
