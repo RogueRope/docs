@@ -11,4 +11,4 @@ menu:
 weight: 70
 toc: true
 ---
-We see shibari, yoga, stunts and other acrobatics we do as a form of sport and art, so we follow [the procedures](https://www.sport.vlaanderen/media/17493/protocol-sportkampen-en-sportstages_25-juni.pdf) in this regard.
+This will be over by then, right?
