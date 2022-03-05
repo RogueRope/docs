@@ -3,7 +3,7 @@ title: "Changes"
 description: "What is different from last year?"
 lead: "What's different from last year?"
 date: T15:21:01\+02:00
-lastmod: T15:21:01\+02:00
+lastmod: 2022-03-05T15:21:01.000+02:00
 draft: false
 images: []
 menu: 
@@ -12,6 +12,13 @@ menu:
 weight: 20
 toc: true
 ---
+For our regular visitors, here are the most important changes from last year.
+
+## Timing
+
+* Bigger, better and uncut! The party starts on Wednesday, that's one more day of funzies.
+* Pre-camp: volunteers can join on monday. 
+
 ## Food
 
 * You bring the cooler, we'll provide ice cubes!
