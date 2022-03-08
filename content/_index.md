@@ -1,9 +1,9 @@
 ---
-title : "Rogue Rope Camp 2021"
+title : "Rogue Rope Camp 2022"
 description: "Rogue Rope Camp is the second edition of a yearly camping gathering of kinkers, main focus is rope, but other fun activities are welcome as well."
 lead: "Rogue Rope Camp is the second edition of a yearly camping gathering of kinkers, main focus is rope, but other fun activities are welcome as well."
-date: 2021-03-06T08:47:36+00:00
-lastmod: 2021-03-06T08:47:36+00:00
+date: 2022-02-06T08:47:36+00:00
+lastmod: 2022-02-06T08:47:36+00:00
 draft: false
 images: []
 ---
