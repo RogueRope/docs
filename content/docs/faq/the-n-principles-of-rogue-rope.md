@@ -2,8 +2,8 @@
 title: Principles
 description: Some rules to follow.
 lead: The N Principles of Rogue Rope
-date: T15:21:01\+02:00
-lastmod: T15:21:01\+02:00
+date: 2022-03-07T23:00:00+00:00
+lastmod: 2022-03-07T23:00:00+00:00
 images: []
 weight: "1200"
 toc: true
