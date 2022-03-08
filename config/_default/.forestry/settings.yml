@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content/docs/main
-  label: Main
+  label: Mai
   create: all
   match: "**/*"
 - type: directory
