@@ -23,12 +23,15 @@ Do you have questions or comments? If so, \[Get in touch\]({{< ref "/docs/main/c
 
 The amount of participants is limited.
 
-This time everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **one voucher**, which gives you the opportunity to buy **2 tickets**. Create your order on the link from the email. Once submitted, your order will be reviewed by the orga. You will be asked for your Fetlife name. When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer. This evaluation will be done by the orga, a next-gen neural-network based AI, and 3 chickens. The orga has final call. If you get denied, no problem, this event is not for you but there's so much other things going on.
+This time everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **one voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email.   
+Once submitted, your order will be reviewed by the orga. You will be asked for your Fetlife name. When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer.   
+This evaluation will be done by the orga, a next-gen neural-network based AI, and might be assisted by 3 chickens. The orga has final call. If you get denied, don't take it personally. This event is not for you but there are  so much other things going on.
 
 Once confirmed you get a week or so to pay, we prefer the Belgians and Dutchies to use Bankcontact or Mollie. Other countries standard EU SEPA banktransfer.
 
 ## Timeline
 
+* There is a pre-presale for people that joined last year. These will recieve a special voucher and have first choice of tickets.
 * March: vouchers will be sent to people on the [mailing list](https://roguerope.be/pages/newsletter.html).
 * After that a signup link will be posted on fetlife, but still, people need to be vetted to be able to buy a ticket.
 
@@ -36,15 +39,14 @@ Once confirmed you get a week or so to pay, we prefer the Belgians and Dutchies 
 
 The site is in the Lokeren area, you can get there by car, but there's also a train station a 3km walk away. You can take a bus, then it's only a 1km walk.
 
-Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car **back on the main road**. Take into account: you cannot drive with your car on the camping area! So the last 40 meters or so, you need to drag your stuff.
+Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car **back on the main road**.   
+Take into account: you cannot drive with your car on the camping area! So the last 40 meters or so, you need to drag your stuff.
 
-If you bring a camper we will be able to put that on the field using our combined people-power, same goes for trailers. If you bring a van or camper, contact us to make sure there is some space.
+If you bring a camper we might be able to put that on the field using our combined people-power, same goes for trailers. If you bring a van or camper, **contact us to make sure there is some space.**
 
 ## Give your order number to the greeter.
 
 You made it! Make sure to bring your order confirmation with the qr-code, so we can verify payment, you will get a release statement to sign.
-
-We will do the covid procedure required by law, not clear what that is at this moment.
 
 You will get a shift of work... this could be cleaning up, going to the bakery or making sure the fire is hot, we will ask you to put your name down.
 
