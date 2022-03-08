@@ -4,7 +4,7 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
   to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
   and power, toilets and warm showers.'
 lead: What's Rogue Rope Camp?
-date: 2022-02-13T15:21:01.000+02:00
+date: 2021-03-13T15:21:01.000+02:00
 lastmod: 2022-03-05T15:21:01.000+02:00
 toc: true
 draft: false
@@ -19,7 +19,7 @@ toc: true
 
 ### The very short details
 
-* **When:** 03/08/2022 14.00 -&gt; 07/08/2022 16.00
+* **When:** 03/08/2021 14.00 -&gt; 07/08/2021 16.00
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 128€ 
 * **Tickets:** Can be bought with voucher.
