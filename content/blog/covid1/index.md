@@ -2,8 +2,8 @@
 title: Covid Update 1
 description: "The covid shizzle thing... "
 lead: Some covid details are getting out.
-date: 2022-04-27T09:19:42.000+01:00
-lastmod: 2022-04-27T09:19:42.000+01:00
+date: 2021-04-27T09:19:42.000+01:00
+lastmod: 2021-04-27T09:19:42.000+01:00
 weight: "45"
 contributors:
 - HansF
