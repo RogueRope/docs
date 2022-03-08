@@ -2,19 +2,14 @@
 title: Unconference
 description: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
 lead: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
-date: 2021-03-13T13:21:01+00:00
-lastmod: 2021-03-13T13:21:01+00:00
+date: 2021-03-13T13:21:01.000+00:00
+lastmod: 2022-03-08T15:21:01.000+02:00
 toc: true
-draft: false
 images: []
-menu: 
-  docs:
-    parent: "opportunities"
-weight: 2020
-toc: true
+weight: "2020"
+
 ---
 # Unconference
-
 
 Four easy rules for unconference sessions
 
