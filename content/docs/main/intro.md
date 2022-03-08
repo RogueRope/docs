@@ -5,7 +5,7 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
   and power, toilets and warm showers.'
 lead: What's Rogue Rope Camp?
 date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2022-03-05T15:21:01.000+02:00
+lastmod: 2022-03-08T15:21:01.000+02:00
 toc: true
 draft: false
 images: []
