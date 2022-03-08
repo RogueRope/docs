@@ -23,11 +23,9 @@ Do you have questions or comments? If so, \[Get in touch\]({{< ref "/docs/main/c
 
 The amount of participants is limited.
 
-This time everyone who's on the [mailinglist](/docs/main/contact) will get **one voucher**, wich gives you the opportunity to buy **2 tickets**. Create your order on the link from the email. Once submitted, your order will be reviewed by the orga. You will be asked for you r fetlife name.
-When we recieve your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer. This evaluation will be done by the orga, a next-gen neural-network based AI, and 3 chickens. The orga has final call.
-If you get denied, no problem, this event is not for you but there's so much other things going on.
+This time everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **one voucher**, which gives you the opportunity to buy **2 tickets**. Create your order on the link from the email. Once submitted, your order will be reviewed by the orga. You will be asked for your Fetlife name. When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer. This evaluation will be done by the orga, a next-gen neural-network based AI, and 3 chickens. The orga has final call. If you get denied, no problem, this event is not for you but there's so much other things going on.
 
-Once confirmed you get a week or so to pay, Belgians and Dutchies we prefer you use Bancontact or Mollie. Other countries standard SEPA banktransfer.
+Once confirmed you get a week or so to pay, we prefer the Belgians and Dutchies to use Bankcontact or Mollie. Other countries standard EU SEPA banktransfer.
 
 ## Timeline
 
