@@ -9,9 +9,6 @@ lastmod: 2021-03-13T15:21:01.000+02:00
 images: []
 weight: "30"
 toc: true
-menu: 
-  docs:
-    parent: "overview"
 
 ---
 Very simple, there's no-one employed, every participant pays for their ticket. We're in this boat together and we can make it conquer the seas or make it crash into a big ice cube. It's really up to us.
@@ -55,8 +52,7 @@ There are countless other ways to get involved, including:
 * Makemusic, put on a show, or do a performance
 * Feel free to create your own way to participate!
 
-
-![Be a great person and rise to the challenge.](./images/giphy.webp)
+![](/images/giphy.webp)
 
 ### How To register?
 
