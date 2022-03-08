@@ -11,9 +11,9 @@ weight: "30"
 toc: true
 
 ---
-Very simple, there's no-one employed, every participant pays for their ticket. We're in this boat together and we can make it conquer the seas or make it crash into a big ice cube. It's really up to us.
+Very simple, there's no-one employed, every participant pays for their ticket. We're in this boat together and we can make it conquer the seas or make it crash into a big ice cube. It's really up to us and by us, I _really_ mean **you**.
 
-So we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work.
+So we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work, the cleanup shifts are usually no longer than 25 minutes.
 
 ### There are different ways to help
 
@@ -36,7 +36,7 @@ But also, **cleaning**, improvising.
 Welcome committee and greeters, crowd control, tent oversight.  
 Nudging people to do the right thing is your thing.  
 You know **a smile accomplishes more than a grumble**.  
-Candidates must agree to put on a fluorescent jacket.
+Candidates _must_ agree to put on a fluorescent jacket.
 
 ### What if there aren't enough volunteers?
 
@@ -49,15 +49,15 @@ There are countless other ways to get involved, including:
 * Arriving early for build or staying after for clean up
 * Create and bring art
 * Running a workshop
-* Makemusic, put on a show, or do a performance
+* Make music, put on a show, or do a performance
 * Feel free to create your own way to participate!
 
 ![](/images/giphy.webp)
 
 ### How To register?
 
-Initially we set up a fancy volunteering website platform, but on second thought, this is overkill. Another platform to sign-up on, complex screens with shifts etc... Now the plan is to put a big paper schedule on the wall where you can write your name on to pick a shift you like.
+Initially we set up a fancy volunteering website platform, but on second thought, this is overkill. Another platform to sign-up on, complex screens with shifts etc... Last year we just used a google sheet, and made a print for the people on site to join as well. Write your name and pick a shift you like.
 
-You will be asked to do this when you check in.
+If you haven't found the time before, you will be asked to do this when you check in.
 
 ![](/images/aragorn-lets-do-this.gif)
