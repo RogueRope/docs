@@ -4,7 +4,7 @@ description: Very simple, there's no-one employed, every participant pays for th
   ticket. We're in this boat together and we can make it conquer the seas or make
   it crash into a big ice cube. It's really up to us.
 lead: We need you to volunteer!
-date: 2021-03-13T15:21:01.000+02:00
+date: 2022-03-13T15:21:01.000+02:00
 lastmod: 2022-03-08T15:21:01.000+02:00
 images: []
 weight: "30"
