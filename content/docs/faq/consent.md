@@ -14,6 +14,8 @@ toc: true
 ---
 **I'll put the short summary here:** If it takes  effort to convince someone to do something. If you feel like a salesperson of cellphone subscriptions:  Stop, pause, turn around and have a drink. Don't settle for a "yes", go for the "HELL YES!", the "FUCK YES!" or at least the "OMG YES!". Trust me, you'll thank yourself later.
 
+[Here's a video.](https://www.youtube.com/watch?v=AqBQH1e7XwQ "Enthusiastic Consent!")
+
 Consent is a **whole body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.
 
 Consent is also **mutual** (both people have to agree) and must be **continuous**. You can stop at any time, you can change your mind, and just because you said yes to one thing doesn’t mean you have consented to anything else.
