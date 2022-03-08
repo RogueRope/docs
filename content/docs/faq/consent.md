@@ -16,6 +16,8 @@ toc: true
 
 [Here's a video.](https://www.youtube.com/watch?v=AqBQH1e7XwQ "Enthusiastic Consent!")
 
+Also: be thankful for a 'no' as well, this means the person feels fine with expressing their wants and needs. Thank them for their honesty and openness. 
+
 Consent is a **whole body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.
 
 Consent is also **mutual** (both people have to agree) and must be **continuous**. You can stop at any time, you can change your mind, and just because you said yes to one thing doesn’t mean you have consented to anything else.
