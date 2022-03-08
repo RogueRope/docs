@@ -1,15 +1,13 @@
 ---
-title: "How to get in?"
-description: "How to get a ticket?"
+title: How to get in?
+description: How to get a ticket?
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
-draft: false
 images: []
-menu: 
-  docs:
-    parent: "overview"
-weight: 90
+weight: "90"
 toc: true
+lead: ''
+
 ---
 # 
 
@@ -17,15 +15,15 @@ toc: true
 
 Doing really well there! Almost done.
 
-\(you didn't just skipped all the info to get on this page did you?\)
+(you didn't just skipped all the info to get on this page did you?)
 
-
-Do you have questions or comments? If so, [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
+Do you have questions or comments? If so, \[Get in touch\]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Buy a ticket.
+
 The amount of participants is limited.
 
-This time everyone who's on the mailinglist will get **one voucher**, wich gives you the opportunity to buy **2 tickets**. Create your order on the link from the email. Once submitted, your order will be reviewed by the orga. You will be asked for you r fetlife name. 
+This time everyone who's on the [mailinglist](/docs/main/contact) will get **one voucher**, wich gives you the opportunity to buy **2 tickets**. Create your order on the link from the email. Once submitted, your order will be reviewed by the orga. You will be asked for you r fetlife name.
 When we recieve your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer. This evaluation will be done by the orga, a next-gen neural-network based AI, and 3 chickens. The orga has final call.
 If you get denied, no problem, this event is not for you but there's so much other things going on.
 
@@ -43,7 +41,6 @@ The site is in the Lokeren area, you can get there by car, but there's also a tr
 Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car **back on the main road**. Take into account: you cannot drive with your car on the camping area! So the last 40 meters or so, you need to drag your stuff.
 
 If you bring a camper we will be able to put that on the field using our combined people-power, same goes for trailers. If you bring a van or camper, contact us to make sure there is some space.
-
 
 ## Give your order number to the greeter.
 
