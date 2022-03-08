@@ -1,20 +1,22 @@
 ---
-title: "Consent"
-description: "Consent is a **whole body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well."
-lead: "Consent is a mutual verbal, physical, and emotional agreement that happens without manipulation, threats, or head games."
+title: Consent
+description: Consent is a **whole body experience**. It is not just a verbal “yes”
+  or “no” – it involves paying attention to your partner as a person and checking
+  in with physical and emotional cues as well.
+lead: Consent is a mutual verbal, physical, and emotional agreement that happens without
+  manipulation, threats, or head games.
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
-draft: false
 images: []
-menu: 
-  docs:
-    parent: "faq"
-weight: 1010
+weight: "1010"
 toc: true
+
 ---
+**I'll put the short summary here:** If it takes  effort to convince someone to do something. If you feel like a salesperson of cellphone subscriptions:  Stop, pause, turn around and have a drink. Don't settle for a "yes", go for the "HELL YES!", the "FUCK YES!" or at least the "OMG YES!". Trust me, you'll thank yourself later.
+
 Consent is a **whole body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.
 
-Consent is also **mutual** \(both people have to agree\) and must be **continuous**. You can stop at any time, you can change your mind, and just because you said yes to one thing doesn’t mean you have consented to anything else.
+Consent is also **mutual** (both people have to agree) and must be **continuous**. You can stop at any time, you can change your mind, and just because you said yes to one thing doesn’t mean you have consented to anything else.
 
 ## Consent is enthusiastic
 
@@ -30,4 +32,4 @@ If you want to learn more on the subject, check this elaborate write-up by [La Q
 
 ![](/images//ohyes.webp)
 
-**If you want to help shaping the consent/dungeon crew, [contact us]({{< ref "/docs/main/contact" >}} "Contact us").**
+**If you want to help shaping the consent/dungeon crew, \[contact us\]({{< ref "/docs/main/contact" >}} "Contact us").**
