@@ -26,7 +26,7 @@ toc: true
 
 ### Intro
 
-This is the third iteration of the camp, so far it has only gotten bigger and better. The main course from our buffet is rope, with a side of anarchy/self-organisation and a dash of Mac Guyver.
+This is the third iteration of the camp, so far it has only gotten bigger and better. The main course from our buffet is rope, with a side of self-organisation and a dash of Mac Guyver.
 
 The setup is volunteer driven, so **everyone needs to participate.**
 
