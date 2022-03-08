@@ -12,7 +12,7 @@ toc: true
 menu: 
   docs:
     parent: "overview"
-weight: 130
+weight: 131
 ---
 Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the campsite. This is fun, but for our camp sadly **not an option**.
 
