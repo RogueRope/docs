@@ -51,7 +51,7 @@ If you bring a camper we might be able to put that on the field using our combin
 
 ## Give your order number to the greeter.
 
-You made it! Make sure to bring your order confirmation with the qr-code, so we can verify payment, you will get a release statement to sign.
+You made it! Make sure to bring your order confirmation with the qr-code, so we can verify payment, you will get a [release statement](https://qa.roguerope.be/docs/main/release-statement/) to sign.
 
 You will get a shift of work... this could be cleaning up, going to the bakery or making sure the fire is hot, we will ask you to put your name down.
 
