@@ -8,7 +8,7 @@ toc: true
 images: []
 menu: 
   docs:
-    parent: "Opportuinities"
+    parent: "Opportunities"
 weight: "2020"
 
 ---
