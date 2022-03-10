@@ -5,6 +5,9 @@ lead: All the world's a stage, And all the men and women merely players.
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 images: []
+menu: 
+  docs:
+    parent: "Opportuinities"
 weight: "2010"
 toc: true
 
