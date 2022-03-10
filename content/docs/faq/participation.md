@@ -5,6 +5,9 @@ lead: We need you to help out!
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 images: []
+menu: 
+  docs:
+    parent: "faq"
 weight: "1070"
 toc: true
 

@@ -5,6 +5,9 @@ lead: What's MOOP?
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 images: []
+menu: 
+  docs:
+    parent: "faq"
 weight: "1040"
 toc: true
 

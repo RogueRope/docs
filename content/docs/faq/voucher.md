@@ -5,6 +5,9 @@ lead: How will this work?
 date: T15:21:01\+02:00
 lastmod: 2022-03-08T15:21:01.000+02:00
 images: []
+menu: 
+  docs:
+    parent: "faq"
 weight: "1005"
 toc: false
 

@@ -8,6 +8,9 @@ lead: Consent is a mutual verbal, physical, and emotional agreement that happens
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 images: []
+menu: 
+  docs:
+    parent: "faq"
 weight: "1010"
 toc: true
 
