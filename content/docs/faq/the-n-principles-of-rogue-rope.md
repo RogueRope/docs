@@ -23,7 +23,7 @@ You’re mental state is also your responsibility you are what/who you are, and 
 
 Shizzle will go wrong. This is a given, but let's focus on cleaning up the shizzle rather than blaming others.
 
-For example: things will get dirty, and some people will be bothered by this more than others. Rather than playing the blame game if it bothers you so much, wait till the cleaning shift is over. If you feel the need to complain, or to let your inner Karen out, go to orga. See what happens. 
+For example: things will get dirty, and some people will be bothered by this more than others. Rather than playing the blame game if it bothers you so much, wait till the cleaning shift is over. If you feel the need to complain, or to let your inner Karen/Karl out, go to orga. See what happens.
 
 Empathy is encouraged. In this example, empathy from the people that don't mind mess towards the people that don't feel happy with it, but also from the clean freaks towards the people that don't mind it so much.
 
