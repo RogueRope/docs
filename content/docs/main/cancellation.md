@@ -13,9 +13,9 @@ weight: 80
 toc: true
 ---
 
-## Corona Cancellation
+## Cancellation
 
-Let's start by addressing the elephant in the room: if the event is not legal under Belgian or local laws, it shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
+If the event is not legal under Belgian or local laws (covid waves/Putin/ ...), it shall not take place. Furthermore, in this case, everyone will receive a **full refunds** for all costs \(tickets, drink vouchers\) there are no hidden fees deducted. If you paid X euro's, we'll send you your X euro's back via bank transfer.
 
 If you are living in a foreign country, and you are not allowed by your local laws or Belgian laws to spend time with us, you can also get a full refund.
 

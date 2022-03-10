@@ -39,4 +39,4 @@ If you want to learn more on the subject, check this elaborate write-up by [La Q
 
 ![](/images//ohyes.webp)
 
-**If you want to help shaping the consent/dungeon crew, \[contact us\]({{< ref "/docs/main/contact" >}} "Contact us").**
+**If you want to help shaping the consent/dungeon crew, [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").**

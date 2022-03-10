@@ -32,7 +32,7 @@ lead: ''
 * Shower soap / Shampoo
 * Toothbrush / paste
 * A towel.
-* Any medications you may need, both prescription and non-prescription. Note: If your medications need to be kept cool, make sure to make provisions for this. Please \[contact the orga\]({{< ref "/docs/main/contact" >}} "Contact us") for any questions or concerns.
+* Any medications you may need, both prescription and non-prescription. Note: If your medications need to be kept cool, make sure to make provisions for this. Please [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us") for any questions or concerns.
 
 ### Food
 
@@ -46,4 +46,5 @@ lead: ''
 * Bad Vibes.
 * Very power hungry devices like heaters or coolers
 
-![](/images/mug.jpeg)
+
+![Tent](/images/tent.jpg)

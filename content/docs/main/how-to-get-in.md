@@ -18,7 +18,7 @@ Doing really well there! Almost done.
 
 (you didn't just skipped all the info to get on this page did you?)
 
-Do you have questions or comments? If so, \[Get in touch\]({{< ref "/docs/main/contact" >}} "Contact us").
+Do you have questions or comments? If so, [get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Buy a ticket.
 

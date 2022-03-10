@@ -38,4 +38,4 @@ Please try to limit smoking on the camp-site between the tents, fire safety is i
 ## Is there a possibility to sleep indoors?
 
 There is some room inside but we'll use it for activities.
-![](/images/tegan-mierle-unsplash.jpg)
+![](/images/camper.jpg)
