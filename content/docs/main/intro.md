@@ -29,7 +29,7 @@ This is the third iteration of the camp, so far it has only gotten bigger and be
 
 The setup is volunteer driven, so **everyone needs to participate.**
 
-This means: helping with food-preparation, building, cleaning, making content, taking care of each other.
+This means: helping with food-preparation, building, cleaning, making content and obviously taking care of each other.
 
 ### What does Rogue Rope provide?
 
