@@ -19,10 +19,9 @@ toc: true
 
 ### The very short details
 
-* **When:** 03/08/2021 14.00 -&gt; 07/08/2021 16.00
+* **When:** 03/08/2022 14.00 -&gt; 07/08/2022 16.00
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 128€ 
-* **Tickets:** Can be bought with voucher.
 
 ### Intro
 
@@ -30,7 +29,7 @@ This is the third iteration of the camp, so far it has only gotten bigger and be
 
 The setup is volunteer driven, so **everyone needs to participate.**
 
-This means: helping with food-preparation, cleaning, making content, taking care of each other.
+This means: helping with food-preparation, building, cleaning, making content, taking care of each other.
 
 ### What does Rogue Rope provide?
 
@@ -40,8 +39,8 @@ We don't provide: shows, workshops, entertainment, bamboo. This is up to you, th
 
 ### What does the participant provide?
 
-This is not a festival where there's a divide between the audience and the artists on stage. There are ni spectatators, only participants.
+This is not a festival where there's a divide between the audience and the artists on stage. There are no spectatators, only participants.
 
-This is a playground with a bunch of toys, an empty dance floor waiting to be filled, a forest waiting to be magical.
+This is a playground with a bunch of toys, an empty dance floor waiting to be filled, a forest waiting to become enchanted.
 
 We create the stage, but **you the participant** perform the show.

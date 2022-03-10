@@ -12,8 +12,6 @@ toc: true
 lead: ''
 
 ---
-# 
-
 ## Read This document.
 
 Doing really well there! Almost done.
@@ -26,17 +24,21 @@ Do you have questions or comments? If so, \[Get in touch\]({{< ref "/docs/main/c
 
 The amount of participants is limited.
 
-This time everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **one voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email.   
-Once submitted, your order will be reviewed by the orga. You will be asked for your Fetlife name. When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer.   
+We will provide pre-presale vouchers for participants that joined us last year. You can expect this voucher around April first if you joined the event last year. You can book a ticket before the main pre-sale starts.
+
+This time everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **one voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email.
+Once submitted, your order will be reviewed by the orga. You will be asked for your Fetlife name. When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer.
 This evaluation will be done by the orga, a next-gen neural-network based AI, and might be assisted by 3 chickens. The orga has final call. If you get denied, don't take it personally. This event is not for you but there are  so much other things going on.
 
 Once confirmed you get a week or so to pay, we prefer the Belgians and Dutchies to use Bankcontact or Mollie. Other countries standard EU SEPA banktransfer.
 
 ## Timeline
 
-* There is a pre-presale for people that joined last year. These will recieve a special voucher and have first choice of tickets.
-* March: vouchers will be sent to people on the [mailing list](https://roguerope.be/pages/newsletter.html).
-* After that a signup link will be posted on fetlife, but still, people need to be vetted to be able to buy a ticket.
+* April 2: If you have been to the event last year, you will recieve a mail with a voucher code with which you can buy a ticket in the closed pre-sale.
+* April 2 @ 12.30h: start of pre-pre-sale (no stress you have untill the the pre-sale to get a ticket).
+* April 11: If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a presale voucher, one voucher for every subscriber.
+* April 19 @ 12.30h: Start of pre-sale, you can use the vouchercode from the mailinglist to buy **one** ticket.
+* May 1 @ 12.30: a signup link will be posted on fetlife, but still, people need to be vetted to be able to buy a ticket.
 
 ## Get to the location
 

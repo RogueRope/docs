@@ -22,5 +22,5 @@ For our regular visitors, here are the most important changes from last year.
 ## Campsite
 
 * We will probably host 14 people more than last year. So keep the distance between tents small.
-
-![](/images/doge.png)
+* This will enable 64 people to join the party.
+* Two words: Bouncy Castle.
