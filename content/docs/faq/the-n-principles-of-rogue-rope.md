@@ -59,7 +59,7 @@ We want to create a setting where all parties participate in a physical encounte
 
 We value constructive anarchy. We believe in doing rather than talking. Don’t ask, just do. If you fuck up, be sure to be able to reverse the stuff you did to the state it was before.
 
-One personal exception: don't start making up rules for others to follow, don't put up signs or make comments that appear to be from orga in the channels. Also I think tone and content of communication is very important and it annoys me tremendously if other people take this from me. My leadership style is hands-off but it's there nonetheless, don't start filling a void that you percieve is there. 
+One exception: don't start making up rules for others to follow, don't put up signs or make comments that appear to be from orga in the channels. I think tone and content of communication is very important and it annoys me tremendously if other people take this from me. My leadership style is hands-off but it's there nonetheless.
 
 ![](https://i.imgur.com/WOlaU4c.png)  
 Creative Commons License  

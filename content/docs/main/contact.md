@@ -14,9 +14,15 @@ toc: true
 ---
 ## Specific questions
 
-  Contact us on [whatsapp](https://api.whatsapp.com/send?phone=32476870515): +32476870515. This also works for Signal and Telegram.
+  Contact us on [whatsapp](https://wa.me/32476870515): +32476870515. This also works for Signal and Telegram.
+
+![](/images/whatsappqr.png)
+
+![](/images/vcardqr.png)
+
 
   If you prefer email, hit us up on info@roguerope.be
+
 
 ## Whatsapp Group Chat
 

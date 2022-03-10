@@ -14,6 +14,8 @@ toc: true
 ---
 ## Rope play
 
+Altough you can do basically whatever you want, Rope play is the main course of our menu. The setup will reference this.
+
 Traditionally we welcome rope play of _any_ level. There's this misconception that you have to be good with ropes to partake in Rogue Rope events. Don't know how this started, but want to stress this is _not_ the case. Everyone is welcome, everyone that wants to play with ropes should feel free to come and learn. Also if your rope handling is basic, and you're happy with it and not interested to learn more, that's fine.
 
 If you want to try new stuff and have someone spot you, that's fine as well.
