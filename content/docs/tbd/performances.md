@@ -7,7 +7,7 @@ lastmod: T15:21:01\+02:00
 images: []
 menu: 
   docs:
-    parent: "Opportunities"
+    parent: "opportunities"
 weight: "2010"
 toc: true
 
