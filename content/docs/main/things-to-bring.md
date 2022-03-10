@@ -4,6 +4,9 @@ description: Things to Bring
 date: 2021-03-13T15:21:01.000+02:00
 lastmod: 2021-03-13T15:21:01.000+02:00
 images: []
+menu: 
+  docs:
+    parent: "overview"
 weight: "60"
 toc: true
 lead: ''
