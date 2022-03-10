@@ -27,6 +27,8 @@ For example: things will get dirty, and some people will be bothered by this mor
 
 Empathy is encouraged. In this example, empathy from the people that don't mind mess towards the people that don't feel happy with it, but also from the clean freaks towards the people that don't mind it so much.
 
+The whole goal is to create a space where people will lose themselves and probably their stuff as well. We won't blame them when they do.
+
 ## Remix Culture
 
 Everything is should free and open. if you don’t want something copied, adapted an redistributed. Shut your pie-hole and keep it to yourself. We don’t believe in the combination of ‘intellectual’ and ‘property’. Knowledge wants to be free.
@@ -35,9 +37,6 @@ Everything is should free and open. if you don’t want something copied, adapte
 
 Our community values creative cooperation and collaboration above competition and greed.
 
-## Yes, you can!
-
-We value constructive anarchy. We believe in doing rather than talking. Don’t ask, just do. If you fuck up, be sure to be able to reverse the stuff you did to the state it was before.
 
 ## Leave No Shit
 
@@ -55,6 +54,12 @@ Rules are meant to evolve over time. We embrace remixes, we love your suggestion
 ## Consent: ask before you fondle
 
 We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes.
+
+## Yes, you can!
+
+We value constructive anarchy. We believe in doing rather than talking. Don’t ask, just do. If you fuck up, be sure to be able to reverse the stuff you did to the state it was before.
+
+One personal exception: don't start making up rules for others to follow, don't put up signs or make comments that appear to be from orga in the channels. Also I think tone and content of communication is very important and it annoys me tremendously if other people take this from me. My leadership style is hands-off but it's there nonetheless, don't start filling a void that you percieve is there. 
 
 ![](https://i.imgur.com/WOlaU4c.png)  
 Creative Commons License  
