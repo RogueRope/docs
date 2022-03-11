@@ -26,7 +26,7 @@ toc: true
 
 ## Whatsapp Group Chat
 
+Links/invites for both groups will be included in the confirmation mail for when you recieve a ticket. The groups that existed previous years will be terminated.
+
 * **Announce/Official Comms:** Join this group, this is a 'read only' group, only orga can post, we will not use this privilege a lot. 
 * **Bla Bla Bla/Free for All:** This is a group everyone can join and talk, to be used for chit-chat, pitch crazy ideas or maybe to find people to play with.
-
-Links/invites for both groups will be included in the confirmation mail for when you recieve a ticket. The groups that existed previous years will be terminated.
