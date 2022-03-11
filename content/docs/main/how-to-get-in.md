@@ -27,8 +27,7 @@ The amount of participants is limited.
 We will provide pre-presale vouchers for participants that joined us last year. You can expect this voucher around April first if you joined the event last year. You can book a ticket before the main pre-sale starts.
 
 This time everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **one voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email.
-Once submitted, your order will be reviewed by the orga. You will be asked for your Fetlife name. When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer.
-This evaluation will be done by the orga, a next-gen neural-network based AI, and might be assisted by 3 chickens. The orga has final call. If you get denied, don't take it personally. This event is not for you but there are  so much other things going on.
+Once submitted, your order will be reviewed by the orga. You will be asked for your Fetlife name. When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer. If you get denied, don't take it personally. This event is not for you but there are so many others.
 
 Once confirmed you get a week or so to pay, we prefer the Belgians and Dutchies to use Bankcontact or Mollie. Other countries standard EU SEPA banktransfer.
 
@@ -42,9 +41,9 @@ Once confirmed you get a week or so to pay, we prefer the Belgians and Dutchies 
 
 ## Get to the location
 
-The site is in the Lokeren area, you can get there by car, but there's also a train station a 3km walk away. You can take a bus, then it's only a 1km walk.
+The site is in the province of antwerp, you can get there by car, but there's also a train station a 3km walk away. You can take a bus, then it's only a 1km walk.
 
-Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car **back on the main road**.   
+Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car **back on the main road**.
 Take into account: you cannot drive with your car on the camping area! So the last 40 meters or so, you need to drag your stuff.
 
 If you bring a camper we might be able to put that on the field using our combined people-power, same goes for trailers. If you bring a van or camper, **contact us to make sure there is some space.**
