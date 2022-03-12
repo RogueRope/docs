@@ -12,6 +12,7 @@ weight: "20"
 toc: true
 
 ---
+
 For our regular visitors, here are the most important changes from last year.
 
 ## Timing
@@ -24,4 +25,4 @@ For our regular visitors, here are the most important changes from last year.
 * We will probably host 14 people more than last year. So keep the distance between tents small.
 * This will enable 64 people to join the party.
 * More rope space + Bambo suspension points.
-* Two words: Bouncy Castle.
+* Two words: Bouncy Castle!
