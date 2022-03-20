@@ -14,28 +14,26 @@ menu:
     parent: "overview"
 weight: 131
 ---
-Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the campsite. This is fun, but for our camp sadly **not an option**.
+Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the camp site? This is fun, but for our camp sadly **not an option**.
 
-We will have to use the camp site sparingly, this means , feel free to bring the essentials, but don't leave space between the tents. We're going to defragment like it's windows 95.
+We will have to use the camp site sparingly. This means: feel free to bring the essentials, but don't leave space between the tents. We're going to defragment like it's Windows 95.
 
-Don't be sad, because we're definitely going to build a kinky village but this will be built in the forest, and the communal spaces of the camp. 
+Don't be sad, because we're definitely going to build a kinky village, but this will be built in the forest and in the communal spaces of the camp. 
 
-We'll distribute electricity on the campsite, if you want to get hooked up bring the longest extension cord you have and a power strip. This way you can charge your mobile devices while you sleep.
+We'll distribute electricity on the campsite. If you want to get hooked up, bring the longest extension cord you have and a power strip. This way, you can charge your mobile devices whenever necessary. Please not: do not connect power-hungry devices to the camping grid, like fridges, hair dryers, air-conditioning or dishwashers.
 
-Don't connect power hungry devices to to camping grid like fridges, hair dryers, air-conditioning or dishwashers.
+Let's hope for good weather, but if it does rain, **do not dig a trench around your tent**. This is explicitly mentioned in the lease. Regardless, we want to leave the field in the same condition as we found it.
 
-Let's hope for good weather, but if it rains, **do not dig a trench around your tent**, this is explicitly mentioned in the lease. But regardless, we want to leave the field in the same condition as we've found it.
+Please try to limit smoking on the camp site between the tents. Fire safety is important. Feel free to smoke near the firepit. Keep it clean! Trow your butts in the designated ash trays. If your smoke smells a bit funny, that's fine, no need to hide it. For good karma, pass it on the left hand side.
 
-Please try to limit smoking on the camp-site between the tents, fire safety is important, feel free to smoke near the firepit. Keep it clean! Trow your butts in the designated ash trays. If your smoke smells a bit funny, that's fine, no need to hide it, for good karma pass it on the left hand side.
+**Camping and Other Stuff to Bring:**
 
-**Other stuff to bring:**
-
-* Your Christmas lights!  Or other cool led strips. Let's make it funky at night.
-* Toilet/shower facilities are indoor, basics, 3 toilets and one urinal, so no smelly Dixie-toilets.
-* No need to bring dodgy gas stoves or other cooking gear, we will provide you with warm food.
+* Your Christmas lights! Or other cool led strips. Let's make it funky at night.
+* Toilet/shower facilities are indoor. The facilities are quite basic. There are 3 toilets and 1 urinal, so no smelly Dixie-toilets for us, thank you very much.
 * A box cooler, or one of those supermarket insulation bags. A smaller bag or watertight container to preserve the ice, so your cooler won't become a pool.
+* Please note: there is no need to bring dodgy gas stoves or other cooking gear, we will provide you with warm food.
 
-## Is there a possibility to sleep indoors?
+## Sleeping
 
-There is some room inside but we'll use it for activities.
+You might be wondering if there is a possibility to sleep indoors? There is some room inside but we'll use it for activities. The safest option is to make sleeping arrangements outside (tent, van, camper, etc.).
 ![](/images/camper.jpg)
