@@ -26,14 +26,14 @@ Let's hope for good weather, but if it does rain, **do not dig a trench around y
 
 Please try to limit smoking on the camp site between the tents. Fire safety is important. Feel free to smoke near the firepit. Keep it clean! Throw your butts in the designated ash trays. If your smoke smells a bit funny, that's fine, no need to hide it. For good karma, pass it on the left hand side.
 
-**Camping and Other Stuff to Bring:**
+**Camping and Other Stuff to Bring**
 
 * Your Christmas lights! Or other cool led strips. Let's make it funky at night.
 * Toilet/shower facilities are indoor. The facilities are quite basic. There are 3 toilets and 1 urinal, so no smelly Dixie-toilets for us, thank you very much.
 * A box cooler, or one of those supermarket insulation bags. A smaller bag or watertight container to preserve the ice, so your cooler won't become a pool.
 * Please note: there is no need to bring dodgy gas stoves or other cooking gear, we will provide you with warm food.
 
-## Sleeping
+**Sleeping**
 
 You might be wondering if there is a possibility to sleep indoors? There is some room inside but we'll use it for activities. The safest option is to make sleeping arrangements outside (tent, van, camper, etc.).
 ![](/images/camper.jpg)
