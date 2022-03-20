@@ -20,11 +20,11 @@ We will have to use the camp site sparingly. This means: feel free to bring the 
 
 Don't be sad, because we're definitely going to build a kinky village, but this will be built in the forest and in the communal spaces of the camp. 
 
-We'll distribute electricity on the campsite. If you want to get hooked up, bring the longest extension cord you have and a power strip. This way, you can charge your mobile devices whenever necessary. Please not: do not connect power-hungry devices to the camping grid, like fridges, hair dryers, air-conditioning or dishwashers.
+We'll distribute electricity on the campsite. If you want to get hooked up, bring the longest extension cord you have and a power strip. This way, you can charge your mobile devices whenever necessary. Please note: do not connect power-hungry devices to the camping grid, like fridges, hair dryers, air-conditioning or dishwashers.
 
 Let's hope for good weather, but if it does rain, **do not dig a trench around your tent**. This is explicitly mentioned in the lease. Regardless, we want to leave the field in the same condition as we found it.
 
-Please try to limit smoking on the camp site between the tents. Fire safety is important. Feel free to smoke near the firepit. Keep it clean! Trow your butts in the designated ash trays. If your smoke smells a bit funny, that's fine, no need to hide it. For good karma, pass it on the left hand side.
+Please try to limit smoking on the camp site between the tents. Fire safety is important. Feel free to smoke near the firepit. Keep it clean! Throw your butts in the designated ash trays. If your smoke smells a bit funny, that's fine, no need to hide it. For good karma, pass it on the left hand side.
 
 **Camping and Other Stuff to Bring:**
 
