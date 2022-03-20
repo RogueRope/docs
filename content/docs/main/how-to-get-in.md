@@ -20,7 +20,7 @@ Doing really well there! Almost done.
 
 (You didn't just skip all the info to get on this page, did you?)
 
-Have any questions or comments? If so, [get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
+Have any questions or comments? [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Step 2: Buy a Ticket
 
