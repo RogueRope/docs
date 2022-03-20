@@ -28,7 +28,7 @@ The amount of participants is limited.
 
 We will provide pre-presale vouchers for participants who joined us last year. This means you can book a ticket before the main pre-sale starts, and basically are guaranteed a spot. If you joined the event in 2021, you can expect this voucher around April 1 2022. 
 
-Everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **1 voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email. 
+Everyone who's on the [mailing list](https://roguerope.be/pages/newsletter.html) will get **1 voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email. 
 You will be asked for your FetLife name. When we receive your order, we will do a basic vetting. If we feel -for whatever reason- you are not a good fit for the event, we will decline your request for a ticket.
 
 Once confirmed, you have 14 days to complete payment. We prefer the Belgians and Dutchies to use Bancontact or Mollie. Participants from other countries can use a standard EU SEPA bank transfer.
