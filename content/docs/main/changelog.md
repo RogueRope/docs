@@ -13,16 +13,16 @@ toc: true
 
 ---
 
-For our regular visitors, here are the most important changes from last year.
+For our regular visitors, here are the most important changes from last year:
 
 ## Timing
 
-* Bigger, better and uncut! The party starts on Wednesday, that's one more day of funzies.
-* Pre-camp: volunteers can join on monday.
+* Bigger, better and uncut! The party starts on Wednesday, that's one additional day of funzies.
+* Pre-camp: volunteers can join on Monday.
 
 ## Infra
 
-* We will probably host 14 people more than last year. So keep the distance between tents small.
-* This will enable 64 people to join the party.
-* More rope space + Bambo suspension points.
+* We will probably host 14 people more than last year. This will enable 64 people to join the party. 
+* To be able to accommodate everyone, we ask you to keep the distance between tents small.
+* More rope space + bamboo suspension points.
 * Two words: Bouncy Castle!
