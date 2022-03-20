@@ -30,6 +30,7 @@ We will provide pre-presale vouchers for participants who joined us last year. T
 
 Everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **1 voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email. 
 You will be asked for your FetLife name. When we receive your order, we will do a basic vetting. If we feel -for whatever reason- you are not a good fit for the event, we will decline your request for a ticket.
+
 Once confirmed, you have 14 days to complete payment. We prefer the Belgians and Dutchies to use Bancontact or Mollie. Participants from other countries can use a standard EU SEPA bank transfer.
 Please note: if you have an issue with the timing or amount of the payment, please let us know. We can probably work something out.
 
