@@ -17,30 +17,30 @@ toc: true
 ---
 ![](/images/logo2022.png)
 
-### The very short details
+### The Details in Short 
 
-* **When:** 03/08/2022 14.00 -&gt; 07/08/2022 16.00
+* **When:** 03/08/2022 14:00 -&gt; 07/08/2022 16:00
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 128€ 
 
 ### Intro
 
-This is the third iteration of the camp, so far it has only gotten bigger and better. The main course from our buffet is rope, with a side of self-organisation and a dash of Mac Guyver.
+This is the third iteration of the camp. So far, it has only gotten bigger and better. The main course from our buffet is rope, with a side of self-organisation and a dash of MacGuyver.
 
-The setup is volunteer driven, so **everyone needs to participate.**
+The setup is entirely volunteer driven, so **everyone needs to participate.**
 
-This means: helping with food-preparation, building, cleaning, making content and taking care of each other.
+This means: helping with food preparation, building, cleaning, making content and taking care of each other.
 
-### What does Rogue Rope provide?
+### What Does Rogue Rope Provide?
 
-Rogue rope is focused on infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water and power, toilets and warm showers.
+Rogue Rope takes care of the infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink, suspension points, a sound-system, water and power, toilets and warm showers.
 
-We don't provide: shows, workshops, entertainment, bamboo. This is up to you, the participant.
+We do not provide: shows, workshops, entertainment, bamboo. This is up to you, the participant, to bring to the party.
 
-### What does the participant provide?
+### What Do the Participants Provide?
 
-This is not a festival where there's a divide between the audience and the artists on stage. There are no spectatators, only participants.
+This is not a festival where there's a divide between the audience and the artists on stage. There are no spectators, only participants.
 
 This is a playground with a bunch of toys, an empty dance floor waiting to be filled, a forest waiting to become enchanted.
 
-We create the stage, but **you the participant** perform the show.
+We create the stage, but **you, the participant,** perform the show.
