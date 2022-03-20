@@ -24,8 +24,8 @@ People who see tying as a competition have already lost it.
 
 ## Other Play
 
-* Other play is welcome: whips, canes, chains, duck-tape, blood, fire. You name it, you can bring it to Rogue Rope Camp.
+* Other play is welcome: whips, canes, chains, duck-tape, blood, fire. If you can think of it, you can bring it to Rogue Rope Camp.
 * We're not afraid of nudity or sex. The plan is to improvise a play room as well.
-* There's only one caveat: at the camp site, golden showers and scat are hard to do in a 'clean' way , so we'll need to draw the line there.
+* There's only one caveat: at the camp site, golden showers and scat are hard to do in a 'clean' way, so we'll need to draw the line there.
 
 ![](/images/anything.webp)
