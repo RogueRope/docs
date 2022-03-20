@@ -55,6 +55,6 @@ If you bring a camper or trailer, we might be able to put that on the field usin
 
 You made it! Make sure to bring your order confirmation with your qr-code, so we can verify payment. You will get a [release statement](https://qa.roguerope.be/docs/main/release-statement/) to sign.
 
-You will will be asked to sign up for a shift of work... This could be cleaning up, going to the bakery or making sure the fire is hot. As you arrive, we will ask you to put your name down.
+You will be asked to sign up for a shift of work... This could be cleaning up, going to the bakery or making sure the fire is hot. As you arrive, we will ask you to put your name down.
 
 Now it's time to relax, set up your tent and share a drink with us!
