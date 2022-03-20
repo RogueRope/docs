@@ -1,5 +1,5 @@
 ---
-title: How to get in?
+title: How to Get in?
 description: How to get a ticket?
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
@@ -12,46 +12,48 @@ toc: true
 lead: ''
 
 ---
-## Read This document.
+There are 4 simple steps for you to complete to get in:
+
+## Step 1: Read this Document
 
 Doing really well there! Almost done.
 
-(you didn't just skipped all the info to get on this page did you?)
+(You didn't just skip all the info to get on this page, did you?)
 
-Do you have questions or comments? If so, [get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
+Have any questions or comments? If so, [get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
-## Buy a ticket.
+## Step 2: Buy a ticket
 
 The amount of participants is limited.
 
-We will provide pre-presale vouchers for participants that joined us last year. You can expect this voucher around April first if you joined the event 2021. This means you can book a ticket before the main pre-sale starts, and basically are guaranteed a spot.
+We will provide pre-presale vouchers for participants who joined us last year. This means you can book a ticket before the main pre-sale starts, and basically are guaranteed a spot. If you joined the event in 2021, you can expect this voucher around April 1 2022. 
 
-Everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **one voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email. You will be asked for your Fetlife name.
-When we receive your order we will do a basic vetting, if we feel -for whatever reason- you are not a good fit for the event we will decline your offer.
-Once confirmed you have 14 days to complete payment, we prefer the Belgians and Dutchies to use Bankcontact or Mollie. Other countries standard EU SEPA banktransfer.
-Please read: if you have an issue with the timing or amount of the payment, please let us know. We can probably work something out.
+Everyone who's on the [mailinglist](https://roguerope.be/pages/newsletter.html) will get **1 voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email. 
+You will be asked for your FetLife name. When we receive your order, we will do a basic vetting. If we feel -for whatever reason- you are not a good fit for the event, we will decline your request for a ticket.
+Once confirmed, you have 14 days to complete payment. We prefer the Belgians and Dutchies to use Bancontact or Mollie. Participants from other countries can use a standard EU SEPA bank transfer.
+Please note: if you have an issue with the timing or amount of the payment, please let us know. We can probably work something out.
 
 ## Timeline
 
-* **April 2:** If you have been to the event last year, you will recieve a mail with a voucher code with which you can buy a ticket in the closed pre-sale.
-* **April 2 @ 12.30h:** start of pre-pre-sale (no stress you have untill the Pre-sale to get a ticket).
-* April 11: If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a presale voucher, one voucher for every subscriber.
-* April 19 @ 12.30h: Start of pre-sale, you can use the vouchercode from the mailinglist to buy **one** ticket.
-* May 1 @ 12.30: a signup link will be posted on fetlife, but still, people need to be vetted to be able to buy a ticket.
+* **April 2 2022:** If you attended the event in 2021, you will receive an email with a voucher code with which you can buy a ticket in the closed pre-sale.
+* **April 2 2022 @ 12.30h:** Start of pre-pre-sale (no stress, you have untill the Pre-sale to get a ticket).
+* April 11 2022: If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a presale voucher (1 voucher for every subscriber).
+* April 19 2022 @ 12.30h: Start of pre-sale. You can use the voucher code from the mailinglist to buy **1** ticket.
+* May 1 2022 @ 12.30: Start of main sale. A link to sign up will be posted on FetLife. Please note that people requesting a ticket still need to be vetted to be able to buy a ticket.
 
-## Get to the location
+## Step 3: Get to the Location
 
-The site is in the province of antwerp, you can get there by car, but there's also a train station a 3km walk away. You can take a bus, then it's only a 1km walk.
+The site is in the province of East Flanders. You can get there by car or public transport. The nearest train station is a 3-kilometer walk away. The nearest bus stop  is a 1-kilometer walk from the site.
 
-Our camping ground is 200m from the main road, you can drive up, take out your bags, check in, but after that you need to park your car **back on the main road**.
-Take into account: you cannot drive with your car on the camping area! So the last 40 meters or so, you need to drag your stuff.
+Our camping ground is 200 meters from the main road. **There is not parking on the camp site itself.** You can drive up, take out your bags, check in and then park your car **back on the main road**.
+Take into account: you cannot drive your car onto the camping area! That is only accessible on foot. So, the last 40 meters or so, you will need to drag your stuff.
 
-If you bring a camper we might be able to put that on the field using our combined people-power, same goes for trailers. If you bring a van or camper, **contact us to make sure there is some space.**
+If you bring a camper or trailes, we might be able to put that on the field using our combined people-power. If you plan to bring a van, camper, or trailer, **contact us to make sure there is some space.**
 
-## Give your order number to the greeter.
+## Step 4: Give the Greeter your Order Number
 
-You made it! Make sure to bring your order confirmation with the qr-code, so we can verify payment, you will get a [release statement](https://qa.roguerope.be/docs/main/release-statement/) to sign.
+You made it! Make sure to bring your order confirmation with your qr-code, so we can verify payment. You will get a [release statement](https://qa.roguerope.be/docs/main/release-statement/) to sign.
 
-You will get a shift of work... this could be cleaning up, going to the bakery or making sure the fire is hot, we will ask you to put your name down.
+You will will be asked to sign up for a shift of work... This could be cleaning up, going to the bakery or making sure the fire is hot. As you arrive, we will ask you to put your name down.
 
-Now it's time to relax, set up your tent and share a drink with us.
+Now it's time to relax, set up your tent and share a drink with us!
