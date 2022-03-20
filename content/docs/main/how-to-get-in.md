@@ -22,7 +22,7 @@ Doing really well there! Almost done.
 
 Have any questions or comments? If so, [get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
-## Step 2: Buy a ticket
+## Step 2: Buy a Ticket
 
 The amount of participants is limited.
 
@@ -35,9 +35,9 @@ Please note: if you have an issue with the timing or amount of the payment, plea
 
 ## Timeline
 
-* **April 2 2022:** If you attended the event in 2021, you will receive an email with a voucher code with which you can buy a ticket in the closed pre-sale.
-* **April 2 2022 @ 12.30h:** Start of pre-pre-sale (no stress, you have untill the Pre-sale to get a ticket).
-* April 11 2022: If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a presale voucher (1 voucher for every subscriber).
+* **April 2 2022:** If you attended the event in 2021, you will receive an email with a voucher code with which you can buy a ticket in the closed pre-pre-sale.
+* **April 2 2022 @ 12.30h:** Start of pre-pre-sale (no stress, you have until the pre-sale to get a ticket).
+* April 11 2022: If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a pre-sale voucher (1 voucher for every subscriber).
 * April 19 2022 @ 12.30h: Start of pre-sale. You can use the voucher code from the mailinglist to buy **1** ticket.
 * May 1 2022 @ 12.30: Start of main sale. A link to sign up will be posted on FetLife. Please note that people requesting a ticket still need to be vetted to be able to buy a ticket.
 
