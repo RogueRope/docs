@@ -27,7 +27,7 @@ We'll follow the classical un-conference format with post-it notes. Think ahead:
 
 * what are topics/subject you'd like to see covered or would like to know more of?
 * What are topic, subjects, workshops or activities you'd like to share with others?
-* Tip : no need to fall back to the teacher student paradigm peer exchange is also encouraged, our content team will announce it like that so expectations are managed.
+* Tip : no need to fall back to the teacher student paradigm. Peer exchange is also encouraged, our content team will announce it like that so expectations are managed.
 
 ![](/images/program1.jpeg)
 ![](/images/program2.jpeg)
