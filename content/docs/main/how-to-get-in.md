@@ -38,9 +38,9 @@ Please note: if you have an issue with the timing or amount of the payment, plea
 
 * **April 2 2022:** If you attended the event in 2021, you will receive an email with a voucher code with which you can buy a ticket in the closed pre-pre-sale.
 * **April 2 2022 @ 12.30h:** Start of pre-pre-sale (no stress, you have until the pre-sale to get a ticket).
-* April 11 2022: If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a pre-sale voucher (1 voucher for every subscriber).
-* April 19 2022 @ 12.30h: Start of pre-sale. You can use the voucher code from the mailinglist to buy **1** ticket.
-* May 1 2022 @ 12.30: Start of main sale. A link to sign up will be posted on FetLife. Please note that people requesting a ticket still need to be vetted to be able to buy a ticket.
+* **April 11 2022:** If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a pre-sale voucher (1 voucher for every subscriber).
+* **April 17 2022 @ 12.30h:** Start of pre-sale. You can use the voucher code from the mailinglist to buy **1** ticket.
+* **May 1 2022 @ 12.30:** Start of main sale. A link to sign up will be posted on FetLife. Please note that people requesting a ticket still need to be vetted to be able to buy a ticket.
 
 ## Step 3: Get to the Location
 
@@ -49,7 +49,7 @@ The site is in the province of East-Flanders. You can get there by car or public
 Our camping ground is 200 meters from the main road. **There is no parking on the camp site itself.** You can drive up, take out your bags, check in and then park your car **back on the main road**.
 Take into account: you cannot drive your car onto the camping area! That is only accessible on foot. So, the last 40 meters or so, you will need to drag your stuff.
 
-If you bring a camper or trailer, we might be able to put that on the field using our combined people-power. If you plan to bring a van, camper, or trailer, **contact us to make sure there is some space.**
+If you bring a camper or trailer, we **might** be able to put that on the field using our combined people-power. Important: if you plan to bring a van, camper, or trailer, **contact us to make sure there is some space.**
 
 ## Step 4: Give the Greeter your Order Number
 
