@@ -12,7 +12,8 @@ lead: ''
 
 TL;DR: Rogue Rope is **not** a non-profit organization, but a de facto association (feitelijke vereniging). In short, this means that everything that happens during the event falls under the full responsibility of the event **participants**.
 
-Long form:
+### Long Form:
+
 An unincorporated association has no legal personality. Therefore, it cannot be sued. Members of a de facto association rely on their personal patrimony for the commitments entered into in the name of the de facto association or which have been caused to others in the event of damage. The liability of the members is therefore unlimited, with each of them in principle having to participate in the proportional part of the debt of the association.
 
 Liability may in some cases be collective. Each member will then be held jointly and severally or equally liable for the costs and obligations entered into jointly.
