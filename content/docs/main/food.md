@@ -14,9 +14,9 @@ toc: true
 ---
 # Food
 
-We will provide coffee and water free of charge for all participants. As for food, we provid bread in the morning, snacks in the afternoon and a warm meal every evening. 
+We will provide coffee and water free of charge for all participants. As for food, we provide bread in the morning, snacks in the afternoon and a warm meal every evening. 
 
-We offer **vegetarian** and **meat** options. When you sign up for a ticket, you will be asked to indicate your preference. Please note that to make the menus work, you will need to stick with your choice.
+We offer **vegetarian** and **meat** options. When you sign up for a ticket, you will be asked to indicate your preference. Please note that to make the logistics of the menus work, you will need to stick with your choice.
 
 | _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
