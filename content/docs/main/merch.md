@@ -13,15 +13,15 @@ weight: 130
 toc: true
 ---
 * Fair and sustainable
-* Durable fabrics. 150 g/m²
-* Material: 100% cotton 
+* Durable fabrics: 150 g/m²
+* Materials: 100% cotton 
 
-## Close fitting shirt with room for boobies.
+## Close-Fitting Tailored T-shirt  
 ![](/images/f-shirts.png)
 ![](/images/f-size.png)
 
 
 
-## Basic 'Classic' T-shirt.
+## Basic Straight T-shirt
 ![](/images/m-shirts.png)
 ![](/images/m-size.png)
