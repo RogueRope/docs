@@ -1,5 +1,5 @@
 ---
-title: Not Your Parent
+title: Not Your Caregiver
 description: "... but you can call me daddy!"
 lead: What's MOOP?
 date: T15:21:01\+02:00
@@ -14,8 +14,8 @@ toc: true
 ---
 Everything you bring to the site has the potential to become **MATTER OUT OF PLACE (MOOP)**: costumes, water bottles, booze containers, inflatable chairs, hats, fruit, cigarette butts, even rope fibers can all become MOOP. Every person is responsible for their own rubbish.
 
-So, remember what your parents taught you: don't litter, put away your toys after playing, clean up after yourself.
-We don't clean up after you. **I am not your parent (but you can call me daddy).**
+So, remember what your caregivers taught you: don't litter, put away your toys after playing, clean up after yourself.
+We don't clean up after you. **I am not your caregiver (but you can call me daddy).**
 
 ## What Should I Do with my Rubbish?
 
