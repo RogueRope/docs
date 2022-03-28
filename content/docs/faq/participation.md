@@ -14,7 +14,7 @@ toc: true
 ---
 ## I’d Like to Help out, but Honestly, I Have No Skills. What Can I Do?
 
-At Rogue Rope Camp, we’re all volunteers, and we always need more help! All of the Rogue Rope Camp participants volunteer in some capacity during, before, or after the event. Skills are less important than a can-do attitude and the willingness to work hard. Email [info@ropecamp.be](mailto:info@ropecamp.be) to offer more general help. Many hands make light work.
+At Rogue Rope Camp, [we’re all volunteers](docs/main/volunteer/), and we always need more help! All of the Rogue Rope Camp participants volunteer in some capacity during, before, or after the event. Skills are less important than a can-do attitude and the willingness to work hard. Email [info@ropecamp.be](mailto:info@ropecamp.be) to offer more general help. Many hands make light work.
 
 See the Volunteer page of this site.
 
