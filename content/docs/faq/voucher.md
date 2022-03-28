@@ -28,5 +28,5 @@ If you have a voucher, and all tickets are sold out, the ticketing engine puts y
 
 ## All Sales Are Final, But...
 
-You might be able to cancel your ticket if there are people on the waiting list. You do this by [contacting us]({{< ref "/docs/main/contact" >}} "Contact us"). If we need to cancel and redistribute your ticket we reserve a 15% cancellation fee.
+You might be able to cancel your ticket if there are people on the waiting list. You do this by [contacting us]({{< ref "/docs/main/contact" >}} "Contact us"). If we need to cancel and redistribute your ticket we reserve a 10% cancellation fee.
 When this refund is done, another ticket will be distributed to the people on the waiting list (first come, first served).
