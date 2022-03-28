@@ -54,7 +54,8 @@ Money is not the root of all evil but keeps people alive and planes in the air. 
 
 We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes. 
 
-See the Consent page on this website.
+
+[See the Consent page on this website.]({{<ref "consent.md" >}})
 
 ## Yes, You Can!
 
