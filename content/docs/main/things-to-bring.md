@@ -36,7 +36,7 @@ lead: ''
 
 ### Food
 
-* Check the Food section of this website.
+* Check the [Food section]({{<ref "food.md" >}}) of this website.
 
 ## Do NOT Bring:
 
