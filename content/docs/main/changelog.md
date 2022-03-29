@@ -1,30 +1,28 @@
 ---
-title: "Changes"
-description: "What is different from last year?"
-lead: "What's different from last year?"
+title: Changes
+description: What is different from last year?
+lead: What's different from last year?
 date: T15:21:01\+02:00
-lastmod: T15:21:01\+02:00
-draft: false
+lastmod: 2022-03-05T15:21:01.000+02:00
 images: []
 menu: 
   docs:
     parent: "overview"
-weight: 20
+weight: "20"
 toc: true
+
 ---
-## Food
 
-* You bring the cooler, we'll provide ice cubes!
-* You need to bring your own booze and soda, we will still provide coffee and water.
-* Breakfast: bring your own favorite bread covering (cheese/meat/jam or even peanut butter). Put it in your cooler, and we'll send someone to the bakery for fresh bread every morning.
-* We **still** provide snacks in the afternoon and warm food every evening.
+For our regular visitors, here are the most important changes from last year:
 
-## Campsite
+## Timing
 
-* The campsite has grown in size, so there should be enough space to pitch your tents.
-* There is a little forest area to play.
-* Two words: **fire pit**!
-* Such much privacy!
-* Showers! Here's the bad news: this year it's very primitive, compared to last year. Think of _one_ shower-cabin with two shower heads. the warm water is virtually unlimited, so that's something.
+* Bigger, better and uncut! The party starts on Wednesday, that's one additional day of funzies.
+* Pre-camp: volunteers can join on Monday.
 
-![](/images/doge.png)
+## Infra
+
+* We will probably host 14 people more than last year. This will enable 64 people to join the party. 
+* To be able to accommodate everyone, we ask you to keep the distance between tents small.
+* More rope space + bamboo suspension points.
+* Two words: Bouncy Castle!

@@ -3,9 +3,9 @@ title: Rogue Rope Camp
 description: 'Rogue rope is focused on infrastructure: we provide a space, a place
   to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
   and power, toilets and warm showers.'
-lead: What's this rope camp?
+lead: What is Rogue Rope Camp?
 date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2021-03-13T15:21:01.000+02:00
+lastmod: 2022-03-05T15:21:01.000+02:00
 toc: true
 draft: false
 images: []
@@ -15,35 +15,32 @@ menu:
 weight: 10
 toc: true
 ---
-![](/images/newlogo.png)
+![](/images/logo2022.png)
 
-### The very short details
+### The Details in Short 
 
-* **When:** 19/08/2021 14.00 -&gt; 22/08/2021 16.00
+* **When:** 03/08/2022 14:00 -&gt; 07/08/2022 16:00
 * **Where:** East of Ghent, West of Antwerp
-* **Cost:** 100€ 
-* **Tickets:** Can be bought with voucher.
+* **Cost:** 128€ 
 
 ### Intro
 
-Since there wasn't anything happening during the lock-down and the foresight of a completely event-less summer scared me, I *once again* decided to set up this camp.
+This is the third iteration of the camp. So far, it has only gotten bigger and better. The main course from our buffet is rope, with a side of self-organisation and a dash of MacGuyver.
 
-Added by the fact that the C-thing prevented me of getting any form of Rogue Rope events going. The 'organizer' in me started to have a little itch. Fueled with the isolation of being at home, and a freshly installed computer I developed the idea, found a location and planned the basic infrastructure so far. Long story short, this is to get some *perspective*.
+The setup is entirely volunteer driven, so **everyone needs to participate.**
 
-The setup is volunteer driven, **everyone needs to participate.**
+This means: helping with food preparation, building, cleaning, making content and taking care of each other.
 
-This means: helping with food-preparation, cleaning, making content, taking care of each other.
+### What Does Rogue Rope Provide?
 
-### What does Rogue Rope provide?
+Rogue Rope takes care of the infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink, suspension points, a sound-system, water and power, toilets and warm showers.
 
-Rogue rope is focused on infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water and power, toilets and warm showers.
+We do not provide: shows, workshops, entertainment, bamboo. This is up to you, the participant, to bring to the party.
 
-We don't provide: shows, workshops, entertainment. This is up to the participants.
+### What Do the Participants Provide?
 
-### What does the participant provide?
+This is not a festival where there's a divide between the audience and the artists on stage. There are no spectators, only participants.
 
-This is not a festival where there's a divide between the audience and the artists on stage.
+This is a playground with a bunch of toys, an empty dance floor waiting to be filled, a forest waiting to become enchanted.
 
-This is a playground with a bunch of toys, an empty dance floor waiting to be filled.
-
-We create the stage, but **you the participant** perform the show.
+We create the stage, but **you, the participant,** perform the show.

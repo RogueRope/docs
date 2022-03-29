@@ -88,8 +88,8 @@ npm install
 ### 3. Start development server
 
 ```bash
-npm run start
-```
+_npm run start
+_```
 
 ## Other commands
 

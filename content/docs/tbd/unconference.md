@@ -2,19 +2,17 @@
 title: Unconference
 description: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
 lead: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
-date: 2021-03-13T13:21:01+00:00
-lastmod: 2021-03-13T13:21:01+00:00
+date: 2021-03-13T13:21:01.000+00:00
+lastmod: 2022-03-08T15:21:01.000+02:00
 toc: true
-draft: false
 images: []
 menu: 
   docs:
     parent: "opportunities"
-weight: 2020
-toc: true
+weight: "2020"
+
 ---
 # Unconference
-
 
 Four easy rules for unconference sessions
 
@@ -29,5 +27,7 @@ We'll follow the classical un-conference format with post-it notes. Think ahead:
 
 * what are topics/subject you'd like to see covered or would like to know more of?
 * What are topic, subjects, workshops or activities you'd like to share with others?
+* Tip : no need to fall back to the teacher student paradigm. Peer exchange is also encouraged, our content team will announce it like that so expectations are managed.
 
-![](/images/marilia-castelli-jx_7odso9_w-unsplash.jpg)
+![](/images/program1.jpeg)
+![](/images/program2.jpeg)
