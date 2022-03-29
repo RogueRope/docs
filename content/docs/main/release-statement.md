@@ -14,6 +14,8 @@ lead: ''
 
 [English version here!]({{<ref "release-statement-en.md" >}})
 
+### Kort gezegd:
+
 Rogue Rope is expliciet **géén** vzw, maar een feitelijke vereniging, dit wil kort gezegd zeggen dat alles wat tijdens de activiteit gebeurt volledig onder eigen verantwoordelijkheid van de **deelnemers** van de activiteit valt.
 
 ### Lang gezegd:
