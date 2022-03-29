@@ -12,6 +12,8 @@ lead: ''
 ---
 ## Rogue Rope Release Form
 
+[English version here!]({{<ref "release-statement-en.md" >}})
+
 Rogue Rope is expliciet **géén** vzw, maar een feitelijke vereniging, dit wil kort gezegd zeggen dat alles wat tijdens de activiteit gebeurt volledig onder eigen verantwoordelijkheid van de **deelnemers** van de activiteit valt.
 
 ### Lang gezegd:
