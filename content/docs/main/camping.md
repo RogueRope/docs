@@ -14,7 +14,7 @@ menu:
     parent: "overview"
 weight: 131
 ---
-Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the camp site? This is fun, but for our camp sadly **not an option**.
+Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the camp site? This is fun, but for our camp sadly **not an option**. 
 
 We will have to use the camp site sparingly. This means: feel free to bring the essentials, but don't leave space between the tents. We're going to defragment like it's Windows 95.
 
