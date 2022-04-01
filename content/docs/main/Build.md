@@ -1,5 +1,5 @@
 ---
-title: Volunteer
+title: PreCamp
 description: >
   Very simple: no-one is employed, every participant pays for their ticket. 
   We're in this boat together and we can make it conquer the seas or make it crash into a big iceberg. 
@@ -15,7 +15,7 @@ weight: 70
 toc: true
 
 ---
-The deal is very simple: no-one is employed, every participant pays for their ticket. We're in this boat together and we can make it either conquer the seas or crash into a big iceberg. It's really up to us, and by "us", we _really_ mean **you**.
+On Monday and Tuesday buildup will start.  
 
 So, we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work. For example, the cleanup shifts usually don't take longer than 25 minutes.
 
