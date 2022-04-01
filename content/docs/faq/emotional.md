@@ -29,4 +29,4 @@ Your issues will be addressed to the best of our abilities. We will do our best 
 
 The Rogue Rope mindset is: we never look for blame or shame, we are always focused on solutions.
 
-![](/images//hug.webp)
+![animated drawing of two people hugging](/images//hug.webp)

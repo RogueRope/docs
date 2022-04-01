@@ -37,4 +37,4 @@ Please try to limit smoking on the camp site between the tents. Fire safety is i
 
 You might be wondering if there is a possibility to sleep indoors? There is some room inside, but we'll be using that for activities. The safest option is to make sleeping arrangements outside (tent, van, camper, etc.).
 
-![](/images/camper.jpg)
+![Large camper tent at night](/images/camper.jpg)

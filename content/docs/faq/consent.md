@@ -47,6 +47,6 @@ We will assess the situation and try to think of the best solution, after which 
 
 If you want to learn more on the subject, check this elaborate write-up by [La Quarta Corda](https://www.laquartacorda.it/en/consent/).
 
-![](/images//ohyes.webp)
+![Guy saying oh yes](/images/ohyes.webp)
 
 **If you want to help shape the consent/dungeon crew, [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").**

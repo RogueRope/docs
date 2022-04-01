@@ -58,10 +58,10 @@ There are countless other ways to get involved, including:
 
 Feel free to create your own way to participate!
 
-![](/images/giphy.webp)
+![Girl eagerly sticking up finger in class](/images/giphy.webp)
 
 ### How to Register?
 
 We will be using a Google sheet, and make a print for people to join on site as well. Put your name down for a shift you think you might like. If you don't find the time to sign up before you arrive, you will be asked to do so when you check in.
 
-![](/images/aragorn-lets-do-this.gif)
+![Dude from lord of the rings, saying lets do this and going to battle](/images/aragorn-lets-do-this.gif)

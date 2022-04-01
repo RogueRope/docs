@@ -28,4 +28,4 @@ People who see tying as a competition have already lost it.
 * We're not afraid of nudity or sex. The plan is to improvise a play room as well.
 * There's only one caveat: at the camp site, golden showers and scat are hard to do in a 'clean' way, so we'll need to draw the line there.
 
-![](/images/anything.webp)
+![animated gif of Steven Colbert in wierd clothes, purple hair holding a taxidermied cat, caption is : 'anything goes'](/images/anything.webp)
