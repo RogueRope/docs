@@ -16,9 +16,7 @@ toc: true
 
   Contact us on [WhatsApp](https://wa.me/32476870515): +32476870515. This number also works for Signal and Telegram.
 
-![](/images/whatsappqr.png)
-
-![](/images/vcardqr.png)
+![qr code to last link](/images/whatsappqr.png)
 
 
   If you prefer email, hit us up at info@roguerope.be
