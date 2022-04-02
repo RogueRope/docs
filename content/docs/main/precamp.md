@@ -17,6 +17,9 @@ toc: true
 ---
 On Monday and Tuesday buildup will start.
 
-There's room for 20 people to build. 
+There's room for 20 people to build.
 
-ot just for big/strong people, everyone can help. More info will follow.
+Not just for big/strong people, lots of things on the todo-list, everyone can help.
+
+More info will follow.
+
