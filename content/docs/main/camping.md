@@ -7,14 +7,14 @@ lead: It's a field, it's basic, with room for a campfire, so bring your guitar a
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 images: []
-weight: "70"
+weight: 50
 toc: true
 menu: 
   docs:
     parent: "overview"
 weight: 131
 ---
-Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the camp site? This is fun, but for our camp sadly **not an option**.
+Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the camp site? This is fun, but for our camp sadly **not an option**. 
 
 We will have to use the camp site sparingly. This means: feel free to bring the essentials, but don't leave space between the tents. We're going to defragment like it's Windows 95.
 
@@ -37,4 +37,4 @@ Please try to limit smoking on the camp site between the tents. Fire safety is i
 
 You might be wondering if there is a possibility to sleep indoors? There is some room inside, but we'll be using that for activities. The safest option is to make sleeping arrangements outside (tent, van, camper, etc.).
 
-![](/images/camper.jpg)
+![Large camper tent at night](/images/camper.jpg)

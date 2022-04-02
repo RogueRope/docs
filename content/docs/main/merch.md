@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "overview"
-weight: 130
+weight: 90
 toc: true
 ---
 * Fair and sustainable
@@ -17,11 +17,11 @@ toc: true
 * Materials: 100% cotton 
 
 ## Close-Fitting Tailored T-shirt  
-![](/images/f-shirts.png)
+![Close-Fitting Tailored T-shirt,  black with the graphic of this year](/images/f-shirts.png)
 ![](/images/f-size.png)
 
 
 
 ## Basic Straight T-shirt
-![](/images/m-shirts.png)
+![Basic Straight T-shirt , black with the graphic of this year](/images/m-shirts.png)
 ![](/images/m-size.png)

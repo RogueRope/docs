@@ -7,7 +7,7 @@ images: []
 menu: 
   docs:
     parent: "overview"
-weight: "60"
+weight: 40
 toc: true
 lead: ''
 
@@ -46,4 +46,4 @@ lead: ''
 * Very power-hungry devices like heaters or coolers
 
 
-![Tent](/images/tent.jpg)
+![Tent with nice lights surrounding it.](/images/tent.jpg)
