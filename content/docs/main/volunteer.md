@@ -34,29 +34,19 @@ Make people smile by the power of your good vibes combined with drinks and snack
 Make stuff happen, **move things around**, rig things.  
 But also **do cleaning** and improvise.  
 **Work smart, not hard.**
+At our camp, we operate on a simple system: no one is paid and every participant pays for their own ticket. This means that we're all in this together and it's up to us to make it a success. And by "us," we really mean you – we need your help to make this camp run smoothly. 
 
-#### Support
+To pitch in, we ask that every participant volunteers at least one time. Don't worry, most shifts aren't too demanding – for example, cleanup shifts usually only take about 25 minutes. 
 
-Welcome committee and greeters, crowd control, tent oversight.  
-Nudging people to do the right thing is your thing.  
-You know **a smile accomplishes more than a grumble**.  
-Candidates _must_ agree to put on a fluorescent jacket.
+There are several ways you can contribute:
 
-### What If There Aren't Enough Volunteers?
+- **Kitcheneer**: Help out in the kitchen by preparing and serving food and drinks. You'll chop, slice, peel, heat, distribute, and clean, all while spreading good vibes and making people smile.
 
-Well, then the food won't be set up, the place won't get cleaned and nothing gets done. But we can still go outside to lie down in a puddle of mud. :-)
+- **Production**: Get things done by moving and rigging equipment, but also be ready to clean and improvise. Work smart, not hard.
 
-### Other Ways to Help
+- **Support**: Welcome committee and greeters, crowd control, tent oversight – if nudging people to do the right thing is your thing, this is the role for you. Candidates must agree to put on a fluorescent jacket.
 
-There are countless other ways to get involved, including:
-
-* Arriving early for build or staying late for clean-up/strike
-* Creating and bringing art
-* Running a workshop
-* Making music
-* Putting on a show / performance
-
-Feel free to create your own way to participate!
+But what if there aren't enough volunteers? Then unfortunately, things like food preparation and cleaning may not get done. However, we can always find ways to have fun and make the most of our time together – even if it means lying down in a puddle of mud. :wink
 
 ![Girl eagerly sticking up finger in class](/images/giphy.webp)
 
