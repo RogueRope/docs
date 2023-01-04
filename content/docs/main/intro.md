@@ -19,28 +19,16 @@ toc: true
 
 ### The Details in Short 
 
-* **When:** 03/08/2022 14:00 -&gt; 07/08/2022 16:00
+* **When:** 02/08/2023 14:00 -&gt; 06/08/2023 16:00
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 128€ 
 
 ### Intro
 
-This is the third iteration of the camp. So far, it has only gotten bigger and better. The main course from our buffet is rope, with a side of self-organisation and a dash of MacGuyver.
+Welcome to the fourth edition of our camp, where we come together to learn, play, and grow as a community. Our focus is on rope, but we also value self-organization and resourcefulness. This camp is entirely run by volunteers, so we rely on everyone to pitch in and help with tasks such as food preparation, building and maintenance, cleaning, and taking care of each other. We believe that by working together and supporting each other, we can create a truly special and memorable experience for everyone.
 
-The setup is entirely volunteer driven, so **everyone needs to participate.**
+At Rogue Rope, we provide the necessary infrastructure to make your stay comfortable and enjoyable. This includes a space to pitch your tent, food and drink to keep you nourished, suspension points for rope activities, a sound system for music and events, power and water, toilets and warm showers to freshen up. However, we rely on you, the participant, to bring the entertainment, workshops, and creativity to the party.
 
-This means: helping with food preparation, building, cleaning, making content and taking care of each other.
+This isn't just a festival where there's a divide between the audience and the performers – there are **no spectators here, only participants**. We see this camp as a playground, a blank canvas waiting to be filled with your ideas and talents. Whether you're a seasoned performer or just looking to try something new, we encourage you to step up and contribute to the magic of the camp. 
 
-### What Does Rogue Rope Provide?
-
-Rogue Rope takes care of the infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink, suspension points, a sound-system, water and power, toilets and warm showers.
-
-We do not provide: shows, workshops, entertainment, bamboo. This is up to you, the participant, to bring to the party.
-
-### What Do the Participants Provide?
-
-This is not a festival where there's a divide between the audience and the artists on stage. There are no spectators, only participants.
-
-This is a playground with a bunch of toys, an empty dance floor waiting to be filled, a forest waiting to become enchanted.
-
-We create the stage, but **you, the participant,** perform the show.
+**We'll provide the stage, but it's up to you to put on the show.**
