@@ -15,7 +15,7 @@ menu:
 weight: 10
 toc: true
 ---
-![Main Graphic for rope camp 2023, black and white drawing of a girl looked at from the back, she has 2 futmomo's and her hands are tied over her head](/images/logo2023.png)
+![Main Graphic for rope camp 2023, black and white drawing of a girl looked at from the back, she has 2 futmomo's and her hands are tied over her head](/images/logo2022.png)
 
 ### The Details in Short 
 
