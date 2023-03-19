@@ -22,7 +22,7 @@ Each morning, we'll gather for a communal brunch. We'll provide the bread, coffe
 
 In the afternoon, we'll offer a light snack, such as hummus, salad, or ice cream. For dinner, we'll serve a warm meal, typically featuring a BBQ and the ever-popular frites-mobile.
 
-While the camp provides basic sustenance, it's not an all-day buffet. The variety and quantity of food depend on your preferences. So, if you enjoy cornflakes in the morning or like to snack throughout the day, bring your favorite munchies, nuts, granola bars, fruit, or chocolate bars. Customize your camp experience to your liking!
+While the camp provides basic sustenance, it's not an all-day buffet. So, if you enjoy cornflakes in the morning or like to snack throughout the day, bring your favorite munchies, nuts, granola bars, fruit, or chocolate bars. Customize your camp experience to your liking!
 
 As a new addition this year, we'll have bread available throughout the day. Feel free to make yourself a sandwich whenever you please.
 
