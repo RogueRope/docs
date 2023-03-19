@@ -15,14 +15,10 @@ toc: true
 
 For our regular visitors, here are the most important changes from last year:
 
-## Timing
-
-* Bigger, better and uncut! The party starts on Wednesday, that's one additional day of funzies.
-* Pre-camp: volunteers can join on Monday.
-
 ## Infra
 
-* We will probably host 14 people more than last year. This will enable 64 people to join the party. 
-* To be able to accommodate everyone, we ask you to keep the distance between tents small.
+* More cozyness! 
 * More rope space + bamboo suspension points.
-* Two words: Bouncy Castle!
+* Two words: Bouncy Balls!
+
+In addition to these improvements, we have also made significant strides in enhancing the overall experience for our visitors this year. We have taken all of the feedback from last year's event and used it to fuel our innovations and create an even better event this year.
