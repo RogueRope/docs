@@ -15,43 +15,38 @@ weight: 70
 toc: true
 
 ---
-The deal is very simple: no-one is employed, every participant pays for their ticket. We're in this boat together and we can make it either conquer the seas or crash into a big iceberg. It's really up to us, and by "us", we _really_ mean **you**.
+At our camp, we operate on a simple system: no one is paid and every participant pays for their own ticket. This means that we're all in this together, and it's up to us to make it a success. And by "us," we really mean you – we need your help to make this camp run smoothly.
 
-So, we need you to lend a hand. You will be required to volunteer at least 1 time. Please take into account that most shifts don't require a lot of work. For example, the cleanup shifts usually don't take longer than 25 minutes.
+There are roles and duties before the camp starts as well as during the camp. For the roles during the camp, we will be using a Google sheet for signups. For the roles before the camp, there will be a separate signup form.
+
+To pitch in, we ask that every participant volunteers at least one time. Most shifts aren't too demanding – for example, cleanup shifts usually only take about 25 minutes.
+
+The second volunteer shift we need, is that you help with the cleanup on Sunday. This sounds like a drag, but many hands make light work. And over the years we've learned to become very efficient with this.  
 
 ### Different Ways to Help
 
-You can choose one **one** or **many** of them.
+#### Before the Camp
 
-#### Kitcheneer
+Please sign up using the designated form for tasks that need to be done before the camp starts.
 
-Provide food and drinks to people. Help out in the kitchen.  
-**You chop, slice, peel, heat, distribute and clean.**  
-Make people smile by the power of your good vibes combined with drinks and snacks.
+#### During the Camp
 
-#### Production
+You can choose one or many of the following roles:
 
-Make stuff happen, **move things around**, rig things.  
-But also **do cleaning** and improvise.  
-**Work smart, not hard.**
-At our camp, we operate on a simple system: no one is paid and every participant pays for their own ticket. This means that we're all in this together and it's up to us to make it a success. And by "us," we really mean you – we need your help to make this camp run smoothly. 
+- **Kitcheneer**: Help out in the kitchen by preparing and serving food. You'll chop, slice, peel, heat and distribute, all while spreading good vibes and making people smile.
 
-To pitch in, we ask that every participant volunteers at least one time. Don't worry, most shifts aren't too demanding – for example, cleanup shifts usually only take about 25 minutes. 
-
-There are several ways you can contribute:
-
-- **Kitcheneer**: Help out in the kitchen by preparing and serving food and drinks. You'll chop, slice, peel, heat, distribute, and clean, all while spreading good vibes and making people smile.
-
-- **Production**: Get things done by moving and rigging equipment, but also be ready to clean and improvise. Work smart, not hard.
+- **Production**: Get things done by moving and rigging equipment, but also be ready to clean the site and improvise. Work smart, not hard.
 
 - **Support**: Welcome committee and greeters, crowd control, tent oversight – if nudging people to do the right thing is your thing, this is the role for you. Candidates must agree to put on a fluorescent jacket.
 
-But what if there aren't enough volunteers? Then unfortunately, things like food preparation and cleaning may not get done. However, we can always find ways to have fun and make the most of our time together – even if it means lying down in a puddle of mud. :wink
-
-![Girl eagerly sticking up finger in class](/images/giphy.webp)
+- **VWB**: very-well-being, people working on first-aid, safety and consent.
 
 ### How to Register?
 
-We will be using a Google sheet, and make a print for people to join on site as well. Put your name down for a shift you think you might like. If you don't find the time to sign up before you arrive, you will be asked to do so when you check in.
+For roles before the camp, please use the designated signup form. For roles during the camp, we will be using a Google sheet. You can sign up for shifts that interest you. If you don't find the time to sign up before you arrive, you will be asked to do so when you check in.
 
-![Dude from lord of the rings, saying lets do this and going to battle](/images/aragorn-lets-do-this.gif)
+
+## But what if there aren't enough volunteers?
+
+Then unfortunately, things like food preparation and cleaning may not get done. However, we can always find ways to have fun and make the most of our time together – even if it means lying down in a puddle of mud. :wink:
+
