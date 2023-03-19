@@ -16,7 +16,7 @@ weight: 10
 toc: true
 ---
 
-### The Details in Short 
+### The Details
 
 * **When:** 02/08/2023 14:00 -&gt; 06/08/2023 16:00
 * **Where:** East of Ghent, West of Antwerp

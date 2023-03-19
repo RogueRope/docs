@@ -12,12 +12,13 @@ weight: "2010"
 toc: true
 
 ---
-Maybe we can do some performances, doesn't have to be rope.  
-Maybe you do spoken word, or can give a dance demo, maybe you can pull a bunny out of your hat instead of suspending it to the ceiling?
+All the world's a stage, and all the men and women merely players.
 
-Share your skill and surprise us.
+We invite you to showcase your talents, whether it's related to rope or not. From spoken word to dance demonstrations, or even a magical act with a bunny, we're excited to see what you can do!
 
-If you want to do a performance, let us know on the event. We might do the performances outside. For technical reasons, if you need music bring your MP3's on a thumb drive with you, a spotify list also works. If we can help you with this, let us know in advance.
+Share your unique skills and delight us all.
+
+To express your interest in performing, please inform the content coordinators at the camp. Keep in mind that performances may take place outdoors. If you require music, bring your MP3 files on a thumb drive or provide a Spotify playlist. If you need assistance with this, reach out to us in advance, and we'll be happy to help.
 
 
 ![Burlesque dancers.](/images/perform.png)

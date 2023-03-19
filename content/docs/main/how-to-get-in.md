@@ -1,5 +1,5 @@
 ---
-title: How to Get in?
+title: Registration
 description: How to get a ticket?
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
@@ -12,7 +12,7 @@ toc: true
 lead: ''
 
 ---
-There are 4 simple steps for you to complete to get in:
+There are 3 simple steps for you to complete to get in:
 
 ## Step 1: Read this Document
 
@@ -30,13 +30,19 @@ Going forward, participation in Rogue Rope Camp will be considered a privilege, 
 
 The panel members will remain anonymous. Hans will not participate in the judging process.
 
+> "For some people, the registration process is scary: you state what you want and what you offer. You might get a yes or a no. If this makes you uncomfortable, you're probably not ready for the consent negotiations you need to do at camp."
+
 We have published the [guidelines and registration for Rogue Rope Camp](https://doplr.xyz/guidelines.php). These guidelines will serve as a code of conduct and will also guide the judges in their decision-making.
 
 We understand that some may have concerns with this new process. However, we want to reiterate that participation in Rogue Rope Camp is a privilege, not a right.
 
-The judges will evaluate individuals based on their ability to make positive contributions to the community and their compatibility with other participants. If your application is declined, please understand that various factors go into the decision-making process.
+The judges will evaluate individuals based on their ability to  make positive contributions to the community and their compatibility with other participants. If your application is declined, please understand that various factors go into the decision-making process.
 
 Thank you for your understanding.
+
+## Step 3: Purchase a Ticket
+Starting from the 8th of April at noon, you can buy a ticket for Rogue Rope Camp. Secure your spot and join us for an unforgettable experience!
+
 
 ## Timeline
 
