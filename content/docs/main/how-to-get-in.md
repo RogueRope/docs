@@ -22,39 +22,30 @@ Doing really well there! Almost done.
 
 Have any questions or comments? [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
-## Step 2: Buy a Ticket
+## Step 2: Do the registration thing. 
 
-The amount of participants is limited.
+As some of you may already be aware, we have been organizing an annual event known as Rogue Rope Camp for several years now. In the past, we have had a relaxed approach towards the selection of participants, as long as they were not a threat to the safety of others. However, we have decided to change the way participants are selected this year.
 
-We will provide pre-presale vouchers for participants who joined us last year. This means you can book a ticket before the main pre-sale starts, and basically are guaranteed a spot. If you joined the event in 2021, you can expect this voucher around April 1 2023. 
+Going forward, participation in Rogue Rope Camp will be considered a privilege, not a right. We aim to create a great event, and for that, we require individuals who not only prioritize safety but also contribute positively to the community. Therefore, we have delegated the selection process to a panel of five trusted individuals from different geographic areas. These individuals are well-versed in RRC culture and possess valuable insights into the scene and the community.
 
-Everyone who's on the [mailing list](https://roguerope.be/pages/newsletter.html) will get **1 voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email. 
-You will be asked for your FetLife name. When we receive your order, we will do a basic vetting. If we feel -for whatever reason- you are not a good fit for the event, we will decline your request for a ticket.
+The panel members will remain anonymous. Hans will not participate in the judging process.
 
-Once confirmed, you have 14 days to complete payment. We prefer the Belgians and Dutchies to use Bancontact or Mollie. Participants from other countries can use a standard EU SEPA bank transfer.
-Please note: if you have an issue with the timing or amount of the payment, please let us know. We can probably work something out.
+We have published the [guidelines and registration for Rogue Rope Camp](https://doplr.xyz/guidelines.php). These guidelines will serve as a code of conduct and will also guide the judges in their decision-making.
+
+We understand that some may have concerns with this new process. However, we want to reiterate that participation in Rogue Rope Camp is a privilege, not a right.
+
+The judges will evaluate individuals based on their ability to make positive contributions to the community and their compatibility with other participants. If your application is declined, please understand that various factors go into the decision-making process.
+
+Thank you for your understanding.
 
 ## Timeline
 
-* **April 2 2023:** If you attended the event in 2021, you will receive an email with a voucher code with which you can buy a ticket in the closed pre-pre-sale.
-* **April 2 2023 @ 12.30h:** Start of pre-pre-sale (no stress, you have until the pre-sale to get a ticket).
-* **April 11 2023:** If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a pre-sale voucher (1 voucher for every subscriber).
-* **April 17 2023 @ 12.30h:** Start of pre-sale. You can use the voucher code from the mailinglist to buy **1** ticket.
-* **May 1 2023 @ 12.30:** Start of main sale. A link to sign up will be posted on FetLife. Please note that people requesting a ticket still need to be vetted to be able to buy a ticket.
-
-## Step 3: Get to the Location
-
-The site is in the province of East-Flanders. You can get there by car or public transport. The nearest train station is a 3-kilometer walk from the site. The nearest bus stop is a 1-kilometer walk away.
-
-Our camping ground is 200 meters from the main road. **There is no parking on the camp site itself.** You can drive up, take out your bags, check in and then park your car **back on the main road**.
-Take into account: you cannot drive your car onto the camping area! That is only accessible on foot. So, the last 40 meters or so, you will need to drag your stuff.
-
-If you bring a camper or trailer, we **might** be able to put that on the field using our combined people-power. Important: if you plan to bring a van, camper, or trailer, **contact us to make sure there is some space.**
-
-## Step 4: Give the Greeter your Order Number
-
-You made it! Make sure to bring your order confirmation with your qr-code, so we can verify payment. Also double check that you're wearing white socks in sandals! You will get a [release statement]({{<ref "release-statement.md" >}}) to sign.
-
-You will be asked to sign up for a shift of work... This could be cleaning up, going to the bakery or making sure the fire is hot. As you arrive, we will ask you to put your name down.
-
-Now it's time to relax, set up your tent and share a drink with us!
+* 01/03/23 : Initial release of this document and the registration form.
+* 25/03/23 : Deadline submissions Batch 0
+* 01/04/23 : Sending out vouchers from Batch 0
+* 01/04/23 : Release of full documentation.
+* 08/04/23 : Start of ticket sales.
+* 25/04/23 : Deadline submissions Batch 1
+* 01/05/23 : Sending out vouchers from Batch 1
+* 25/05/23 : Deadline submissions Batch 2
+* 01/06/23 : Sending out vouchers from Batch 2
