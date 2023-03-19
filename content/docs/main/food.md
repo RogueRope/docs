@@ -31,7 +31,6 @@ We offer **vegetarian** and **meat** options. When you sign up for a ticket, you
 | _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 9-12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
-| 15.00 | Soup | To be confirmed| To be confirmed |To be confirmed  |To be confirmed | Leftovers |
 | 16.00 | Snacks | To be confirmed | To be confirmed | To be confirmed | To be confirmed | Leftovers |
 | 19-21 | Dinner  | To be confirmed| To be confirmed | To be confirmed | To be confirmed | --/-- |
 
