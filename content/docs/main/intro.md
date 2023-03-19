@@ -5,7 +5,7 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
   and power, toilets and warm showers.'
 lead: What is Rogue Rope Camp?
 date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2022-03-05T15:21:01.000+02:00
+lastmod: 2023-03-05T15:21:01.000+02:00
 toc: true
 draft: false
 images: []
@@ -15,7 +15,7 @@ menu:
 weight: 10
 toc: true
 ---
-![Main Graphic for rope camp 2022, black and white drawing of a girl looked at from the back, she has 2 futmomo's and her hands are tied over her head](/images/logo2022.png)
+![Main Graphic for rope camp 2023, black and white drawing of a girl looked at from the back, she has 2 futmomo's and her hands are tied over her head](/images/logo2023.png)
 
 ### The Details in Short 
 

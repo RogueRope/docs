@@ -26,7 +26,7 @@ Have any questions or comments? [Get in touch]({{< ref "/docs/main/contact" >}} 
 
 The amount of participants is limited.
 
-We will provide pre-presale vouchers for participants who joined us last year. This means you can book a ticket before the main pre-sale starts, and basically are guaranteed a spot. If you joined the event in 2021, you can expect this voucher around April 1 2022. 
+We will provide pre-presale vouchers for participants who joined us last year. This means you can book a ticket before the main pre-sale starts, and basically are guaranteed a spot. If you joined the event in 2021, you can expect this voucher around April 1 2023. 
 
 Everyone who's on the [mailing list](https://roguerope.be/pages/newsletter.html) will get **1 voucher**, which gives you the opportunity to buy **1 ticket**. Create your order from the link in the email. 
 You will be asked for your FetLife name. When we receive your order, we will do a basic vetting. If we feel -for whatever reason- you are not a good fit for the event, we will decline your request for a ticket.
@@ -36,11 +36,11 @@ Please note: if you have an issue with the timing or amount of the payment, plea
 
 ## Timeline
 
-* **April 2 2022:** If you attended the event in 2021, you will receive an email with a voucher code with which you can buy a ticket in the closed pre-pre-sale.
-* **April 2 2022 @ 12.30h:** Start of pre-pre-sale (no stress, you have until the pre-sale to get a ticket).
-* **April 11 2022:** If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a pre-sale voucher (1 voucher for every subscriber).
-* **April 17 2022 @ 12.30h:** Start of pre-sale. You can use the voucher code from the mailinglist to buy **1** ticket.
-* **May 1 2022 @ 12.30:** Start of main sale. A link to sign up will be posted on FetLife. Please note that people requesting a ticket still need to be vetted to be able to buy a ticket.
+* **April 2 2023:** If you attended the event in 2021, you will receive an email with a voucher code with which you can buy a ticket in the closed pre-pre-sale.
+* **April 2 2023 @ 12.30h:** Start of pre-pre-sale (no stress, you have until the pre-sale to get a ticket).
+* **April 11 2023:** If you are on the [mailing list](https://roguerope.be/pages/newsletter.html), you will get a pre-sale voucher (1 voucher for every subscriber).
+* **April 17 2023 @ 12.30h:** Start of pre-sale. You can use the voucher code from the mailinglist to buy **1** ticket.
+* **May 1 2023 @ 12.30:** Start of main sale. A link to sign up will be posted on FetLife. Please note that people requesting a ticket still need to be vetted to be able to buy a ticket.
 
 ## Step 3: Get to the Location
 
