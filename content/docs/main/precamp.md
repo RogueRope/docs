@@ -21,5 +21,5 @@ There's room for 20 people to build.
 
 Not just for big/strong people, lots of things on the todo-list, everyone can help.
 
-More info will follow.
+Sign up here: https://forms.gle/R7ptCx6uXLiy5F7c9
 

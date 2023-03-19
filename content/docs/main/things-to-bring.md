@@ -23,9 +23,9 @@ lead: ''
 * Cutlery (knife, fork, spoon) and a plate
 * A torch with enough batteries and/or LED head torches (these are the best)
 * A water bottle
-* Sunscreen
 * Tent and accessories
 * Ear plugs and sleeping mask (optional). Not everyone may want to sleep when you do!
+
 
 ### Hygiene
 

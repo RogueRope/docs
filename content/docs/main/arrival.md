@@ -13,7 +13,7 @@ lead: ''
 
 ---
 
-## Step 3: Get to the Location
+## Get to the Location
 
 The site is in the province of East-Flanders. You can get there by car or public transport. The nearest train station is a 3-kilometer walk from the site. The nearest bus stop is a 1-kilometer walk away.
 
@@ -22,7 +22,7 @@ Take into account: you cannot drive your car onto the camping area! That is only
 
 If you bring a camper or trailer, we **might** be able to put that on the field using our combined people-power. Important: if you plan to bring a van, camper, or trailer, **contact us to make sure there is some space.**
 
-## Step 4: Give the Greeter your Order Number
+## Give the Greeter your Ticket with the QR code
 
 You made it! Make sure to bring your order confirmation with your qr-code, so we can verify payment. Also double check that you're wearing white socks in sandals! You will get a [release statement]({{<ref "release-statement.md" >}}) to sign.
 

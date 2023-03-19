@@ -17,11 +17,9 @@ toc: true
 * Materials: 100% cotton 
 
 ## Close-Fitting Tailored T-shirt  
-![Close-Fitting Tailored T-shirt,  black with the graphic of this year](/images/f-shirts.png)
-![](/images/f-size.png)
+Under development
 
 
+## Basic Straight T-shirt 
+Under development
 
-## Basic Straight T-shirt
-![Basic Straight T-shirt , black with the graphic of this year](/images/m-shirts.png)
-![](/images/m-size.png)
