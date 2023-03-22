@@ -13,18 +13,17 @@ toc: false
 
 ---
 A "voucher" is a unique code that you can use to buy a ticket. You will get one in the pre-pre-sale.
-If you registered as a couple, you will receive 2 vouchers. If you registered as single last year, you will **also** receive 2 vouchers. Yay.
+
 
 ![](/images/how-to-voucher.gif)
 
 ## Vouchers Are Personal!
 
-If someone got a voucher for participating last year, and will not join us this year, the voucher is void.
-You **cannot** give or sell your voucher to your friends. When the initial pre-sale is over, we will distribute vouchers to people that joined the mailing-list.
+You **cannot** give or sell your voucher to your friends. 
 
 ## Waiting List
 
-If you have a voucher, and all tickets are sold out, the ticketing engine puts you on a waiting list.
+If you have a voucher, and all tickets are sold out, the ticketing engine puts you on a waiting list. First come, first served.
 
 ## All Sales Are Final, But...
 
