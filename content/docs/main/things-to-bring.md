@@ -20,6 +20,7 @@ lead: ''
 ### Accessories
 
 * A solid cup (reusable, no glass) for your water/tea/coffee/soup **\~ A CUP IS MANDATORY \~**
+* Two old fleece blankets and maybe a pillow.
 * Cutlery (knife, fork, spoon) and a plate
 * A torch with enough batteries and/or LED head torches (these are the best)
 * A water bottle
