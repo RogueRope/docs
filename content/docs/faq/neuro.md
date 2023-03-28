@@ -18,7 +18,7 @@ If you feel comfortable doing so, communicate your needs and preferences to our 
 
 We also have a designated safe space on site where individuals can go if they need some time to themselves or just want to relax. These areas are quiet and free from distractions, so feel free to take some time out if you need it.
 
-At Rogue Rope Camp, we believe in creating a supportive and inclusive environment for all participants, and we're committed to making sure that everyone has a positive and enjoyable experience. We require all participants, neuro-typical or not, to be able to take care of their own needs and not pose a risk to others. We believe that everyone has the right to feel safe and respected, and we will not tolerate any behavior that puts others at risk.
+At Rogue Rope Camp, we believe in creating a supportive and inclusive environment for all participants, and we're committed to making sure that everyone has a positive and enjoyable experience. **We require all participants, neuro-typical or not, to be able to take care of their own needs and not pose a risk to others.** We believe that everyone has the right to feel safe and respected, and we will not tolerate any behavior that puts others at risk.
 
 We encourage all participants to be mindful of their actions and how they may impact others. We ask that you respect other people's boundaries and communicate clearly with them. If you're unsure about something, please don't hesitate to ask one of our volunteers or staff members for guidance.
 
