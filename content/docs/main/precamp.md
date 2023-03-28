@@ -23,3 +23,4 @@ Not just for big/strong people, lots of things on the todo-list, everyone can he
 
 Sign up here: https://forms.gle/R7ptCx6uXLiy5F7c9
 
+to do: meer inviting maken, meer duidelijkheid over dagen/taken
