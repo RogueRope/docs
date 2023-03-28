@@ -15,7 +15,7 @@ weight: 95
 toc: true
 
 ---
-On Monday and Tuesday buildup will start.
+From Monday till wednesday at noon we will build up the campsite for the event.
 
 There's room for 20 people to build.
 
