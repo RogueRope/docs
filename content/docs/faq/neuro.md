@@ -1,7 +1,7 @@
 ---
 title: Neuro-Liaison
-description: Taking care of your body includes your heart.
-lead: Taking care of your body includes your heart.
+description:  Creating a Safe and Inclusive Environment for Neuro Diverse Individuals
+lead: Creating a Safe and Inclusive Environment for Neuro Diverse Individuals.
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 images: []
