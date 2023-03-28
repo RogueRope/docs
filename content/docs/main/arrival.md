@@ -13,7 +13,7 @@ lead: ''
 
 ---
 
-## Get to the Location
+## Get to the Location 
 
 The site is in the province of East-Flanders. You can get there by car or public transport. The nearest train station is a 3-kilometer walk from the site. The nearest bus stop is a 1-kilometer walk away.
 
