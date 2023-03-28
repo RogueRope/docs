@@ -17,7 +17,7 @@ For our regular visitors, here are the most important changes from last year:
 
 ## Infra
 
-* More cozyness! 
+* More coziness! 
 * More rope space + bamboo suspension points.
 * Two words: Bouncy Balls!
 
