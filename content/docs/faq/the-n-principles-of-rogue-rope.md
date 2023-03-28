@@ -33,7 +33,7 @@ The whole goal is to create a space where people will lose themselves and probab
 
 Everything is free and open. If you don’t want something copied, adapted an redistributed, shut your pie-hole and keep it to yourself. We don’t believe in the combination of "intellectual" and "property". Knowledge wants to be free.
 
-## Patches Accpeted
+## Patches Accepted
 
 Rules are meant to evolve over time. We embrace remixes, we love your suggestions. The rules are up on [GitHub](https://github.com/RogueRope/Docs), submit your patches there. If you don't know how to do that, [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us"), we'll help you out.
 
