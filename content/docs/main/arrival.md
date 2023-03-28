@@ -1,6 +1,6 @@
 ---
 title: Arrival
-description: How to get inand set up.
+description: How to get in and set up.
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 images: []
