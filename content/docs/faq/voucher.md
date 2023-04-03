@@ -12,7 +12,7 @@ weight: "1005"
 toc: false
 
 ---
-A "voucher" is a unique code that you can use to buy a ticket. You will get one in the pre-pre-sale.
+A "voucher" is a unique code that you can use to buy a ticket. You will get one when accepted after [registration](https://doplr.xyz/).
 
 
 ![](/images/how-to-voucher.gif)
