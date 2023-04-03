@@ -1,7 +1,7 @@
 ---
-title: They are Friends, but wih benefits.
+title: FWB
 description: No problem is too complex to solve.
-lead: How will this work?
+lead:  They are Friends, but wih benefits.
 date: T15:21:01\+02:00
 lastmod: 2023-03-08T15:21:01.000+02:00
 images: []
