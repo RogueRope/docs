@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Tickets
 description: How to get a ticket?
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00

@@ -15,7 +15,7 @@ weight: 95
 toc: true
 
 ---
-On Monday and Tuesday buildup will start.
+From Monday till wednesday at noon we will build up the campsite for the event.
 
 There's room for 20 people to build.
 
@@ -23,3 +23,4 @@ Not just for big/strong people, lots of things on the todo-list, everyone can he
 
 Sign up here: https://forms.gle/R7ptCx6uXLiy5F7c9
 
+to do: meer inviting maken, meer duidelijkheid over dagen/taken

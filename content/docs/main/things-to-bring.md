@@ -14,7 +14,7 @@ lead: ''
 ---
 ### Basics
 
-* Your ticket with qr code
+* Your ticket with qr-code
 * Rope and other toys
 
 ### Accessories

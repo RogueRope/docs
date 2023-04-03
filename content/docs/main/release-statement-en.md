@@ -9,4 +9,4 @@ lead: ''
 
 ---
 ## Rogue Rope Release Form
-Legal shizzle, need to recheck this.
+to do: Legal shizzle, need to recheck this.

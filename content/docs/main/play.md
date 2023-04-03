@@ -16,7 +16,7 @@ toc: true
 
 Although you can basically use the site and infrastructure to do whatever you want, rope play is the main course of our menu. The setup will reference this.
 
-Traditionally, we welcome rope play of _any_ level. There's this misconception that you have to be good with ropes to partake in Rogue Rope events. We don't know where this came from, but want to stress that this is _not_ the case. Everyone is welcome. Everyone who wants to play with ropes should feel free to come and learn. Also, if your rope handling is basic, and you're happy with it and not interested to learn more, that's fine. If you want to try new stuff and have someone spot you, that's fine as well.
+Traditionally, we welcome rope play of _any_ level. There's this misconception that you have to be good with ropes to partake in Rogue Rope events. We don't know where this came from, but would like to stress that this is _not_ the case. Everyone is welcome. Everyone who wants to play with ropes should feel free to come and learn. Also, if your rope handling is basic, and you're happy with it and not interested to learn more, that's fine. If you want to try new stuff and have someone spot you, that's fine as well.
 
 Everybody started from zero, and we're always interested in getting to know new people.
 

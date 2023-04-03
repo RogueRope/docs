@@ -39,7 +39,7 @@ You can choose one or many of the following roles:
 
 - **Support**: Welcome committee and greeters, crowd control, tent oversight – if nudging people to do the right thing is your thing, this is the role for you. Candidates must agree to put on a fluorescent jacket.
 
-- **VWB**: very-well-being, people working on first-aid, safety and consent.
+- **FWB**: Friends With Benefits, people working on first-aid, safety and consent.
 
 ### How to Register?
 
