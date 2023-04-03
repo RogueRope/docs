@@ -15,51 +15,31 @@ toc: true
 These principles are a remix of the [Burning Man principles](https://burningman.org/culture/philosophical-center/10-principles/), [the hackerspace blueprint](https://hackerspace.design/) and some stuff we made up ourselves. Praise remix culture!
 
 ## Radical Self-Responsibility
-
-Rogue Rope encourages the individual to discover, exercise and rely on their inner resources. We don’t care about your hang-ups, or politics.  
-Your mental state is also your responsibility. You are what/who you are, and what you consume.
+Rogue Rope encourages individuals to discover, exercise, and rely on their inner resources. Mental states are personal responsibilities. Participants are encouraged to embrace who they are and what they consume without projecting hang-ups or politics onto others.
 
 ## Solutions before Shame
-
-Shizzle will go wrong. This is a given, but let's focus on cleaning up the shizzle rather than blaming others for it.
-
-For example: things will get dirty, and some people will be bothered by this more than others. Rather than playing the blame game if it bothers you so much, wait till the cleaning shift is over. If you feel the need to complain, or to let your inner nag out, go to orga. See what happens.
-
-Empathy is encouraged. In this example, empathy from the people who don't mind a mess towards the people who don't feel happy with it, but also from the clean freaks towards the people who don't mind it so much.
-
-The whole goal is to create a space where people will lose themselves and probably their stuff as well. We won't blame them when they do.
+When things go wrong, focus on finding solutions rather than blaming others. Encourage empathy and understanding between different perspectives. Rogue Rope aims to create a space where people can lose themselves without fear of blame or judgment.
 
 ## Remix Culture
-
-Everything is free and open. If you don’t want something copied, adapted an redistributed, shut your pie-hole and keep it to yourself. We don’t believe in the combination of "intellectual" and "property". Knowledge wants to be free.
+Everything is free and open. Intellectual property is not prioritized; instead, knowledge is meant to be shared and explored freely.
 
 ## Patches Accepted
-
-Rules are meant to evolve over time. We embrace remixes, we love your suggestions. The rules are up on [GitHub](https://github.com/RogueRope/Docs), submit your patches there. If you don't know how to do that, [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us"), we'll help you out.
+Rules are meant to evolve over time. Embrace remixes and suggestions. Submit changes through [GitHub](https://github.com/RogueRope/Docs) or contact the organizers for assistance.
 
 ## Communal Effort
-
-Our community values creative cooperation and collaboration above competition and greed.
+Rogue Rope values creative cooperation and collaboration over competition and greed. The community comes together to support each other and foster a positive atmosphere.
 
 ## Leave No Shit
-
-If you use or borrow something, return it in a better state than when you received it.  
-We are committed not to stuff the organizer with huge cleaning costs or efforts. The organizer isn’t our parent.
+Return borrowed items in a better state than when received. The organizers are not responsible for cleaning up after participants. Everyone should contribute to maintaining a clean and respectful environment.
 
 ## Creative Capitalism
-
-Money is not the root of all evil but keeps people alive and planes in the air. Money is the stuff the enables corruption _and_ Greenpeace. Money is a way of keeping score, money is debt. Money is morally neutral. Cool people aren’t profit motivated, boring people are. _Don’t be boring_.
+Money is morally neutral and can be used for both good and evil. Focus on creativity and passion rather than profit motivation. Don't be boring.
 
 ## Consent: Ask before You Fondle
-
-We want to create a setting where all parties participate in a physical encounter from a place of enthusiasm and autonomy. We believe a yes is yes. 
-
-
-[See the Consent page on this website.]({{<ref "consent.md" >}})
+Create an environment where all parties participate in physical encounters from a place of enthusiasm and autonomy. Yes means yes. [See the Consent page on this website.]({{<ref "consent.md" >}})
 
 ## Yes, You Can!
-
-We value constructive anarchy. We believe in doing rather than talking. Don’t ask, just do. If you fuck up, be sure to be able to reverse the stuff you did to the state it was in before.
+Embrace constructive anarchy and action over discussion. Take initiative, but be prepared to reverse any changes if necessary. Encourage a proactive and engaged community.
 
 One exception: don't start making up rules for others to follow, don't put up signs or make comments that appear to be from orga in the channels. I think tone and content of communication are very important and it annoys me tremendously if other people take this from me. My leadership style is hands-off but it's there nonetheless.
 
