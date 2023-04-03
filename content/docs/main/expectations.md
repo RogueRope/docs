@@ -16,7 +16,7 @@ weight: 15
 toc: true
 ---
 
-To ensure a positive and fulfilling experience for all participants, we have established a set of high-level principles that emphasize safety, inclusivity, personal growth, and community-building. By adhering to these guidelines, we can create an empowering space that fosters creativity, collaboration, and meaningful relationships. We invite you to join us on this transformative journey as we come together to celebrate our shared passions and explore the exciting world of Rogue Rope.
+ To ensure a positive and fulfilling experience for all participants, we have established a set of high-level principles that emphasize safety, inclusivity, personal growth, and community-building. By adhering to these guidelines, we can create an empowering space that fosters creativity, collaboration, and meaningful relationships. We invite you to join us on this transformative journey.
 
 ## Follow these and you should be fine.
 
