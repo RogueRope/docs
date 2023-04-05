@@ -40,7 +40,7 @@ toc: true
 -----
 ### Safety and Accountability
 ![](/images/BvXca4U.jpg)
- Ensure a safe environment by screening applicants for any history of abuse, addressing past behavior, and promoting responsible conduct.
+> Ensure a safe environment by screening applicants for any history of abuse, addressing past behavior, and promoting responsible conduct.
 
 -----
 ### Inclusivity
