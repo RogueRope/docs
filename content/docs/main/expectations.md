@@ -10,7 +10,7 @@ toc: false
 draft: false
 images: []
 menu: 
-  docs:
+  docs
     parent: "overview"
 weight: 15
 toc: true
@@ -21,64 +21,64 @@ toc: true
 
 ----
 
-### Consent and Respect:
+### Consent and Respect
 ![](/images/k0jf4U8.jpg)
 > Prioritize consent, respectful behavior, and understanding boundaries in all interactions.
 
 -----
 
-### Communication:
+### Communication
 ![](/images/1h0hBbV.jpg)
 > Encourage open, honest, and effective communication to establish expectations and ensure the well-being of all participants.
 
 -----
-### Commitment:
+### Commitment
 ![](/images/cnTSZNP.jpg)
 > Foster a sense of community by committing to the entire event and participating actively in activities and programming.
 
 
 -----
-### Safety and Accountability:
+### Safety and Accountability
 ![](/images/BvXca4U.jpg)
  Ensure a safe environment by screening applicants for any history of abuse, addressing past behavior, and promoting responsible conduct.
 
 -----
-### Inclusivity:
+### Inclusivity
 ![](/images/ujTxLsT.jpg)
 > Create a welcoming atmosphere by avoiding cliques or exclusionary behavior, and embracing diversity and social justice.
 
 -----
-### Playfulness and Exploration:
+### Playfulness and Exploration
 ![](/images/Wvm1G2x.jpg)
 > Encourage participants to engage in BDSM play with various partners and be open to new experiences, while respecting individual boundaries and comfort levels.
 
 -----
-### Contribution and Collaboration:
+### Contribution and Collaboration
 ![](/images/mPvcsxO.jpg)
 > Encourage community contributions, such as leading workshops or assisting with event logistics, and promote collaboration among participants.
 
 -----
-### Self-reliance and Personal Growth:
+### Self-reliance and Personal Growth
 ![](/images/vx00fHS.jpg)
 > Support participants' self-sufficiency and personal development by prioritizing self-care and engaging in self-reflection and learning.
 
 -----
-### Immediacy and Presence:
+### Immediacy and Presence
 ![](/images/OxxEzUg.jpg)
 > Emphasize being present, fully engaged, and taking immediate action to address issues that arise during the event.
 
 -----
-### Conflict Resolution:
+### Conflict Resolution
 ![](/images/6URpTy8.png)
 > Address conflicts constructively and empathetically, focusing on solutions and seeking support from the community when needed.
 
 -----
-### Open Sharing and Authenticity:
+### Open Sharing and Authenticity
 ![](/images/u8XkGEj.jpg)
 > Promote open sharing of knowledge, skills, and resources, as well as authenticity in personal interactions.
 
 -----
-### Respect for Diversity:
+### Respect for Diversity
 ![](/images/08doDoY.jpg)
 > Foster an inclusive environment by celebrating differences and actively rejecting discriminatory or exclusionary behavior.
 
