@@ -16,7 +16,9 @@ weight: 15
 toc: true
 ---
 
-To ensure a positive and fulfilling experience for all participants, we have established a set of high-level principles that emphasize safety, inclusivity, personal growth, and community-building. By adhering to these guidelines, we can create an empowering space that fosters creativity, collaboration, and meaningful relationships. We invite you to join us on this transformative journey.
+We want everyone to have a good time, so we made rules for safety, including everyone, learning, and making friends.
+
+Follow these rules to make a great space for working together and making connections.
 
 **Follow these guidelines and you should be fine.**
 
