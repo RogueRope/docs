@@ -6,7 +6,7 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
 lead: What do we ask from you?
 date: 2021-03-13T15:21:01.000+02:00
 lastmod: 2023-03-05T15:21:01.000+02:00
-toc: true
+toc: false
 draft: false
 images: []
 menu: 
