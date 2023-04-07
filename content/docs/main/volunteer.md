@@ -27,7 +27,14 @@ The second volunteer shift we need, is that you help with the cleanup on Sunday.
 
 #### Before the Camp
 
-Please sign up using the designated form for tasks that need to be done before the camp starts.
+Do you want to take a certain role sign up using the designated form for tasks that need to be done before the camp starts.
+
+At the moment we're looking for: 
+* deco leads 
+* pioneering lead
+* Leads for the FWB's : first aid and neuro-liaison
+
+Do you want to take on this role? [Contact us!]({{< ref "/docs/main/contact" >}} "Contact us")
 
 #### During the Camp
 
@@ -43,7 +50,7 @@ You can choose one or many of the following roles:
 
 ### How to Register?
 
-For roles before the camp, please use the designated signup form. For roles during the camp, we will be using a Google sheet. You can sign up for shifts that interest you. If you don't find the time to sign up before you arrive, you will be asked to do so when you check in.
+For roles before the camp,[contact us]({{< ref "/docs/main/contact" >}} "Contact us"). For roles during the camp, we will be using a Google sheet. You can sign up for shifts that interest you. If you don't find the time to sign up before you arrive, you will be asked to do so when you check in.
 
 
 ## But what if there aren't enough volunteers?

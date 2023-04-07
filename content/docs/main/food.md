@@ -28,16 +28,17 @@ As a new addition this year, we'll have bread available throughout the day. Feel
 
 We offer **vegetarian** and **meat** options. When you sign up for a ticket, you will be asked to indicate your preference. Please note that to make the logistics of the menus work, you will need to stick with your choice.
 
-| _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9-12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
-| 16.00 | Snacks | To be confirmed | To be confirmed | To be confirmed | To be confirmed | Leftovers |
-| 19-21 | Dinner  | To be confirmed| To be confirmed | To be confirmed | To be confirmed | --/-- |
-
 Anything beyond vegetarian or meat diets is not within our current kitchen capacity. If you have very specific nutrition needs \(vegan, gluten-free, organic\),we are open to helping you, and can provide those with specific needs access to the kitchen. [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us") and we'll work something out.
 
 As you can see, this is **not** a culinary event, but we're confident that, with your help, we can make this work. So, prepare your taste buds for some nice surprises.
 
+
+
+| _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 9-12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
+| 16.00 | Snacks | To be confirmed | To be confirmed | To be confirmed | To be confirmed | Leftovers |
+| 19-21 | Dinner  | To be confirmed| To be confirmed | Fries-Mobile | To be confirmed | --/-- |
 
 ## Summary : What to Bring Yourself?
 * Snacks and treats (also to share).

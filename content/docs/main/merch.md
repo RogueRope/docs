@@ -17,9 +17,9 @@ toc: true
 * Materials: 100% cotton 
 
 ## Close-Fitting Tailored T-shirt  
-Under development
+Design under development
 
 
 ## Basic Straight T-shirt 
-Under development
+Design under development
 

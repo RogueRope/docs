@@ -15,12 +15,10 @@ weight: 95
 toc: true
 
 ---
-From Monday till wednesday at noon we will build up the campsite for the event.
+Get ready to roll up your sleeves and join us in building up the campsite for our incredible event! From Monday until Wednesday at noon, we're looking for 20 people to help bring our vision to life.
 
-There's room for 20 people to build.
+But wait, this isn't just for the big and strong! We have a long to-do list that includes a wide range of tasks, so there's something for everyone. Whether you're handy with a hammer or have a knack for creative problem-solving, we need your help to make this event a success.
 
-Not just for big/strong people, lots of things on the todo-list, everyone can help.
+And here's the best part: volunteering to build up the campsite is a fantastic way to meet new people and get a flying start to the event. You'll work side-by-side with a group of like-minded individuals, all dedicated to making this the best event possible. Plus, you'll get to exercise your creativity and see your ideas come to life.
 
-Sign up here: https://forms.gle/R7ptCx6uXLiy5F7c9
-
-to do: meer inviting maken, meer duidelijkheid over dagen/taken
+So, what are you waiting for? Sign up now and be a part of something truly special. Just head to our [sign-up form](https://forms.gle/R7ptCx6uXLiy5F7c9) and let us know when you're available. We can't wait to see you there!

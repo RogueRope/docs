@@ -20,7 +20,7 @@ toc: true
 
 * **When:** 02/08/2023 14:00 -&gt; 06/08/2023 16:00
 * **Where:** East of Ghent, West of Antwerp
-* **Cost:** 128€ 
+* **Cost:** 150€
 
 ### Intro
 

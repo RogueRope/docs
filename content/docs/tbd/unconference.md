@@ -23,11 +23,14 @@ Four easy rules for unconference sessions
 
 ## Think ahead
 
-We'll follow the classical un-conference format with post-it notes. Think ahead:
+Now, let's think ahead and prepare for our sessions! We'll be using the classical un-conference format with post-it notes. Here are a few things to keep in mind:
 
-* What are topics/subject you'd like to see covered or would like to know more of?
-* What are topic, subjects, workshops or activities you'd like to share with others?
-* Tip : no need to fall back to the teacher student paradigm. Peer exchange is also encouraged, our content team will announce it like that so expectations are managed.
+What topics or subjects would you like to see covered or learn more about? We want to make sure we're addressing the needs and interests of our community.
+Are there any topics, subjects, workshops, or activities that you'd like to share with others? We believe in peer exchange and want to create an environment where everyone feels comfortable sharing their knowledge and expertise.
+
+And here's a tip: there's no need to fall back on the teacher-student paradigm. We encourage peer exchange and want everyone to feel empowered to contribute in their own unique way.
+
+Our content team will announce the sessions in advance, so you'll have plenty of time to prepare and think about what you'd like to discuss or share. We're excited to see what amazing ideas and insights come out of our unconference sessions!
 
 
 ![Green board with the program from last year](/images/program1.jpeg)

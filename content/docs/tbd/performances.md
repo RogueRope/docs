@@ -12,13 +12,15 @@ weight: "2010"
 toc: true
 
 ---
-All the world's a stage, and all the men and women merely players.
+Welcome to the stage, dear friends! As Shakespeare once said, "All the world’s a stage, and all the men and women merely players." So, we invite you to step up and showcase your incredible talents, whether they're related to rope or not.
 
-We invite you to showcase your talents, whether it's related to rope or not. From spoken word to dance demonstrations, or even a magical act with a bunny, we're excited to see what you can do!
+Are you a spoken word poet with a message to share? A dancer ready to take the floor and move us with your grace? Or maybe you're a magician with a few tricks up your sleeve, and a bunny in your hat? Whatever it is that makes you unique, we want to see it!
 
-Share your unique skills and delight us all.
+At Rogue Rope, we celebrate individuality and creativity, and we want to give you the opportunity to express your amazing talents. Take center stage and delight us all with your performances.
 
-To express your interest in performing, please inform the content coordinators at the camp. Keep in mind that performances may take place outdoors. If you require music, bring your MP3 files on a thumb drive or provide a Spotify playlist. If you need assistance with this, reach out to us in advance, and we'll be happy to help.
+Please let our content coordinators at the camp know if you're interested in performing. Keep in mind that our shows may take place outdoors, adding an extra layer of magic to your performance. If you require music, bring your MP3 files on a thumb drive or provide a Spotify playlist. And don't worry, if you need any assistance, just reach out to us in advance, and we'll be happy to help.
+
+So, the stage is set, and we're eagerly waiting for you to take it. Come and share your passions with us, and let's create unforgettable memories together.
 
 
 ![Burlesque dancers.](/images/perform.png)
