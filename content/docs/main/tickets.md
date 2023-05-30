@@ -51,7 +51,3 @@ Starting from the 8th of April at noon, you can buy a ticket for Rogue Rope Camp
 * 01/04/23 : Sending out vouchers from Batch 0
 * 01/04/23 : Release of full documentation.
 * 08/04/23 : Start of ticket sales.
-* 25/04/23 : Deadline submissions Batch 1
-* 01/05/23 : Sending out vouchers from Batch 1
-* 25/05/23 : Deadline submissions Batch 2
-* 01/06/23 : Sending out vouchers from Batch 2
