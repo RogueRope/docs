@@ -1,8 +1,8 @@
 ---
 title: Things to Bring
-description: Things to Bring
-date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2021-03-13T15:21:01.000+02:00
+description: Essentials for the "Bottoms Up!" event.
+date: 2023-09-01T16:20:01.000+02:00
+lastmod: 2023-09-01T16:20:01.000+02:00
 images: []
 menu: 
   docs:
@@ -12,49 +12,40 @@ toc: true
 lead: ''
 
 ---
+
 ### Basics
 
-* Your ticket with qr-code
-* Rope and other toys
+* Your ticket with QR-code.
+* Rope and other related equipment.
 
 ### Accessories
 
-* A solid cup (reusable, no glass) for your water/tea/coffee/soup **\~ A CUP IS MANDATORY \~**
-* Two old fleece blankets and maybe a pillow.
-* Cutlery (knife, fork, spoon) and a plate
-* A torch with enough batteries and/or LED head torches (these are the best)
-* A water bottle
-* Tent and accessories
-* Ear plugs and sleeping mask (optional). Not everyone may want to sleep when you do!
-
+* A durable cup (reusable, no glass) for beverages. **\~ A CUP IS MANDATORY \~**
+* Cutlery and a plate.
+* Comfort items like a small blanket or cushion for the seating areas.
+* LED torch or small light source, if preferred.
+* Ear plugs and sleeping mask (optional). Dorms will be shared, there will be a snoring option room but it's good to have these just in case.
 
 ### Hygiene
 
-* Soap, shampoo
-* Toothbrush, toothpaste
-* Towel(s)
-* Any medications you may need, both prescription and non-prescription. Note: if your medications need to be kept cool, make sure to make provisions for this. Please [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us") for any questions or concerns.
+* Personal hygiene products like soap, shampoo, and toothbrush.
+* Towel(s).
+* Any medications you may require. If your medications need special provisions, such as refrigeration, [please contact the organizers]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ### Food
 
-* Check the [Food section]({{<ref "food.md" >}}) of this website.
+* Check the [Food section]({{<ref "food.md" >}}) for details on what will be provided and what you might want to bring.
 
 ## Do NOT Bring:
 
-* Kids (<18j)
-* Pets
-* Bad vibes
-* Very power-hungry devices like heaters or coolers
+* Minors (below 18 years old).
+* Pets.
+* Negative energy.
 
-# Leave No Trace
+# Respect the Space
 
-* Ensure you take **all your trash** and belongings back home with you.
-* Keep the space clean and pristine for everyone to enjoy.
-* As there are **no trash cans** on site, consider the following tips:
-    * Bring reusable containers and bags to minimize waste.
-    * Remove excess packaging from items before bringing them to the event.
-    * Carry a small trash bag with you to collect waste throughout the day.
-    * Be mindful of your consumption and only bring what you need.
+* While there won't be tents and outdoor camping, it's essential to be respectful of the indoor venue.
+* Clean up after yourself.
+* Use waste bins provided and aim to minimize waste.
+* Be mindful of shared spaces and ensure everyone has a comfortable experience.
 
-
-![Tent with nice lights surrounding it.](/images/tent.jpg)

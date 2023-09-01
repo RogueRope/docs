@@ -1,12 +1,12 @@
 ---
 title: Volunteer
 description: >
-  Very simple: no-one is employed, every participant pays for their ticket. 
-  We're in this boat together and we can make it conquer the seas or make it crash into a big iceberg. 
-  It's really up to us.
-lead: We need you to volunteer!
-date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2021-03-13T15:21:01.000+02:00
+  Very straightforward: nobody is on payroll, every attendee pays for their ticket. 
+  We're in this venture together, and the success or shortcomings are a collective responsibility.
+  It's genuinely up to us.
+lead: We need your active participation!
+date: 2023-09-01T16:20:01.000+02:00
+lastmod: 2023-09-01T16:20:01.000+02:00
 images: []
 menu: 
   docs:
@@ -15,45 +15,43 @@ weight: 35
 toc: true
 
 ---
-At our camp, we operate on a simple system: no one is paid and every participant pays for their own ticket. This means that we're all in this together, and it's up to us to make it a success. And by "us," we really mean you – we need your help to make this camp run smoothly.
+At "Bottoms Up!", our approach remains collective: no one gets a paycheck and every attendee chips in for their ticket. This means we're all aboard the same ship, steering towards a memorable experience. Your active participation ensures smooth sailing.
 
-There are roles and duties before the camp starts as well as during the camp. For the roles during the camp, we will be using a Google sheet for signups. For the roles before the camp, there will be a separate signup form.
+Roles are available for assistance both prior to and during the event. For roles during the gathering, we'll use a digital signup sheet. For tasks prior to the event, a separate signup method will be employed.
 
-To pitch in, we ask that every participant volunteers at least one time. Most shifts aren't too demanding – for example, cleanup shifts usually only take about 25 minutes.
+We request each attendee to volunteer at least once. Most duties aren't overly taxing. 
 
-The second volunteer shift we need, is that you help with the cleanup on Sunday. This sounds like a drag, but many hands make light work. And over the years we've learned to become very efficient with this.  
+The final volunteer task we anticipate is aiding with the wrap-up on monday, If you want to stay sunday night and help us strike downthat would be great. With collective effort, this typically goes swiftly and smoothly.
 
-### Different Ways to Help
+### How Can You Contribute?
 
-#### Before the Camp
+#### Before the Event
 
-Do you want to take a certain role sign up using the designated form for tasks that need to be done before the camp starts.
+For tasks that need attention before "Bottoms Up!" commences, sign up using the designated form.
 
-At the moment we're looking for: 
-* deco leads 
-* pioneering lead
-* Leads for the FWB's : first aid and neuro-liaison
+Currently, we're on the lookout for: 
+* Decoration coordinators
+* Event setup leads
+* Leads for the FWB's: first aid and well-being liaisons
 
-Do you want to take on this role? [Contact us!]({{< ref "/docs/main/contact" >}} "Contact us")
+Interested in spearheading any of these roles? [Reach out to us!]({{< ref "/docs/main/contact" >}} "Contact us")
 
-#### During the Camp
+#### During the Event
 
-You can choose one or many of the following roles:
+Here are some roles you can consider:
 
-- **Kitcheneer**: Help out in the kitchen by preparing and serving food. You'll chop, slice, peel, heat and distribute, all while spreading good vibes and making people smile.
+- **Hospitality**: Assist in setting up, managing, and overseeing communal areas. Ensure a welcoming and comfortable environment for attendees.
 
-- **Production**: Get things done by moving and rigging equipment, but also be ready to clean the site and improvise. Work smart, not hard.
+- **Production**: Handle equipment, ensure the event space is tidy, and be ready to address any unforeseen needs. Efficiency is key.
 
-- **Support**: Welcome committee and greeters, crowd control, tent oversight – if nudging people to do the right thing is your thing, this is the role for you. Candidates must agree to put on a fluorescent jacket.
+- **Support**: Welcome committee, crowd management, event space oversight – if guiding attendees and ensuring smooth operations sounds appealing, this role might be for you.
 
-- **FWB**: Friends With Benefits, people working on first-aid, safety and consent.
+- **FWB**: Friends With Benefits – those focused on first-aid, attendee well-being, and upholding the ethos of "Bottoms Up!".
 
 ### How to Register?
 
-For roles before the camp,[contact us]({{< ref "/docs/main/contact" >}} "Contact us"). For roles during the camp, we will be using a Google sheet. You can sign up for shifts that interest you. If you don't find the time to sign up before you arrive, you will be asked to do so when you check in.
+For duties before the event, [get in touch with us]({{< ref "/docs/main/contact" >}} "Contact us"). For duties during "Bottoms Up!", we'll utilize a digital signup sheet. If you're unable to commit beforehand, you'll have an opportunity to do so upon arrival.
 
+## What if Volunteer Positions Aren't Filled?
 
-## But what if there aren't enough volunteers?
-
-Then unfortunately, things like food preparation and cleaning may not get done. However, we can always find ways to have fun and make the most of our time together – even if it means lying down in a puddle of mud. :wink:
-
+Should we find ourselves short on volunteers, certain tasks might not be executed as planned. Nonetheless, the core spirit of "Bottoms Up!" is about connection and experience. We trust our attendees to step up and ensure a memorable event for all.

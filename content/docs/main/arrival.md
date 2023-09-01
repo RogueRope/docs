@@ -1,8 +1,8 @@
 ---
 title: Arrival
-description: How to get in and set up.
-date: T15:21:01\+02:00
-lastmod: T15:21:01\+02:00
+description: How to get in and settle.
+date: 2023-09-01T16:20:01.000+02:00
+lastmod: 2023-09-01T16:20:01.000+02:00
 images: []
 menu: 
   docs:
@@ -15,17 +15,16 @@ lead: ''
 
 ## Get to the Location
 
-The site is in the province of East-Flanders. You can get there by car or public transport. The nearest train station is a 3-kilometer walk from the site. The nearest bus stop is a 1-kilometer walk away.
+The venue is located in the Kempen region. You can easily drive to the location. If you're using public transport, the nearest train station is only a short distance away. 
 
-Our camping ground is 200 meters from the main road. **There is no parking on the camp site itself.** You can drive up, take out your bags, check in and then park your car **back on the main road**.
-Take into account: you cannot drive your car onto the camping area! That is only accessible on foot. So, the last 40 meters or so, you will need to drag your stuff.
+Given that "Bottoms Up!" is an indoor event, you won't have much to pack. **Parking is available close to the venue.** After parking, it's just a short walk to the main event space. 
 
-If you bring a camper or trailer, we **might** be able to put that on the field using our combined people-power. Important: if you plan to bring a van, camper, or trailer, **contact us to make sure there is some space.**
+Remember, this isn't a camping event, so there's no need for tents or bulky equipment. If you're considering bringing larger items or have specific requirements, **please contact us in advance** to ensure smooth accommodation.
 
-## Give the Greeter your Ticket with the QR code
+## Present Your Ticket with the QR Code
 
-You made it! Make sure to bring your order confirmation with your qr-code, so we can verify payment. Also double check that you're wearing white socks in sandals! You will get a [release statement]({{<ref "release-statement.md" >}}) to sign.
+Welcome! Ensure you have your order confirmation with your QR code for swift check-in. This helps us verify your payment and get you settled in quickly. 
 
-You will be asked to sign up for a shift of work... This could be cleaning up, going to the bakery or making sure the fire is hot. As you arrive, we will ask you to put your name down.
+While we won't be checking for white socks in sandals this time, we do want to ensure everyone's on the same page. On arrival, you'll be provided with a brief overview of the event and any last-minute updates.
 
-Now it's time to relax, set up your tent and share a drink with us!
+Now, it's time to immerse yourself in the experience. Relax, mingle, and prepare for the transformative journey that "Bottoms Up!" promises.

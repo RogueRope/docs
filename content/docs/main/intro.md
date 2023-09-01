@@ -1,11 +1,9 @@
 ---
-title: Rogue Rope Camp
-description: 'Rogue rope is focused on infrastructure: we provide a space, a place
-  to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
-  and power, toilets and warm showers.'
-lead: What is Rogue Rope Camp?
-date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2023-03-05T15:21:01.000+02:00
+title: Bottoms Up!
+description: 'Bottoms Up! is focused on the unique experience of the bottom in rope. We provide a spacious indoor venue, basic amenities akin to a budget hostel, and a transformative journey through ropes. Expect sensory and emotional explorations, workshops, and more.'
+lead: What is Bottoms Up!?
+date: 2023-09-01T16:20:01.000+02:00
+lastmod: 2023-09-01T16:20:01.000+02:00
 toc: true
 draft: false
 images: []
@@ -16,20 +14,21 @@ weight: 10
 toc: true
 ---
 
+
 ### The Details
 
-* **When:** 02/08/2023 14:00 -&gt; 06/08/2023 16:00
-* **Where:** East of Ghent, West of Antwerp
-* **Cost:** 150€
+* **When:** 04/01/2023 14:00 -&gt; 07/01/2023 late at night
+* **Where:** Flanders (Indoor Setting)
+* **Cost:** [To be determined or specify if known]
 
 ### Intro
 
-Welcome to the **fourth** edition of Rogue Rope Camp, where we come together to learn, play, and grow as a community. Our focus is on rope, but we also value self-organization and resourcefulness. This camp is entirely run by volunteers, so we rely on **everyone** to pitch in and help with tasks such as food preparation, building and maintenance, cleaning, and taking care of each other.
+Welcome to the **inaugural** indoor edition of Bottoms Up!, where we delve deep into the sensory and emotional journey of the bottom in rope. While our summer camps have been a playground under the open skies, this winter we bring the magic indoors. The essence remains: to learn, play, and nurture our rope community.
 
-We believe that by working together and supporting each other, we can create a **truly special and memorable experience** for everyone. At Rogue Rope, we provide the necessary infrastructure to make your stay comfortable and enjoyable, including a space to pitch your tent, food and drink, suspension points for rope activities, a sound system for music and events, power and water, toilets and warm showers to freshen up.
+At Bottoms Up!, we’ve taken care of the basics: a spacious indoor venue to host our events, bunk beds for a cozy night's sleep, and of course, the ropes and suspension points for our central theme. Add to this mix a sound system for ambiance, and basic amenities for comfort.
 
-However, it's the collective effort of **all participants** that make this event truly remarkable. From leading workshops to creating an inclusive environment, every contribution is appreciated and valuable. There are no spectators here, only participants. We see this camp as a playground, a blank canvas waiting to be filled with your ideas and talents.
+But, as always, it's the heartbeats of **all participants** that elevate this gathering to its true potential. Whether you're sharing insights in our unconference, tying or getting tied, or simply being present in the moment, your presence and energy are what will make these days memorable.
 
-Please note that Rogue Rope Camp is an intense experience and **may not be suitable for everyone**. We encourage all potential participants to carefully consider whether this event aligns with their interests and comfort levels. With that said, we welcome anyone who is eager to participate and contribute to the event.
+This event may present an **intense experience** and might not be everyone’s cup of tea. It's crucial for attendees to align with the ethos and intent behind Bottoms Up!. However, if you're keen to explore, connect, and contribute, we're excited to welcome you.
 
-Thank you for your interest in Rogue Rope Camp, and we look forward to having you join our community of passionate and dedicated volunteers. Let's create an unforgettable event together!
+Thank you for your interest in Bottoms Up! We're eager to embark on this new journey with our cherished community. Together, let's craft an event that resonates, connects, and celebrates the depth of the bottom's journey in rope.

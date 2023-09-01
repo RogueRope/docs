@@ -1,9 +1,9 @@
 ---
 title: "Food"
-description: Much food, such yummy.
-lead: "Expect basic but good \'camp food\'. We will provide some, but you might have to bring some as well. Check out the timetable below to plan for what additional food to bring."
-date: T15:21:01\+02:00
-lastmod: T15:21:01\+02:00
+description: Delicious offerings to keep your energy up.
+lead: "Expect hearty meals throughout the event. We'll provide the main courses, but feel free to bring any special snacks or additions. Refer to the timetable below to see when meals will be served."
+date: 2023-09-01T16:20:01.000+02:00
+lastmod: 2023-09-01T16:20:01.000+02:00
 draft: false
 images: []
 menu: 
@@ -12,36 +12,30 @@ menu:
 weight: 50
 toc: true
 ---
+
 # Food
 
 ## What's the general idea?
 
-Bring a cooler, and we'll supply the ice!
+No need for coolers, we have public fridges available for attendees to keep their food and beverages cold!
 
-Each morning, we'll gather for a communal brunch. We'll provide the bread, coffee, and tea. Anything else you'd like on your bread, please bring along and store it in your cooler to keep it fresh. If you need to purchase additional groceries, supermarkets are conveniently located within 2 km.
+Each morning, a communal brunch will be served. Expect bread, coffee, and tea. For any additional toppings or special preferences, you can store them in the public fridges.
 
-In the afternoon, we'll offer a light snack, such as hummus, salad, or ice cream. For dinner, we'll serve a warm meal, typically featuring a BBQ and the ever-popular frites-mobile.
+In the afternoon, we'll have a light snack on offer, and for dinner, expect a hearty warm meal. Specifics will be shared as the date approaches.
 
-While the camp provides basic sustenance, it's not an all-day buffet. So, if you enjoy cornflakes in the morning or like to snack throughout the day, bring your favorite munchies, nuts, granola bars, fruit, or chocolate bars. Customize your camp experience to your liking!
+Remember, while we provide meals, if you have specific snacks or dietary supplements you'd like to consume, feel free to bring them along. With public fridges available, storage is easy.
 
-As a new addition this year, we'll have bread available throughout the day. Feel free to make yourself a sandwich whenever you please.
+Both **vegetarian** and **meat** options will be available. When purchasing your ticket, you'll be prompted to indicate your preference. For any other specific dietary needs, please [contact us]({{< ref "/docs/main/contact" >}} "Contact us") in advance.
 
-We offer **vegetarian** and **meat** options. When you sign up for a ticket, you will be asked to indicate your preference. Please note that to make the logistics of the menus work, you will need to stick with your choice.
-
-Anything beyond vegetarian or meat diets is not within our current kitchen capacity. If you have very specific nutrition needs \(vegan, gluten-free, organic\),we are open to helping you, and can provide those with specific needs access to the kitchen. [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us") and we'll work something out.
-
-As you can see, this is **not** a culinary event, but we're confident that, with your help, we can make this work. So, prepare your taste buds for some nice surprises.
-
-
+This event is focused on the rope experience, but with everyone's contribution, we're sure to have some delightful meals!
 
 | _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 9-12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
 | 16.00 | Snacks | To be confirmed | To be confirmed | To be confirmed | To be confirmed | Leftovers |
-| 19-21 | Dinner  | To be confirmed| To be confirmed | Fries-Mobile | To be confirmed | --/-- |
+| 19-21 | Dinner  | To be confirmed| To be confirmed | Special Meal | To be confirmed | --/-- |
 
-## Summary : What to Bring Yourself?
-* Snacks and treats (also to share).
-* A cooler. We will provide ice cubes!
-* Your own drinks and sodas. Please note there will be **no bar** on site.
-* As with drinks, provide your own favorite bread covering (cheese/meat/jam/vegan spread or even pindakaas)
+## Summary: What to Bring Yourself?
+* Snacks and treats (also to share with others).
+* Your preferred beverages. Remember, store them in the public fridges.
+* Favorite toppings or special dietary items, as you see fit.

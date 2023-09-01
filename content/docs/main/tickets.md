@@ -12,42 +12,31 @@ toc: true
 lead: ''
 
 ---
-There are 3 simple steps for you to complete to get in:
+# Tickets
 
-## Step 1: Read this Document
+For "Bottoms Up!", our selection process is a bit unique. Only those who made it through the selection of our summer event are invited to this winter gathering. However, if you wish to bring along a partner or a close friend, please let us know. On Sunday, we'll be hosting open activities accessible to everyone.
 
-Doing really well there! Almost done.
+To secure your spot at "Bottoms Up!", please follow these steps:
 
-(You didn't just skip all the info to get on this page, did you?)
+## Step 1: Familiarize Yourself with This Document
+You're on the right track by reading this! Keep going.
 
-Have any questions or comments? [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
+(Please don't just skip ahead. This information is important.)
 
-## Step 2: Do the registration thing. 
+If you have any questions or need clarification, don't hesitate to get in touch.
 
-As some of you may already be aware, we have been organizing an annual event known as Rogue Rope Camp for several years now. In the past, we have had a relaxed approach towards the selection of participants, as long as they were not a threat to the safety of others. However, we have decided to change the way participants are selected this year.
+## Step 2: Confirm Your Attendance
+You might already be familiar with our annual Rogue Rope Camp. While previously our selection was more open, this year, only those vetted during the summer event will receive invites for "Bottoms Up!". 
 
-Going forward, participation in Rogue Rope Camp will be considered a privilege, not a right. We aim to create a great event, and for that, we require individuals who not only prioritize safety but also contribute positively to the community. Therefore, we have delegated the selection process to a panel of five trusted individuals from different geographic areas. These individuals are well-versed in RRC culture and possess valuable insights into the scene and the community.
+The essence of our event is to create a cohesive and inclusive community. Your presence during our summer event has shown us your dedication and positive contribution to our community. 
 
-The panel members will remain anonymous. Hans will not participate in the judging process.
+If you're thinking of bringing along a partner or close friend, please reach out to us. They, too, will need to align with the ethos and intent of "Bottoms Up!".
 
-> "For some people, the registration process is scary: you state what you want and what you offer. You might get a yes or a no. If this makes you uncomfortable, you're probably not ready for the consent negotiations you need to do at camp."
+## Step 3: Secure Your Ticket
+From the end of September, you'll receive a special voucher code. Use this code to purchase your ticket and confirm your spot at "Bottoms Up!". We look forward to sharing this unique experience with you!
 
-We have published the [guidelines and registration for Rogue Rope Camp](https://doplr.xyz/guidelines.php). These guidelines will serve as a code of conduct and will also guide the judges in their decision-making.
-
-We understand that some may have concerns with this new process. However, we want to reiterate that participation in Rogue Rope Camp is a privilege, not a right.
-
-The judges will evaluate individuals based on their ability to  make positive contributions to the community and their compatibility with other participants. If your application is declined, please understand that various factors go into the decision-making process.
-
-Thank you for your understanding.
-
-## Step 3: Purchase a Ticket
-Starting from the 8th of April at noon, you can buy a ticket for Rogue Rope Camp. Secure your spot and join us for an unforgettable experience!
-
-
-## Timeline
-
-* 01/03/23 : Initial release of this document and the registration form.
-* 25/03/23 : Deadline submissions Batch 0
-* 01/04/23 : Sending out vouchers from Batch 0
-* 01/04/23 : Release of full documentation.
-* 08/04/23 : Start of ticket sales.
+## Timeline:
+- **01/09/23**: Release of this document.
+- **30/09/23**: Voucher codes sent out to those vetted during the summer event.
+- **01/10/23**: Complete event details and documentation released.
+- **08/10/23**: Ticket sales begin for "Bottoms Up!".
