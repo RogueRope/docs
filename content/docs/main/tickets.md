@@ -23,7 +23,7 @@ Doing really well there! Almost done.
 Have any questions or comments? [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Step 2: Purchase a Ticket
-Starting from the 8th of April at noon, you can buy a ticket for Rogue Rope Winter. Secure your spot and join us for an unforgettable experience!
+Starting from the 8th of April at noon, you can buy a ticket for Bottoms Up!. Secure your spot and join us for an unforgettable experience!
 We will 
 
 

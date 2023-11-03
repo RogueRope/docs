@@ -1,9 +1,9 @@
 ---
-title: Rogue Rope Winter
+title: Bottoms Up!
 description: 'Rogue rope is focused on infrastructure: we provide a space, a place
   to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
   and power, toilets and warm showers.'
-lead: What is Rogue Rope Winter?
+lead: What is Bottoms Up!?
 date: 2021-03-13T15:21:01.000+02:00
 lastmod: 2023-03-05T15:21:01.000+02:00
 toc: true
@@ -16,14 +16,15 @@ weight: 10
 toc: true
 ---
 
+![](/images/banner.jpeg)
+
 ### The Details
 
-* **When:** 02/08/2023 14:00 -&gt; 06/08/2023 16:00
-* **Where:** East of Ghent, West of Antwerp
+* **When:** 04/01/2024 14:00 -&gt; 07/01/2024 16:00
+* **Where:** East of Antwerp, West of Lommel
 * **Cost:** 150€
 
 ### Intro
-![](/images/banner.jpeg)
 
 Welcome to the inaugural indoor edition of Bottoms Up!, where we delve deep into the sensory and emotional journey of the bottom in rope. While our summer camps have been a playground under the open skies, this winter we bring the magic indoors. The essence remains: to learn, play, and nurture our rope events.
 

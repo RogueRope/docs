@@ -19,7 +19,7 @@ We don't clean up after you. **I am not your caregiver (but you can call me dadd
 
 ## What Should I Do with my Rubbish?
 
-One of the fundamental ideas of Leave No Trace (LNT) is : **Pack it in, pack it out**. Everything you brought to Rogue Rope Winter, you will have to take away before the end of the event.
+One of the fundamental ideas of Leave No Trace (LNT) is : **Pack it in, pack it out**. Everything you brought to Bottoms Up!, you will have to take away before the end of the event.
 
 **NEVER LET MOOP HIT THE GROUND. Clean as you go. MOOP attracts more MOOP. When you see trash on the ground, pick it up and take it with you to dispose of it.**
 
