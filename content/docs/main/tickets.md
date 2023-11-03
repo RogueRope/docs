@@ -23,8 +23,12 @@ Doing really well there! Almost done.
 Have any questions or comments? [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Step 2: Purchase a Ticket
-Starting from the 8th of April at noon, you can buy a ticket for Bottoms Up!. Secure your spot and join us for an unforgettable experience!
-We will 
+
+Bottoms Up! Voucher Ticket: Reserved for those who have been previously vetted by our community, this ticket is your all-access pass to the intimate and trusted space of Bottoms Up! With this voucher, you’re recognized as a familiar face, someone who understands the nuances of our gatherings and is ready to dive back into the sensory and emotional exploration that defines us. It’s more than an entry—it’s a testament to the trust and experiences shared within our circle.
+
+Bottoms Up! Open Ticket: Curious newcomers and seasoned practitioners alike are welcome to purchase this ticket. However, to ensure the safety and harmony of our event, Open Tickets require confirmation by our team before your spot is secured. This is to preserve the integrity and ethos of Bottoms Up!, maintaining a space where every participant can fully immerse in the experience with confidence and comfort. Your journey begins here, and we can’t wait to explore the possibilities with you.
+
+Have any questions or comments? [Get in touch]({{< ref "/docs/main/contact" >}} "Contact us").
 
 
 ## Timeline

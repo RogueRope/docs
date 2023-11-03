@@ -13,12 +13,11 @@ toc: true
 
 ---
 
-For our regular visitors, here are the most important changes from last year:
+For our regular visitors, here are the most important changes from the summer event:
 
 ## Infra
 
-* More coziness! 
+* Nice, warm and dry inside. More coziness! 
 * More rope space + bamboo suspension points.
-* Two words: Bouncy Balls!
 
-In addition to these improvements, we have also made significant strides in enhancing the overall experience for our visitors this year. We have taken all of the feedback from last year's event and used it to fuel our innovations and create an even better event this year. 
+In addition to these improvements, we have also made significant strides in enhancing the overall experience for our visitors this year. We have taken all of the feedback from last year's event and used it to fuel our innovations and create an even better event this time. 
