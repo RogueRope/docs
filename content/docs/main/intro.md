@@ -23,13 +23,16 @@ toc: true
 * **Cost:** 150€
 
 ### Intro
+![](/images/banner.jpeg)
 
-Welcome to the **fourth** edition of Rogue Rope Winter, where we come together to learn, play, and grow. Our focus is on rope, but we also value self-organization and resourcefulness. This camp is entirely run by volunteers, so we rely on **everyone** to pitch in and help with tasks such as food preparation, building and maintenance, cleaning, and taking care of each other.
+Welcome to the inaugural indoor edition of Bottoms Up!, where we delve deep into the sensory and emotional journey of the bottom in rope. While our summer camps have been a playground under the open skies, this winter we bring the magic indoors. The essence remains: to learn, play, and nurture our rope events.
 
-We believe that by working together and supporting each other, we can create a **truly special and memorable experience** for everyone. At Rogue Rope, we provide the necessary infrastructure to make your stay comfortable and enjoyable, including a space to pitch your tent, food and drink, suspension points for rope activities, a sound system for music and events, power and water, toilets and warm showers to freshen up.
+At Bottoms Up!, we’ve taken care of the basics: a spacious indoor venue to host our events, bunk beds for a cozy night’s sleep, and of course, the ropes and suspension points for our central theme. Add to this mix a sound system for ambiance, and basic amenities for comfort.
 
-However, it's the collective effort of **all participants** that make this event truly remarkable. From leading workshops to creating an inclusive environment, every contribution is appreciated and valuable. There are no spectators here, only participants. We see this camp as a playground, a blank canvas waiting to be filled with your ideas and talents.
+But, as always, it’s the heartbeats of all participants that elevate this gathering to its true potential. Whether you’re sharing insights in our unconference, tying or getting tied, or simply being present in the moment, your presence and energy are what will make these days memorable.
 
-Please note that Rogue Rope Winter is an intense experience and **may not be suitable for everyone**. We encourage all potential participants to carefully consider whether this event aligns with their interests and comfort levels. With that said, we welcome anyone who is eager to participate and contribute to the event.
+This event may present an intense experience and might not be everyone’s cup of tea. It’s crucial for attendees to align with the ethos and intent behind Bottoms Up!. However, if you’re keen to explore, connect, and contribute, we’re excited to welcome you.
 
-Thank you for your interest in Rogue Rope Winter, and we look forward to having you join our group of passionate and dedicated volunteers. Let's create an unforgettable event together!
+What sets Bottoms Up! apart is our unique approach. We are not about accumulating new knowledge through workshops; instead, our focus is on utilizing the knowledge that participants already possess to create profound experiences. It’s about bringing your personal understanding of rope into a shared space where skills become a means to facilitate deeper human connection. Bring your experience, your openness, and let’s weave together moments that not only last for the days we’re together but linger in our memories, our senses, and our bonds.
+
+Thank you for your interest in Bottoms Up! We’re eager to embark on this new journey with our cherished friends. Together, let’s craft an event that resonates, connects, and celebrates the depth of the bottom’s journey in rope.
