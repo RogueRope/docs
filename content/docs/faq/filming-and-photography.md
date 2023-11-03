@@ -1,7 +1,7 @@
 ---
 title: "Photography"
 description: "No pics without consent!"
-lead: "Always get consent before you film or photograph someone at Rogue Rope Camp."
+lead: "Always get consent before you film or photograph someone at Rogue Rope Winter."
 date: T15:21:01\+02:00
 lastmod: T15:21:01\+02:00
 draft: false
@@ -17,7 +17,7 @@ toc: true
 
 If you have a dispute with someone about photography, please let the organizer know. Your right to take someone’s photo and publish it **never** over-rules their right to privacy! If posting photos onto FetLife or other social networking sites, **MAKE 100% SURE** that **EVERYONE** featured in your photos is happy for them to be posted. You should not be tagging people online unless you have their explicit permission to do so.
 
-If you have any questions about photography or filming at Rogue Rope Camp, please [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").
+If you have any questions about photography or filming at Rogue Rope Winter, please [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").
 
 ## Do NOT Post Pictures of the Campsite!
 
@@ -28,6 +28,6 @@ If we spot a picture that clearly shows where the event took place, we will span
 
 If you want to make a picture of someone where identifiable parts are in the background, feel free to do so, but just don't publish them. Take extra care in regards to social media, you might think it's fun to have a pseudo-anonymous Insta, FB, YouTube or Twitter account, but when you publish a picture, often more is uploaded than you might assume.
 
-## Can I Fly my Drone at Rogue Rope Camp?
+## Can I Fly my Drone at Rogue Rope Winter?
 
 Yes, but respect relevant laws and be cool.

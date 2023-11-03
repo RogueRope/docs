@@ -37,7 +37,7 @@ Follow these rules to make a great space for working together and making connect
 -----
 ## Commitment
 ![](/images/cnTSZNP.jpg)
-> Contribute to our sense of community by committing to the entire event and participating actively in activities and programming.
+> Contribute to our sense of togehterness by committing to the entire event and participating actively in activities and programming.
 
 
 -----
@@ -59,7 +59,7 @@ Follow these rules to make a great space for working together and making connect
 -----
 ## Contribution and Collaboration
 ![](/images/mPvcsxO.jpg)
-> Consider contributing to our community by leading workshops or assisting with event logistics, and actively collaborate with your fellow participants.
+> Consider contributing to our events by leading workshops or assisting with event logistics, and actively collaborate with your fellow participants.
 
 
 -----
@@ -75,7 +75,7 @@ Follow these rules to make a great space for working together and making connect
 -----
 ## Conflict Resolution
 ![](/images/6URpTy8.png)
-> Resolve conflicts constructively and empathetically, focusing on solutions and seeking support from our community when needed.
+> Resolve conflicts constructively and empathetically, focusing on solutions and seeking support from our peer group  when needed.
 
 -----
 ## Open Sharing and Authenticity

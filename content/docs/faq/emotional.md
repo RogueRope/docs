@@ -12,7 +12,7 @@ weight: "1130"
 toc: true
 
 ---
-Things may get chaotic at Rogue Rope Camp. For example, interacting might feel too intense at times, and/or you may feel a bit alone or alienated, without familiar comforts to rely on. But there are plenty of ways to deal with this!
+Things may get chaotic at Rogue Rope Winter. For example, interacting might feel too intense at times, and/or you may feel a bit alone or alienated, without familiar comforts to rely on. But there are plenty of ways to deal with this!
 
 Here are some tips:
 

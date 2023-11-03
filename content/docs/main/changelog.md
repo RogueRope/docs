@@ -22,5 +22,3 @@ For our regular visitors, here are the most important changes from last year:
 * Two words: Bouncy Balls!
 
 In addition to these improvements, we have also made significant strides in enhancing the overall experience for our visitors this year. We have taken all of the feedback from last year's event and used it to fuel our innovations and create an even better event this year. 
-
-By concentrating on fostering a cohesive and inclusive community, we hope to make this year's Rogue Rope event even more memorable and transformative for everyone involved.
