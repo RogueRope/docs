@@ -7,8 +7,8 @@ lastmod: 2023-03-08T15:21:01.000+02:00
 images: []
 menu: 
   docs:
-    parent: "faq"
-weight: "1005"
+    parent: "wellbeing"
+weight: 10
 toc: false
 
 ---

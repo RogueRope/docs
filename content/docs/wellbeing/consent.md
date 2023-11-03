@@ -10,8 +10,8 @@ lastmod: T15:21:01\+02:00
 images: []
 menu: 
   docs:
-    parent: "faq"
-weight: "1010"
+    parent: "wellbeing"
+weight: 40
 toc: true
 
 ---

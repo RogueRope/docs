@@ -11,6 +11,12 @@
   url = "/docs/faq/"
 
 [[docs]]
+  name = "Wellbeing"
+  weight = 70
+  identifier = "wellbeing"
+  url = "/docs/wellbeing/"
+
+[[docs]]
   name = "Opportunities"
   weight = 80
   identifier = "opportunities"

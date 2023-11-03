@@ -8,7 +8,7 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: "1005"
+weight: 1005
 toc: false
 
 ---
