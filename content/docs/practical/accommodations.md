@@ -3,8 +3,8 @@ title: Accommodations
 description: >
   This winter, trade the tent for a bunk bed in our communal dormitory style accommodations. Think budget hostel vibes, with the warmth and camaraderie of a shared space.
 lead: Embrace the cozy hostel experience with our indoor bunk bed setup.
-date: T15:21:01+02:00
-lastmod: T15:21:01+02:00
+date: 2023-10-06T13:37:00+00:00
+lastmod: 2023-10-06T13:37:00+00:00
 images: []
 weight: 50
 toc: true

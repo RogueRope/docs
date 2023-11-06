@@ -2,8 +2,8 @@
 title: "Participation"
 description: "At Bottoms Up!, your uniqueness adds to the magic. Join us in creating an unforgettable event!"
 lead: "Your talents, time, and enthusiasm are the soul of Bottoms Up!"
-date: T15:21:01+02:00
-lastmod: T15:21:01+02:00
+date: 2023-10-06T13:37:00+00:00
+lastmod: 2023-10-06T13:37:00+00:00
 images: []
 menu: 
   docs:

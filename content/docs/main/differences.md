@@ -2,8 +2,8 @@
 title: Differences
 description: What is different from summer?
 lead: What is different from our summer or other events?
-date: T15:21:01\+02:00
-lastmod: 2023-03-05T15:21:01.000+02:00
+date: 2023-10-06T13:37:00+00:00
+lastmod: 2023-10-06T13:37:00+00:00
 images: []
 menu: 
   docs:

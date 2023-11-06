@@ -4,8 +4,8 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
   to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
   and power, toilets and warm showers.'
 lead: What do we ask from you?
-date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2023-03-05T15:21:01.000+02:00
+date: 2023-10-06T13:37:00+00:00
+lastmod: 2023-10-06T13:37:00+00:00
 toc: false
 draft: false
 images: []

@@ -2,8 +2,8 @@
 title: "Conscious Care"
 description: "A collective effort towards a tidy and comfortable space."
 lead: "Not just clean, but consciously cared for by all."
-date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2023-03-08T15:21:01.000+02:00
+date: 2023-10-06T13:37:00+00:00
+lastmod: 2023-10-06T13:37:00+00:00
 images: []
 menu: 
   docs:
