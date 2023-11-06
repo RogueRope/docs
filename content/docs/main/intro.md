@@ -20,7 +20,7 @@ toc: true
 
 ### The Details
 
-* **When:** 04/01/2024 14:00 -&gt; 07/01/2024 16:00
+* **When:** 04/01/2024 14:00 -&gt; 07/01/2024 16:00 
 * **Where:** East of Antwerp, West of Lommel
 * **Cost:** 150€
 
