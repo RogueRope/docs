@@ -20,4 +20,4 @@ __TLDR__: We do not use cookies and we do not collect any personal data.
 
 ## Contact us
 
-[contact us]({{< ref "/docs/main/contact" >}} "Contact us") if you have any questions.
+[contact us]({{< ref "/docs/practical/contact" >}} "Contact us") if you have any questions.

@@ -36,7 +36,7 @@ From [Project Respect](https://www.yesmeansyes.com/consent/) We believe that eve
 ## Let us know! 
 
 **Please**, if you have had issues with someone, seen red flags or witnessed inappropriate behavior of someone on the ‘going-list’, **let us know**.
-You can use Fetlife messages or [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us") in some other way.
+You can use Fetlife messages or [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us") in some other way.
 Feel free to use a pseudonymous account by creating a new mail address with protonmail/yahoo/fastmail/… 
 
 Please describe the issues and propose a way for us to deal with them. Does this person need someone to work with them on their behavior? Could we assist in facilitating [restorative justice](https://en.wikipedia.org/wiki/Restorative_justice)? Can they still attend but do we need to keep an eye on them? Can they attend if they promise not to interact with you? Or is the best solution for them not to attend the event?
@@ -47,6 +47,4 @@ We will assess the situation and try to think of the best solution, after which 
 
 If you want to learn more on the subject, check this elaborate write-up by [La Quarta Corda](https://www.laquartacorda.it/en/consent/).
 
-![Guy saying oh yes](/images/ohyes.webp)
-
-**If you want to help shape the consent/dungeon crew, [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").**
+**If you want to help shape the consent/dungeon crew, [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us").**

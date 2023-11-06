@@ -11,12 +11,12 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "overview"
+    parent: "vision"
 weight: 10
 toc: true
 ---
 
-![](/images/banner.jpeg)
+![](/images/banner.png)
 
 ### The Details
 
@@ -26,7 +26,7 @@ toc: true
 
 ### Intro
 
-Welcome to the inaugural indoor edition of Bottoms Up!, where we delve deep into the sensory and emotional journey of the bottom in rope. While our summer camps have been a playground under the open skies, this winter we bring the magic indoors. The essence remains: to learn, play, and nurture our rope events.
+Welcome to the inaugural indoor edition of _Bottoms Up!_, where we delve deep into the sensory and emotional journey of the bottom in rope. While our summer camps have been a playground under the open skies, this winter we bring the magic indoors. The essence remains: to learn, play, and nurture our rope events.
 
 At Bottoms Up!, we’ve taken care of the basics: a spacious indoor venue to host our events, bunk beds for a cozy night’s sleep, and of course, the ropes and suspension points for our central theme. Add to this mix a sound system for ambiance, and basic amenities for comfort.
 
@@ -34,6 +34,6 @@ But, as always, it’s the heartbeats of all participants that elevate this gath
 
 This event may present an intense experience and might not be everyone’s cup of tea. It’s crucial for attendees to align with the ethos and intent behind Bottoms Up!. However, if you’re keen to explore, connect, and contribute, we’re excited to welcome you.
 
-What sets Bottoms Up! apart is our unique approach. We are not about accumulating new knowledge through workshops; instead, our focus is on utilizing the knowledge that participants already possess to create profound experiences. It’s about bringing your personal understanding of rope into a shared space where skills become a means to facilitate deeper human connection. Bring your experience, your openness, and let’s weave together moments that not only last for the days we’re together but linger in our memories, our senses, and our bonds.
+What sets _Bottoms Up!_ apart is our unique approach. We are not about accumulating new knowledge through workshops; instead, our focus is on utilizing the knowledge that participants already possess to create profound experiences. It’s about bringing your personal understanding of rope into a shared space where skills become a means to facilitate deeper human connection. Bring your experience, your openness, and let’s weave together moments that not only last for the days we’re together but linger in our memories, our senses, and our bonds.
 
-Thank you for your interest in Bottoms Up! We’re eager to embark on this new journey with our cherished friends. Together, let’s craft an event that resonates, connects, and celebrates the depth of the bottom’s journey in rope.
+Thank you for your interest in _Bottoms Up!_ We’re eager to embark on this new journey with our cherished friends. Together, let’s craft an event that resonates, connects, and celebrates the depth of the bottom’s journey in rope.

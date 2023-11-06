@@ -1,31 +1,44 @@
 [[docs]]
-  name = "Overview"
+  name = "Vision"
   weight = 10
-  identifier = "overview"
+  identifier = "vision"
   url = "/docs/main/"
 
+
 [[docs]]
-  name = "Faq"
-  weight = 70
-  identifier = "faq"
-  url = "/docs/faq/"
+  name = "Practical"
+  weight = 20
+  identifier = "practical"
+  url = "/docs/practical/"
 
 [[docs]]
   name = "Wellbeing"
-  weight = 70
+  weight = 30
   identifier = "wellbeing"
   url = "/docs/wellbeing/"
 
 [[docs]]
+  name = "Faq"
+  weight = 50
+  identifier = "faq"
+  url = "/docs/faq/"
+
+[[docs]]
   name = "Opportunities"
-  weight = 80
+  weight = 40
   identifier = "opportunities"
   url = "/docs/tbd/"
 
 [[main]]
-  name = "Docs"
+  name = "Home"
   url = "/docs/main/intro/"
   weight = 10
+
+[[main]]
+  name = "Manifesto"
+  url = "/docs/main/manifesto/"
+  weight = 20
+
 
 [[social]]
   name = "Twitter"

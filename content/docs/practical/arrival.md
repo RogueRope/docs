@@ -6,7 +6,7 @@ lastmod: T15:21:01\+02:00
 images: []
 menu: 
   docs:
-    parent: "overview"
+    parent: "practical"
 weight: 30
 toc: true
 lead: ''

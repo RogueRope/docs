@@ -17,7 +17,7 @@ toc: true
 
 If you have a dispute with someone about photography, please let the organizer know. Your right to take someone’s photo and publish it **never** over-rules their right to privacy! If posting photos onto FetLife or other social networking sites, **MAKE 100% SURE** that **EVERYONE** featured in your photos is happy for them to be posted. You should not be tagging people online unless you have their explicit permission to do so.
 
-If you have any questions about photography or filming at our winter event, please [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us").
+If you have any questions about photography or filming at our winter event, please [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us").
 
 ## Do NOT Post Pictures of the Site!
 

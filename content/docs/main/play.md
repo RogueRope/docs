@@ -1,31 +1,35 @@
 ---
 title: Play
-description: Anything goes!
-lead: Kinky people play dark games.
-date: 2021-03-13T15:21:01.000+02:00
-lastmod: 2021-03-13T15:21:01.000+02:00
+description: Embrace your desires!
+lead: The canvas of kink is vast and varied.
+date: 2023-11-03T15:21:01.000+02:00
+lastmod: 2023-11-03T15:21:01.000+02:00
 images: []
 menu: 
   docs:
-    parent: "overview"
-weight: 80
+    parent: "vision"
+weight: 30
 toc: true
 
 ---
-## Rope Play
 
-Although you can basically use the site and infrastructure to do whatever you want, rope play is the main course of our menu. The setup will reference this.
+## Inclusive Rope Revelry
 
-Traditionally, we welcome rope play of _any_ level. There's this misconception that you have to be good with ropes to partake in Rogue Rope events. We don't know where this came from, but would like to stress that this is _not_ the case. Everyone is welcome. Everyone who wants to play with ropes should feel free to come and learn. Also, if your rope handling is basic, and you're happy with it and not interested to learn more, that's fine. If you want to try new stuff and have someone spot you, that's fine as well.
+At the heart of our gathering is rope play, an open invitation to all who wish to explore the intricate art of Shibari, regardless of skill level. The event's design is a nod to this central theme.
 
-Everybody started from zero, and we're always interested in getting to know new people.
+We’re dismantling the myth that expertise is required to join the Rogue Rope soirees. You don’t need to be adept at rope to dive in—curiosity and enthusiasm are the only prerequisites. Whether you're content with the basics, eager to expand your repertoire, or seek a watchful eye as you venture into new techniques, you’re in the right place.
 
-People who see tying as a competition have already lost it.
+Newcomers are as celebrated as the seasoned; every journey begins with a single knot.
 
-## Other Play
+Competition has no place here—our ties are not for triumph, but for connection.
 
-* Other play is welcome: whips, canes, chains, duck-tape, blood, fire. If you can think of it, you can bring it to Bottoms Up!.
-* We're not afraid of nudity or sex. 
-* There's only one caveat: at the camp site, golden showers and scat are hard to do in a 'clean' way, so we'll need to draw the line there.
+## A Spectrum of Sensations
 
-![animated gif of Steven Colbert in wierd clothes, purple hair holding a taxidermied cat, caption is : 'anything goes'](/images/anything.webp)
+* Variety spices up the playground: whips, canes, chains, needles, even fire—all expressions of play are welcome here.
+* We honor the bare and the bold. Nudity and sexuality are not shrouded but embraced, an integral aspect of our vibrant tapestry.
+
+## Zoned for Comfort
+
+* To cater to the diverse preferences and comfort levels of our attendees, we’ve thoughtfully designated different zones within our space.
+* Each zone serves as a unique atmosphere, ranging from quiet and contemplative spaces to more dynamic and interactive areas.
+* Participants can navigate through these zones, finding their own comfort within the boundaries that feel right for them, ensuring a safe, consensual, and enjoyable experience for everyone.

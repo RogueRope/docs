@@ -6,7 +6,7 @@ lastmod: 2021-03-13T15:21:01.000+02:00
 images: []
 menu: 
   docs:
-    parent: "overview"
+    parent: "practical"
 weight: 32
 toc: true
 lead: ''
@@ -33,7 +33,7 @@ lead: ''
 * Soap, shampoo
 * Toothbrush, toothpaste
 * Towel(s)
-* Any medications you may need, both prescription and non-prescription. Note: if your medications need to be kept cool, make sure to make provisions for this. Please [contact the orga]({{< ref "/docs/main/contact" >}} "Contact us") for any questions or concerns.
+* Any medications you may need, both prescription and non-prescription. Note: if your medications need to be kept cool, make sure to make provisions for this. Please [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us") for any questions or concerns.
 
 ### Food
 
