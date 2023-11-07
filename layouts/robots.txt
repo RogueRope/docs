@@ -1,6 +1,6 @@
 User-agent: *
 {{ if eq (hugo.Environment) "production" -}}
-Disallow: /
+Allow: /
 {{ else -}}
 Disallow: /
 {{ end }}

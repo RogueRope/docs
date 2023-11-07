@@ -7,7 +7,7 @@ images: []
 menu: 
   docs:
     parent: "practical"
-weight: 125
+weight: 25
 toc: true
 lead: ''
 

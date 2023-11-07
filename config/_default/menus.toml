@@ -17,11 +17,6 @@
   identifier = "wellbeing"
   url = "/docs/wellbeing/"
 
-[[docs]]
-  name = "Faq"
-  weight = 50
-  identifier = "faq"
-  url = "/docs/faq/"
 
 [[docs]]
   name = "Opportunities"
@@ -33,6 +28,7 @@
   name = "Home"
   url = "/docs/main/intro/"
   weight = 10
+
 
 [[main]]
   name = "Manifesto"

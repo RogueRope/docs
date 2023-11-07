@@ -7,10 +7,6 @@ lastmod: 2023-10-06T13:37:00+00:00
 toc: true
 draft: false
 images: []
-menu: 
-  docs:
-    parent: "Main"
-weight: 10
 toc: true
 ---
 
