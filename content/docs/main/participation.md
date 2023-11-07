@@ -18,17 +18,13 @@ Not sure what you can do? Don't worry! At Bottoms Up!, every participant is a va
 
 We embrace every effort, big or small, and cherish the diversity of contributions. There is no competition here; some may contribute more than others, and that's perfectly okay. We understand that everyone has their own rhythm and capacity for productivity. Please be kind and respectful, do your thing, and appreciate that others may be in a different space or pace.
 
-If you want to join in but aren't sure where to start, reach out at [info@ropecamp.be](mailto:info@ropecamp.be) and let us know you're ready to jump in. Our Volunteer page has all the details on how you can get involved.
-
-## Unleash Your Creative Spirit
-
-Yes, you can make art! Bottoms Up! thrives on the creative energies of its participants. We invite you to bring your vision to life and add to the rich tapestry of our gathering. Art installations, spontaneous performances, interactive pieces - your imagination is the only limit.
+If you want to join in but aren't sure where to start, reach out at [info@roguerope.be](mailto:info@roguerope.be) and let us know you're ready to jump in. Our Volunteer page has all the details on how you can get involved.
 
 ## Everyone Can Contribute
 
 Think you're not an artist or builder? Think again! Contribution comes in countless forms. Share a recipe, a song, a dance. Teach a class, offer a listening ear, or organize a game. Even a smile can be a masterpiece at Bottoms Up!
 
-Remember to extend kindness to one another in our collective endeavors. It's not about how much or how little one contributes but the heart and respect we bring to the community. Encourage and support your fellow participants without judgment or comparison.
+Remember to **extend kindness** to one another in our collective endeavors. **It's not about how much or how little one contributes** but the heart and respect we bring to the community. Encourage and support your fellow participants without judgment or comparison.
 
 Remember, this event is a canvas, and you're the artist. Whether your passion lies in culinary arts, wellness, entertainment, education, or anything in between, there's a space for your expression here.
 
