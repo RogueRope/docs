@@ -24,7 +24,7 @@ If you bring a camper or trailer, we **might** be able to put that on the field 
 
 ## Give the Greeter your Ticket with the QR code
 
-You made it! Make sure to bring your order confirmation with your qr-code, so we can verify payment. Also double check that you're wearing white socks in sandals! You will get a [release statement]({{<ref "release-statement.md" >}}) to sign.
+You made it! Make sure to bring your order confirmation with your qr-code, so we can verify payment. 
 
 You will be asked to sign up for a shift of work... This could be cleaning up, going to the bakery or making sure the fire is hot. As you arrive, we will ask you to put your name down.
 

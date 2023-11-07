@@ -10,19 +10,21 @@ menu:
     parent: "opportunities"
 weight: "2010"
 toc: true
-
 ---
-Welcome to the stage, dear friends! As Shakespeare once said, "All the world’s a stage, and all the men and women merely players." So, we invite you to step up and showcase your incredible talents, whether they're related to rope or not.
 
-Are you a spoken word poet with a message to share? A dancer ready to take the floor and move us with your grace? Or maybe you're a magician with a few tricks up your sleeve, and a bunny in your hat? Whatever it is that makes you unique, we want to see it!
 
-At Rogue Rope, we celebrate individuality and creativity, and we want to give you the opportunity to express your amazing talents. Take center stage and delight us all with your performances.
 
-Please let our content coordinators at the camp know if you're interested in performing. Keep in mind that our shows may take place outdoors, adding an extra layer of magic to your performance. If you require music, bring your MP3 files on a thumb drive or provide a Spotify playlist. And don't worry, if you need any assistance, just reach out to us in advance, and we'll be happy to help.
+The essence of our rope journey **transcends the stage**. As we embrace the spirit of "[Tie like no one is watching]({{< ref "/docs/main/manifesto" >}} "Tie like no one is watching")", we invite you to experience rope as a medium for connection rather than performance.
 
-So, the stage is set, and we're eagerly waiting for you to take it. Come and share your passions with us, and let's create unforgettable memories together.
+This year at Rogue Rope, we celebrate **the spontaneous, the intuitive, and the deeply personal voyages** embarked upon through the ties that bind not just bodies, but hearts and souls. We honor each individual's path, whether as a rigger or a bottom, cherishing the beauty and strength found in surrender and trust.
 
+**Forget the stage, the lights, and the audience.** Instead, we're curating moments of joy, encounters that may not be performances but are spectacles in their own right. The rope is our conduit to new situations, new connections, and the shared experiences that come from genuine, heartfelt encounters.
+
+So, while you won't find a schedule of performances, you'll discover something more profound — a series of rope encounters designed to break the ice and initiate the first steps towards making a connection. There is nothing to perform, but so much to see and experience.
+
+If you're moved to share your journey with rope, our content coordinators are here to facilitate these encounters. We're ready to assist you with any setups or spaces you may need to explore your rope narrative in the company of others.
+
+In lieu of performances, **witness the myriad of personal stories unfolding around you**. Participate, engage, and let the rope guide you to new friendships and unforgettable moments. The stage is gone, but the space for connection is vast and welcoming. Come, let's weave new stories together at Rogue Rope.
 
 ![Burlesque dancers.](/images/perform.png)
-
 
