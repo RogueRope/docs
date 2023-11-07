@@ -28,6 +28,6 @@ At Bottoms Up!, discrimination has no place. We stand for a community where LGBT
 
 ## Tailoring the Experience to Your Needs
 
-Your comfort and participation are important to us. If there's something specific that would enable you to attend or enjoy the event more fully, let us know. We're eager to learn and accommodate wherever possible. Accessibility, interpretive services, or any other needs - if we can make it work, we will. Reach out to us at [info@ropecamp.be](mailto:info@ropecamp.be) with your needs or suggestions.
+Your comfort and participation are important to us. If there's something specific that would enable you to attend or enjoy the event more fully, let us know. We're eager to learn and accommodate wherever possible. Accessibility, interpretive services, or any other needs - if we can make it work, we will. Reach out to us at [info@roguerope.be](mailto:info@roguerope.be) with your needs or suggestions.
 
 Let's make Bottoms Up! a space where everyone belongs and thrives.
