@@ -32,9 +32,8 @@ We offer differentiated sleeping quarters to cater to various needs, including F
 
 **What to Bring:**
 
-* **Bedding**: A sleeping bag or your own bed linens for the bunk beds.
+* **Bedding**: A sleeping bag, blankets, your own bed linens a a pillow for the bunk beds.
 * **Personal Essentials**: Toiletries, towels, and anything else you'd need for a comfortable hostel stay.
-* **Decorative Flair**: Feel free to bring LEDs or other light decorations to personalize your space and add to the ambiance.
 
 **Please Note:**
 

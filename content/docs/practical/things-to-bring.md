@@ -19,21 +19,28 @@ lead: ''
 
 ### Accessories
 
-* A solid cup (reusable, no glass) for your water/tea/coffee/soup **\~ A CUP IS MANDATORY \~**
-* Two old fleece blankets and maybe a pillow.
-* Cutlery (knife, fork, spoon) and a plate
-* A torch with enough batteries and/or LED head torches (these are the best)
-* A water bottle
-* Tent and accessories
-* Ear plugs and sleeping mask (optional). Not everyone may want to sleep when you do!
-
+* **A solid cup (reusable, no glass)** for your water/tea/coffee/soup **\~ A CUP IS MANDATORY \~**
+* **Bedding**: Bring your own bed linen, blankets, and a pillow for the bunk beds.
+* **Cutlery and Plate**: Knife, fork, spoon, and a plate for your meals.
+* **Torch with enough batteries and/or LED head torches** for navigating in the dark.
+* **A water bottle** to stay hydrated.
+* **Ear plugs and sleeping mask** for a comfortable sleep.
 
 ### Hygiene
 
-* Soap, shampoo
-* Toothbrush, toothpaste
-* Towel(s)
-* Any medications you may need, both prescription and non-prescription. Note: if your medications need to be kept cool, make sure to make provisions for this. Please [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us") for any questions or concerns.
+* **Soap and shampoo** for personal cleanliness.
+* **Toothbrush and toothpaste** for oral hygiene.
+* **Towel(s)** for drying off after showering.
+* **Any medications**, both prescription and non-prescription.
+
+### Additional Useful Items
+
+* **Comfortable indoor shoes or slippers**: Ideal for moving around the venue.
+* **Personal snacks or specialty food items**: Catering to your dietary needs.
+* **Portable phone charger or power bank**: Keep your devices charged.
+* **Small backpack or bag**: For carrying personal items.
+* **Warm, casual clothing**: Suitable for the indoor environment.
+* **Thermal flask**: Keep your drinks hot or cold for longer periods.
 
 ### Food
 

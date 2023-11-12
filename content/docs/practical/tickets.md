@@ -30,6 +30,8 @@ For further inquiries or assistance, feel free to [get in touch]({{< ref "/docs/
 
 ## Step 3: Complete Your Purchase
 
-Once you've decided on the type of ticket that suits you best, you can proceed to purchase. Detailed instructions and the link to our secure ticketing platform will be provided upon making your selection. Rest assured, we value your privacy and security throughout this process.
+Once you've decided on the type of ticket that suits you best, you can proceed to purchase. Rest assured, we value your privacy and security throughout this process.
+
+[Buy your tickets here: https://shop.gogogonzo.be/RRW24/](https://shop.gogogonzo.be/RRW24/)
 
 Remember, the journey of connection and exploration at Bottoms Up! begins with this first step. We are excited to have you with us and look forward to the experiences we'll share.

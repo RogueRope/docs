@@ -16,10 +16,7 @@ toc: true
 * Durable fabrics: 150 g/m²
 * Materials: 100% cotton 
 
-## Close-Fitting Tailored T-shirt  
-Design under development
+## Want to buy the t-shirt? 
 
-
-## Basic Straight T-shirt 
-Design under development
+![](/images/bannerblackbg.png)
 
