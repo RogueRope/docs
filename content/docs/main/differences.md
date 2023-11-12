@@ -19,6 +19,7 @@ _Bottoms Up!_ welcomes the colder months with a warm embrace of intimacy, delvin
 - Our indoor venue provides a **sanctuary of warmth**, enhancing the closeness and depth of our gatherings.
 - The ample rope space and innovative suspension points offer a **physical canvas** for exploration and expression.
 
+
 ### Peer-to-Peer Discovery
 
 - We foster an environment centered on **peer rope exploration** and the **uninhibited exchange of knowledge**.

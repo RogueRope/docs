@@ -14,15 +14,13 @@ toc: true
 
 ## Dive into Volunteering
 
-Not sure what you can do? Don't worry! At Bottoms Up!, every participant is a valuable member of the group. We believe that the event is what we all make of it - together. Whether you're full of ideas or just full of energy, your contribution is welcome here. Everyone pitches in here in their own unique way, during, before, or after the event. It's about spirit more than skill, camaraderie more than capability.
+Not sure what you can do? **Don't worry!** At _Bottoms Up!_, every participant is a valuable member of the group. We believe that the event is what we all make of it - together. Whether you're full of ideas or just full of energy, your contribution is welcome here. Everyone pitches in here in their own unique way, during, before, or after the event. It's about spirit more than skill, camaraderie more than capability.
 
-We embrace every effort, big or small, and cherish the diversity of contributions. There is no competition here; some may contribute more than others, and that's perfectly okay. We understand that everyone has their own rhythm and capacity for productivity. Please be kind and respectful, do your thing, and appreciate that others may be in a different space or pace.
-
-If you want to join in but aren't sure where to start, reach out at [info@roguerope.be](mailto:info@roguerope.be) and let us know you're ready to jump in. Our Volunteer page has all the details on how you can get involved.
+We embrace every effort, big or small, and cherish the diversity of contributions. **There is no competition here; some may contribute more than others, and that's perfectly okay.** We understand that everyone has their own rhythm and capacity for productivity. Also, sometimes contributions that others do aren't so noticeable. Please be kind and respectful, **do your thing,** and appreciate that others may be in a different space or pace.
 
 ## Everyone Can Contribute
 
-Think you're not an artist or builder? Think again! Contribution comes in countless forms. Share a recipe, a song, a dance. Teach a class, offer a listening ear, or organize a game. Even a smile can be a masterpiece at Bottoms Up!
+Think you're not an artist or builder? **Think again!** Contribution comes in countless forms. Share a recipe, a song, a dance. Teach a class, offer a listening ear, or organize a game. Even a smile can be a masterpiece at Bottoms Up!
 
 Remember to **extend kindness** to one another in our collective endeavors. **It's not about how much or how little one contributes** but the heart and respect we bring to the community. Encourage and support your fellow participants without judgment or comparison.
 
@@ -30,7 +28,7 @@ Remember, this event is a canvas, and you're the artist. Whether your passion li
 
 ## Together, We Are Bottoms Up!
 
-Your involvement is what transforms Bottoms Up! from an event to an experience. It's a co-created adventure that blossoms with each person's touch. So what will your touch be? A workshop? A performance? A piece of art? A comforting space? Whatever it is, bring it along!
+Your involvement is what transforms __Bottoms Up!_ from an event to an experience. It's a co-created adventure that blossoms with each person's touch. So what will your touch be? A workshop? A performance? A piece of art? A comforting space? Whatever it is, bring it along!
 
 Come with an open heart and leave with a soul full of memories and connections. At Bottoms Up!, every hand helps, every idea matters, and every participant makes a difference. Let's co-create the extraordinary, with kindness as our guide.
 
