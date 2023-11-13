@@ -25,6 +25,8 @@ Yet, this path can sometimes lead to a misguided equation: rope = workshops. If 
 
 Knowledge sharing has its place, sure, but **what people crave is connection, experiences**. _Bottoms Up!_ aligns with the practices we've nurtured – no high-profile tutors on posters, no separate billing. Everyone is a participant, an equal part of the whole.
 
+![network.](/images/distributed.jpeg)
+
 **What we aim for is to create an environment where people encounter new situations, fostering connections through these shared experiences. We're not selling workshops or peddling knowledge – we're curating moments of joy. The rope is merely a conduit.**
 
 We envision a series of rope encounters, **experiences designed to break the ic**e, to initiate those first, often daunting, steps towards making a connection. Everyone talks a big game, but the reality is that making that initial contact is a universal struggle, despite the fact that we all come to these events seeking connection.
