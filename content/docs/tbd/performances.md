@@ -26,5 +26,5 @@ If you're moved to share your journey with rope, our content coordinators are he
 
 In lieu of performances, **witness the myriad of personal stories unfolding around you**. Participate, engage, and let the rope guide you to new friendships and unforgettable moments. The stage is gone, but the space for connection is vast and welcoming. Come, let's weave new stories together at Rogue Rope.
 
-![Burlesque dancers.](/images/perform.png)
+
 
