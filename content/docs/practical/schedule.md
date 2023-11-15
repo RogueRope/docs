@@ -8,7 +8,7 @@ images: []
 menu: 
   docs:
     parent: "practical"
-weight: 90
+weight: 10
 toc: true
 ---
 
