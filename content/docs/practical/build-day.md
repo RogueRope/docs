@@ -23,4 +23,4 @@ This call is for the crafty, the willing, and the spirited. Your skillset, wheth
 
 Here’s the twist: becoming a part of Build Day is not just about giving but also receiving. You'll forge connections, soak in the pre-event energy, and leave your personal imprint on the event's very foundation.
 
-If you’re eager to contribute to something larger than life, mark your calendar and join us in laying the groundwork for an epic winter edition of _Bottoms Up!_ To sign up, simply fill out our [Build Day form](https://forms.gle/R7ptCx6uXLiy5F7c9) with your availability. Let's make this more than an event; let’s make it our collective masterpiece.
+If you’re eager to contribute to something larger than life, mark your calendar and join us in laying the groundwork for an epic winter edition of _Bottoms Up!_ After registration you will recieve a mail on how to join the build day.
