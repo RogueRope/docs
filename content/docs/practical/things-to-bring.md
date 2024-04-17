@@ -20,11 +20,12 @@ lead: ''
 ### Accessories
 
 * **A solid cup (reusable, no glass)** for your water/tea/coffee/soup **\~ A CUP IS MANDATORY \~**
-* **Bedding**: Bring your own bed linen, blankets, and a pillow for the bunk beds.
 * **Cutlery and Plate**: Knife, fork, spoon, and a plate for your meals.
 * **Torch with enough batteries and/or LED head torches** for navigating in the dark.
 * **A water bottle** to stay hydrated.
 * **Ear plugs and sleeping mask** for a comfortable sleep.
+* **Camping Supplies**: Tent, sleepingbag, matress...
+* **Cooler**: A cooler bag or box, we supply the ice to keep it chilled.
 
 ### Hygiene
 
@@ -35,12 +36,10 @@ lead: ''
 
 ### Additional Useful Items
 
-* **Comfortable indoor shoes or slippers**: Ideal for moving around the venue.
 * **Personal snacks or specialty food items**: Catering to your dietary needs.
+* **Drinks**: we don't sell drinks on-site. Feel free to bring some for you and to share.
 * **Portable phone charger or power bank**: Keep your devices charged.
 * **Small backpack or bag**: For carrying personal items.
-* **Warm, casual clothing**: Suitable for the indoor environment.
-* **Thermal flask**: Keep your drinks hot or cold for longer periods.
 
 ### Food
 

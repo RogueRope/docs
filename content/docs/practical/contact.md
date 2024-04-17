@@ -18,4 +18,4 @@ toc: true
 
 ![qr code to last link](/images/whatsappqr.png)
 
-If you prefer email, hit us up at [info@roguerope.be](mailto:info@roguerope.be)
+If you prefer email, hit us up at [info@gogogonzo.be](mailto:info@gogogonzo.be)

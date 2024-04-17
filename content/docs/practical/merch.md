@@ -18,5 +18,4 @@ toc: true
 
 ## Want to buy the t-shirt? 
 
-![](/images/bannerblackbg.png)
-
+You can during the ordering process of your tickets. We don't have a design yet, but it will be the awesomenest.

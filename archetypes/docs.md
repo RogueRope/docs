@@ -1,16 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-description: ""
-lead: ""
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-lastmod: {{ .Date }}
-draft: true
-images: []
-menu: 
-  docs:
-    parent: ""
-weight: 999
-toc: true
+draft: false
+weight: 100
 ---
 
-{{< img src="{{ .Name | urlize }}.jpg" alt="{{ replace .Name "-" " " | title }}" caption="{{ replace .Name "-" " " | title }}" >}}
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
+crimen habet Priamum nec.

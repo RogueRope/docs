@@ -1,1 +1,3 @@
 baseurl = "/"
+themesDir = "themes"
+theme = "hugo-whisper-theme"

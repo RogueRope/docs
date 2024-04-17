@@ -1,9 +1,9 @@
 ---
-title : "Docs"
-description: "Docs Doks."
-lead: ""
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
-draft: false
-images: []
+title: 'Overview'
+date: 2018-11-28T15:14:39+10:00
+weight: 1
 ---
+
+## Whisper Theme
+
+Whisper is a minimal documentation theme for Hugo. The design and functionality is intentionally minimal. We’re aiming for a similar feel to a Github readme.

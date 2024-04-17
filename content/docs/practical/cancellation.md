@@ -21,7 +21,10 @@ If the event is not legal under Belgian or local laws (due to Covid waves/Putin/
 ## Personal Cancellation
 
 If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know, so we can vet the person you want to sell your ticket to. Every participant needs to be confirmed by the orga. There is no point in selling your ticket to someone who won't be allowed to participate. So first, send an email to the orga, with your friend's FetLife name and email. We will send you both an email with instructions on how to proceed.
-If you don't know anyone to take your ticket off your hands, and we have people on the waiting list, you can get a refund of 90% of the ticket price. If we don't have people on the waiting list, we can't make any refund promises but we will do our best to cut you a deal. Also in this case [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us").
+
+Up untill 21 days before the start of the event, cancyou can cancel your ticket for free. Just go to your booking page and hit the cancel button. 
+
+If you need to cancel in the 3 weeks before the event **and** we have people on the waiting list, you can get a refund of 90% of the ticket price. If we don't have people on the waiting list, we can't give you a refund. In this case [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us").
 
 ## Orga Cancellation
 

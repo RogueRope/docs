@@ -20,18 +20,13 @@ Congratulations, you're already making progress! If you've reached this page, we
 
 Should any questions or concerns arise, please [get in touch]({{< ref "/docs/practical/contact" >}} "Contact us").
 
-## Step 2: Select Your Ticket Type
+## Step 2: Complete Your Purchase
 
-**Bottoms Up! Voucher Ticket**: This ticket is a nod of recognition to those we know well - our community's familiar faces. It's not just a pass to the event but a symbol of the trust and shared history within our circles. You're someone who's not just attending but contributing to the essence of what makes Bottoms Up! special.
+Once you've decided if this event is the right fit for you, you can proceed to purchase. Rest assured, we value your privacy and security throughout this process.
+For legal/accounting reasons we need to ask for a name at the checkout process, feel free use your own, or not. 
 
-**Bottoms Up! Open Ticket**: Whether you're new to our world or a returning enthusiast, this ticket invites you to join us. However, as we prioritize the comfort and security of our participants, Open Tickets will be confirmed by our team before your participation is finalized. This process ensures that the spirit and safety of our event are upheld, allowing everyone to engage freely and wholeheartedly in the experience.
+[Buy your tickets here: https://shop.gogogonzo.be/RRC24/](https://shop.gogogonzo.be/RRC24/)
 
-For further inquiries or assistance, feel free to [get in touch]({{< ref "/docs/practical/contact" >}} "Contact us").
+Once you've made the purchase we will review it, use your fetlife name during the ordering process. Once confirmed you will get an email with payment instructions.
 
-## Step 3: Complete Your Purchase
-
-Once you've decided on the type of ticket that suits you best, you can proceed to purchase. Rest assured, we value your privacy and security throughout this process.
-
-[Buy your tickets here: https://shop.gogogonzo.be/RRW24/](https://shop.gogogonzo.be/RRW24/)
-
-Remember, the journey of connection and exploration at Bottoms Up! begins with this first step. We are excited to have you with us and look forward to the experiences we'll share.
+Remember, the journey of connection and exploration at Rogue Rope Camp begins with this first step. We are excited to have you with us and look forward to the experiences we'll share.

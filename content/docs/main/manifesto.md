@@ -1,7 +1,7 @@
 ---
 title: "Manifesto"
-description: "At Bottoms Up!, we prioritize the essence of connection over the mere provision of infrastructure. It's not just about the space or amenities; it's about the immersive experiences and emotional bonds developed through rope."
-lead: "Exploring the Essence of Bottoms Up!"
+description: "At Rogue Rope Camp, we prioritize the essence of connection over the mere provision of infrastructure. It's not just about the space or amenities; it's about the immersive experiences and emotional bonds developed through rope."
+lead: "Exploring the Essence of Rogue Rope Camp"
 date: 2023-10-06T13:37:00+00:00
 lastmod: 2023-10-06T13:37:00+00:00
 toc: true
@@ -23,7 +23,7 @@ Sometimes there's a pull towards the conventional, a lure of the '**knowledge ex
 
 Yet, this path can sometimes lead to a misguided equation: rope = workshops. If that's the sum total, **we're missing the point**.
 
-Knowledge sharing has its place, sure, but **what people crave is connection, experiences**. _Bottoms Up!_ aligns with the practices we've nurtured – no high-profile tutors on posters, no separate billing. Everyone is a participant, an equal part of the whole.
+Knowledge sharing has its place, sure, but **what people crave is connection, experiences**. _Rogue Rope Camp_ aligns with the practices we've nurtured – no high-profile tutors on posters, no separate billing. Everyone is a participant, an equal part of the whole.
 
 ![network.](/images/distributed.jpeg)
 

@@ -15,12 +15,17 @@ toc: true
 
 ---
 
-The stage is set for an unforgettable event, but before the journey of exploration begins, we have a day of creation - our Build Day!
+**Build Day Now Part of the Event Kickoff**  
+Welcome all builders, helpers, and enthusiasts!
 
-This isn't a one-person show; it’s a collective symphony. From the early hours, we're inviting as many hands as possible to help construct the backdrop for our winter experience. We’ve left behind the concept of PreCamp to focus on a dedicated Build Day where every moment counts.
+Our event now starts directly on Wednesday, transitioning smoothly from setup into the heart of the experience. There's no separate build day—when you arrive, you're part of the action from the get-go.
 
-This call is for the crafty, the willing, and the spirited. Your skillset, whether it's wielding a drill or weaving a vision into reality, is invaluable. The tasks vary, ensuring there’s a place for every talent. And remember, this is more than just preparation; it’s the first stroke of our shared canvas.
+- **Be Ready to Dive In**: If you're joining us on Wednesday, come prepared to lend a hand or at least steer clear of the hustle. We're all about seamless collaboration, where play and work don't have to compete for space.
+- **Play Time Guidelines**: To maintain focus and efficiency, play activities will be welcomed after dinner on Wednesday and in the late afternoon on Thursday. Provided they don't interfere with the build.
+- **Open Invitation**: Feel free to show up when you can; the more, the merrier! No need for specific registration—just bring your enthusiasm.
+- **Coordination Made Simple**: We're organizing through a specific WhatsApp group to coordinate the build. Feel free to join this group or simply show up at the camp. We’ll guide you through what’s needed on-site.
 
-Here’s the twist: becoming a part of Build Day is not just about giving but also receiving. You'll forge connections, soak in the pre-event energy, and leave your personal imprint on the event's very foundation.
+This isn't just a call to build; it's an invitation to be an integral part of setting the stage for our collective adventure. As you contribute, you're also connecting, absorbing the vibrant pre-event atmosphere, and imprinting your personal touch on our gathering's foundation.
 
-If you’re eager to contribute to something larger than life, mark your calendar and join us in laying the groundwork for an epic winter edition of _Bottoms Up!_ After registration you will recieve a mail on how to join the build day.
+Your participation transforms mere preparation into the first stroke of our shared masterpiece. If you're drawn to contribute to something greater, come join us from the onset and help lay the foundation for an unforgettable Rogue Rope Camp.
+
