@@ -2,13 +2,10 @@
 title: Play
 description: Embrace your desires!
 lead: The canvas of kink is vast and varied.
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 images: []
-menu: 
-  docs:
-    parent: "vision"
-weight: 30
+weight: 40
 toc: true
 
 ---

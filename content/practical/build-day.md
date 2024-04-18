@@ -4,12 +4,9 @@ description: >
   Every hand helps shape our gathering. With no staff, we rely on our collective effort to transform a space into an arena for connection and exploration. 
   Your contribution is the keystone to this endeavor’s success. 
 lead: Calling all builders and dreamers!
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 images: []
-menu: 
-  docs:
-    parent: "practical"
 weight: 95
 toc: true
 

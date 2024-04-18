@@ -2,17 +2,20 @@
 title: Differences
 description: What is different from other events?
 lead: What is different from our other events?
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 images: []
-menu: 
-  docs:
-    parent: "vision"
-weight: "20"
+weight: "10"
 toc: true
 ---
 _Rogue Rope Camp_ welcomes the sunny season with a vibrant celebration of connection, exploring the interplay of rope, bonds, and eros under the open sky:
 
+### Embracing Eros
+
+- At Rogue Rope Camp, we actively encourage the exploration of sexuality as a fundamental aspect of the shibari experience, steering clear of mainstream commercialization.
+- Our event is a liberated environment that breaks through conventional boundaries, allowing for a deep embrace of **eros** in rope practice.
+- We acknowledge and celebrate that **without eros, rope cannot fully realize shibari**; thus, we promote personal exploration and expression of sexuality as a natural and crucial element of the experience.
+  
 ### Outdoor Adventure Encounters
 
 - Our outdoor venue offers a **refreshing escape into nature**, intensifying the intimacy and breadth of our interactions.
@@ -27,11 +30,5 @@ _Rogue Rope Camp_ welcomes the sunny season with a vibrant celebration of connec
 
 - Our sessions at Rogue Rope Camp are safe havens for discovery and growth, free from commercial pressures or expectations.
 - These meetings are designed to enhance everyone’s journey with rope, building a community that learns and evolves collectively.
-
-### Embracing Eros
-
-- At Rogue Rope Camp, we actively encourage the exploration of sexuality as a fundamental aspect of the shibari experience, steering clear of mainstream commercialization.
-- Our event is a liberated environment that breaks through conventional boundaries, allowing for a deep embrace of **eros** in rope practice.
-- We acknowledge and celebrate that **without eros, rope cannot fully realize shibari**; thus, we promote personal exploration and expression of sexuality as a natural and crucial element of the experience.
 
 Join us in this extraordinary setting where rope becomes a channel for emotional and erotic expression, where learning is communal, and experiences go beyond the usual, nurturing a true appreciation for the art of shibari in its most genuine form.

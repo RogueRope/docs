@@ -2,18 +2,13 @@
 title: "Cancellation"
 description: "Plans can change or go wrong, let's see how we can mitigate issues."
 lead: 
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 draft: false
 images: []
-menu: 
-  docs:
-    parent: "practical"
 weight: 125
 toc: true
 ---
-
-## Cancellation
 
 If the event is not legal under Belgian or local laws (due to Covid waves/Putin/...), it shall not take place. In this case, everyone will receive a **full refund** for all costs \(tickets, drink vouchers\). No hidden fees will be deducted. If you paid X euros, we'll send you your X euros back via bank transfer.
 

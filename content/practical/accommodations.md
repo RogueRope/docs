@@ -9,9 +9,6 @@ lastmod: T15:21:01\+02:00
 images: []
 weight: 50
 toc: true
-menu: 
-  docs:
-    parent: "practical"
 ---
 Dear friends, you know when you go to a festival with a bunch of friends and you want to start building your little private village on the camp site? This is fun, but for our camp sadly **not an option**. 
 

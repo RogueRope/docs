@@ -2,13 +2,10 @@
 title: "Photography"
 description: "No pics without consent!"
 lead: "Always get consent before you film or photograph someone at Rogue Rope Camp."
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 draft: false
 images: []
-menu: 
-  docs:
-    parent: "practical"
 weight: 95
 toc: true
 ---

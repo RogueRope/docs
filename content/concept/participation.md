@@ -2,21 +2,18 @@
 title: "Participation"
 description: "At Rogue Rope Camp, your uniqueness adds to the magic. Join us in creating an unforgettable event!"
 lead: "Your talents, time, and enthusiasm are the soul of Rogue Rope Camp"
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 images: []
-menu: 
-  docs:
-    parent: "vision"
-weight: "1070"
+weight: "20"
 toc: true
 ---
 
 ## Dive into Volunteering
 
-Not sure what you can do? **Don't worry!** At _Rogue Rope Camp_, every participant is a valuable member of the group. We believe that the event is what we all make of it - together. Whether you're full of ideas or just full of energy, your contribution is welcome here. Everyone pitches in here in their own unique way, during, before, or after the event. It's about spirit more than skill, camaraderie more than capability.
-
 We embrace every effort, big or small, and cherish the diversity of contributions. **There is no competition here; some may contribute more than others, and that's perfectly okay.** We understand that everyone has their own rhythm and capacity for productivity. Also, sometimes contributions that others do aren't so noticeable. Please be kind and respectful, **do your thing,** and appreciate that others may be in a different space or pace.
+
+Not sure what you can do? **Don't worry!** At _Rogue Rope Camp_, every participant is a valuable member of the group. We believe that the event is what we all make of it - together. Whether you're full of ideas or just full of energy, your contribution is welcome here. Everyone pitches in here in their own unique way, during, before, or after the event. It's about spirit more than skill, camaraderie more than capability.
 
 ## Everyone Can Contribute
 

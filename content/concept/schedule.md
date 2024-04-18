@@ -1,18 +1,15 @@
 ---
 title: Program
 description: Dive into a unique blend of connection, exploration, and rope artistry at Rogue Rope Camp edition. Our program is meticulously designed to foster intimacy, learning, and shared experiences, ensuring a memorable and enriching journey for all participants.
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 draft: false
 images: []
-menu: 
-  docs:
-    parent: "practical"
-weight: 10
+weight: 60
 toc: true
 ---
 
-# Program: Rogue Rope Camp
+
 
 ### Embrace the summer Magic at Rogue Rope Camp
 

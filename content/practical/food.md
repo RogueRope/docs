@@ -2,17 +2,13 @@
 title: "Food"
 description: Much food, such good times.
 lead: "Expect basic but tasty 'camp food'. We will provide several meals, and you can store your personal food items in our refrigerators. Check out the timetable below to plan for what additional food to bring."
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 draft: false
 images: []
-menu: 
-  docs:
-    parent: "practical"
-weight: 50
+weight: 15
 toc: true
 ---
-# Food
 
 We will provide coffee and water free of charge for all participants. As for food, we provide bread in the morning, snacks in the afternoon and a warm meal every evening. 
 
