@@ -9,7 +9,6 @@ repo = "https://github.com/RogueRope/docs"
 
 time_format_blog = "Monday, January 02, 2006"
 time_format_default = "January 2, 2006"
-*
 
 
 
@@ -29,7 +28,7 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 
 # Defaults to true if not set
 # Enable copyRight Footer Stamp. Takes in attribution
-)nableCopyright = false
+enableCopyright = false
 
 # search
 [search]
