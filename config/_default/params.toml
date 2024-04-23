@@ -12,7 +12,6 @@ time_format_default = "January 2, 2006"
 
 
 
-
 enableDarkMode = true # set to false to disable darkmode by default # user will still have the option to use dark mode
 defaultLightingMode = "dark" # other possible values: "dark", "light"
 
@@ -50,5 +49,5 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
   name = "GitHub"
   iconLight = "images/GitHubMarkLight.svg"
   iconDark = "images/GitHubMarkDark.svg"
-  url = "https://github.com/RogueRope/docs"
+  url = "https://github.com/RogueRope/docs/tree/master/content"
 
