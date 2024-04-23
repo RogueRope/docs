@@ -3,6 +3,7 @@ title = "Practical"
 weight = 1
 +++
 
+
 ## Consider Carefully Before Committing
 Pause and ponder—is Rogue Rope Camp right for you? Before you leap into action, let's take a step back. We encourage you to deeply evaluate your personal thresholds. This isn't just a festival; it's a full-on experience that may push boundaries. Reflect on your emotional, mental, and physical readiness. Can you engage without overextending? Are the potential stresses worth the unique thrills? Don't let FOMO cloud your judgment. Your wellbeing is our top priority, and we want every participant to leave with positive memories. So, think it over: if this adventure calls to you, and you feel prepared for its intensity, we can't wait to have you join us. If not, that's okay too—honoring your limits is the bravest thing you can do.
 
