@@ -1,5 +1,12 @@
 +++
-title = "Bottoms Up!"
+title: Things to Bring
+description: Things to Bring
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
+images: []
+weight: 32
+toc: true
+lead: ''
 [data]
 baseChartOn = 3
 colors = ["#627c62", "#11819b", "#ef7f1a", "#4e1154"]
@@ -7,6 +14,8 @@ columnTitles = ["Section", "Status", "Author"]
 fileLink = "content/projects.csv"
 title = "Projects"
 +++
+
+
 
 {{< block "grid-2" >}}
 {{< column >}}
