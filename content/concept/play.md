@@ -10,7 +10,7 @@ toc: true
 
 ---
 
-## Inclusive Rope Revelry
+## Inclusive
 
 At the heart of our gathering is rope play, an open invitation to all who wish to explore the intricate art of Shibari, regardless of skill level. The event's design is a nod to this central theme.
 
