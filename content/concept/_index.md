@@ -10,7 +10,6 @@ weight = 1
 
 ### Intro 
 
-
 At Rogue Rope Camp, we’ve taken care of **the basics**: a spacious outdoor venue to host our events, tents for a cozy night’s sleep, and of course, the ropes and suspension points for our central theme. Add to this mix a sound system for ambiance, and basic amenities for comfort.
 
 But, as always, it’s the heartbeats of all participants that elevate this gathering to its true potential. Whether you’re sharing insights in our unconference, tying or getting tied, or simply being present in the moment, **your presence and energy** are what will make these days memorable.

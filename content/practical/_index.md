@@ -8,3 +8,4 @@ Pause and ponder—is Rogue Rope Camp right for you? Before you leap into action
 
 ## Get Set for the Adventure
 Now that you've considered your readiness, it's time to practically prepare for the Rogue Rope Camp adventure! We've laid out everything you need to know on the left. Click through the links to discover what culinary delights await you, the ticketing details, essential items to pack, and our 'Leave No Trace' philosophy. Plus, find out about camping specifics, our cool merchandise, what Build Day entails, photography guidelines, and our cancellation policy. Equip yourself with all the info to ensure your time with us is as smooth and enjoyable as possible. Your journey into the extraordinary starts here—navigate through the options and let the anticipation build!
+
