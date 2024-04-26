@@ -9,6 +9,11 @@
   url = "practical"
 
 [[main]]
-  name = "Contact"
+  name = "Manifesto"
   weight = 4
-  url = "contact.md"
+  url = "manifesto"
+
+[[main]]
+  name = "Contact"
+  weight = 5
+  url = "contact"
