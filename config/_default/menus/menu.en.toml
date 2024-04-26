@@ -5,10 +5,6 @@
 
 [[main]]
   name = "Practical"
-  weight = 2
-  url = "practical/"
-[[main]]
-  name = "Practical"
   weight = 3
   url = "practical/"
 
