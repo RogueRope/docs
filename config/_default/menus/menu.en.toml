@@ -1,12 +1,12 @@
 [[main]]
   name = "Concept"
   weight = 2
-  url = "concept/"
+  url = "concept"
 
 [[main]]
   name = "Practical"
   weight = 3
-  url = "practical/"
+  url = "practical"
 
 [[main]]
   name = "Contact"
