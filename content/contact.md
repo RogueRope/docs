@@ -4,15 +4,10 @@ description: "Here's my number, call me!"
 lead: "Here's my number, call me!"
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2024-04-06T13:37:00+00:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "practical"
 weight: 150
 toc: true
 ---
-## Specific Questions 
+## Specific Questions
 
   Contact us on [WhatsApp](https://wa.me/32476870515): +32476870515. This number also works for Signal and Telegram.
 
