@@ -11,4 +11,4 @@
 [[main]]
   name = "Contact"
   weight = 4
-  url = "contact"
+  url = "contact.md"
