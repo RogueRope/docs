@@ -8,7 +8,7 @@ weight = 1
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 150€ 
 
-### Intro
+### Intro 
 
 
 At Rogue Rope Camp, we’ve taken care of **the basics**: a spacious outdoor venue to host our events, tents for a cozy night’s sleep, and of course, the ropes and suspension points for our central theme. Add to this mix a sound system for ambiance, and basic amenities for comfort.
