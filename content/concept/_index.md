@@ -1,17 +1,7 @@
----
-title: Rogue Rope Camp
-description: 'Rogue rope is focused on infrastructure: we provide a space, a place
-  to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
-  and power, toilets and warm showers.'
-lead: What is Rogue Rope Camp? 
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-toc: true
-draft: false
-images: []
-weight: 10
-toc: true
----
++++ 
+title = "Concept" 
+weight = 1
++++
 
 
 
