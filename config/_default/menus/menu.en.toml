@@ -9,11 +9,16 @@
   url = "practical"
 
 [[main]]
-  name = "Manifesto"
+  name = "Wellbeing"
   weight = 4
+  url = "wellbeing"
+
+[[main]]
+  name = "Manifesto"
+  weight = 5
   url = "manifesto"
 
 [[main]]
   name = "Contact"
-  weight = 5
+  weight = 6
   url = "contact"

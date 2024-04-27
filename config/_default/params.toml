@@ -11,7 +11,7 @@ time_format_default = "January 2, 2006"
 
 
 # use the setting below to set multiple docs directories.
-docSections = ["concept", "practical"]
+docSections = ["concept", "wellbeing" , "practical"]
 
 
 enableDarkMode = true # set to false to disable darkmode by default # user will still have the option to use dark mode

@@ -10,33 +10,53 @@ lead: ''
 
 ---
 ### Basics
-
-* Your ticket with qr-code
-* Rope and other toys
+- Your ticket with QR code
+- Rope
+- Other toys
 
 ### Accessories
+- Solid reusable cup (no glass) for beverages ~ **MANDATORY**
+- Knife
+- Fork
+- Spoon
+- Plate for meals
+- Handheld torch with extra batteries
+- LED head torch for hands-free navigation
+- Water bottle for hydration
+- Ear plugs for noise reduction
+- Sleeping mask for better sleep quality
 
-* **A solid cup (reusable, no glass)** for your water/tea/coffee/soup **\~ A CUP IS MANDATORY \~**
-* **Cutlery and Plate**: Knife, fork, spoon, and a plate for your meals.
-* **Torch with enough batteries and/or LED head torches** for navigating in the dark.
-* **A water bottle** to stay hydrated.
-* **Ear plugs and sleeping mask** for a comfortable sleep.
-* **Camping Supplies**: Tent, sleepingbag, matress...
-* **Cooler**: A cooler bag or box, we supply the ice to keep it chilled.
+### Camping Supplies
+- Tent with stakes and tie-downs
+- Sleeping bag suitable for the temperature
+- Air mattress or sleeping pad
+- Inflatable pillow or travel pillow
+- Cooler bag or box
+- Ice packs (provided on-site)
 
 ### Hygiene
-
-* **Soap and shampoo** for personal cleanliness.
-* **Toothbrush and toothpaste** for oral hygiene.
-* **Towel(s)** for drying off after showering.
-* **Any medications**, both prescription and non-prescription.
+- Soap (biodegradable if possible)
+- Shampoo (biodegradable if possible)
+- Toothbrush
+- Toothpaste
+- Quick-dry towel
+- Prescription medications
+- Non-prescription medications (e.g., pain relievers, allergy pills)
+- Hand sanitizer
 
 ### Additional Useful Items
+- Specialty food items for dietary needs
+- Non-alcoholic/Alcoholic beverages (water enhancers, sodas)
+- Portable phone charger or power bank
+- Charging cables for your devices
+- Lightweight folding chair or blanket for seating
+- Camera or action cam for capturing moments
+- A hat or cap for sun protection
+- Sunglasses
+- Sunscreen (SPF 30 or higher)
+- Insect repellent
+- First aid kit
 
-* **Personal snacks or specialty food items**: Catering to your dietary needs.
-* **Drinks**: we don't sell drinks on-site. Feel free to bring some for you and to share.
-* **Portable phone charger or power bank**: Keep your devices charged.
-* **Small backpack or bag**: For carrying personal items.
 
 ### Food
 

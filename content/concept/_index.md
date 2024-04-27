@@ -3,19 +3,21 @@ title = "Concept"
 weight = 1
 +++
 
-### The Details
-* **When:** 14/08/2022 14:00 -&gt; 18/08/2022 16:00
-* **Where:** East of Ghent, West of Antwerp
-* **Cost:** 150€ 
 
-### Intro 
+**Core Philosophy:** At our gathering, we cherish the ties that bind **not just bodies, but hearts and souls**. "Tie like no one is watching" invites you to explore rope as a medium for deep, personal connection rather than a performance.
 
-At Rogue Rope Camp, we’ve taken care of **the basics**: a spacious outdoor venue to host our events, tents for a cozy night’s sleep, and of course, the ropes and suspension points for our central theme. Add to this mix a sound system for ambiance, and basic amenities for comfort.
+**The Essence of Rope:** Rope is our language, weaving stories of silent dialogues, emotional confessions, and trust. While technical skills are essential, the true art of rope lies in **spontaneous moments and personal journeys** with partners.
 
-But, as always, it’s the heartbeats of all participants that elevate this gathering to its true potential. Whether you’re sharing insights in our unconference, tying or getting tied, or simply being present in the moment, **your presence and energy** are what will make these days memorable.
+**Inclusive Sanctuary:** Our space welcomes everyone, honoring both the rigger and the bottom equally, celebrating the beauty in surrender and mutual trust.
 
-This event may present an **intense experience** and might not be everyone’s cup of tea. It’s crucial for attendees to align with the ethos and intent behind Rogue Rope Camp. However, **if you’re keen to explore, connect, and contribute**, we’re excited to welcome you.
+**Beyond Workshops:** The conventional lure of '**knowledge exchange**' often leads to the illusion of productivity. However, real growth comes from connections made, not hours spent in workshops. Knowledge has its place, but **connection and experiences are what people truly crave**.
 
-What sets _Rogue Rope Camp_ apart is our **unique approach**. We are **not** about accumulating new knowledge through workshops; instead, our focus is on utilizing the knowledge that participants already possess to create **profound experiences**. It’s about bringing your personal understanding of rope into a shared space where **skills become a means to facilitate deeper human connection**. Bring your experience, your openness, and let’s weave together moments that not only last for the days we’re together but linger in our memories, our senses, and our bonds.
+**Our Approach:** At _Rogue Rope Camp_, there are no high-profile tutors or separate billing—**everyone is a participant**, an equal part of the collective journey.
 
-We’re eager to embark on this new journey with our cherished friends. **Together, let’s craft an event that resonates, connects, and celebrates the depth of the bottom’s journey in rope.**
+**Fostering Connections:** We aim to create an environment that encourages new encounters and fosters connections through shared experiences. We're not just offering workshops; we're **curating moments of joy** using rope as a conduit.
+
+**Experiential Encounters:** Our vision includes rope encounters that facilitate making those initial, often daunting, connections. **Let’s focus on the genuine, heartfelt encounters** that occur when people come together, bound by rope.
+
+### Explore More:
+
+For a deeper understanding of what makes _Rogue Rope Camp_ unique, please visit the following sections of our website. Learn about our core values in [Differences](/concept/differences), where we discuss what sets us apart from typical gatherings. Discover how you can contribute in [Participation](/concept/participation), and see how we embrace everyone in [Inclusivity](/concept/inclusivity). Delve into the essence of our interactions in [Play](/concept/play), and get a glimpse of our [Schedule](/concept/schedule) to see the variety of experiences we offer. Each section is designed to enrich your experience and involvement in our community.
