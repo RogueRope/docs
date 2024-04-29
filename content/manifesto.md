@@ -15,7 +15,7 @@ toc: true
 {{< column >}}
 
 
-![network.](/images/distributed.jpeg)
+![Manifesto](/images/manifesto.webp)
 {{< /column >}}
 
 
@@ -29,6 +29,7 @@ Rope becomes our language; it weaves stories of silent dialogues, emotional conf
 
 Our space is a sanctuary for all — a place where every individual, regardless of background or gender identity, can forge **meaningful connections**. We honor the path of the bottom with the same reverence as the rigger, acknowledging the beauty and strength in **surrender and trust**.
 
+
 Sometimes there's a pull towards the conventional, a lure of the '**knowledge exchange**' where passively listening gives an illusion of productivity, of being busy in a beneficial way. But let's ponder – **how much do we truly retain from days of intense workshops**? Often, it feels like productivity porn, a hustle to feel we're gaining, learning, advancing.
 
 Yet, this path can sometimes lead to a misguided equation: rope = workshops. If that's the sum total, **we're missing the point**.
@@ -40,7 +41,6 @@ Knowledge sharing has its place, sure, but **what people crave is connection, ex
 We envision a series of rope encounters, **experiences designed to break the ice**, to initiate those first, often daunting, steps towards making a connection. Everyone talks a big game, but the reality is that making that initial contact is a universal struggle, despite the fact that we all come to these events seeking connection.
 
 **Let's focus on that – the genuine, heartfelt encounters that happen when people come together, bound by rope.**
-
 {{< /column >}}
 
 {{< /block >}}

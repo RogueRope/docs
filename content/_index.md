@@ -32,6 +32,6 @@ Whether you’re experienced or a curious first-timer, **your energy is the magi
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/tent2.jpg)
+![diy](/images/happyfeet.jpg)
 {{< /column >}}
 {{< /block >}}
