@@ -25,6 +25,8 @@ Ask yourself: Does this fit with my current needs? Will participating stretch me
 Once you've decided if this event is the right fit for you, you can proceed to purchase. Rest assured, we value your privacy and security throughout this process.
 For legal/accounting reasons we need to ask for a name at the checkout process, feel free use your own, or not. 
 
+Ticket sales open May fifth at 20.00.
+
 [Buy your tickets here: https://shop.gogogonzo.be/RRC24/](https://shop.gogogonzo.be/RRC24/)
 
 Once you've made the purchase we will review it, use your fetlife name during the ordering process. Once confirmed you will get an email with payment instructions.
