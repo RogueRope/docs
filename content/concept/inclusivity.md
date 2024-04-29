@@ -28,4 +28,6 @@ At Rogue Rope Camp, discrimination has no place. We stand for a community where 
 
 Your comfort and participation are important to us. If there's something specific that would enable you to attend or enjoy the event more fully, let us know. We're eager to learn and accommodate wherever possible. Accessibility, interpretive services, or any other needs - if we can make it work, we will. Reach out to us at [info@roguerope.be](mailto:info@roguerope.be) with your needs or suggestions.
 
-Let's make Rogue Rope Camp a space where everyone belongs and thrives.
+## Commitment to a Respectful Community
+
+While we strive to be inclusive, we acknowledge that not everyone has been able to join us in the past, whether proactively or following negative experiences. Instances of abuse or difficulties in managing behavior over a five-day event have led us to make these tough decisions. Our priority is maintaining a safe, respectful environment for all attendees.
