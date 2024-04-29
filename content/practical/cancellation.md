@@ -15,7 +15,7 @@ If the event is not legal under Belgian or local laws (due to Covid waves/Putin/
 
 ## Personal Cancellation
 
-If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know, so we can vet the person you want to sell your ticket to. Every participant needs to be confirmed by the orga. There is no point in selling your ticket to someone who won't be allowed to participate. So first, send an email to the orga, with your friend's FetLife name and email. We will send you both an email with instructions on how to proceed.
+If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know, so we can vet the person you want to sell your ticket to. Every participant needs to be confirmed by the orga. There is no point in selling your ticket to someone who won't be allowed to participate. So first, send an email to the organization, with your friend's FetLife name and email. We will send you both an email with instructions on how to proceed.
 
 Up untill 21 days before the start of the event, you can cancel your ticket for free. Just go to your booking page and hit the cancel button. 
 
