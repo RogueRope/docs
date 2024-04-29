@@ -1,4 +1,4 @@
-## Guide
+## docs
 
 https://docs.roguerope.be
 
