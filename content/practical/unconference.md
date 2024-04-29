@@ -12,8 +12,6 @@ menu:
 weight: "2020"
 
 ---
-# Unconference
-
 Four easy rules for unconference sessions
 
 * Rule one: Whoever shows up are the right people.
