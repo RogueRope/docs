@@ -26,24 +26,24 @@ Follow these rules to make a great space for working together and making connect
 
 ## Consent and Respect
 ![](/images/k0jf4U8.jpg)
-> As a participant, always prioritize consent, respectful behavior, and understanding boundaries in all your interactions with others.
+> Prioritize obtaining consent and exhibiting respect in all interactions. Understand and honor the boundaries set by others.
 
------
+---
 
 ## Communication
 ![](/images/1h0hBbV.jpg)
-> Make sure you engage in open, honest, and effective communication to establish expectations and ensure the well-being of yourself and fellow participants.
+> Engage in open, honest, and effective communication to set clear expectations and promote the well-being of everyone involved.
 
------
+---
 ## Commitment
 ![](/images/cnTSZNP.jpg)
-> Contribute to our sense of togehterness by committing to the entire event and participating actively in activities and programming.
+> Enhance our community's cohesion by fully committing to the event and actively participating in all scheduled activities.
 
 
 -----
 ## Safety and Accountability
 ![](/images/BvXca4U.jpg)
-> Help us maintain a safe environment by reporting any concerns about potential abuse, and by always acting responsibly.
+> Contribute to a secure environment by reporting any safety concerns and behaving responsibly at all times.
 
 -----
 ## Playfulness and Exploration
@@ -53,13 +53,13 @@ Follow these rules to make a great space for working together and making connect
 -----
 ## Contribution and Collaboration
 ![](/images/mPvcsxO.jpg)
-> Consider contributing to our events by leading workshops or assisting with event logistics, and actively collaborate with your fellow participants.
+> Enrich our events by leading workshops, assisting with logistics, and collaborating with fellow participants.
 
 
 -----
 ## Self-reliance and Personal Growth
 ![](/images/vx00fHS.jpg)
-> Take care of yourself and focus on personal development by prioritizing self-care and engaging in self-reflection and learning.
+> Focus on self-care and personal development through self-reflection and continuous learning, while also supporting others in their growth.
 
 -----
 ## Immediacy and Presence
@@ -69,14 +69,14 @@ Follow these rules to make a great space for working together and making connect
 -----
 ## Conflict Resolution
 ![](/images/6URpTy8.png)
-> Resolve conflicts constructively and empathetically, focusing on solutions and seeking support from our peer group  when needed.
+> Address conflicts constructively and empathetically, focusing on solutions and seeking support from our peer group when needed.
 
 -----
 ## Open Sharing and Authenticity
 ![](/images/u8XkGEj.jpg)
-> Share your knowledge, skills, and resources openly, and always be authentic in your personal interactions with others.
+> Share your knowledge, skills, and resources openly, and strive for authenticity in all your interactions.
 
 -----
 ## Respect for Diversity
 ![](/images/08doDoY.jpg)
-> Help us create an inclusive environment by celebrating differences and actively rejecting discriminatory or exclusionary behavior.
+> Foster an inclusive environment by celebrating diversity and actively opposing discriminatory or exclusionary behaviors.
