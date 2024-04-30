@@ -2,17 +2,14 @@
 title: Neuro-Liaison
 description:  Creating a Safe and Inclusive Environment for Neuro Diverse Individuals
 lead: Creating a Safe and Inclusive Environment for all Individuals.
-date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 images: []
 menu: 
   docs:
     parent: "wellbeing"
 weight: 20
 toc: true
-
----
-Sure, here's a version of your text that emphasizes self-reliance, while still providing a supportive environment:
 
 ---
 

@@ -14,7 +14,7 @@ title = "Projects"
 # Rogue Rope Camp 2024
 
 ### The Details
-* **When:** 14/08/2022 14:00 -&gt; 18/08/2022 16:00
+* **When:** 14/08/2024 14:00 -&gt; 18/08/2024 16:00
 * **Where:** East of Ghent, West of Antwerp
 * **Cost:** 150€ 
 
