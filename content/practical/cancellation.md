@@ -10,7 +10,7 @@ weight: 125
 toc: true
 ---
 
-If the event is not legal under Belgian or local laws (due to Covid waves/Putin/...), it shall not take place. In this case, everyone will receive a **full refund** for all costs \(tickets, drink vouchers\). No hidden fees will be deducted. If you paid X euros, we'll send you your X euros back via bank transfer.
+If the event is not legal under Belgian or local laws (due to Covid waves/Putin/...), it shall not take place. In this case, everyone will receive a **full refund** for all tickets purchased. No hidden fees will be deducted. If you paid X euros, we'll send you your X euros back via bank transfer.
 
 
 ## Personal Cancellation
