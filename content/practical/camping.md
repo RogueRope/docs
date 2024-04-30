@@ -36,6 +36,7 @@ toc: true
 - **Outdoor Accommodations:** There’s limited indoor space reserved for activities, so your best bet is to camp outdoors. Whether it’s a tent, van, or camper, you’ll want to be prepared.
 - **Camper:** Send a private message if you want to bring a camper so we can plan / accomodate for it, not sure if we can accomodate all, but we'll try!
 
-
+**Toilets and Showers**
+Please note that our campsite is equipped with three toilets and a single shower cabin that contains two shower heads. We recognize that the shared nature of the shower cabin may not offer the level of privacy some campers might prefer. We encourage campers to coordinate with each other to ensure comfort, safety and privacy when using these facilities. We strive to keep these amenities clean and well-maintained, and we appreciate your understanding and cooperation.
 
 ![Large camper tent at night](/images/camper.jpg)

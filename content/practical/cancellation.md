@@ -10,18 +10,18 @@ weight: 125
 toc: true
 ---
 
-If the event is not legal under Belgian or local laws (due to Covid waves/Putin/...), it shall not take place. In this case, everyone will receive a **full refund** for all costs \(tickets, drink vouchers\). No hidden fees will be deducted. If you paid X euros, we'll send you your X euros back via bank transfer.
+If the event is not legal under Belgian or local laws (due to Covid waves/Putin/...), it shall not take place. In this case, everyone will receive a **full refund** for all tickets purchased. No hidden fees will be deducted. If you paid X euros, we'll send you your X euros back via bank transfer.
 
 
 ## Personal Cancellation
 
-If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know, so we can vet the person you want to sell your ticket to. Every participant needs to be confirmed by the orga. There is no point in selling your ticket to someone who won't be allowed to participate. So first, send an email to the orga, with your friend's FetLife name and email. We will send you both an email with instructions on how to proceed.
+If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know, so we can vet the person you want to sell your ticket to. Every participant needs to be confirmed by the organization. There is no point in selling your ticket to someone who won't be allowed to participate. So first, send an email to the organization, with your friend's FetLife name and email. We will send you both an email with instructions on how to proceed.
 
 Up untill 21 days before the start of the event, you can cancel your ticket for free. Just go to your booking page and hit the cancel button. 
 
 If you need to cancel in the 3 weeks before the event **and we have people on the waiting list**, you can get a refund of 90% of the ticket price. If we don't have people on the waiting list, we can't give you a refund. 
 
-## Orga Cancellation
+## Organization Cancellation
 
 In case something happens that forces us to cancel the camp, you will get a full refund.
 

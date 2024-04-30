@@ -3,8 +3,8 @@ title = "Rogue Rope Camp 2024"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
-theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repon
-# theme = "compose"
+#theme = ["github.com/roguerope/compose"] # edit this if you'ld rather use a fork of this repon
+theme = "dispose"
 enableGitInfo = true
 
 enableDarkMode = true # set to false to disable darkmode by default # user will still have the option to use dark mode

@@ -24,9 +24,3 @@ Competition has no place here—our ties are not for triumph, but for connection
 
 * Variety spices up the playground: whips, canes, chains, needles, even fire—all expressions of play are welcome here.
 * We honor the bare and the bold. Nudity and sexuality are not shrouded but embraced, an integral aspect of our vibrant tapestry.
-
-## Zoned for Comfort
-
-* To cater to the diverse preferences and comfort levels of our attendees, we’ve thoughtfully designated different zones within our space.
-* Each zone serves as a unique atmosphere, ranging from quiet and contemplative spaces to more dynamic and interactive areas.
-* Participants can navigate through these zones, finding their own comfort within the boundaries that feel right for them, ensuring a safe, consensual, and enjoyable experience for everyone.
