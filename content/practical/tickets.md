@@ -29,6 +29,10 @@ Ticket sales open May fifth at 20.00.
 
 [Buy your tickets here: https://shop.gogogonzo.be/RRC24/](https://shop.gogogonzo.be/RRC24/)
 
-Once you've made the purchase, please use your FetLife name during the ordering process. We will review your order and check your profile, possibly reaching out within the community to ensure our camp maintains a safe atmosphere for everyone. After confirmation, you will receive an email with payment instructions.
+## Vetting
+
+Once you've ordered your ticket (please use your FetLife name during the ordering process), we will review your order and check your profile, possibly reaching out within the community to ensure our camp maintains a safe atmosphere for everyone. After confirmation, you will receive an email with payment instructions.
 
 Remember, the journey of connection and exploration at Rogue Rope Camp begins with this first step. We are excited to have you with us and look forward to the experiences we'll share.
+
+![Think](/images/tickets.webp)

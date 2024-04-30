@@ -46,12 +46,6 @@ Follow these rules to make a great space for working together and making connect
 > Help us maintain a safe environment by reporting any concerns about potential abuse, and by always acting responsibly.
 
 -----
-## Inclusivity
-![](/images/ujTxLsT.jpg)
-> Make our event welcoming by avoiding cliques or exclusionary behavior, and embracing diversity and social justice.
-
-
------
 ## Playfulness and Exploration
 ![](/images/Wvm1G2x.jpg)
 > Feel free to explore in BDSM play with various partners and be open to new experiences, while always respecting individual boundaries and comfort levels.
