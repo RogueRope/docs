@@ -15,6 +15,8 @@ toc: true
 
 Dive into a unique blend of connection, exploration, and rope artistry at Rogue Rope Camp edition. Our program is meticulously designed to foster intimacy, learning, and shared experiences, ensuring a memorable and enriching journey for all participants.
 
+This is a rough outline and subject to change.
+
 ## Wednesday
 * **Afternoon**: Build Day - Join us in creating the backdrop for our summer experience.
 
