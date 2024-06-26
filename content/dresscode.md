@@ -1,6 +1,6 @@
 ---
-title: "Manifesto"
-lead: "Exploring the Essence of Rogue Rope Camp"
+title: "Dress Code"
+lead: ""
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2024-04-06T13:37:00+00:00
 toc: true
@@ -15,7 +15,8 @@ toc: true
 {{< column >}}
 
 
-![Manifesto](/images/dresscode.webp)
+![Dresscode](/images/dresscode.webp)
+
 {{< /column >}}
 
 
@@ -69,7 +70,8 @@ Feel free to just wear the twinkling stars and a smile. 😊
 
 ### 🌟 *Enthusiastic Consent is Everything* 🌟
 
-You decide how much you (don't) want to dress up. The dress code will not be enforced, and there's no shame in not participating in the dress-up part. 🌟
+You decide how much you (don't) want to dress up. The dress code will not be enforced, and there's no shame in not participating in the dress-up part. 🌟 
+Also nothing is set in stone, if you want to go rogue and dress up as a purple hippo in a tutu, be our guest. 
 
 We look forward to seeing your radiant creations! 🌌🌟🌠
 
