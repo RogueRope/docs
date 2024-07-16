@@ -22,6 +22,7 @@ Things may get chaotic at _Rope Camp_ Sometimes interactions can feel overwhelmi
 - Clearly state your boundaries and maintain open communication, whether with strangers or loved ones.
 - Focus on having experiences that make **you** happy.
 - Engage in ways that make **you** feel comfortable.
+- If in need you can always ask Hans to pkay some K3 or Rammstein.  
 
 ## Seeking Help
 
