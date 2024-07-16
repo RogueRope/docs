@@ -25,6 +25,7 @@ lead: ''
 - Water bottle for hydration
 - Ear plugs for noise reduction
 - Sleeping mask for better sleep quality
+- Clothes and an [outfit for the play party](dresscode)
 
 ### Camping Supplies
 - Tent with stakes and tie-downs
@@ -33,6 +34,7 @@ lead: ''
 - Inflatable pillow or travel pillow
 - Cooler bag or box
 - Ice packs (provided on-site)
+- some lights to decorate your tent with.
 
 ### Hygiene
 - Soap (biodegradable if possible)
