@@ -49,7 +49,7 @@ lead: ''
 - Non-alcoholic/Alcoholic beverages (water enhancers, sodas)
 - Portable phone charger or power bank
 - Charging cables for your devices
-- Lightweight folding chair or blanket for seating
+- Lightweight folding chair, blanket or soft pad for seating in the amphitheatre of flames.
 - Camera or action cam for capturing moments
 - A hat or cap for sun protection
 - Sunglasses
