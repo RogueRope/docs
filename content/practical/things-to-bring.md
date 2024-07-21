@@ -69,4 +69,5 @@ lead: ''
 * Kids (<18j)
 * Pets
 * Bad vibes
+* A megaphone
 * Very power-hungry devices like heaters or coolers
