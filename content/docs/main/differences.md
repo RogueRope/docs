@@ -18,7 +18,9 @@ _Bottoms Up!_ welcomes the colder months with a warm embrace of intimacy, delvin
 
 - Our indoor venue provides a **sanctuary of warmth**, enhancing the closeness and depth of our gatherings.
 - The ample rope space and innovative suspension points offer a **physical canvas** for exploration and expression.
-
+<!---
+chatgpt : add a paragraph here, that we're bringing the big tent from the summer back inside.
+-->
 
 ### Peer-to-Peer Discovery
 
@@ -36,3 +38,4 @@ _Bottoms Up!_ welcomes the colder months with a warm embrace of intimacy, delvin
 - We recognize and celebrate that **without eros, rope cannot fully embody shibari**; therefore, we encourage personal exploration and expression of sexuality as a natural and essential component of the experience.
 
 Join us in this unique setting where rope becomes a conduit for emotional and erotic expression, where learning is shared, and experiences transcend the ordinary, fostering a true appreciation for the art of shibari in its most authentic form.
+
