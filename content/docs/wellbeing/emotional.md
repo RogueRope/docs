@@ -1,3 +1,4 @@
+```markdown
 ---
 title: Emotional
 description: Taking care of your body includes your heart.
@@ -12,24 +13,30 @@ weight: 35
 toc: true
 
 ---
-Things may get chaotic at _Bottoms Up!_ For example, interacting might feel too intense at times, and/or you may feel a bit alone or alienated, without familiar comforts to rely on. But there are plenty of ways to deal with this!
 
-Here are some tips:
+Things may get chaotic at _Bottoms Up!_—interactions might feel intense, or you may feel a bit out of place without your usual comforts. It’s important to know that these feelings are normal, and there are plenty of ways to manage them!
 
-* Be gentle with your body
-* Seek help if you need it
-* State your boundaries and communicate, whether talking with strangers or your loved ones
-* Try to have the experience that makes YOU happy
-* Try to connect in ways that make YOU comfortable
+### Some helpful tips:
+
+* Be gentle with your body.
+* Seek help if you need it.
+* Clearly state your boundaries and communicate openly, whether you're talking with strangers or loved ones.
+* Focus on having an experience that makes YOU happy.
+* Connect with others in ways that make YOU comfortable.
 
 ## Seeking Help
 
-If you need support, let us know. We hanve volunteers on-site that mi. Choose the one you feel would suit you best. Walk up to them and tell them you need a talk. Your issues will be addressed to the best of our abilities, with the help of our dedicated team of volunteers who are committed to promoting the well-being, safety, and comfort of all participants.
+If you find yourself needing support, we might be able to help. But remember, our volunteers are **not professionals**—they’re dedicated community members doing their best. While we offer support, **we're not here to guide you every step of the way**. You need to find your own balance and navigate the experience that works for you. We’re always open for questions and will do our best to assist, but ultimately, your well-being is in your hands.
 
-* Peer Support: First, reach out to friends or peers, who may be able to offer medical, emotional, or practical support in times of need.
-* Consent Crew: Our dedicated Consent Crew is focused on creating a safe, respectful, and inclusive environment for everyone at the event. They are available to offer guidance on matters related to consent, personal boundaries, and mutual respect. If desired by all parties involved, Consent Crew members can also act as mediators to resolve any disputes or conflicts.
-* Neuro-Liaison: The Neuro-Liaison serves as a specialized point of contact for neurodiverse individuals, providing tailored support and assistance. They work closely with event organizers to suggest improvements that cater to the needs of neurodiverse participants. Additionally, they are equipped to mediate conflicts and address concerns, ensuring a positive and enjoyable experience for everyone.
+### Where to find support:
 
-Remember, the Rogue Rope mindset is to never look for blame or shame, but rather to focus on solutions. So, we will do our best to involve the right people to find a solution, whether it be by giving you private space, finding a nice person to talk to, or any other solution that could improve your situation.
+* **Peer Support**: Start by reaching out to friends or peers. They might be able to offer emotional, practical, or even medical support.
+* **Consent Crew**: Focused on creating a safe, respectful, and inclusive environment, the Consent Crew can help with any issues related to personal boundaries, consent, or mutual respect. If needed, they can also mediate conflicts, as long as all parties are open to it.
+* **Neuro-Liaison**: Our Neuro-Liaison is a resource for neurodiverse participants, providing tailored support. They also work with event organizers to ensure that everyone’s needs are considered. They can help mediate conflicts and assist in any way that promotes a positive experience for all.
+
+## Personal Responsibility
+
+It’s important to approach this event knowing that **you are responsible for your own well-being**. Our team will do their best to offer solutions, but they are not trained therapists or counselors. We operate on a “Rogue Rope” mindset: no blame or shame, just a focus on finding solutions. Whether you need a quiet space, someone to talk to, or a different approach, we’ll try our best to help—but it starts with you advocating for yourself.
 
 ![animated drawing of two people hugging](/images//hug.webp)
+```

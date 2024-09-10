@@ -33,16 +33,6 @@ From [Project Respect](https://www.projectrespect.ca/consent/) We believe that e
 
 **Consent** and open communication are key to positive sexual experiences for everyone involved.
 
-## Let us know! 
-
-**Please**, if you have had issues with someone, seen red flags or witnessed inappropriate behavior of someone on the ‘going-list’, **let us know**.
-You can use Fetlife messages or [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us") in some other way.
-Feel free to use a pseudonymous account by creating a new mail address with protonmail/yahoo/fastmail/… 
-
-Please describe the issues and propose a way for us to deal with them. Does this person need someone to work with them on their behavior? Could we assist in facilitating [restorative justice](https://en.wikipedia.org/wiki/Restorative_justice)? Can they still attend but do we need to keep an eye on them? Can they attend if they promise not to interact with you? Or is the best solution for them not to attend the event?
-
-We will assess the situation and try to think of the best solution, after which we will contact you to see if this solution works for you. No process is perfect, but we’ll try to find something that works for all involved parties.
-
 ## Further Readings
 
 If you want to learn more on the subject, check this elaborate write-up by [La Quarta Corda](https://www.laquartacorda.it/en/consent/).

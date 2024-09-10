@@ -1,7 +1,7 @@
 ---
 title: Accommodations
 description: >
-  This winter, trade the tent for a bunk bed in our communal dormitory style accommodations. Think budget hostel vibes, with the warmth and camaraderie of a shared space.
+  This winter, trade the tent for a bunk bed in our communal dormitory-style accommodations. Think budget hostel vibes, with the warmth and camaraderie of a shared space.
 lead: Embrace the cozy hostel experience with our indoor bunk bed setup.
 date: 2023-10-06T13:37:00+00:00
 lastmod: 2023-10-06T13:37:00+00:00
@@ -12,29 +12,30 @@ menu:
   docs:
     parent: "practical"
 ---
-Gone are the days of camping in the open field – this winter, we're moving indoors. Our event will feature dormitory-style sleeping arrangements, equipped with sturdy bunk beds for a restful night's sleep after a day of connection and exploration.
 
-We offer differentiated sleeping quarters to cater to various needs, including FLINTA (women, lesbians, inter, non-binary, trans, agender) and snoring rooms, ensuring comfort and consideration for all attendees.
+Gone are the days of camping in the open field—this winter, we’re moving indoors! We’re offering dormitory-style accommodations with bunk beds to keep you warm and comfortable after a full day of connection and exploration.
 
-**Accommodation Highlights:**
+Our sleeping arrangements cater to everyone’s needs, including **FLINTA** (women, lesbians, inter, non-binary, trans, agender) and snoring-friendly rooms, so everyone can rest easy.
 
-* **Budget-friendly Hostel Feel**: Get the full festival experience with the comfort of being indoors, perfect for the chilly winter months.
-* **Bunk Beds**: Cozy up in your own bunk, complete with a mattress. Just remember to bring your own bedding or sleeping bag.
-* **Mixed, FLINTA and Snoring Rooms**: Choose a room that suits your comfort, whether it's a quieter space or one that accommodates snoring.
-* **Community Atmosphere**: Our shared spaces promote interaction and connection, even when you're winding down for the day.
+### Accommodation Highlights:
 
-**Additional Information:**
+* **Budget-friendly Hostel Feel**: Get the full festival experience with the added comfort of being indoors, perfect for the chilly season.
+* **Bunk Beds**: Snuggle up in your own bunk with a mattress. Just bring your bedding or sleeping bag for a cozy night’s rest.
+* **Mixed, FLINTA, and Snoring Rooms**: Choose a room that fits your comfort—whether you prefer quieter spaces or don’t mind sharing with some snorers.
+* **Community Atmosphere**: Our shared spaces help foster connection, even as you unwind for the night.
 
-* **Indoor Facilities**: We've got the essentials covered with indoor toilets and showers – no porta-potties here!
-* **Electricity Access**: Charge your devices conveniently indoors, but remember, energy-hungry appliances are a no-go.
-* **Respect the Space**: Treat our dorms with care so everyone can enjoy a pleasant stay.
-* **Mindful Smoking**: Designated outside smoking areas are available for those who wish to indulge.
+### Additional Information:
 
-**What to Bring:**
+* **Indoor Facilities**: No porta-potties here—enjoy indoor toilets and showers for added convenience.
+* **Electricity Access**: You can charge your devices indoors, but we kindly ask you to leave energy-heavy appliances at home.
+* **Respect the Space**: Help us keep the dorms clean and pleasant for everyone.
+* **Mindful Smoking**: Designated outdoor smoking areas are available for those who need them.
 
-* **Bedding**: A sleeping bag, blankets, your own bed linens a a pillow for the bunk beds.
-* **Personal Essentials**: Toiletries, towels, and anything else you'd need for a comfortable hostel stay.
+### What to Bring:
 
-**Please Note:**
+* **Bedding**: A sleeping bag, blankets, or your own bed linens and a pillow for your bunk.
+* **Personal Essentials**: Toiletries, towels, and anything else you’d normally pack for a hostel stay.
 
-The indoor space is limited, so while we encourage you to bring your personal touch, we ask that you keep the shared areas clutter-free. We're all in this together, creating a harmonious and enjoyable environment for our winter journey.
+### Please Note:
+
+Indoor space is limited, so while we want you to make yourself at home, we ask that you keep the shared areas tidy. Let’s all work together to create a harmonious, clutter-free environment for our winter adventure.

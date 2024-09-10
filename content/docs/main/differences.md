@@ -18,9 +18,7 @@ _Bottoms Up!_ welcomes the colder months with a warm embrace of intimacy, delvin
 
 - Our indoor venue provides a **sanctuary of warmth**, enhancing the closeness and depth of our gatherings.
 - The ample rope space and innovative suspension points offer a **physical canvas** for exploration and expression.
-<!---
-chatgpt : add a paragraph here, that we're bringing the big tent from the summer back inside.
--->
+- We're excited to bring the **big tent** from our summer event **back inside**, giving us plenty of space to continue creating and playing, no matter the weather.
 
 ### Peer-to-Peer Discovery
 
@@ -33,9 +31,8 @@ chatgpt : add a paragraph here, that we're bringing the big tent from the summer
 
 ### Embracing Eros
 
-- At Bottoms Up! Winter, we openly encourage the exploration of sexuality as an integral part of the shibari experience, we don't want to become the basic-fit version of .
-- Our event is a liberated space that transcends comercially-conformist boundaries, allowing for a full embrace of **eros** in rope practice.
+- At Bottoms Up! Winter, we openly encourage the exploration of sexuality as an integral part of the shibari experience. We don’t want to become a watered-down, mainstream version of this art.
+- Our event is a liberated space that transcends commercial boundaries, allowing for a full embrace of **eros** in rope practice.
 - We recognize and celebrate that **without eros, rope cannot fully embody shibari**; therefore, we encourage personal exploration and expression of sexuality as a natural and essential component of the experience.
 
 Join us in this unique setting where rope becomes a conduit for emotional and erotic expression, where learning is shared, and experiences transcend the ordinary, fostering a true appreciation for the art of shibari in its most authentic form.
-

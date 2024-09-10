@@ -23,11 +23,4 @@ Everything you bring into our event has a place, and when it's not in its place,
 - **Clean As You Go:** Incorporate tidiness into your activities. Cleaning up immediately means less work later.
 - **Help the Forgetful:** Remind others gently if they've left something behind. Sometimes, a friendly nudge is all it takes.
 
-We might not be your caregivers, but let’s embody the ethos of being a community that cares—for the space and for each other.
 
-## Guidelines for a Tidy Event
-
-- **Contain Your Waste:** Always have a small bag on hand to collect your trash.
-- **Monitor the Bins:** If a bin is full, notify an organizer. Don’t let overflow become an issue.
-
-Together, let's ensure that our gathering is remembered not just for the vibrant encounters but also for the collective respect we show to our surroundings.

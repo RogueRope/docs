@@ -10,37 +10,36 @@ menu:
 weight: 32
 toc: true
 lead: ''
-
 ---
+
 ### Basics
 
-* Your ticket with qr-code
+* Your ticket with QR code
 * Rope and other toys
 
 ### Accessories
 
-* **A solid cup (reusable, no glass)** for your water/tea/coffee/soup **\~ A CUP IS MANDATORY \~**
-* **Bedding**: Bring your own bed linen, blankets, and a pillow for the bunk beds.
-* **Cutlery and Plate**: Knife, fork, spoon, and a plate for your meals.
-* **Torch with enough batteries and/or LED head torches** for navigating in the dark.
-* **A water bottle** to stay hydrated.
-* **Ear plugs and sleeping mask** for a comfortable sleep.
+* **A solid cup (reusable, no glass)** for water, tea, coffee, or soup (**~ A CUP IS MANDATORY ~**)
+* **Bedding**: Bring your own bed linen, blankets, and pillow for the bunk beds.
+* **Cutlery and Plate**: A knife, fork, spoon, and plate for your meals.
+* **Torch or LED headlamp** with extra batteries to navigate in the dark.
+* **Water bottle** to stay hydrated.
+* **Ear plugs and sleeping mask** for better sleep.
 
 ### Hygiene
 
 * **Soap and shampoo** for personal cleanliness.
-* **Toothbrush and toothpaste** for oral hygiene.
-* **Towel(s)** for drying off after showering.
-* **Any medications**, both prescription and non-prescription.
+* **Toothbrush and toothpaste** for oral care.
+* **Towel(s)** for showering.
+* **Any medications** you may need, both prescription and non-prescription.
 
 ### Additional Useful Items
 
-* **Comfortable indoor shoes or slippers**: Ideal for moving around the venue.
-* **Personal snacks or specialty food items**: Catering to your dietary needs.
-* **Portable phone charger or power bank**: Keep your devices charged.
-* **Small backpack or bag**: For carrying personal items.
-* **Warm, casual clothing**: Suitable for the indoor environment.
-* **Thermal flask**: Keep your drinks hot or cold for longer periods.
+* **Comfortable indoor shoes or slippers**: Perfect for walking around the venue.
+* **Personal snacks or specialty food items**: If you have specific dietary needs.
+* **Small backpack or bag**: Handy for carrying essentials.
+* **Warm, casual clothing**: Suitable for indoor conditions.
+* **Thermal flask** to keep your drinks hot or cold.
 
 ### Food
 
@@ -48,20 +47,13 @@ lead: ''
 
 ## Do NOT Bring:
 
-* Kids (<18j)
+* Kids (under 18)
 * Pets
 * Bad vibes
-* Very power-hungry devices like heaters or coolers
+* Power-hungry devices like heaters or coolers
 
 # Leave No Trace
 
-* Ensure you take **all your trash** and belongings back home with you.
-* Keep the space clean and pristine for everyone to enjoy.
-* As there are **no trash cans** on site, consider the following tips:
-    * Bring reusable containers and bags to minimize waste.
-    * Remove excess packaging from items before bringing them to the event.
-    * Carry a small trash bag with you to collect waste throughout the day.
-    * Be mindful of your consumption and only bring what you need.
-
+As it's an indoor event, we'll be handling recycling onsite. Please minimize the waste you bring, like plastic packaging from six-packs. We’ll have dedicated recycling bins this year, and we’re making an extra effort to recycle properly. Let’s work together to keep the space clean and contribute to a communal cleanup effort.
 
 ![Tent with nice lights surrounding it.](/images/tent.jpg)

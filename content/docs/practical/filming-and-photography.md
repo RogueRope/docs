@@ -13,14 +13,14 @@ weight: 95
 toc: true
 ---
 
-**Never film or photograph someone without their explicit consent.** This includes people in the background of a photo you're taking.
+**Never film or photograph anyone without their explicit consent.** This includes being mindful of people in the background of your shots.
 
-If you have a dispute with someone about photography, please let the organizer know. Your right to take someone’s photo and publish it **never** over-rules their right to privacy! If posting photos onto FetLife or other social networking sites, **MAKE 100% SURE** that **EVERYONE** featured in your photos is happy for them to be posted. You should not be tagging people online unless you have their explicit permission to do so.
+If you ever run into an issue regarding photography, please let the organizers know. Remember, your right to take or post a photo **never** overrules someone else’s right to privacy. If you're posting photos on FetLife or any social media, **MAKE 100% SURE** that **EVERYONE** in the picture has agreed to it being shared. Don’t tag anyone online unless they’ve explicitly said it’s okay.
 
-If you have any questions about photography or filming at our winter event, please [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us").
+If you have any questions about photography or filming at our event, please [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us").
 
 ## Do NOT Post Pictures of the Site!
 
-Please do not publish identifiable pictures of the location. We want to keep using the site the coming years. The site provides us with privacy, and we should be able to return the favor. The site did not consent to being photographed and published, so just don't.  Take this into account when taking a picture, but particularly when posting online. Feel free to take pics of the site for personal use.
+Please refrain from posting identifiable pictures of the location online. We want to continue using the site in future years, and part of that means respecting its privacy. The site itself didn’t consent to being photographed, so let’s keep it off social media. You can take pictures for personal use, just don’t share them publicly.
 
-If you want to make a picture of someone where identifiable parts are in the background, feel free to do so, but just don't publish them. Take extra care in regards to social media, you might think it's fun to have a pseudo-anonymous Insta, FB, YouTube or Twitter account, but when you publish a picture, often more is uploaded than you might assume.
+If you’re taking a picture with identifiable parts of the site in the background, feel free to capture the moment, but please don’t publish it. Be extra careful with social media—you might think a pseudo-anonymous account is safe, but platforms often upload more data than you realize.
