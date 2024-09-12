@@ -3,7 +3,7 @@ title: "Food"
 description: Much food, such good times.
 lead: "Expect basic but tasty 'camp food'. We will provide several meals, and you can store your personal food items in our refrigerators. Check out the timetable below to plan for what additional food to bring."
 date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+lastmod: 2024-09-11T13:37:00+00:00
 draft: false
 images: []
 menu: 
@@ -31,7 +31,9 @@ For those with specific dietary needs (vegan, gluten-free, organic), we can offe
 
 While this isn’t a foodie festival, we’re sure there’ll be some delicious surprises along the way!
 
+And, just so you know, **this year we’re not feeding the trolls anymore.**
+
 ## Summary: What to Bring Yourself
 * Snacks and treats (sharing encouraged!)
-* Your own drinks (no bar on-site).
-* Toppings for your bread (cheese, jam, spreads, etc.).
+* Your own drinks (no bar on-site)
+* Toppings for your bread (cheese, jam, spreads, etc.)

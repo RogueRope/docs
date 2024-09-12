@@ -48,9 +48,9 @@ lead: ''
 ## Do NOT Bring:
 
 * Kids (under 18)
-* Pets
 * Bad vibes
 * Power-hungry devices like heaters or coolers
+* No dogs.
 
 # Leave No Trace
 

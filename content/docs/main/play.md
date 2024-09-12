@@ -3,7 +3,7 @@ title: Play
 description: Embrace your desires!
 lead: The canvas of kink is vast and varied.
 date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+lastmod: 2024-09-11T13:37:00+00:00
 images: []
 menu: 
   docs:
@@ -24,10 +24,10 @@ Everyone's journey is unique, and every single knot counts. So whether you're ne
 
 * Our play space is open to all kinds of kinky fun—whether it’s whips, canes, chains, needles, or even fire, if it’s part of your play, it’s welcome here.
 * Nudity and sexuality are part of our community, embraced and celebrated in all their forms. Feel free to express yourself however feels right for you.
+* Please be aware that you may be confronted with nudity and sexuality at times when you might not expect it.
 
 ## Zoned for Comfort
 
 * We’ve created different areas to cater to everyone’s comfort and preferences.
 * Whether you’re looking for a quiet, chill space or something more lively and interactive, there’s a zone for you.
 * Feel free to move through the different spaces and find what suits you best, ensuring a safe, consensual, and enjoyable experience for all.
-
