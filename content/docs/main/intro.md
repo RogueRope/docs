@@ -55,4 +55,4 @@ Thank you for your interest in _Bottoms Up!_. We look forward to welcoming you t
 Let’s dive into this journey together.
 
 ### Testimonials
-If you want to know more (this writing)[https://fetlife.com/users/9272860/posts/10433585] is a good start.
+If you want to know more [this writing](https://fetlife.com/users/9272860/posts/10433585) is a good start.
