@@ -31,9 +31,9 @@ For those with specific dietary needs (vegan, gluten-free, organic), we can offe
 
 While this isn’t a foodie festival, we’re sure there’ll be some delicious surprises along the way!
 
-And, just so you know, **this year we’re not feeding the trolls anymore.**
-
 ## Summary: What to Bring Yourself
 * Snacks and treats (sharing encouraged!)
 * Your own drinks (no bar on-site)
 * Toppings for your bread (cheese, jam, spreads, etc.)
+
+And, just so you know, this year we’re not feeding the trolls anymore.

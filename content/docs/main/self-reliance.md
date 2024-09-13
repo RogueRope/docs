@@ -30,7 +30,7 @@ This event is not a quick one-night affair. Think of it as a marathon, requiring
 
 We often compare our events to an expedition up Mount Everest. Inclusivity is a broad and evolving concept, and we strive to ensure that everyone can make it to the base of the mountain. We make efforts to provide accessibility — whether that means ensuring physical access for those with mobility challenges, offering financial support, or adapting our communications to accommodate neurodiverse needs.
 
-We will be there to support you if you stumble along the way to the top. If someone falls down halfway, we’ll do what we can to help. But remember, we’re not sherpas — we won’t carry you to the top. The journey is yours, and you need to come prepared to make the climb.
+We will be there to support you if you stumble along the way to the top. If someone falls down halfway, we’ll do what we can to help. But remember, we’re not sherpas — we won’t carry you to the top. The journey is yours, and you need to come prepared to get out of your tent to make the climb.
 
 ### Come Prepared, Leave Transformed
 
