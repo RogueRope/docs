@@ -36,4 +36,4 @@ While this isn’t a foodie festival, we’re sure there’ll be some delicious 
 * Your own drinks (no bar on-site)
 * Toppings for your bread (cheese, jam, spreads, etc.)
 
-And, just so you know, this year we’re not feeding the trolls anymore.
+And, just so you know, this time we’re not feeding the trolls anymore.
