@@ -21,7 +21,7 @@ At Rogue Rope, we like to keep things simple, fun, and community-driven. While w
 We keep costs low by encouraging everyone to contribute in ways that feel good for them—whether it's helping set up, offering emotional support, or sharing any specific skills you might have. Your contributions, whether physical or emotional, are always appreciated. These gifts keep Rogue Rope alive, and we're deeply thankful for everyone who chips in.
 
 ## No "Staff" Here  
-You won’t find anyone to "Karen" here. We don’t have staff members, just participants. We see you as an essential part of the experience, not as a customer. Your role here is about engagement and connection. Think of Rogue Rope as a collective effort, where everyone’s participation is equally valuable.
+You won’t find anyone to "Karen" here. We don’t have staff members, just participants. We see you as an essential part of the experience, not as a customer. Your role here is about engagement and connection. Think of Rogue Rope as a collective effort, where everyone’s participation is equally valuable. If you *do* want to talk to the manager, @HansF will listen.
 
 ## A Space for Everyone  
 At its core, Rogue Rope is about fostering connections. By embracing the spirit of giving, sharing, and participation, we create a welcoming, inclusive environment where everyone can feel empowered to play a part in making the magic happen. There's no pressure, just the joy of being in a space where your presence and contributions matter.
