@@ -30,6 +30,7 @@ Our sleeping arrangements cater to everyone’s needs, including **FLINTA** (wom
 * **Electricity Access**: You can charge your devices indoors, but we kindly ask you to leave energy-heavy appliances at home.
 * **Respect the Space**: Help us keep the dorms clean and pleasant for everyone.
 * **Mindful Smoking**: Designated outdoor smoking areas are available for those who need them.
+* **Campers/vans**: feel free to bring them, please let us know beforehand so we can save you a spot.
 
 ### What to Bring:
 
