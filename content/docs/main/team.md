@@ -17,6 +17,9 @@ toc: true
 
 At Rogue Rope, we like to keep things simple, fun, and community-driven. While we’re not a registered non-profit, we operate as a hobby collective, aiming to bring people together for good times and meaningful connections. Our structure is casual, with no formal staff or hierarchy. Instead, everyone who takes on a role within the group does so voluntarily, without compensation. We’re here for the shared experience, not for profit.
 
+## We’re Not Professionals, We’re Passionate  
+Our team may not be "professional" in the traditional sense, but what we bring to the table is passion, enthusiasm, and dedication to our culture. We're driven by a love for what we do, and that’s what makes Rogue Rope special. We’re in this together, learning and growing side by side with you.
+
 ## Chipping In  
 We keep costs low by encouraging everyone to contribute in ways that feel good for them—whether it's helping set up, offering emotional support, or sharing any specific skills you might have. Your contributions, whether physical or emotional, are always appreciated. These gifts keep Rogue Rope alive, and we're deeply thankful for everyone who chips in.
 

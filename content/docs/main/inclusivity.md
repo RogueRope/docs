@@ -3,7 +3,7 @@ title: "Inclusivity"
 description: "Everyone deserves to enjoy Bottoms Up! We're here to ensure that happens."
 lead: "Embracing diversity and providing support for all attendees."
 date: 2023-10-06T13:37:00+00:00
-lastmod: 2024-09-11T13:37:00+00:00
+lastmod: 2023-10-06T13:37:00+00:00
 images: []
 menu: 
   docs:
@@ -12,13 +12,15 @@ weight: "40"
 toc: true
 ---
 
+At Bottoms Up!, we’re all about making sure everyone feels welcome, while still sticking to the core idea of self-reliance and mutual respect. We’re here to help remove barriers where we can, but the event itself stays true to its vibe and operates under the same rules for everyone.
+
 ## Financial Accessibility
 
-We believe that financial constraints shouldn't prevent anyone from experiencing Bottoms Up! If the cost is a barrier for you, please don't hesitate to reach out to us. We're committed to finding a solution that works for you, whether that's a payment plan or a pay-what-you-can ticket. Let’s talk and make it possible for you to join us.
+Money shouldn’t keep you from joining us. If finances are tight, let’s chat. Whether it’s a payment plan or pay-what-you-can, we’ll figure out a way to make sure you can be part of the event.
 
 ## Mental Wellness Consideration
 
-Bottoms Up! can be an intense experience, and we understand that it might feel overwhelming for some. That’s why we’ve set aside an open day on Sunday—a lighter, more relaxed day designed for those who prefer a shorter, less immersive experience. Join us for just a day to enjoy the vibe without the worry of burnout.
+We know Bottoms Up! can get intense, and it’s okay if that feels a bit much sometimes. Take care of yourself, be mindful of your boundaries, and reach out to others if you need support. Ultimately, your well-being comes first, but self-care is a big part of the experience too.
 
 ## Discrimination-Free Zone
 
@@ -33,9 +35,10 @@ We're committed to ensuring Bottoms Up! is accessible to everyone, including whe
 
 ## Tailoring the Experience to Your Needs
 
-Your comfort and participation matter to us. If there's something specific that would make it easier for you to attend or enjoy the event, let us know. We're always eager to learn and accommodate wherever possible. If we can make it happen, we will. Reach out to us at [info@roguerope.be](mailto:info@roguerope.be) with your needs or suggestions.
+We want to make the event accessible, but self-reliance is important too. If you need something specific to help you participate, let us know as early as possible. We’ll do our best to accommodate, but the event will run under the same guidelines for everyone.
 
 ## Support for Neurodiverse Attendees
 
-We recognize that everyone processes information differently, and we’re here to help. While we strive to be as clear as possible, we ask neurodiverse participants to reach out if something is unclear or confusing. Please don’t hesitate to ask questions or seek clarity at any point—we’re here for you, but we also encourage self-advocacy to ensure we meet your needs.
+We know not everyone processes things the same way, and that’s totally fine. If you need a little more clarity or something’s unclear, just ask! We’re here to support you, but self-advocacy is encouraged to make sure your needs are met.
 
+Bottoms Up! is about creating a space where everyone can join in while still maintaining the event’s core spirit. Let’s make it a place where everyone feels they belong.
