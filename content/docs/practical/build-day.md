@@ -12,17 +12,18 @@ menu:
     parent: "practical"
 weight: 95
 toc: true
-
 ---
 
-The stage is set for an unforgettable event, but before the journey of exploration begins, we have a day of creation—our **Build**!
+Before the fun begins, we’ve got a day of creation—our **Build**! This is a collective effort, and we need as many hands as possible to help create the perfect space for our winter gathering.
 
-This isn’t a one-person show; it’s a collective symphony. From the early hours, we’re inviting as many hands as possible to help construct the backdrop for our winter experience. 
-
-This call is for the crafty, the willing, and the spirited. Whether you’re skilled with a drill or simply have a vision to share, your contribution is invaluable. The tasks will vary, ensuring there’s a place for everyone’s talents. And remember, this is more than just preparation—it’s the first stroke of our shared canvas.
+Whether you’re great with tools or just ready to pitch in, there’s a role for everyone. Tasks will vary, and your help is essential to making this event a success.
 
 ### Build Details:
-- **Start Time**: Build begins around **14:00 on January 2nd**, feel free to drop in whenever.
-- **End Time**: We aim to wrap things up by **late afternoon/early evening**.
+- **Start Time**: Build begins at **14:00 on January 2nd**. Come when you can!
+- **End Time**: We’ll finish up by **late afternoon/early evening**.
 
-Becoming a part of Build Day is not just about giving—it’s also about receiving. You’ll forge connections, soak in the pre-event energy, and leave your personal mark on the event’s very foundation. Let’s create something amazing together!
+### Tear-Down Plan:
+- **Strike Day**: Monday, we’ll need **at least 8 people** to help with tear-down.
+- If we don’t get enough volunteers for Monday, we’ll do the tear-down on **Sunday evening**.
+
+Join us for Build Day—it’s a great way to connect, get into the event spirit, and make your mark before everything kicks off!

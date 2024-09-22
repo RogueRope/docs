@@ -15,7 +15,7 @@ toc: true
 
 ## Cancellation
 
-If the event is not legal under Belgian or local laws (due to Covid waves, geopolitical events, etc.), it will not take place. In this case, everyone will receive a **full refund** for all costs (tickets, drink vouchers). No hidden fees will be deducted—if you paid X euros, we’ll return X euros via bank transfer.
+If the event is not legal under Belgian or local laws (due to pandemics, geopolitical events, etc.), it will not take place. In this case, everyone will receive a **full refund** for all costs (tickets, drink vouchers). No hidden fees will be deducted—if you paid X euros, we’ll return X euros via bank transfer.
 
 You can also cancel and receive a **full refund** up until **December 15** for any reason, no questions asked. After this date, standard personal cancellation policies apply.
 

@@ -10,25 +10,24 @@ menu:
     parent: "wellbeing"
 weight: 20
 toc: true
-
 ---
 
-At _Bottoms Up!_, we welcome neurodiverse individuals and strive to accommodate their needs as best as we can. We encourage all participants to take responsibility for their own mental health and well-being while being mindful of others.
+At _Bottoms Up!_, we proudly welcome neurodiverse individuals and are committed to making our space as accommodating as possible. We encourage everyone to prioritize their own mental well-being while also being considerate of others.
+
+As a social event, _Bottoms Up!_ thrives on connection, inclusivity, and shared experiences. We understand that this environment may feel challenging for some, and that's completely okay. While we do offer flexibility, including quiet spaces where participants can temporarily withdraw if needed, there are also some required activities where interaction is essential. If this level of participation feels beyond your comfort zone, we want to be transparent that this event might not be the right fit. We encourage an open mind and a willingness to engage with others to help foster meaningful connections.
 
 ### Neuro-Liaison Support
 
-If you're comfortable, please communicate your needs and preferences to our neuro-volunteers, who are here to provide support and ensure everyone feels included and respected. While our volunteers are **not professionals**, they are passionate community members committed to creating a safe, inclusive environment. If you're interested in volunteering as a mental health support person or neuro-liaison, we’d love to hear from you!
+If you're comfortable, we invite you to share your needs and preferences with our neuro-volunteers. These wonderful community members are here to offer support and ensure that everyone feels respected and included. While they aren’t professionals, they’re passionate about creating a welcoming environment. If you'd like to join as a neuro-liaison or mental health volunteer, we’d love to have you on board!
 
 ### Designated Quiet Space
 
-We have a designated quiet space on site for when you need a break. This calm, distraction-free area is perfect for relaxing and recharging if things become overwhelming.
+We know that things can get a bit overwhelming sometimes, which is why we’ve created a quiet, calm area where you can recharge. This designated space is distraction-free and perfect for taking a breather whenever you need it. However, please be mindful that this is a temporary space for regaining balance before rejoining the required activities.
 
 ### Personal Responsibility and Safety
 
-At _Bottoms Up!_, we aim for everyone to have a positive experience, but we emphasize that **each participant—neurotypical or neurodiverse—is responsible for managing their own needs**. We are **not a daycare**. This means ensuring you don’t put others at risk, either through your behavior or lack of self-care. We believe in creating a respectful and safe environment, and we will not tolerate actions that threaten others' well-being. Additionally, **concern trolling** (using fake concern to criticize or manipulate others) will no longer be tolerated in our space.
+At _Bottoms Up!_, we want everyone to have a positive experience, and we believe that starts with each of us taking responsibility for our own needs. Whether neurotypical or neurodiverse, it's important to be mindful of how we manage ourselves to ensure everyone feels safe. We’re all here to support each other, and that means avoiding any behavior that could put others at risk. 
 
 ### Mutual Respect and Boundaries
 
-We ask that all participants be mindful of their actions and how they impact others. Respecting boundaries and communicating clearly are key to maintaining a supportive environment. If you're unsure about something, please don’t hesitate to ask one of our volunteers or staff members for guidance.
-
-Together, we can create a space where everyone feels valued, supported, and able to enjoy _Bottoms Up!_ to the fullest. Let’s learn from and support each other!
+Respecting one another and being aware of our actions is key to keeping our community supportive. Clear communication is always appreciated, and if you’re unsure about something, our volunteers and staff are happy to help. Just ask, and we’ll be there to guide you!
