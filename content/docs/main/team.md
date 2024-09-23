@@ -1,7 +1,7 @@
 ---
-title: Team
-description: 'Team.'
-lead: What is Bottoms Up!?
+title: "Not Professional but Passionate"
+description: "We're Not Professionals, We're Passionate"
+lead: "What is Bottoms Up!?"
 date: 2023-10-06T13:37:00+00:00
 lastmod: 2024-09-11T13:37:00+00:00
 toc: true
@@ -10,6 +10,7 @@ images: []
 menu: 
   docs:
     parent: "vision"
+    name : "Team"
 weight: 10
 toc: true
 ---

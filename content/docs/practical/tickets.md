@@ -1,8 +1,8 @@
 ---
 title: "Tickets"
-description: "Step-by-step guide on securing your spot at the event."
+description: "Quick guide to grabbing your spot at the event."
 date: 2023-10-06T13:37:00+00:00
-lastmod: 2023-10-06T13:37:00+00:00
+lastmod: 2024-09-11T13:37:00+00:00
 images: []
 menu: 
   docs:
@@ -10,28 +10,26 @@ menu:
 weight: 25
 toc: true
 lead: ''
-
 ---
-Securing your ticket to our event is an easy process. Just follow these steps:
 
-## Step 1: Familiarize Yourself with Our Event
+Getting your ticket to Bottoms Up! is super simple. Here's how:
 
-Congratulations, you're already making progress! If you've reached this page, we hope you've taken the opportunity to read through our previous information to understand fully what our event is about. If you've skipped ahead, we encourage you to take a moment to review.
+## Step 1: Know the Event
 
-Should any questions or concerns arise, please [get in touch]({{< ref "/docs/practical/contact" >}} "Contact us").
+First off, make sure you're up to speed with what Bottoms Up! is all about. If you haven't yet, give our event info a quick read. If you've got any questions, feel free to [contact us]({{< ref "/docs/practical/contact" >}} "Contact us").
 
-## Step 2: Select Your Ticket Type
+## Step 2: Choose Your Ticket
 
-**Bottoms Up! Voucher Ticket**: This ticket is a nod of recognition to those we know well - our community's familiar faces. It's not just a pass to the event but a symbol of the trust and shared history within our circles. You're someone who's not just attending but contributing to the essence of what makes Bottoms Up! special.
+**Voucher Ticket**: For our familiar faces—those who’ve been with us before or are closely connected. It's not just a ticket; it’s a token of trust within our community.
 
-**Bottoms Up! Open Ticket**: Whether you're new to our world or a returning enthusiast, this ticket invites you to join us. However, as we prioritize the comfort and security of our participants, Open Tickets will be confirmed by our team before your participation is finalized. This process ensures that the spirit and safety of our event are upheld, allowing everyone to engage freely and wholeheartedly in the experience.
+**Open Ticket**: Open to anyone! Whether you're new or returning, this one’s for you. However, we’ll confirm your participation to ensure everyone’s comfort and safety. To do this, we'll need your FetLife name and a little info about you and your expectations. You’ll be asked these questions during the ticket sale process, so take your time and answer truthfully.
 
-For further inquiries or assistance, feel free to [get in touch]({{< ref "/docs/practical/contact" >}} "Contact us").
+*Open ticket sales start on September 29th at 20:00.*
 
-## Step 3: Complete Your Purchase
+## Step 3: Buy Your Ticket
 
-Once you've decided on the type of ticket that suits you best, you can proceed to purchase. Rest assured, we value your privacy and security throughout this process.
+Once you've picked your ticket, go ahead and complete the purchase securely.
 
 [Buy your tickets here: https://shop.gogogonzo.be/RRW25/](https://shop.gogogonzo.be/RRW25/)
 
-Remember, the journey of connection and exploration at Bottoms Up! begins with this first step. We are excited to have you with us and look forward to the experiences we'll share.
+We can't wait to see you there and share in the fun!

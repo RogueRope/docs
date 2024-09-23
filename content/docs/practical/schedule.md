@@ -18,6 +18,8 @@ toc: true
 
 Join us for a unique blend of connection, exploration, and rope artistry at Bottoms Up! Winter Edition. Our program is designed to foster intimacy, learning, and shared experiences, creating an enriching journey for all participants.
 
+Please take into account that apart from the openion
+
 ## Thursday
 * **Afternoon**: Build Day – Help create the setting for our winter experience.
 * **18:00**: Guest Arrival – Welcome to Bottoms Up!
