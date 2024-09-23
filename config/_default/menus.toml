@@ -18,11 +18,11 @@
   url = "/docs/wellbeing/"
 
 
-[[docs]]
-  name = "Opportunities"
-  weight = 40
-  identifier = "opportunities"
-  url = "/docs/tbd/"
+# [[docs]]
+#  name = "Opportunities"
+#  weight = 40
+#  identifier = "opportunities"
+#  url = "/docs/tbd/"
 
 [[main]]
   name = "Home"

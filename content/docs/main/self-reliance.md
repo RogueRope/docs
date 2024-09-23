@@ -32,6 +32,10 @@ We often compare our events to an expedition up Mount Everest. Inclusivity is a 
 
 We will be there to support you if you stumble along the way to the top. If someone falls down halfway, we’ll do what we can to help. But remember, we’re not sherpas — we won’t carry you to the top. The journey is yours, and you need to come prepared to get out of your tent to make the climb.
 
+### Leave Your Baggage at the Door
+
+One essential reminder: leave your emotional baggage at the door. People often bring unresolved relational conflicts to our event, expecting the environment to fix them. Instead, those conflicts tend to escalate. The immersive and intense nature of our gathering can amplify pre-existing tensions. If you're holding onto something heavy, it’s better to address it beforehand, so you can fully engage in the experience and its potential for transformation.
+
 ### Come Prepared, Leave Transformed
 
 This event offers you the chance to push your boundaries, but it’s important to arrive ready to rely on yourself as much as you rely on the community. The transformation happens through your effort, engagement, and openness. So pack your emotional and physical bags with care — because the climb will be challenging, but the view from the top? Absolutely worth it.

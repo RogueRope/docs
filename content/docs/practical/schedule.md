@@ -21,17 +21,17 @@ Join us for a unique blend of connection, exploration, and rope artistry at Bott
 ## Thursday
 * **Afternoon**: Build Day – Help create the setting for our winter experience.
 * **18:00**: Guest Arrival – Welcome to Bottoms Up!
-* **22:00**: Opening Ceremony – Kick off with a special celebration.
+* **22:00**: Opening Ceremony – Kick off with a special celebration. **(Mandatory)**
 * **Afterward**: Mixing Activities – Get to know each other with fun, social icebreakers.
 
 ## Friday
 * **Daytime**: More Mixing – Continue building connections and enjoying the community vibe.
-* **All Day**: Knowledge Exchange & Jams – Dive into peer learning and spontaneous rope sessions.
+* **All Day**: Playshops 
 * **Evening**: Cuddling & Connection – An intimate evening to strengthen bonds.
 
 ## Saturday
-* **Daytime**: More Mixing & Exchange – Deepen your learning and social connections.
-* **Evening**: The Ritual – A unique Bottoms Up! event focused on community and shared experiences.
+* **Daytime**: More Mixing & Playshops 
+* **Evening**: **The Ritual** – A unique Bottoms Up! event
 
 ## Sunday
 * **Morning**: Brunch & Unwind – Reflect, relax, and enjoy a leisurely morning.

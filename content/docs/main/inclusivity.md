@@ -39,6 +39,6 @@ We want to make the event accessible, but self-reliance is important too. If you
 
 ## Support for Neurodiverse Attendees
 
-We know not everyone processes things the same way, and that’s totally fine. If you need a little more clarity or something’s unclear, just ask! We’re here to support you, but self-advocacy is encouraged to make sure your needs are met.
+We know not everyone processes things the same way, and that’s totally fine. If you need a little more clarity or something’s unclear, just ask! We’re here to support you, but  [self-advocacy]({{< ref "/docs/main/self-reliance" >}} "self-advocacy") is encouraged to make sure your needs are met.
 
 Bottoms Up! is about creating a space where everyone can join in while still maintaining the event’s core spirit. Let’s make it a place where everyone feels they belong.

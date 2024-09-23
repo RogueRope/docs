@@ -25,14 +25,12 @@ At Bottoms Up!, we’re all about transforming the traditional idea of learning.
 | **Participation** | Passive audience | Active, engaged participants |
 | **Structure** | Pre-determined, rigid | Fluid, adaptable |
 | **Focus** | Skill-building | Emotional connection and joy |
-| **Energy** | Serious, task-oriented | Playful, lighthearted |
 | **End Result** | New skills or knowledge | Lasting memories and connections |
-| **Duration** | Set time limits | Organic flow, more flexible |
 | **Tone** | Formal, instructional | Relaxed, community-driven |
 
 
 ### From Learning to Experiencing  
-Workshops are fantastic if you're looking for structured learning—they give your brain the chance to absorb new information, often from a central expert. But *Playshops* are about something deeper. Instead of focusing on what you’re learning, we focus on how you're experiencing it. The goal isn’t to master a technique or gather new skills, but to create a space where meaningful connections and shared joy take center stage. This is learning for the soul.
+Workshops are fantastic if you're looking for structured learning—they give your brain the chance to absorb new information, often from a central expert. But *Playshops* are about something else. Instead of focusing on what you’re learning, we focus on how you're experiencing it. The goal isn’t to master a technique or gather new skills, but to create a space where meaningful connections and shared joy take center stage. 
 
 ### It’s a Party, Not a Lecture  
 We like to spice things up by turning our events into experiences that feel more like a party than a retreat or convention. Sure, there’s always something to learn, but that’s not the main goal. We want people to show up because they’re ready to have fun, feel good, and connect with others. The focus is on being present, exploring together, and enjoying yourself in a playful, erotic environment.

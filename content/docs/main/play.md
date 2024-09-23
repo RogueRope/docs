@@ -30,4 +30,4 @@ Everyone's journey is unique, and every single knot counts. So whether you're ne
 
 * We’ve created different areas to cater to everyone’s comfort and preferences.
 * Whether you’re looking for a quiet, chill space or something more lively and interactive, there’s a zone for you.
-* Feel free to move through the different spaces and find what suits you best, ensuring a safe, consensual, and enjoyable experience for all.
+* Feel free to move through the different vibes and find what suits you best.

@@ -26,19 +26,19 @@ toc: true
 
 Welcome to the second indoor edition of _Bottoms Up!_, where we dive deep into the sensory and emotional journey of the bottom in rope. This is not just another event, and it's definitely not about workshops. _Bottoms Up!_ is about **play**—immersive, explorative, and deeply personal. It’s a space where bottoms can truly focus on their experience in rope and kink, away from the rigid structures of teaching and learning.
 
-At **Bottoms Up!**, we provide the space, the atmosphere, and the essentials—an indoor venue, cozy sleeping arrangements, suspension points, and of course, food, drinks, and warm showers. What we don’t provide is a packed schedule of workshops. Instead, we offer the opportunity for you to **explore rope in a free-flowing, intimate environment**.
+At **Bottoms Up!**, we provide the space, the atmosphere, and the essentials—an indoor venue, cozy sleeping arrangements, suspension points, and of course, food, drinks, and warm showers. What we don’t provide is a packed schedule of workshops. Instead, we offer the opportunity for you to **explore play in a free-flowing, intimate environment**.
 
-Whether you're a **beginner** still discovering the magic of rope, or an **advanced player** deepening your craft and pushing boundaries, _Bottoms Up!_ welcomes all experience levels. This event is all about creating your own experiences at your own pace, supported by a community that values connection over instruction.
+Whether you're a **beginner** still discovering the magic or an **advanced player** pushing boundaries, _Bottoms Up!_ welcomes all experience levels. This event is all about creating your own experiences at your own pace, supported by a community that values connection over instruction.
 
 ### It’s All About the Bottom's Journey
 
 At its heart, _Bottoms Up!_ is dedicated to the bottom's experience. Whether you're feeling the rope tighten around you, surrendering control, or processing the emotional depth that comes with these moments—this space is for you to **sink into the sensations**. It’s a celebration of what it means to be a bottom, both physically and emotionally.
 
-The dynamic between partners here is not just technical—it’s about vulnerability, trust, and the **erotic energy** that naturally arises in these settings. For many, the emotional and physical intensity of being tied goes beyond the rope. It becomes an exploration of self, connection, and intimacy that feels both raw and transformative.
+The dynamic between partners here is not just technical—it’s about vulnerability, trust, and the **erotic energy** that naturally arises in these settings. For many, the emotional and physical intensity of being tied goes beyond the rope. It becomes an exploration of self, connection, and intimacy that feels both raw and transformative. We embrace vulnerability from bottoms as well as tops.
 
 ### Unstructured Exploration
 
-Unlike events focused on workshops or learning new techniques, _Bottoms Up!_ is about **play, not performance**. The absence of formal structure allows for genuine exploration—whether that’s diving deeper into your own journey as a bottom or experimenting with dynamics in a way that feels authentic and personal to you.
+Unlike events focused on preformances or learning new techniques, _Bottoms Up!_ is about **play, not performance**. The absence of formal structure allows for genuine exploration—whether that’s diving deeper into your own journey as a bottom or experimenting with dynamics in a way that feels authentic and personal to you.
 
 There's no pressure to perform, no expectation to impress. This is your time to experience rope as fully as you desire, whether that means slow, methodical sessions or spontaneous, high-energy play. The emphasis is on **being present in the moment**, exploring how rope and kink feel for you and your partner, without the distractions of formal instruction.
 

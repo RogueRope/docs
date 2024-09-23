@@ -18,9 +18,7 @@ Not sure how you can help? **No worries!** At _Bottoms Up!_, everyone’s contri
 
 We appreciate every effort, big or small, and we value the diversity of contributions. **There’s no competition here—some may contribute more than others, and that’s perfectly okay.** We know everyone has their own pace and capacity, and sometimes, the most important contributions are the ones you don't even notice. So please, be kind, **do your part,** and respect that others may be in a different place or pace.
 
-## Everyone Can Contribute
-
-Think you’re not an artist or a builder? **Think again!** Contributions come in countless forms. Share a recipe, a song, or a dance. Teach a class, offer a listening ear, or organize a game. Even a smile can be a masterpiece at Bottoms Up!
+Contributions come in countless forms. Share a recipe, a song, or a dance. Facilitate a playshop, offer a listening ear, or organize a game. Even a smile can be a masterpiece at Bottoms Up!
 
 Remember to **extend kindness** in all our shared endeavors. **It’s not about how much or how little you contribute** but the heart and respect you bring to our community. Support and encourage each other without judgment or comparison.
 
