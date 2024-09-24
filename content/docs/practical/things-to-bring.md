@@ -19,7 +19,7 @@ lead: ''
 
 ### Accessories
 
-* **A solid cup (reusable, no glass)** for water, tea, coffee, or soup (**~ A CUP IS MANDATORY ~**)
+* **A solid cup (reusable, no glass)** for water, tea, coffee, or soup **(A CUP IS MANDATORY)**
 * **Bedding**: Bring your own bed linen, blankets, and pillow for the bunk beds.
 * **Cutlery and Plate**: A knife, fork, spoon, and plate for your meals.
 * **Torch or LED headlamp** with extra batteries to navigate in the dark.
@@ -50,7 +50,7 @@ lead: ''
 * Kids (under 18)
 * Bad vibes
 * Power-hungry devices like heaters or coolers
-* No dogs.
+* Live animals like dogs, cats, snakes or spiders, petplay is allowed
 
 # Leave No Trace
 
