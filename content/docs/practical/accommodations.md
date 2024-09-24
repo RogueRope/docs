@@ -13,7 +13,7 @@ menu:
     parent: "practical"
 ---
 
-Gone are the days of camping in the open field—this winter, we’re moving indoors! We’re offering dormitory-style accommodations with bunk beds to keep you warm and comfortable after a full day of connection and exploration.
+Gone are the days of camping in the open field this winter, we’re moving indoors! We’re offering dormitory-style accommodations with bunk beds to keep you warm and comfortable after a full day of connection and exploration.
 
 Our sleeping arrangements cater to everyone’s needs, including **FLINTA** (women, lesbians, inter, non-binary, trans, agender) and snoring-friendly rooms, so everyone can rest easy.
 
@@ -21,12 +21,12 @@ Our sleeping arrangements cater to everyone’s needs, including **FLINTA** (wom
 
 * **Budget-friendly Hostel Feel**: Get the full festival experience with the added comfort of being indoors, perfect for the chilly season.
 * **Bunk Beds**: Snuggle up in your own bunk with a mattress. Just bring your bedding or sleeping bag for a cozy night’s rest.
-* **Mixed, FLINTA, and Snoring Rooms**: Choose a room that fits your comfort—whether you prefer quieter spaces or don’t mind sharing with some snorers.
+* **Mixed, FLINTA, and Snoring Rooms**: Choose a room that fits your comfort, whether you prefer quieter spaces or don’t mind sharing with some snorers.
 * **Community Atmosphere**: Our shared spaces help foster connection, even as you unwind for the night.
 
 ### Additional Information:
 
-* **Indoor Facilities**: No porta-potties here—enjoy indoor toilets and showers for added convenience.
+* **Indoor Facilities**: No porta-potties here, enjoy indoor toilets and showers for added convenience.
 * **Electricity Access**: You can charge your devices indoors, but we kindly ask you to leave energy-heavy appliances at home.
 * **Respect the Space**: Help us keep the dorms clean and pleasant for everyone.
 * **Mindful Smoking**: Designated outdoor smoking areas are available for those who need them.
@@ -35,7 +35,7 @@ Our sleeping arrangements cater to everyone’s needs, including **FLINTA** (wom
 ### What to Bring:
 
 * **Bedding**: A sleeping bag, blankets, or your own bed linens and a pillow for your bunk.
-* **Personal Essentials**: Toiletries, towels, and anything else you’d normally pack for a hostel stay.
+* **Personal Essentials**: Toiletries, towels, your emotional support stuffed animal and anything else you’d normally pack for a hostel stay.
 
 ### Please Note:
 
