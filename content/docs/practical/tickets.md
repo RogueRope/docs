@@ -20,7 +20,7 @@ First off, make sure you're up to speed with what Bottoms Up! is all about. If y
 
 ## Step 2: Choose Your Ticket
 
-**Voucher Ticket**: For our familiar faces—those who’ve been with us before or are closely connected. It's not just a ticket; it’s a token of trust within our community.
+**Voucher Ticket**: For our familiar faces, those who’ve been with us before or are closely connected. It's not just a ticket; it’s a token of trust within our community.
 
 **Open Ticket**: Open to anyone! Whether you're new or returning, this one’s for you. However, we’ll confirm your participation to ensure everyone’s comfort and safety. To do this, we'll need your FetLife name and a little info about you and your expectations. You’ll be asked these questions during the ticket sale process, so take your time and answer truthfully.
 
