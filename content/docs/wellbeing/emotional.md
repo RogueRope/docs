@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Emotional
 description: Taking care of your body includes your heart.
@@ -39,4 +38,3 @@ If you find yourself needing support, we might be able to help. But remember, ou
 It’s important to approach this event knowing that **you are responsible for your own well-being**. Our team will do their best to offer solutions, but they are not trained therapists or counselors. We operate on a “Rogue Rope” mindset: no blame or shame, just a focus on finding solutions. Whether you need a quiet space, someone to talk to, or a different approach, we’ll try our best to help—but it starts with you advocating for yourself.
 
 ![animated drawing of two people hugging](/images//hug.webp)
-```
