@@ -14,16 +14,16 @@ weight: 95
 toc: true
 ---
 
-Before the fun begins, we’ve got a day of creation—our **Build**! This is a collective effort, and we need as many hands as possible to help create the perfect space for our winter gathering.
+Before the fun begins, we’ve got a day of creation our **Build!** This is a collective effort, and we need as many hands as possible to help create the perfect space for our winter gathering.
 
 Whether you’re great with tools or just ready to pitch in, there’s a role for everyone. Tasks will vary, and your help is essential to making this event a success.
 
 ### Build Details:
-- **Start Time**: Build begins at **14:00 on January 2nd**. Come when you can!
+- **Start Time**: Build begins at **14:00 on Thurseday January 2nd**. Come when you can!
 - **End Time**: We’ll finish up by **late afternoon/early evening**.
 
 ### Tear-Down Plan:
 - **Strike Day**: Monday, we’ll need **at least 8 people** to help with tear-down.
 - If we don’t get enough volunteers for Monday, we’ll do the tear-down on **Sunday evening**.
 
-Join us for Build Day—it’s a great way to connect, get into the event spirit, and make your mark before everything kicks off!
+Join us for Build Day, it’s a great way to connect, get into the event spirit, and make your mark before everything kicks off!
