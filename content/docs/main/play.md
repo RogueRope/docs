@@ -16,13 +16,13 @@ toc: true
 
 Rope play is at the heart of our gathering, and everyone is welcome to dive in, no matter your skill level. This event is all about making sure you feel included and empowered to explore.
 
-Forget the myth that you need to be an expert to join in the fun—**you don’t**! Bring your curiosity and enthusiasm, and you’ll fit right in. Whether you’re just starting with the basics, want to sharpen your skills, or need guidance on new techniques, we’ve got you covered.
+Forget the myth that you need to be an expert to join in the fun **you don’t!** Bring your curiosity and enthusiasm, and you’ll fit right in. Whether you’re just starting with the basics, want to sharpen your skills, or need guidance on new techniques, we’ve got you covered.
 
 Everyone's journey is unique, and every single knot counts. So whether you're new or experienced, you'll feel at home here. We’re about connection, not competition.
 
 ## A Spectrum of Sensations
 
-* Our play space is open to all kinds of kinky fun—whether it’s whips, canes, chains, needles, or even fire, if it’s part of your play, it’s welcome here.
+* Our play space is open to all kinds of kinky fun, whether it’s whips, canes, chains, needles, or even fire, if it’s part of your play, it’s welcome here.
 * Nudity and sexuality are part of our community, embraced and celebrated in all their forms. Feel free to express yourself however feels right for you.
 * Please be aware that you may be confronted with nudity and sexuality at times when you might not expect it.
 
