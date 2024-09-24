@@ -14,9 +14,9 @@ toc: true
 
 ## Dive into Volunteering
 
-Not sure how you can help? **No worries!** At _Bottoms Up!_, everyone’s contribution is valuable. We believe the event is what we all make it—together. Whether you’re brimming with ideas or just bringing positive energy, your presence matters. Each of us pitches in our own way, whether before, during, or after the event. It’s about community spirit, not just skills, and camaraderie more than capability.
+Not sure how you can help? **No worries!** At _Bottoms Up!_, everyone’s contribution is valuable. We believe the event is what we all make it together. Whether you’re brimming with ideas or just bringing positive energy, your presence matters. Each of us pitches in our own way, whether before, during, or after the event. It’s about community spirit, not just skills, and camaraderie more than capability.
 
-We appreciate every effort, big or small, and we value the diversity of contributions. **There’s no competition here—some may contribute more than others, and that’s perfectly okay.** We know everyone has their own pace and capacity, and sometimes, the most important contributions are the ones you don't even notice. So please, be kind, **do your part,** and respect that others may be in a different place or pace.
+We appreciate every effort, big or small, and we value the diversity of contributions. **There’s no competition here, some may contribute more than others, and that’s perfectly okay.** We know everyone has their own pace and capacity, and sometimes, the most important contributions are the ones you don't even notice. So please, be kind, **do your part,** and respect that others may be in a different place or pace.
 
 Contributions come in countless forms. Share a recipe, a song, or a dance. Facilitate a playshop, offer a listening ear, or organize a game. Even a smile can be a masterpiece at Bottoms Up!
 
@@ -26,7 +26,7 @@ This event is a canvas, and you’re the artist. Whether your passion is in culi
 
 ## Together, We Are Bottoms Up!
 
-Your involvement transforms __Bottoms Up!_ from an event into an experience. It’s a co-created adventure that flourishes with every individual’s touch. So, what will yours be? A workshop? A performance? A piece of art? A cozy corner? Whatever it is, bring it with you!
+Your involvement transforms **Bottoms Up!** from an event into an experience. It’s a co-created adventure that flourishes with every individual’s touch. So, what will yours be? A workshop? A performance? A piece of art? A cozy corner? Whatever it is, bring it with you!
 
 Come with an open heart and leave with a soul full of memories and connections. At Bottoms Up!, every hand helps, every idea matters, and every participant makes a difference. Let’s co-create something extraordinary, with kindness leading the way.
 
