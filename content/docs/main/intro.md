@@ -34,7 +34,7 @@ Whether you're a **beginner** still discovering the magic or an **advanced playe
 
 At its heart, _Bottoms Up!_ is dedicated to the bottom's experience. Whether you're feeling the rope tighten around you, surrendering control, or processing the emotional depth that comes with these moments—this space is for you to **sink into the sensations**. It’s a celebration of what it means to be a bottom, both physically and emotionally.
 
-The dynamic between partners here is not just technical—it’s about vulnerability, trust, and the **erotic energy** thagt naturally arises in these settings. For many, the emotional and physical intensity of being tied goes beyond the rope. It becomes an exploration of self, connection, and intimacy that feels both raw and transformative. We embrace vulnerability from bottoms as well as tops.
+The dynamic between partners here is not just technical—it’s about vulnerability, trust, and the **erotic energy** that naturally arises in these settings. For many, the emotional and physical intensity of being tied goes beyond the rope. It becomes an exploration of self, connection, and intimacy that feels both raw and transformative. We embrace vulnerability from bottoms as well as tops.
 
 ### Unstructured Exploration
 
