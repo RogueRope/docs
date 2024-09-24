@@ -17,7 +17,7 @@ toc: true
 
 If you ever run into an issue regarding photography, please let the organizers know. Remember, your right to take or post a photo **never** overrules someone else’s right to privacy. If you're posting photos on FetLife or any social media, **MAKE 100% SURE** that **EVERYONE** in the picture has agreed to it being shared. Don’t tag anyone online unless they’ve explicitly said it’s okay.
 
-If you have any questions about photography or filming at our event, please [contact the orga]({{< ref "/docs/practical/contact" >}} "Contact us").
+If you have any questions about photography or filming at our event, please [contact the organisation]({{< ref "/docs/practical/contact" >}} "Contact us").
 
 ## Do NOT Post Pictures of the Site!
 
