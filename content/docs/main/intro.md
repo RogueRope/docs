@@ -46,7 +46,7 @@ There's no pressure to perform, no expectation to impress. This is your time to 
 
 The atmosphere at _Bottoms Up!_ invites a natural eroticism. The trust, vulnerability, and power dynamics explored through rope can often lead to deeply intimate moments. It’s a space where emotional and physical boundaries are pushed and explored, creating an environment charged with sensuality.
 
-Here, intimacy isn't just about touch—it's about being truly seen and understood. As a bottom, you are at the center of this experience, and the depth of the connection you build with your partner is what makes _Bottoms Up!_ such a powerful event.
+At Bottoms Up! intimacy isn't just about touch, it's about being truly seen and understood. As a bottom, you are at the center of this experience, and the depth of the connection you build with each other is what makes _Bottoms Up!_ such a powerful event.
 
 ### Join Us
 
