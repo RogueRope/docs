@@ -23,7 +23,7 @@ Each morning, we’ll come together for a communal brunch. We’ll provide bread
 
 In the afternoons, we’ll serve soup, bread, fruits, and veggies. For dinner, expect a warm meal like pizza or a visit from the beloved frites-mobile.
 
-While we provide the basics, it’s not an all-day buffet. So, if you love a morning bowl of cornflakes or need snacks during the day, be sure to bring your favorites—think nuts, granola bars, or chocolate. This year, we’ll also have bread available all day, so feel free to make a sandwich whenever.
+While we provide the basics, it’s not an all-day buffet. So, if you love a morning bowl of cornflakes or need snacks during the day, be sure to bring your favorite nuts, granola bars, or chocolate. This year, we’ll also have bread available all day, so feel free to make a sandwich whenever.
 
 We offer both **vegetarian** and **meat** options. When purchasing your ticket, you’ll choose your preference, and we ask that you stick with it throughout the event.
 
