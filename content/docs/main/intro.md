@@ -38,7 +38,7 @@ The dynamic between partners here is not just technical—it’s about vulnerabi
 
 ### Unstructured Exploration
 
-Unlike events focused on preformances or learning new techniques, _Bottoms Up!_ is about **play, not performance**. The absence of formal structure allows for genuine exploration—whether that’s diving deeper into your own journey as a bottom or experimenting with dynamics in a way that feels authentic and personal to you.
+Unlike events focused on preformances or learning new techniques, _Bottoms Up!_ is about **play, not performance**. The absence of formal structure allows for genuine exploration whether that’s diving deeper into your own journey as a bottom or experimenting with dynamics in a way that feels authentic and personal to you.
 
 There's no pressure to perform, no expectation to impress. This is your time to experience rope as fully as you desire, whether that means slow, methodical sessions or spontaneous, high-energy play. The emphasis is on **being present in the moment**, exploring how rope and kink feel for you and your partner, without the distractions of formal instruction.
 
