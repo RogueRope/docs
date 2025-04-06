@@ -4,8 +4,8 @@ description: It's a field, it's basic, with room for a campfire, so bring your g
   and marshmallows.
 lead: It's a field, it's basic, with room for a campfire, so bring your guitar and
   marshmallows.
-date: T15:21:01\+02:00
-lastmod: T15:21:01\+02:00
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2024-04-06T13:37:00+00:00
 images: []
 weight: 50
 toc: true
