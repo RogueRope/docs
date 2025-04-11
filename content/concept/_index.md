@@ -1,6 +1,5 @@
 +++
-title = "Concept" 
-weight = 1
+title = "Concept"weight = 1
 +++
 
 **Core Philosophy:**  

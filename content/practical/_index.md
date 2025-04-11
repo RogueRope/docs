@@ -1,6 +1,5 @@
 +++
-title = "Practical" 
-weight = 1
+title = "Practical"weight = 1
 +++
 
 ## Before You Say Yes
