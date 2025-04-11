@@ -3,7 +3,7 @@ title: "Food"
 description: Much food, such good times.
 lead: "Expect basic but tasty 'camp food' — details still simmering."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+0
+lastmod: 2025-04-11T13:37:00+00:00+0
 t: false
 images: []
 weight: 15

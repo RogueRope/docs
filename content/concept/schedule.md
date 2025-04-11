@@ -2,7 +2,7 @@
 title: Schedule
 description: Dive into a unique blend of connection, exploration, and rope artistry at Rogue Rope Camp edition. Our program is meticulously designed to foster intimacy, learning, and shared experiences, ensuring a memorable and enriching journey for all participants.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+0
+lastmod: 2025-04-11T13:37:00+00:00+0
 t: false
 images: []
 weight: 60

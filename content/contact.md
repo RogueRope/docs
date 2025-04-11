@@ -3,7 +3,7 @@ title: "Contact"
 description: "Here's my number, call me!"
 lead: "Here's my number, call me!"
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+0
+lastmod: 2025-04-11T13:37:00+00:00+0
 t: 150
 toc: true
 ---

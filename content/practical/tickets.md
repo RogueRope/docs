@@ -3,7 +3,7 @@ title: Tickets
 description: Step-by-step guide on securing your spot at the event.
 lead: "Resist the pull of FOMO and prioritize your well-being."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
+lastmod: 2025-04-11T13:37:00+00:00+00:00
 images: []
 weight: 25
 toc: true

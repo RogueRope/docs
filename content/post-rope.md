@@ -3,7 +3,7 @@ title: "Post-Rope: A Gentle Rebellion"
 description: "An invitation for those who seek rope beyond the scene."
 lead: "A softer, deeper, more human way of engaging with rope."
 date: 2025-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+0
+lastmod: 2025-04-11T13:37:00+00:00+0
 s: []
 weight: 50
 toc: true

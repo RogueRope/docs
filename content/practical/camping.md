@@ -3,7 +3,7 @@ title: Camping
 description: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 lead: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+0
+lastmod: 2025-04-11T13:37:00+00:00+0
 s: []
 weight: 50
 toc: true
