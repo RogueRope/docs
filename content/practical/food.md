@@ -1,38 +1,66 @@
 ---
 title: "Food"
 description: Much food, such good times.
-lead: "Expect basic but tasty 'camp food'. We will provide several meals, and you can store your personal food items in our refrigerators. Check out the timetable below to plan for what additional food to bring."
+lead: "Expect basic but tasty 'camp food' — details still simmering."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-draft: false
+lastmod: 2025-04-11T13:37:00+00:00draft: false
 images: []
 weight: 15
 toc: true
 ---
 
-We will provide coffee and water free of charge for all participants. As for food, we provide bread in the morning, snacks in the afternoon and a warm meal every evening. 
+### The food plan? Still simmering.
 
-We offer **vegetarian** and **meat** options. When you sign up for a ticket, you will be asked to indicate your preference. Please note that to make the logistics of the menus work, you will need to stick with your choice.
+We’re still working out the final details, but here’s what we *do* know:
+
+- There will be **coffee and water**, always.
+- We’ll serve **bread in the morning**, **snacks** most afternoons, and **a warm meal every evening**.
+- You'll choose **vegetarian** or **meat** when you register — and we’ll ask you to stick with your choice so we can plan portions.
+
+This is *not* a gourmet weekend. But it will be tasty, filling, and made with love (and probably laughter).
+
+---
+
+### Sample Schedule — Subject to Change
+
+Just to give you a sense of the rhythm. None of this is locked in.
 
 | _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9-12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
-| 15.00 | Soup | To be confirmed| To be confirmed |To be confirmed  |To be confirmed | Leftovers |
-| 16.00 | Snacks | To be confirmed | To be confirmed | To be confirmed | To be confirmed | Leftovers |
-| 19-21 | Dinner  | To be confirmed| Cheese Plate | Food truck | Pizza | --/-- |
+| 9–12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
+| 15:00 | Soup | TBC | TBC | TBC | TBC | Leftovers |
+| 16:00 | Snacks | TBC | TBC | TBC | TBC | Leftovers |
+| 19–21 | Dinner | TBC | Cheese Plate | Food truck | Pizza | --/-- |
 
-Anything beyond vegetarian or meat diets is not within our current kitchen capacity. If you have very specific nutrition needs \(vegan, gluten-free, organic\), we are very sorry but this event does not have the human resources or capacity to cater to your needs. We are open to helping you, though, and can provide those with specific needs access to the kitchen. 
+---
 
-As you can see, this is **not** a culinary event, but we're confident that, with your help, we can make this work. So, prepare your taste buds for some nice surprises. 
+### What About Special Diets?
 
+We can accommodate **vegetarian** and **meat-based** meals — and we do our **best-effort vegan** too.  
+While our kitchen isn’t fully equipped to handle every dietary need, we genuinely want to find solutions that work.
 
-## What to Bring Yourself?
-* Snacks and treats (also to share).
-* A cooler. We will provide ice cubes!
-* Your own drinks and sodas. Please note there will be **no bar** on site.
+If you have specific requirements (vegan, gluten-free, allergies, etc.), reach out. We’re happy to collaborate and find something that suits you — whether that means adjusting ingredients or giving you access to kitchen space for your own prep.
 
-At the first event, we provided a bar for all attendees, but this was a huge hassle. Also, people have their preferences and in the end most people brought their own drinks anyway. Let's keep this up! Bring your cooler filled with your favorite drinks, some for you, some to share. We will provide ice-cubes free of charge to keep your beverages chilled.
+We’re also assembling a **kitchen crew** — a small, scrappy team to help chop, stir, and keep the meals flowing. Want to be part of it? Stay tuned for sign-ups. It’s a great way to contribute, connect, and maybe pick up a few cooking secrets along the way.
 
-**Breakfast:** as with drinks, provide your own favorite bread covering (cheese/meat/jam or even pindakaas). Put it in your cooler, and we'll provide the ice to keep it cool. Don't worry about bread, we'll provide you with fresh bread every morning.
+---
 
-Long story short, for the truly lazy people: bring your favorite drink, a cooler bag and a jar of Nutella, you'll be fine.
+### What Should You Bring?
+
+- **Snacks & treats** — especially if you love sharing.  
+- **Cooler box or insulated bag** — we’ll provide ice cubes.  
+- **Your own drinks** — there’s no bar, so bring what you like.
+
+We’ve tried bars in the past. It was a hassle. Most people brought their own anyway. So let’s keep it simple — bring your favorite drinks, a few to share, and we’ll help you keep them cold.
+
+**Breakfast tip:** We’ll bring the bread. You bring what you like to put on it — cheese, jam, pindakaas, or whatever else fuels your morning glow.
+
+---
+
+### TL;DR
+
+Bring a cooler. Bring your favorite drinks.  
+Maybe a jar of Nutella.  
+We’ve got the rest (mostly) covered.
+
+More details coming soon — stay tuned, and stay hungry.

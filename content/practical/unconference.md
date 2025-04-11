@@ -3,33 +3,68 @@ title: Unconference
 description: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
 lead: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-toc: true
+lastmod: 2025-04-11T13:37:00+00:00toc: true
 images: []
 menu: 
   docs:
     parent: "opportunities"
 weight: "2020"
+---
+
+### A Space for Sharing, Not Showing Off
+
+Our unconference is a lightly held container for spontaneous brilliance, shared wisdom, and weird little things you didn’t know you needed to talk about.
+
+There’s no set schedule. No official “teachers.” Just a board, some post-its, and a collective invitation to explore together.
 
 ---
-Four easy rules for unconference sessions
 
-* Rule one: Whoever shows up are the right people.
-* Rule two: Whatever happens is the only thing that could have.
-* Rule three: Whenever it starts is the right time.
-* The fourth and final rule is: It’s over when it’s over.
+### The Four Unconference Rules
 
-## Think ahead
+1. Whoever shows up are the right people.  
+2. Whatever happens is the only thing that could have.  
+3. Whenever it starts is the right time.  
+4. It’s over when it’s over.
 
-Now, let's think ahead and prepare for our sessions! We'll be using the classical un-conference format with post-it notes. Here are a few things to keep in mind:
+That’s it. That’s the magic.
 
-What topics or subjects would you like to see covered or learn more about? We want to make sure we're addressing the needs and interests of our event.
-Are there any topics, subjects, workshops, or activities that you'd like to share with others? We believe in peer exchange and want to create an environment where everyone feels comfortable sharing their knowledge and expertise.
+---
 
-And here's a tip: there's no need to fall back on the teacher-student paradigm. We encourage peer exchange and want everyone to feel empowered to contribute in their own unique way.
+## What Might You Offer?
 
-Our content team will announce the sessions in advance, so you'll have plenty of time to prepare and think about what you'd like to discuss or share. We're excited to see what amazing ideas and insights come out of our unconference sessions!
+You don’t need to be an expert.  
+You just need to care. Maybe a little curiosity, maybe a story, maybe something strange you’ve been thinking about.
 
+What could you bring?
+- A conversation you’re hungry to have?
+- A practice or technique you’d love to show?
+- A rope-related body puzzle?
+- A hot take on power dynamics, neurodivergence, play, pain, ritual, or consent?
 
-![Green board with the program from last year](/images/program1.jpeg)
+We’re here for the offbeat, the half-formed, the personal.  
+If you care about it, someone else probably does too.
+
+---
+
+## What Might You Find?
+
+- Group discussions on body reading and negotiation  
+- Skillshares on suspension, flow, or aftercare  
+- Explorations of fear, shame, intimacy, or archetypes  
+- Conversations that leave you cracked open, in the best way
+
+The program comes from **you**. What you offer. What you ask for. What you didn’t know you needed until someone else wrote it down.
+
+---
+
+## How It Works
+
+Our content crew will help set up the board. You’ll find post-its, markers, and spaces to claim. Sessions will be announced day by day, with time to prepare (or improvise).
+
+Keep an eye out. Listen to what’s bubbling in you.  
+And when it’s ready, share it.
+
+We can’t wait to see what unfolds.
+
+![Green board with the program from last year](/images/program1.jpeg)  
 ![Green board with the program from last year](/images/program2.jpeg)

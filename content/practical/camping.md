@@ -1,42 +1,67 @@
 ---
 title: Camping
-description: It's a field, it's basic, with room for a campfire, so bring your guitar
-  and marshmallows.
-lead: It's a field, it's basic, with room for a campfire, so bring your guitar and
-  marshmallows.
+description: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
+lead: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-images: []
+lastmod: 2025-04-11T13:37:00+00:00images: []
 weight: 50
 toc: true
 ---
 
-**Campsite Setup:**
-- **Space Efficiency:** Bring only the essentials and set up your tents close together. Think of it as defragmenting like it's Windows 95—no gaps!
-- **Smaller is better:** We prefer it if you bring a smaller tent rather than an extremely elaborate camping setup. 
-- **Communal Kinky Village:** While we can't spread out individually, we’ll collectively build our quirky retreat in the forest and communal areas. Get ready for some collective creativity!
+### A Field. A Fire. A Home for a While.
 
-**Electricity and Gadgets:**
-- **Power Supply:** We’ll distribute electricity throughout the campsite. Bring the longest extension cord you have, along with a power strip, to keep your devices charged.
-- **Device Restrictions:** Please avoid connecting high-power devices such as fridges, hair dryers, or air conditioners to avoid overloading our system.
+The campsite is simple — just how we like it.  
+A field with trees, a firepit, and space to build something weird and wonderful together.
 
-**Weather and Environment:**
-- **Prevent Damage:** If it rains, please **do not** dig trenches around your tent. Our agreement requires us to leave the campsite as pristine as we found it.
-- **Smoking Etiquette:** Limit smoking to areas away from the tents, ideally near the firepit. Use designated ash trays to dispose of cigarette butts. And yes, if your smoke has a peculiar aroma, it’s all cool—just pass it leftward for good karma!
+No glamping. No assigned spots.  
+Just shared ground and a little chaos magic.
 
-**Decor and Amenities:**
-- **Light It Up:** Bring your Christmas lights or funky LED strips to brighten the night.
-- **Facilities:** Enjoy the indoor toilets and showers—no portable toilets here!
-- **Cooler Tips:** Opt for a box cooler or an insulated supermarket bag to keep things cool without turning your setup into a pool.
+---
 
-**Cooking and Dining:**
-- **Leave the Gear at Home:** No need for makeshift stoves or cooking equipment; we’ve got the warm meals covered.
+### Setting Up
 
-**Sleeping Arrangements:**
-- **Outdoor Accommodations:** There’s limited indoor space reserved for activities, so your best bet is to camp outdoors. Whether it’s a tent, van, or camper, you’ll want to be prepared.
-- **Camper:** Send a private message if you want to bring a camper so we can plan / accomodate for it, not sure if we can accomodate all, but we'll try!
+- **Pack light, pitch tight.** Bring only what you need and set up close to your neighbors. Think Tetris, not Versailles.  
+- **Smaller is sweeter.** We’d love it if you left the four-room party palace at home and brought something humble instead.  
+- **We’re building a kinky village.** You’ll have space to decorate, co-create, and add your flavor to our communal corners. Come ready to play with the vibe.
 
-**Toilets and Showers**
-Please note that our campsite is equipped with three toilets and a single shower cabin that contains two shower heads. We recognize that the shared nature of the shower cabin may not offer the level of privacy some campers might prefer. We encourage campers to coordinate with each other to ensure comfort, safety and privacy when using these facilities. We strive to keep these amenities clean and well-maintained, and we appreciate your understanding and cooperation.
+---
+
+### Electricity & Devices
+
+- **There is power.** We’ll run electricity through the camp — just bring your **longest extension cord** and a power strip.  
+- **But not too much.** No fridges, hair dryers, AC units, or anything with a heavy draw. You’ll blow the whole grid. Seriously.
+
+---
+
+### Weather & Ground Rules
+
+- **No trench warfare.** If it rains, don’t dig around your tent — we’re guests on this land, and we leave it as we found it.  
+- **Smoke if you got it — respectfully.** Keep cigarettes (or whatever else you're smoking) away from tents. Use the firepit zone, and pass it left for good karma.
+
+---
+
+### Comfort & Decor
+
+- **Fairy lights encouraged.** Bring LEDs, soft glows, solar sparkles — whatever lights you up at night.  
+- **Toilets and showers? Yes.** Three indoor toilets and a shared shower cabin with two heads. It’s not spa-level private, so coordinate with care and kindness.  
+
+---
+
+### Cooking & Cooling
+
+- **Don’t bring a stove.** We’ve got warm meals covered. You get to rest and eat.  
+- **Want cold drinks?** Bring a cooler box or an insulated grocery bag. Low-tech, high reward.
+
+---
+
+### Where You’ll Sleep
+
+- **Tents, vans, campers — all good.** Just let us know if you’re bringing a camper, so we can do our best to make space. No guarantees, but we’ll try.  
+- **Indoor space is limited.** It’s reserved for activities, so plan to sleep outdoors unless we’ve talked.
+
+---
+
+This camp is temporary.  
+But the way it *feels* — if we do it right — might just stay with you forever.
 
 ![Large camper tent at night](/images/camper.jpg)

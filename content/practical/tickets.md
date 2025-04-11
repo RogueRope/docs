@@ -1,38 +1,73 @@
 ---
 toc: true
-lastmod: 2024-04-06T13:37:00+00:00
-title: Tickets
+lastmod: 2025-04-11T13:37:00+00:00title: Tickets
 description: Step-by-step guide on securing your spot at the event.
 lead: "Resist the pull of FOMO and prioritize your well-being. "
 date: 2024-04-06T13:37:00+00:00
 images: []
 weight: 25
 ---
-Securing your ticket to our event is an easy process. Just follow these steps:
 
-## Familiarize Yourself with Our Event
+### How to Join Us
 
-Congratulations, you're already making progress! If you've reached this page, we hope you've taken the opportunity to read through our previous information to understand fully what our event is about. If you've skipped ahead, we encourage you to take a moment to review.
+Securing your spot at Rogue Rope Camp is simple — but we ask that you move slowly. This isn’t just about clicking “buy.” It’s about saying yes, with your whole self.
 
-## Reflect Deeply Before Deciding
+---
 
-Before you make your final decision, **take a serious moment to reflect**. This event can be incredibly rewarding, but it's important to consider whether it truly aligns with your emotional, mental, and physical capabilities. 
+## Step 1: Know What You’re Saying Yes To
 
-Ask yourself: Does this fit with my current needs? Will participating stretch me too thin, be it mentally, physically, or financially? **Resist the pull of FOMO and prioritize your well-being.** It’s crucial that you feel confident and comfortable with your decision to join us.
+If you’ve made it to this page, you’ve likely read through the rest of the site. (If not, we gently ask you to pause and go back.)  
 
-## Complete Your Purchase
+This isn’t a spectator event. It’s immersive. Real. Sometimes raw. We want you to arrive with eyes wide open — excited, ready, and informed.
 
-Once you've decided if this event is the right fit for you, you can proceed to purchase. Rest assured, we value your privacy and security throughout this process.
-For legal/accounting reasons we need to ask for a name at the checkout process, feel free use your own, or not. 
+---
 
-Ticket sales open May fifth at 20.00.
+## Step 2: Reflect Before You Commit
 
-[Buy your tickets here: https://shop.gogogonzo.be/RRC24/](https://shop.gogogonzo.be/RRC24/)
+Before you grab a ticket, take a breath.  
+Ask yourself:
 
-## Vetting
+- Does this call to where I’m at right now?
+- Will it nourish me — or stretch me too thin?
+- Do I have the capacity (emotionally, physically, financially) to be fully present?
 
-Once you've ordered your ticket (please use your FetLife name during the ordering process), we will review your order and check your profile, possibly reaching out within the community to ensure our camp maintains a safe atmosphere for everyone. After confirmation, you will receive an email with payment instructions.
+**FOMO is not a good reason to come.**  
+You deserve more than that. And so does this space.
 
-Remember, the journey of connection and exploration at Rogue Rope Camp begins with this first step. We are excited to have you with us and look forward to the experiences we'll share.
+Come because it’s a yes in your gut.  
+Not a maybe in your mind.
+
+---
+
+## Step 3: Buy Your Ticket
+
+If it’s a yes — beautiful.  
+Tickets go on sale **May 5th at 20:00**.
+
+👉 [Buy your ticket here](https://shop.gogogonzo.be/RRC24/)
+
+You’ll be asked to provide a name at checkout (for legal/accounting reasons). You’re welcome to use your real name, a chosen name, or a pseudonym.
+
+---
+
+## Step 4: Vetting
+
+To help keep our space safe and aligned, we ask for your **FetLife name** during the ticket process.  
+
+After you place your order, we’ll:
+- Review your FetLife profile  
+- Reach out to our community if needed  
+- Contact you if we have any concerns
+
+Once you're confirmed, we’ll send payment instructions by email.
+
+---
+
+This is where it starts.  
+Not the tying. Not the fire. Not the tears.  
+
+Right here — with a choice. A yes. A thread picked up.
+
+We can’t wait to see who joins us.
 
 ![Think](/images/tickets.webp)

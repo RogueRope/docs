@@ -2,38 +2,37 @@
 title: Schedule
 description: Dive into a unique blend of connection, exploration, and rope artistry at Rogue Rope Camp edition. Our program is meticulously designed to foster intimacy, learning, and shared experiences, ensuring a memorable and enriching journey for all participants.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-draft: false
+lastmod: 2025-04-11T13:37:00+00:00draft: false
 images: []
 weight: 60
 toc: true
 ---
 
+### The Rhythm of Rogue
+
+We are still building the shedule, but here’s what *is* known:
+
+---
+
+## Tuesday  
+**Build begins.**  
+Come early if you can — not because we need experts, but because we believe in shared beginnings. No special skills required. No heavy lifting unless you want it. Just many hands, many hearts, and a chance to help shape the space before it holds us.
+
+Hang a light. Paint a sign. Tie some fabric. Make coffee. Offer vibes.
+It’s one of the best ways to meet people, ease into the rhythm, and start connecting before things officially begin.
+
+---
+
+## Wednesday  
+**Evening arrival is mandatory.**  
+This is when we land — together. The opening ritual starts at around 21.00. We expect you to be there.
+
+---
+
+## Sunday  
+**We leave.**  
+Teardown, hugs, tears, and soft goodbyes. The camp dissolves, but something stays with you.
+
+---
 
 
-### Embrace the summer Magic at Rogue Rope Camp
-
-Dive into a unique blend of connection, exploration, and rope artistry at Rogue Rope Camp edition. Our program is meticulously designed to foster intimacy, learning, and shared experiences, ensuring a memorable and enriching journey for all participants.
-
-This is a rough outline and subject to change.
-
-## Wednesday
-* **Afternoon**: Build Day - Join us in creating the backdrop for our summer experience.
-
-
-## Thursday
-* **Throughout the Day**: Build and chill Day - Bit of build, bit of deco, mostly chill and getting to know each other
-* **Evening**: **Opening Ceremony** We expect *everyone* to be present at this time.
-  
-## Friday
-* **Afternoon**: Mix and match.. get to know your campmates.
-* **Throughout the Day**: Knowledge Exchange and Jams - Participate in peer-to-peer learning and improvisational rope sessions.
-* **Evening**: Cuddling and Connection - A time for intimacy and deepening bonds.
-
-## Saturday
-* **Daytime**: Continued Mixing and Exchange - Engage in more social activities and learning opportunities.
-* **Evening**: The Knotting Ceremony: A special event unique to Rogue Rope Camp, focusing on community and shared experiences.
-
-## Sunday
-* **Morning**: Brunch, Tear down, and packing up. 
-* **Early Afternoon**: hugs and tears.

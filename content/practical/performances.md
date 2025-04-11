@@ -3,8 +3,7 @@ title: Performances
 description: All the world's a stage, And all the men and women merely players.
 lead: All the world's a stage, And all the men and women merely players.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-images: []
+lastmod: 2025-04-11T13:37:00+00:00images: []
 menu: 
   docs:
     parent: "opportunities"
@@ -12,19 +11,50 @@ weight: "2010"
 toc: true
 ---
 
+### No Stage. No Spotlights. Just Presence.
 
+At Rogue Rope Camp, we tie like no one is watching — because the rope isn’t a show.  
+It’s a conversation. A confession. A prayer.
 
-The essence of our rope journey **transcends the stage**. As we embrace the spirit of "[Tie like no one is watching]({{< ref "/manifesto" >}} "Tie like no one is watching")", we invite you to experience rope as a medium for connection rather than performance.
+This isn’t about performance.  
+It’s about connection.
 
-This year at Rogue Rope, we celebrate **the spontaneous, the intuitive, and the deeply personal voyages** embarked upon through the ties that bind not just bodies, but hearts and souls. We honor each individual's path, whether as a rigger or a bottom, cherishing the beauty and strength found in surrender and trust.
+---
 
-**Forget the stage, the lights, and the audience.** Instead, we're curating moments of joy, encounters that may not be performances but are spectacles in their own right. The rope is our conduit to new situations, new connections, and the shared experiences that come from genuine, heartfelt encounters.
+You won’t find a lineup. No scheduled scenes. No applause cues.  
+But that doesn’t mean there’s nothing to witness.
 
-So, while you won't find a schedule of performances, you'll discover something more profound — a series of rope encounters designed to break the ice and initiate the first steps towards making a connection. There is nothing to perform, but so much to see and experience.
+You’ll see beauty here. Maybe even brilliance. But it will happen **organically** — between two people, in the hush of twilight, or the quiet chaos of morning. Ties spun in trust, not for display. Sensation shared without needing an audience.
 
-If you're moved to share your journey with rope, our content coordinators are here to facilitate these encounters. We're ready to assist you with any setups or spaces you may need to explore your rope narrative in the company of others.
+We’re not staging performances this year — we’re curating **possibilities**.
 
-In lieu of performances, **witness the myriad of personal stories unfolding around you**. Participate, engage, and let the rope guide you to new friendships and unforgettable moments. The stage is gone, but the space for connection is vast and welcoming. Come, let's weave new stories together at Rogue Rope.
+---
+
+### Want to Share Something?
+
+If you feel called to offer something… not for show, but for the sake of expression — a ritual, a story, a moment of embodiment — our content crew is here to help.
+
+We can support you with:
+- Space and structure for a scene you'd like to open to others
+- A container for your rope journey to be witnessed
+- Encouragement to turn your private moment into something communal — if that feels right
+
+Just reach out during camp. We’ll find a way to say yes.
+
+---
+
+### Come to Witness, Not to Watch
+
+We invite you to witness what unfolds — with reverence, not consumption.  
+To see without interrupting. To feel without framing.  
+To let each rope encounter stand on its own, unfiltered and unforced.
+
+This camp is full of stories.  
+They may not play out on a stage.  
+But they are real.  
+And they are yours to join.
+
+**Let the rope lead you into something honest.**  
+No stage needed.
 
 ![Burlesque dancers.](/images/perform.png)
-

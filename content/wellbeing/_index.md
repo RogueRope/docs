@@ -3,10 +3,24 @@ title = "Wellbeing"
 weight = 1
 +++
 
-To ensure that everyone at _Rogue Rope Camp_ feels supported and informed, we've organized detailed sections on our website.
+This camp asks a lot of you — emotionally, energetically, relationally.  
+So we’ve built in care. Not just as a safety net, but as a way of being.
 
-For those interested in the community dynamics and personal connections, learn more about [FWBs (Friends With Benefits)](/wellbeing/fwb). For tailored support, particularly for our neurodiverse attendees, check out our [Neuro-Liaison](/wellbeing/neuro) services. 
+These pages are here to support you before, during, and after your time at Rogue Rope Camp.  
+Whether you're feeling overwhelmed, excited, cautious, curious — you're not alone. We've thought about you.
 
-Understand our [Expectations](/wellbeing/expectations) to help prepare yourself emotionally and mentally. 
+---
 
-Dive into our guidelines on [Emotional](/wellbeing/emotional) well-being, [Consent](/wellbeing/consent) practices, and [Conscious Care](/wellbeing/conscious-care) approaches that foster a respectful and caring environment. Each section is designed to help you navigate the complexities of interaction and community engagement at the camp.
+### Things You Might Want to Read
+
+- Learn about [FWBs (Friends With Benefits)](/wellbeing/fwb) — our friendly, flirty, grounded-in-care connection crew.
+- Explore how we support [neurodiverse campers](/wellbeing/neuro) with intentional access and presence.
+- Familiarize yourself with our shared [Expectations](/wellbeing/expectations) — not rules, but agreements.
+- Check in with our approach to [Emotional wellbeing](/wellbeing/emotional), both solo and collective.
+- Review our foundations around [Consent](/wellbeing/consent) — clear, enthusiastic, and always ongoing.
+- Discover how we practice [Conscious Care](/wellbeing/conscious-care) when things get tender or tough.
+
+---
+
+Read what you need. Leave what you don’t.  
+These resources are here for your breath, your nervous system, your sense of safety — and your freedom to go deep, knowing you’re held.
