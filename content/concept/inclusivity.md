@@ -3,7 +3,8 @@ title: "Inclusivity"
 description: "Everyone deserves to enjoy Rogue Rope Camp We're here to ensure that happens."
 lead: "Embracing diversity and providing support for all attendees."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00images: []
+lastmod: 2025-04-11T13:37:00+0
+s: []
 weight: "30"
 toc: true
 ---

@@ -2,7 +2,8 @@
 title: "Post-Rope: A Gentle Rebellion"
 lead: "Exploring the Essence of Rope Beyond the Scene"
 date: 2025-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00toc: true
+lastmod: 2025-04-11T13:37:00+0
+c: true
 draft: false
 images: []
 toc: true

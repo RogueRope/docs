@@ -5,7 +5,8 @@ description: 'Rogue rope is focused on infrastructure: we provide a space, a pla
   and power, toilets and warm showers.'
 lead: What do we ask from you?
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00toc: false
+lastmod: 2025-04-11T13:37:00+0
+c: false
 draft: false
 images: []
 menu: 

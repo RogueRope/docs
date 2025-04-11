@@ -3,7 +3,8 @@ title: Consent
 description: Consent is a **whole-body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.
 lead: Consent is a mutual verbal, physical and emotional agreement that happens without manipulation, threats or mind games.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00images: []
+lastmod: 2025-04-11T13:37:00+0
+s: []
 menu: 
   docs:
     parent: "wellbeing"
