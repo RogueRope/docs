@@ -1,5 +1,6 @@
 +++
-title = "Wellbeing"weight = 1
+title = "Wellbeing"
+weight = 1
 +++
 
 This camp asks a lot of you — emotionally, energetically, relationally.  
