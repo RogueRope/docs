@@ -2,9 +2,8 @@
 title: Emotional
 description: Taking care of your body includes your heart.
 lead: Taking care of your body includes your heart.
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+0
-s: []
+date: 2025-04-11T13:37:00+00:00
+images: []
 menu: 
   docs:
     parent: "wellbeing"
@@ -24,26 +23,26 @@ Whether it’s a hard conversation, a crash after a scene, or just missing the f
 
 ### A Few Things That Might Help
 
-- Be gentle with yourself. Take breaks. Drink water. Cry if you need to.
-- Listen to your body — and let it guide your pace.
-- Set your boundaries clearly, and hold them with love.
-- Say no when you need to. Say yes only when it’s real.
-- Focus on what feels *right* for you — not what others are doing.
-- Ask for help. Even if it feels awkward. Especially then.
+- Be gentle with yourself. Take breaks. Drink water. Cry if you need to.  
+- Listen to your body — and let it guide your pace.  
+- Set your boundaries clearly, and hold them with love.  
+- Say no when you need to. Say yes only when it’s real.  
+- Focus on what feels *right* for you — not what others are doing.  
+- Ask for help. Even if it feels awkward. Especially then.  
 
 ---
 
-### If You Need Support — We’re Here
+### If You Need Support — Look for a Bracelet
 
-We’ve built in care. Not just as backup, but as an ethic.
+Care here isn’t assigned. It’s shared.
 
-If you’re struggling, confused, overstimulated, or just need someone to sit with — reach out. There are people here who want to help.
+When someone wears a **FWB bracelet**, it means they’re open to holding space — for a check-in, a grounding moment, a quiet sit under the trees. When you feel strong enough to care for others, you can wear one too.
 
-You can always approach:
+You can also always approach:
 
-- **A trusted friend or peer** — sometimes a familiar face is the best medicine.
-- **The Consent Crew** — they’re here for more than just crisis. Boundaries, weird vibes, repair conversations — they’ve got you.
-- **The Neuro-Liaison** — for those who process the world a little differently, or need support navigating the noise.
+- A trusted friend or campmate  
+- A Consent Crew member — they’re here for boundaries, repair, or if something feels off  
+- Or just someone who looks like they might get it — we’re all learning to read each other, gently  
 
 ---
 
@@ -62,4 +61,4 @@ And real things take courage.
 
 Let yourself be soft here, too.
 
-![animated drawing of two people hugging](/images//hug.webp)
+![animated drawing of two people hugging](/images/hug.webp)

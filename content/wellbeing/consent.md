@@ -2,9 +2,8 @@
 title: Consent
 description: Consent is a **whole-body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.
 lead: Consent is a mutual verbal, physical and emotional agreement that happens without manipulation, threats or mind games.
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+0
-s: []
+date: 2025-04-11T13:37:00+00:00
+images: []
 menu: 
   docs:
     parent: "wellbeing"
@@ -12,17 +11,17 @@ weight: 40
 toc: true
 ---
 
-### The short version?
+### The Short Version?
 
-If it feels like you’re selling something, stop.  
-If you're working too hard for a “yes,”  
+If it feels like you’re selling something — stop.  
+If you’re working too hard for a “yes,”  
 pause.  
 Step back.  
 Try again — or maybe, don’t.
 
-A real “yes” doesn’t need convincing.  
+A real yes doesn’t need convincing.  
 Look for the “HELL YES.” The “OMG YES.”  
-Or better yet: the soft, steady, relaxed *yes* that lives in the body.
+Or better yet: the quiet, steady *yes* that lives in the body.
 
 **Trust us — that kind of yes leads to better everything.**
 
@@ -33,7 +32,7 @@ Or better yet: the soft, steady, relaxed *yes* that lives in the body.
 ### Celebrate the No
 
 Someone says no?  
-Good. That means they trust you enough to be honest.  
+Good. That means they trust you enough to be honest.
 
 Say thank you.  
 Mean it.
@@ -53,7 +52,7 @@ Consent means:
 
 ---
 
-## Enthusiastic Consent = Real Consent
+### Enthusiastic Consent = Real Consent
 
 > “Consent isn’t a question. It’s a state.  
 > If, instead of lovers, the two of you were synchronized swimmers, consent would be the water.  
@@ -69,30 +68,31 @@ The kind that moves you both.
 
 ### If Something’s Off — Tell Us
 
-If someone on the “going” list is raising red flags for you, if you’ve had an issue with someone, or if you’ve seen behavior that concerns you — **please let us know.**
+If someone on the “going” list is raising red flags, if you’ve had an issue with someone, or if you’ve witnessed behavior that concerns you — **please let us know.**
 
-- You can message us via FetLife, or use [this contact form]({{< ref "/contact" >}} "Contact us").
-- You can also use a pseudonymous account via ProtonMail, Fastmail, etc.
-- Include what happened, and if you have thoughts on what support or boundaries might be helpful.
+You can:
+- Message us via FetLife
+- Use [this contact form]({{< ref "/contact" >}} "Contact us")
+- Write from a pseudonymous email (ProtonMail, Fastmail, etc.)
+
+Tell us what happened. If you have ideas for how we could hold it — boundaries, support, checking in — include those too.
 
 We’ll listen. We’ll think.  
-We’ll follow up with you before anything is finalized.
+We’ll follow up with care, not with assumptions.
 
-No system is perfect. But we’re committed to handling this with care.
+No system is perfect. But we’re committed to holding these things well.
 
 ---
 
-### Curious About Helping?
+### Want to Support Consent Culture Here?
 
-Want to help shape the consent/dungeon crew? [Get in touch.]({{< ref "/contact" >}} "Contact us")
-
-We’re always looking for people who care deeply — about presence, safety, repair, and clarity.
+We’re always looking for folks who care deeply — about presence, safety, clarity, and repair.  
+If that’s you, [get in touch.]({{< ref "/contact" >}} "Contact us")
 
 ---
 
 ### More to Read
 
-If you want to go deeper:
 - [La Quarta Corda on Consent](https://www.laquartacorda.it/en/consent/)
 - [Yes Means Yes](https://www.yesmeansyes.com/consent/)
 

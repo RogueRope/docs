@@ -20,11 +20,13 @@ If it’s not, that’s okay too. Honoring your limits is one of the most powerf
 ## Build Day = Shared Beginnings
 
 Camp officially opens on **Tuesday** with **Build Day**.  
-This isn’t about hard labor or special skills — it’s about power in numbers. It’s one of the easiest ways to meet people and start feeling the flow *before* things begin.
+This isn’t about hard labor or special skills — it’s about power in numbers.  
+One of the easiest ways to meet people and start feeling the flow *before* things begin.
 
 Come hang lights. Decorate a tent. Make coffee. Tie something weird to a tree. Add your energy. Every bit helps.
 
-And trust us: the people who show up early? They tend to find the magic first.
+And trust us: the people who show up early?  
+They tend to find the magic first.
 
 ---
 
