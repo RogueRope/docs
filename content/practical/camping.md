@@ -65,4 +65,4 @@ Just shared ground and a little chaos magic.
 This camp is temporary.  
 But the way it *feels* — if we do it right — might just stay with you forever.
 
-![Large camper tent at night](/images/camper.jpg)
+![Large camper tent at night](/images/curtains.png)

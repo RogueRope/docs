@@ -1,17 +1,15 @@
 ---
 title: Expectations
-description: 'Rogue rope is focused on infrastructure: we provide a space, a place to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Waterand power, toilets and warm showers.'
+description: 'Rogue rope is focused on infrastructure.'
 lead: What do we ask from you?
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00+0
-toc:false
-draft: false
+lastmod: 2025-04-11T13:37:00+00:00
 images: []
 menu: 
   docs:
     parent: "wellbeing"
 weight: 30
-toc: true
+toc: false
 ---
 
 We built this camp to hold us.  

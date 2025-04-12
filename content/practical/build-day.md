@@ -45,3 +45,5 @@ It’s a ritual. A soft beginning.
 The first knot in something unforgettable.
 
 Come build it with us.
+
+![Large camper tent at night](/images/build.png)

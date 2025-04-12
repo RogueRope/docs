@@ -3,7 +3,7 @@ title: Differences
 description: What is different from other events?
 lead: What is different from our other events?
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00+00:00
+lastmod: 2025-04-11T13:37:00+00:00
 weight: "10"
 toc: true
 ---
