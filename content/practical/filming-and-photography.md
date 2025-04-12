@@ -64,6 +64,4 @@ If someone takes your photo without consent — or posts something that violates
 
 ---
 
-Rogue Rope Camp is built on trust.  
-That means what happens here, stays here — unless everyone involved says otherwise.
-![Large camper tent at night](/images/photography.png)
+![Twee trollen staan dicht bij elkaar. Eén fluistert iets, de ander houdt een camera, maar laat die zakken met een glimlach.](/images/photography.png)
