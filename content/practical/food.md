@@ -30,7 +30,7 @@ Just to give you a sense of the rhythm. None of this is locked in.
 | 9–12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
 | 15:00 | Soup | TBC | TBC | TBC | TBC | Leftovers |
 | 16:00 | Snacks | TBC | TBC | TBC | TBC | Leftovers |
-| 19–21 | Dinner | TBC | Cheese Plate | Food truck | Pizza | --/-- |
+| 19–21 | Dinner | TBC | TBC | TBC | TBC | --/-- |
 
 ---
 

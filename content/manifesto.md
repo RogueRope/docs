@@ -17,8 +17,6 @@ toc: true
 
 {{< column >}}
 
-## The Post-Rope Manifesto
-
 At the soft edge of the rope world, far beyond the noise, something quiet stirs.  
 **Post-Rope** isn’t a scene.  
 It’s not a style.  

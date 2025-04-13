@@ -58,4 +58,4 @@ And they are yours to join.
 **Let the rope lead you into something honest.**  
 No stage needed.
 
-![Burlesque dancers.](/images/perform.png)
+![performance](/images/performance.png)
