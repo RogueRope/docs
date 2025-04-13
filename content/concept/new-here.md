@@ -9,7 +9,6 @@ weight: "2"
 toc: false
 ---
 
-# New Here?
 
 Maybe you’ve never been to a rope gathering before.  
 Maybe you’ve never been naked in public.  

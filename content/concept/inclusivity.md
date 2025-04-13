@@ -1,6 +1,6 @@
 ---
 title: "Inclusivity"
-description: "Everyone deserves to enjoy Rogue Rope Camp We're here to ensure that happens."
+description: "Everyone deserves to enjoy Rogue Rope Camp. We're here to ensure that happens."
 lead: "Embracing diversity and providing support for all attendees."
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00+0
@@ -27,7 +27,16 @@ If you’re here to control, consume, or coast, you’re not.
 
 ### Access Is Not the Same as Entitlement
 
-We do our best to make this space financially and physically accessible. If money is the barrier, talk to us — we can often find a way.
+We do our best to make this space financially and physically accessible.  
+**If money is the barrier, reach out.** We’re ready to open a conversation and find something that works for you.
+
+Maybe that’s a discount.  
+Maybe it’s paying later.  
+Maybe it’s installments or trade.  
+We don’t do shame. We do dialogue.
+
+Email us at [info@roguerope.be](mailto:info@roguerope.be).  
+Tell us what’s manageable — and we’ll see what’s possible.
 
 But access is a *shared responsibility.*  
 You still need to show up. To care for yourself and the people around you. To be ready for the emotional and logistical demands of a space like this.

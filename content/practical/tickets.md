@@ -42,6 +42,19 @@ Not a maybe in your mind.
 
 ---
 
+### Can’t Afford It Right Now?
+
+If money is the only thing standing in your way, please reach out.  
+We’re open to dialogue — and ready to find a solution that works for you.
+
+That might mean a discount, a payment plan, or the option to pay later.  
+No shame. No hoops. Just conversation and care.
+
+Email us at [info@roguerope.be](mailto:info@roguerope.be) and let us know what’s manageable.  
+We’ll meet you where we can.
+
+---
+
 ## Step 3: Buy Your Ticket
 
 If it’s a yes — beautiful.  
