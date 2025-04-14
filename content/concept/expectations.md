@@ -1,60 +1,80 @@
 ---
 title: Expectations
-description: 'Rogue rope is focused on infrastructure: we provide a space, a place
-  to pitch your tent, stuff to eat and drink. Suspension points. A sound-system. Water
-  and power, toilets and warm showers.'
+description: 'Rogue rope is focused on infrastructure.'
 lead: What do we ask from you?
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-toc: false
-draft: false
+lastmod: 2025-04-11T13:37:00+00:00
 images: []
 menu: 
   docs:
     parent: "wellbeing"
 weight: 30
-toc: true
+toc: false
 ---
 
-We want everyone to have a good time, so we made rules for safety, including everyone, learning, and making friends.
+We built this camp to hold us.  
+But a space alone isn’t enough.  
+It’s the people — and the agreements between us — that make it real.
 
-Follow these rules to make a great space for working together and making connections.
+This isn’t a list of rules.  
+It’s an invitation.
 
-## Follow these guidelines and you should be fine.
+To show up.  
+To take care.  
+To be brave, and soft, and honest.  
+To be kind — especially when it’s hard.
 
+---
 
-**Consent and Respect:**
-Prioritize obtaining consent and exhibiting respect in all interactions. Understand and honor the boundaries set by others.
+### What we ask of you:
 
+**Consent comes first. Always.**  
+Get it clearly. Give it freely. Tune in to words and to silence.  
+Be grateful when someone trusts you with their truth.
 
-**Communication:**
-Engage in open, honest, and effective communication to set clear expectations and promote the well-being of everyone involved.
+**Respect the humans around you.**  
+Every person here carries a story.  
+Be mindful. Be curious. Ask before touching. Honor pronouns. Celebrate difference.
 
-**Commitment:**
-Enhance our community's cohesion by fully committing to the event and actively participating in all scheduled activities.
+**Speak what’s real.**  
+Say what you mean. Hear what’s said.  
+When things feel tender, choose clarity. It’s a form of care.
 
+**Stay present.**  
+Let the outside world wait. Be here — with your body, your breath, your attention.
 
-**Safety and Accountability:**
-Contribute to a secure environment by reporting any safety concerns and behaving responsibly at all times.
+**Be generous.**  
+Offer what you can: your time, your skills, your mischief, your warmth.  
+It all counts — from tying a knot to stirring the soup.
 
-**Playfulness and Exploration:**
-Feel free to explore in BDSM play with various partners and be open to new experiences, while always respecting individual boundaries and comfort levels.
+**Own your impact.**  
+We all fuck up. What matters is what you do next.  
+Apologize. Repair. Learn. Grow.
 
-**Contribution and Collaboration:**
-Enrich our events by leading workshops, assisting with logistics, and collaborating with fellow participants.
+**Play with awareness.**  
+Kink, sex, BDSM — they’re welcome here.  
+But never at the cost of safety or consent.  
+Know your edges. Respect others’. Be gentle with power.
 
+**Conflict happens.**  
+Don’t let it fester. We have people who can help.  
+Mediation is available. So is care. So is space.
 
-**Self-reliance and Personal Growth:**
-Focus on self-care and personal development through self-reflection and continuous learning, while also supporting others in their growth.
+**Take care of yourself.**  
+Eat. Hydrate. Rest.  
+Ask for what you need.  
+You’re not here to push through — you’re here to be whole.
 
-**Immediacy and Presence:**
-Stay present and fully engaged throughout the event, and be proactive in addressing any issues that arise.
+**Leave room for magic.**  
+Some moments can’t be planned.  
+The best ones often begin with: “I didn’t know I needed this.”
 
-**Conflict Resolution:**
-Address conflicts constructively and empathetically, focusing on solutions and seeking support from our peer group when needed.
+---
 
-**Open Sharing and Authenticity:**
-Share your knowledge, skills, and resources openly, and strive for authenticity in all your interactions.
+If we show up like this — with presence, with care —  
+we create something rare.  
+A place where people feel safe.  
+A place where connection runs deep.  
+A place that lives in your bones long after you leave.
 
-**Respect for Diversity:**
-Foster an inclusive environment by celebrating diversity and actively opposing discriminatory or exclusionary behaviors.
+Let’s build that. Together.

@@ -1,33 +1,85 @@
 ---
 title: "Inclusivity"
-description: "Everyone deserves to enjoy Rogue Rope Camp We're here to ensure that happens."
+description: "Everyone deserves to enjoy Rogue Rope Camp. We're here to ensure that happens."
 lead: "Embracing diversity and providing support for all attendees."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-images: []
+lastmod: 2025-04-11T13:37:00+00:00+0
+s: []
 weight: "30"
 toc: true
 ---
 
+This is a space for many.  
+But not for all.
 
+Rogue Rope Camp welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit cleanly into polite society. We hold space for shadow and play, for bodies that don’t match expectations, for desires that don’t ask permission.
 
-## Financial Accessibility
+But we also hold standards. And we are not afraid to say no.
 
-We believe that financial constraints shouldn't prevent anyone from experiencing Rogue Rope Camp If the cost is a barrier for you, please don't hesitate to reach out to us. We're committed to finding a solution that works for you, whether that's a payment plan or a pay-what-you-can-ticket. Let's talk and make it possible for you to join us.
+This is not a place for entitlement, for ego, for domination without consent.  
+It is not a place for people who bristle at boundaries.  
+It is not a place for those who can’t hold themselves accountable.
 
-## Mental Wellness Consideration
+If you’re here to connect — for real — you’re welcome.  
+If you’re here to control, consume, or coast, you’re not.
 
-Rogue Rope Camp offers an immersive and intense experience, sometimes challenging to both neurotypical and atypical participants. We recognize that the full duration may not be suitable for everyone due to its intensity. Therefore, while all are required to begin their journey with us on Thursday evening, we fully support those who decide to leave early if they feel overwhelmed. **FOMO is real**, but prioritizing **self-care is vital**. 
-We encourage everyone to acknowledge their limits and make the most of their time with us at their own pace.
+---
 
-## Discrimination-Free Zone
+### Access Is Not the Same as Entitlement
 
-At Rogue Rope Camp, discrimination has no place. We stand for a community where LGBTQ+ individuals, people of all ethnicities, ages, and abilities feel safe and valued. We strive to create an environment where you can be your authentic self, without fear or reservation.
+We do our best to make this space financially and physically accessible.  
+**If money is the barrier, reach out.** We’re ready to open a conversation and find something that works for you.
 
-## Tailoring the Experience to Your Needs
+Maybe that’s a discount.  
+Maybe it’s paying later.  
+Maybe it’s installments or trade.  
+We don’t do shame. We do dialogue.
 
-Your comfort and participation are important to us. If there's something specific that would enable you to attend or enjoy the event more fully, let us know. We're eager to learn and accommodate wherever possible. Accessibility, interpretive services, or any other needs - if we can make it work, we will. Reach out to us at [info@roguerope.be](mailto:info@roguerope.be) with your needs or suggestions.
+Email us at [info@roguerope.be](mailto:info@roguerope.be).  
+Tell us what’s manageable — and we’ll see what’s possible.
 
-## Commitment to a Respectful Community
+But access is a *shared responsibility.*  
+You still need to show up. To care for yourself and the people around you. To be ready for the emotional and logistical demands of a space like this.
 
-While we strive to be inclusive, we acknowledge that not everyone has been able to join us in the past, whether proactively or following negative experiences. Instances of abuse or difficulties in managing behavior over a five-day event have led us to make these tough decisions. Our priority is maintaining a safe, respectful environment for all attendees.
+If you’re not sure you’re ready — that’s okay.  
+Better to wait than to overextend.
+
+---
+
+### The Intensity Is Real
+
+This isn’t a light weekend.  
+It’s immersive. Emotional. Sensory. Beautiful — and intense.
+
+Some people stay the whole time. Some people leave early. That’s fine. We support pacing and self-care. We encourage honest reflection before you sign up. Are you in a place to give and receive in community?
+
+This space will hold you — if you also hold it.
+
+---
+
+### Boundaries Make Belonging Possible
+
+We are actively queer-inclusive. Kink-aware. Neuro-friendly. Body-positive. And we mean it. But inclusion doesn’t mean anything without boundaries.
+
+We’ve said no before. We’ll say no again.  
+Because harm, manipulation, or repeated disregard for consent are not part of this camp — and won’t be tolerated.
+
+If you’ve been removed from this space before, or made someone feel unsafe here: know that we remember. We investigate reports. We prioritize care over comfort.
+
+---
+
+### Tell Us What You Need — If You're Ready to Be Here
+
+If something would help you feel more safe or supported — we want to hear it. Accessibility needs, translation help, neuro support, emotional check-ins — we’re here for it.
+
+Reach out at [info@roguerope.be](mailto:info@roguerope.be). We’ll do what we can. If we can’t meet your need, we’ll be honest about that too.
+
+---
+
+Rogue Rope Camp is built on trust.  
+Trust that you’ll show up with care.  
+Trust that when you fuck up, you’ll own it.  
+Trust that your presence is a gift — not a demand.
+
+If that resonates: welcome.  
+If not: this might not be your place.

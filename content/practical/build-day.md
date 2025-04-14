@@ -1,28 +1,49 @@
 ---
 title: Build Day
 description: >
-  Every hand helps shape our gathering. With no staff, we rely on our collective effort to transform a space into an arena for connection and exploration. 
-  Your contribution is the keystone to this endeavor’s success. 
-lead: Calling all builders and dreamers!
+Every hand helps shape our gathering. With no staff, we rely on our collective effort to transform a space into an arena for connection and exploration.Your contribution is the keystone to this endeavor’s success.lead: Calling all builders and dreamers!
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-images: []
+lastmod: 2025-04-11T13:37:00+00:00+0
+s: []
 weight: 95
 toc: true
+---
+
+### Build Day is How We Begin
+
+Rogue Rope Camp doesn’t just *appear*.  
+It’s built — by hands, by hearts, by you.
+
+Our gathering now begins on **Tuesday**, with **Build Day** folded into the experience itself. No separation. No staff. Just a field, some rope, and a growing circle of people making it real.
+
+This is your invitation to be part of the beginning.
 
 ---
 
-**Build Day Now Part of the Event Kickoff**  
-Welcome all builders, helpers, and enthusiasts!
+### What to Expect
 
-Our event now starts directly on Wednesday, transitioning smoothly from setup into the heart of the experience. There's no separate build day—when you arrive, you're part of the action from the get-go.
+You don’t need to be strong. Or skilled. Or organized.  
+You just need to show up.
 
-- **Be Ready to Dive In**: If you're joining us on Wednesday, come prepared to lend a hand or at least steer clear of the hustle. We're all about seamless collaboration, where play and work don't have to compete for space.
-- **Play Time Guidelines**: To maintain focus and efficiency, play activities will be welcomed after dinner on Wednesday and in the late afternoon on Thursday. Provided they don't interfere with the build.
-- **Open Invitation**: Feel free to show up when you can; the more, the merrier! No need for specific registration—just bring your enthusiasm.
-- **Coordination Made Simple**: We're organizing through a specific WhatsApp group to coordinate the build. Feel free to join this group or simply show up at the camp. We’ll guide you through what’s needed on-site.
+We’ll hang lights, set up suspension points, decorate the land, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
 
-This isn't just a call to build; it's an invitation to be an integral part of setting the stage for our collective adventure. As you contribute, you're also connecting, absorbing the vibrant pre-event atmosphere, and imprinting your personal touch on our gathering's foundation.
+Come early. Arrive Tuesday if you can.  
+This is one of the best ways to meet people, soften into the vibe, and become part of the magic *before* it officially begins.
 
-Your participation transforms mere preparation into the first stroke of our shared masterpiece. If you're drawn to contribute to something greater, come join us from the onset and help lay the foundation for an unforgettable Rogue Rope Camp.
+---
 
+### How It Flows
+
+- **Come When You Can:** Early arrivals are welcome. No sign-up, no pressure. Just show up and join in.  
+- **Work + Play:** Tuesday and Wednesday are for build. Play is welcome **after dinner on Wednesday**, and during **Thursday late afternoon**, once the setup is complete.  
+- **Coordination Is Casual:** We’ll use a shared WhatsApp group to help organize, or you can just wander in and ask what’s needed. Someone will point you toward tools, tasks, or tunes.
+
+---
+
+This isn’t just setup.  
+It’s a ritual. A soft beginning.  
+The first knot in something unforgettable.
+
+Come build it with us.
+
+![Large camper tent at night](/images/build.png)

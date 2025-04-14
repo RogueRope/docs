@@ -12,9 +12,9 @@
 <body class="page-{{ .Kind }}" id="pagetop">
   <header class="nav_header">
     {{- partial "nav" . }}
-  </header>
-  {{- if or (eq .Section $config.blogDir) (eq .Type "search" ) }}
-    {{- block "main" . }}{{ end }}
+  </header> 
+  {{- if or (and (isset . "Section") (eq .Section $config.blogDir)) (eq .Type "search") }}  
+  {{- block "main" . }}{{ end }}
   {{- else }}
   <div class="main wrap pt-4">
     {{- $docSections := $config.docSections }}

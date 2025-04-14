@@ -1,10 +1,10 @@
 ---
 title: "FWBs"
-description: "Ensuring a supportive and secure environment for every attendee."
-lead: "They're Friends With Benefits, indeed - providing essential support to our community."
+description: "Care doesn’t belong to a crew. It belongs to all of us."
+lead: "They're Friends With Benefits, indeed — providing essential support to our community."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-images: []
+lastmod: 2025-04-11T13:37:00+00:00+0
+s: []
 menu: 
   docs:
     parent: "wellbeing"
@@ -12,26 +12,74 @@ weight: 10
 toc: false
 ---
 
-# Our Valued FWBs
+# Friends With Benefits  
+_Yes, the good kind._
 
-At the core of our collective care system are our FWBs – Friends With Benefits, who volunteer to ensure everyone's wellbeing, safety, and comfort throughout the event. Their commitment is pivotal to the enriching experience we all cherish.
+At Rogue Rope Camp, care isn’t something the organizers provide.  
+It’s something **we all create** — together, moment by moment.
 
-## First Aid Support
+This year, anyone can be an FWB. And we mean anyone.
 
-If you find yourself with a minor injury, our trained FWBs are at your service, operating on a tiered support system:
+---
 
-1. **Self-Care:** Make use of the communal first aid kits for treating simple injuries.
-2. **Peer Support:** Look to your companions for immediate aid or a calming presence.
-3. **FWB Assistance:** Our identifiable FWBs stand ready for when you need that extra level of care.
+## What Is an FWB?
 
-## Consent Crew
+**Friend With Benefits** = someone who’s willing to show up for others.  
+To hold space. To offer support. To check in. To notice.
 
-Our Consent Crew FWBs are dedicated to upholding a culture of consent, providing assistance, and facilitating mediation to ensure everyone's boundaries are respected.
+Not all the time. Just when you feel able. Just when it’s real.
 
-## Neuro-Liaison
+FWBs aren’t staff. They’re **you**.  
+And when you’re ready to offer care, you show it by putting on a bracelet.
 
-Our Neuro-Liaison FWBs offer specialized support to neurodiverse members of our community, helping to navigate the event comfortably and mediate any issues that may arise.
+---
 
-## Join Our FWB Team
+## How It Works
 
-We're always eager to welcome new FWBs into our fold. If you have a passion for welfare and wish to volunteer, please [reach out to us]({{< ref "/contact" >}} "Contact us"). Your involvement is invaluable to us.
+- **Bracelets = Consent to Care**  
+  When you feel grounded and resourced enough to be available for others, slip on a FWB bracelet. That’s your quiet signal: “I’m here if you need me.”
+
+- **No Pressure, No Performance**  
+  You can take it off at any time. There’s no expectation to stay “on” all weekend. Your own capacity matters just as much as anyone else’s needs.
+
+- **Anyone Can Step In**  
+  This isn’t a special role. It’s a shared one. We all have moments where we can be the calm in the storm — and moments when we can’t.
+
+---
+
+## Why We’re Doing It This Way
+
+Because **care can’t be outsourced**.  
+Because the orga team can’t hold it all — and shouldn’t.  
+Because we believe in shared responsibility, not designated heroes.  
+**Because we want to see what happens when a whole camp decides to care for each other.**
+
+This bracelet system lets us flow in and out of service — with consent, clarity, and freedom.
+
+---
+
+## When You Might Reach for an FWB
+
+- You’re feeling wobbly and need grounding  
+- You need help navigating a tricky emotional moment  
+- You’re not sure who to talk to about something that feels off  
+- You just need someone to walk with for a minute
+
+FWBs aren’t therapists or security. They’re fellow campers.  
+If more support is needed, they’ll help connect you with Consent Crew or orga.
+
+---
+
+## This Is How We Care
+
+We’re not building a support team.  
+We’re building a **support culture**.
+
+And it starts with trust — that you’ll step up when you can, and step back when you can’t.  
+That someone will see you. That someone will stay.
+
+So if it feels right, slip on the bracelet.  
+And if you need care? Look for one glowing on someone’s wrist.
+
+We’ve got each other.  
+That’s what makes this camp work.

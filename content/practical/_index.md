@@ -1,20 +1,56 @@
 +++
-title = "Practical" 
+title = "Practical"
 weight = 1
 +++
 
-### The Details
-* **When:** 14/08/2024 14:00 -&gt; 18/08/2024 16:00
-* **Where:** East of Ghent, West of Antwerp
-* **Cost:** 150€ 
+## Before You Say Yes
 
+Take a breath.  
+Rogue Rope Camp isn’t just a festival — it’s a full-body, full-heart experience. It can stretch you. It might stir things up. That’s part of the beauty. And also part of the reason to pause and ask:
 
-## Consider Carefully Before Committing
-Pause and ponder—is Rogue Rope Camp right for you? Before you leap into action, let's take a step back. We encourage you to deeply evaluate your personal thresholds. This isn't just a festival; it's a full-on experience that may push boundaries. Reflect on your emotional, mental, and physical readiness. Can you engage without overextending? Are the potential stresses worth the unique thrills? Don't let FOMO cloud your judgment. Your wellbeing is our top priority, and we want every participant to leave with positive memories. So, think it over: if this adventure calls to you, and you feel prepared for its intensity, we can't wait to have you join us. If not, that's okay too—honoring your limits is the bravest thing you can do. 
+Are you ready to meet this intensity with care?  
+Can you engage without burning out?  
+Is now the right moment for this kind of dive?
 
-## Get Set for the Adventure
-Now that you've considered your readiness, it's time to practically prepare for the Rogue Rope Camp adventure! We've laid out everything you need to know on the left. Click through the links to discover what culinary delights await you, the ticketing details, essential items to pack, and our 'Leave No Trace' philosophy. Plus, find out about camping specifics, our cool merchandise, what Build Day entails, photography guidelines, and our cancellation policy. Equip yourself with all the info to ensure your time with us is as smooth and enjoyable as possible. Your journey into the extraordinary starts here—navigate through the options and let the anticipation build!
+We’d love to have you — *if* it’s a true yes.  
+If it’s not, that’s okay too. Honoring your limits is one of the most powerful forms of self-respect we know.
 
+---
 
-**Prepare for Your Adventure:** As you gear up for Rogue Rope Camp, we have organized a wealth of practical details to ensure your experience is as smooth and fulfilling as possible. Dive into [Food](/practical/food) to explore culinary options, check [Tickets](/practical/tickets) for admission details, and review [Things to Bring](/practical/things-to-bring) to pack appropriately. Embrace our [Leave No Trace](/practical/leave-no-trace) philosophy to understand our environmental commitments. For those camping, visit [Camping](/practical/camping) for specifics, and don't miss our exclusive [Merch!](/practical/merch) For a unique pre-event experience, see what [Build Day](/practical/build-day) involves. Familiarize yourself with [Photography](/practical/photography) guidelines, check our [Cancellation](/practical/cancellation) policy, and discover the vibrant [Performances](/practical/performances) planned. Engage in spontaneous discussions in our [Unconference](/practical/unconference) sessions. Click through these links to fully equip yourself for an unforgettable journey into the extraordinary.
+## Build Day = Shared Beginnings
 
+Camp officially opens on **Tuesday** with **Build Day**.  
+This isn’t about hard labor or special skills — it’s about power in numbers.  
+One of the easiest ways to meet people and start feeling the flow *before* things begin.
+
+Come hang lights. Decorate a tent. Make coffee. Tie something weird to a tree. Add your energy. Every bit helps.
+
+And trust us: the people who show up early?  
+They tend to find the magic first.
+
+---
+
+## Explore the Essentials
+
+We’ve gathered all the practicals so you can prepare with ease:
+
+- [**Food**](/practical/food): what we’re feeding you (and what to bring)
+- [**Tickets**](/practical/tickets): how to get in
+- [**Things to Bring**](/practical/things-to-bring): your packing guide
+- [**Leave No Trace**](/practical/leave-no-trace): how we protect the land
+- [**Camping**](/practical/camping): what to expect in the field
+- [**Merch**](/practical/merch): shirts, of course
+- [**Build Day**](/practical/build-day): co-creation details
+- [**Photography**](/practical/photography): consent comes first
+- [**Cancellation**](/practical/cancellation): in case plans change
+- [**Performances**](/practical/performances): what *might* unfold
+- [**Unconference**](/practical/unconference): peer-led brilliance
+
+Click around. Get ready. Let the anticipation rise.
+
+---
+
+This isn’t just something you attend.  
+It’s something you help make.
+
+And it starts now.
