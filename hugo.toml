@@ -9,6 +9,8 @@ enableGitInfo = true
 
 enableDarkMode = true # set to false to disable darkmode by default # user will still have the option to use dark mode
 defaultLightingMode = "dark" # other possible values: "dark", "light"
+enforceDarkMode = true
+
 
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 
