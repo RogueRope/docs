@@ -59,4 +59,5 @@ resources/_gen/assets/scss/scss/app.scss_1920d2ec1ff1120c91690141d2072447.conten
 content.zip
 content/output.txt
 content/output.md
-.qodo/history.sqlite
+content/all.md
+.qodo/*

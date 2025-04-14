@@ -3,21 +3,52 @@ title: "Participation"
 description: "At Rogue Rope Camp, your uniqueness adds to the magic. Join us in creating an unforgettable event!"
 lead: "Your talents, time, and enthusiasm are the soul of Rogue Rope Camp"
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-images: []
+lastmod: 2025-04-11T13:37:00+00:00+0
+s: []
 weight: "20"
 toc: true
 ---
-## Dive into Volunteering
 
-At _Rogue Rope Camp_, we value every effort, big or small. **There is no competition here; contributions vary, and that's perfectly okay.** We recognize that not all contributions are visible, so please be kind and respectful. Everyone has their own pace and way to contribute, whether it's cleaning, cooking, fixing, or helping in other ways. We ask each participant to engage in a short volunteering session to enhance our collective experience.
+We don’t do spectators here.  
+We do co-creation.  
+That means this isn’t something we build *for* you — it’s something we build *with* you.
 
-## Everyone Can Contribute
+Everyone gives a little.  
+Everyone gets a lot.
 
-Don't think you have something to offer? **Think again!** Every participant is vital to the spirit of our camp. Contribution comes in countless forms—whether you share a skill, a song, or simply your company. It's the spirit and camaraderie that matter more than the skill.
+### What counts as participation?
 
-## Together, We Are Rogue Rope Camp
+All of it.
 
-Your involvement turns _Rogue Rope Camp_ into a unique experience. This event is a co-created adventure that blossoms with each personal touch. So, what will your contribution be? Whether it's through art, a workshop, or simply making someone smile, every effort counts.
+Chopping onions.  
+Hanging lights.  
+Sweeping glitter.  
+Holding someone who needs to cry.  
+Tying rope, sharing a song, offering your favorite snack at 3am.
 
-**Come with an open heart and leave with a soul full of memories and connections.** Visit our Volunteer page for more details or contact us to start your journey. Let’s co-create something extraordinary, with kindness as our guide.
+There is no competition here.  
+No one gets a gold star.  
+Contribution looks different for everyone — and that’s the point.
+
+Whether you’re a helper, a dreamer, a mischief-maker, or someone who simply holds the energy of care in a space... you belong.
+
+### Volunteering = Love in Action
+
+We ask everyone to take part in a short volunteer shift — a way to anchor your presence in this shared container. It’s not a job. It’s a spell. A ripple of care that touches more people than you’ll ever know.
+
+You don’t have to lead a workshop or be extroverted.  
+You just have to be here. With intention.
+
+### Together, We Make the Magic
+
+This camp lives and breathes through what we all bring.  
+The way you show up changes the space.
+
+So come as you are.  
+Bring what you have.  
+Offer it freely.  
+Receive what flows back.
+
+Let’s build something unforgettable. Together.
+
+**Start your thread on the [Volunteer](/practical/build-day) page or just whisper your “yes” when the moment calls.**

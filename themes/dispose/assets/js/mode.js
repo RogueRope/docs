@@ -21,11 +21,11 @@ function currentMode() {
 
 function changeMode(is_dark_mode) {
   if(is_dark_mode) {
-    bank.setItem(storageKey, light)
-    elemAttribute(doc, mode_data, light);
-  } else {
     bank.setItem(storageKey, dark);
     elemAttribute(doc, mode_data, dark);
+  } else {
+    bank.setItem(storageKey, light);
+    elemAttribute(doc, mode_data, light);
   }
 }
 

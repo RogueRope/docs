@@ -3,20 +3,76 @@ title: "Photography"
 description: "No pics without consent!"
 lead: "Always get consent before you film or photograph someone at Rogue Rope Camp."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-draft: false
+lastmod: 2025-04-11T13:37:00+00:00+0
 images: []
 weight: 95
 toc: true
 ---
 
-**Never film or photograph someone without their explicit consent.** This includes people in the background of a photo you're taking.
+### This is a private space. That includes your camera roll.
 
-If you have a dispute with someone about photography, please let the organizer know. Your right to take someone’s photo and publish it **never** over-rules their right to privacy! If posting photos onto FetLife or other social networking sites, **MAKE 100% SURE** that **EVERYONE** featured in your photos is happy for them to be posted. You should not be tagging people online unless you have their explicit permission to do so.
+Rogue Rope Camp is a place where people come to be real — raw, soft, naked, messy, tender, fierce. That kind of openness requires deep trust.
 
+So let’s be clear:
 
-## Do NOT Post Pictures of the Site!
+---
 
-Please do not publish identifiable pictures of the location. We want to keep using the site the coming years. The site provides us with privacy, and we should be able to return the favor. The site did not consent to being photographed and published, so just don't.  Take this into account when taking a picture, but particularly when posting online. Feel free to take pics of the site for personal use.
+**No photos or videos without explicit consent. Ever.**  
+That means every person in frame — foreground or background.  
+Blur is not consent. Assumption is not consent.  
+**Ask first. Every time.**
 
-If you want to make a picture of someone where identifiable parts are in the background, feel free to do so, but just don't publish them. Take extra care in regards to social media, you might think it's fun to have a pseudo-anonymous Insta, FB, YouTube or Twitter account, but when you publish a picture, often more is uploaded than you might assume.
+If you’re posting to FetLife, Instagram, or anywhere else:  
+Only share what someone has *clearly agreed to*.  
+That includes tagging. That includes stories. That includes vibes.  
+Ask before you tag. Ask before you post. Ask even if it feels obvious.
+
+---
+
+## Maybe: A System for Consent-Based Photography
+
+We’re exploring an **opt-in system** — maybe color-coded bracelets or visible markers — to support light, consensual documentation.
+
+If we go forward with it, it will be:
+
+- Strictly opt-in  
+- Clearly explained  
+- Easy to change your mind
+
+It’s not confirmed yet. But if it is, we’ll tell you during camp — and make sure everyone knows the boundaries.
+
+---
+
+## Don’t Post Pictures of the Site
+
+We love this land.  
+We want to keep using it. Protecting it includes protecting its anonymity.
+
+Please:
+
+- Don’t post identifiable photos of the location  
+- Don’t share wide shots of the grounds or buildings  
+- Do enjoy pictures for personal use — just don’t publish them online
+
+Think of it this way:  
+**The site didn’t consent to be exposed.** Let’s return the privacy it offers us.
+
+---
+
+## A Note on Metadata
+
+Social media often uploads more than just your photo — GPS data, file names, hidden links.  
+If you’re sharing anything, double-check what’s included. Better yet?  
+**Don’t share at all unless you’re absolutely sure.**
+
+---
+
+## If There’s a Problem
+
+If someone takes your photo without consent — or posts something that violates these boundaries — tell us.  
+We’ll handle it. Swiftly. Quietly. Clearly.  
+Consent is not negotiable here.
+
+---
+
+![Twee trollen staan dicht bij elkaar. Eén fluistert iets, de ander houdt een camera, maar laat die zakken met een glimlach.](/images/photography.png)

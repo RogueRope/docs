@@ -1,38 +1,101 @@
 ---
-toc: true
-lastmod: 2024-04-06T13:37:00+00:00
 title: Tickets
 description: Step-by-step guide on securing your spot at the event.
-lead: "Resist the pull of FOMO and prioritize your well-being. "
+lead: "Resist the pull of FOMO and prioritize your well-being."
 date: 2024-04-06T13:37:00+00:00
+lastmod: 2025-04-11T13:37:00+00:00
 images: []
 weight: 25
+toc: true
 ---
-Securing your ticket to our event is an easy process. Just follow these steps:
 
-## Familiarize Yourself with Our Event
+### How to Join Us
 
-Congratulations, you're already making progress! If you've reached this page, we hope you've taken the opportunity to read through our previous information to understand fully what our event is about. If you've skipped ahead, we encourage you to take a moment to review.
+Securing your spot at Rogue Rope Camp is simple — but we ask that you move slowly.  
+This isn’t just about clicking “buy.” It’s about saying yes, with your whole self.
 
-## Reflect Deeply Before Deciding
+---
 
-Before you make your final decision, **take a serious moment to reflect**. This event can be incredibly rewarding, but it's important to consider whether it truly aligns with your emotional, mental, and physical capabilities. 
+## Step 1: Know What You’re Saying Yes To
 
-Ask yourself: Does this fit with my current needs? Will participating stretch me too thin, be it mentally, physically, or financially? **Resist the pull of FOMO and prioritize your well-being.** It’s crucial that you feel confident and comfortable with your decision to join us.
+If you’ve made it to this page, you’ve probably explored the rest of the site. (If not, we gently ask you to pause and go back.)  
 
-## Complete Your Purchase
+This isn’t a spectator event. It’s immersive. Real. Sometimes raw.  
+We want you to arrive with your eyes wide open — excited, ready, and informed.
 
-Once you've decided if this event is the right fit for you, you can proceed to purchase. Rest assured, we value your privacy and security throughout this process.
-For legal/accounting reasons we need to ask for a name at the checkout process, feel free use your own, or not. 
+---
 
-Ticket sales open May fifth at 20.00.
+## Step 2: Reflect Before You Commit
 
-[Buy your tickets here: https://shop.gogogonzo.be/RRC24/](https://shop.gogogonzo.be/RRC24/)
+Before you grab a ticket, take a breath.  
+Ask yourself:
 
-## Vetting
+- Does this call to where I’m at right now?
+- Will it nourish me — or stretch me too thin?
+- Do I have the capacity (emotionally, physically, financially) to be fully present?
 
-Once you've ordered your ticket (please use your FetLife name during the ordering process), we will review your order and check your profile, possibly reaching out within the community to ensure our camp maintains a safe atmosphere for everyone. After confirmation, you will receive an email with payment instructions.
+**FOMO is not a good reason to come.**  
+You deserve more than that. And so does this space.
 
-Remember, the journey of connection and exploration at Rogue Rope Camp begins with this first step. We are excited to have you with us and look forward to the experiences we'll share.
+Come because it’s a yes in your gut.  
+Not a maybe in your mind.
+
+---
+
+### Can’t Afford It Right Now?
+
+If money is the only thing standing in your way, please reach out.  
+We’re open to dialogue — and ready to find a solution that works for you.
+
+That might mean a discount, a payment plan, or the option to pay later.  
+No shame. No hoops. Just conversation and care.
+
+Email us at [info@roguerope.be](mailto:info@roguerope.be) and let us know what’s manageable.  
+We’ll meet you where we can.
+
+---
+
+## Step 3: Buy Your Ticket
+
+If it’s a yes — beautiful.  
+Tickets go on sale **May 5th at 20:00**.
+
+👉 [Buy your ticket here](https://shop.gogogonzo.be/RRC25/)
+
+You’ll be asked to provide a name at checkout (for legal/accounting reasons).  
+Use your real name, a chosen name, or a pseudonym — whatever you feel comfortable with.
+
+---
+
+## Step 4: Vetting
+
+To help keep our space safe and aligned, we ask for your **FetLife name** during the ticket process.  
+
+After you place your order, we’ll:
+- Review your FetLife profile  
+- Reach out to our community if needed  
+- Contact you if we have any concerns
+
+Once you're confirmed, we’ll send payment instructions by email.
+
+---
+
+This is where it starts.  
+Not the tying. Not the fire. Not the tears.  
+
+Right here — with a choice.  
+A yes. A thread picked up.
+
+---
+
+Still unsure? That’s okay.
+
+Take a moment to read more about how we [care for each other]({{< ref "/wellbeing" >}}),  
+or what this experience will ask of you, practically and emotionally, in the [Preparation section]({{< ref "/practical" >}}).
+
+No pressure.  
+Just clarity.
+
+We can’t wait to see who joins us.
 
 ![Think](/images/tickets.webp)

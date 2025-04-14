@@ -2,40 +2,63 @@
 title: Emotional
 description: Taking care of your body includes your heart.
 lead: Taking care of your body includes your heart.
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
+date: 2025-04-11T13:37:00+00:00
 images: []
 menu: 
   docs:
     parent: "wellbeing"
 weight: 35
 toc: true
+---
+
+### Emotional Safety Matters Just as Much as Physical Safety
+
+Rogue Rope Camp can stir a lot.  
+Connection. Intensity. Joy. Tenderness.  
+And sometimes — disorientation, overwhelm, or loneliness.
+
+Whether it’s a hard conversation, a crash after a scene, or just missing the familiar rhythms of home… it’s okay. You’re not doing it wrong.
 
 ---
 
+### A Few Things That Might Help
 
-Things may get chaotic at _Rope Camp_ Sometimes interactions can feel overwhelming, or you might find yourself feeling a bit isolated without the usual comforts. Fortunately, there are plenty of ways to navigate these feelings!
+- Be gentle with yourself. Take breaks. Drink water. Cry if you need to.  
+- Listen to your body — and let it guide your pace.  
+- Set your boundaries clearly, and hold them with love.  
+- Say no when you need to. Say yes only when it’s real.  
+- Focus on what feels *right* for you — not what others are doing.  
+- Ask for help. Even if it feels awkward. Especially then.  
 
-### Tips for a Positive Experience:
-- Be gentle with yourself and listen to your body.
-- Don’t hesitate to seek help if you need it.
-- Clearly state your boundaries and maintain open communication, whether with strangers or loved ones.
-- Focus on having experiences that make **you** happy.
-- Engage in ways that make **you** feel comfortable.
+---
 
-## Seeking Help
+### If You Need Support — Look for a Bracelet
 
-If you find yourself needing support, we're here to help. We have volunteers on-site ready to assist you. Just approach someone you feel comfortable with and let them know you'd like to talk. Our team is dedicated to ensuring the well-being, safety, and comfort of all attendees.
+Care here isn’t assigned. It’s shared.
 
-### Support Options:
+When someone wears a **FWB bracelet**, it means they’re open to holding space — for a check-in, a grounding moment, a quiet sit under the trees. When you feel strong enough to care for others, you can wear one too.
 
-- **Peer Support:** Start with friends or peers who might provide medical, emotional, or practical help when needed.
-  
-- **Consent Crew:** This team is dedicated to fostering a safe, respectful, and inclusive environment. They can provide guidance on consent, personal boundaries, and mutual respect. If necessary, Consent Crew members can also mediate disputes or conflicts to help resolve issues amicably.
-  
-- **Neuro-Liaison:** Our Neuro-Liaison offers specialized support for neurodiverse attendees, suggesting event improvements and providing conflict mediation when needed. They ensure that everyone’s experience is positive and enjoyable.
+You can also always approach:
 
-Remember, at _Rope Camp_, we don’t point fingers or assign blame. Instead, we focus on solutions and involve the right people to help—whether that means finding you a private space, connecting you with someone understanding, or any other support that can improve your experience.
+- A trusted friend or campmate  
+- A Consent Crew member — they’re here for boundaries, repair, or if something feels off  
+- Or just someone who looks like they might get it — we’re all learning to read each other, gently  
 
+---
 
-![animated drawing of two people hugging](/images//hug.webp)
+### You Won’t Be Judged Here
+
+If something feels off — we don’t rush to blame or label.  
+We look for what can help.  
+Sometimes that’s a conversation. Sometimes it’s a hug and a snack. Sometimes it’s space.
+
+We’ll figure it out together.
+
+---
+
+This place is intense because it’s real.  
+And real things take courage.
+
+Let yourself be soft here, too.
+
+![animated drawing of two people hugging](/images/hug.webp)

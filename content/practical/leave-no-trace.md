@@ -2,38 +2,57 @@
 title: Leave No Trace
 description: Things to Bring
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-images: []
+lastmod: 2025-04-11T13:37:00+00:00+0
+s: []
 weight: 35
 toc: true
 lead: ''
+---
+
+### The Land Holds Us. Let’s Hold It, Too.
+
+Rogue Rope Camp takes place in a wild, beautiful space — and we want to keep it that way. That means leaving no trace behind. No trash. No damage. No mess for someone else to clean up.
+
+We treat the land like we treat each other: with care, with respect, and with attention.
 
 ---
 
+### No Trash Cans. No Problem.
 
-#### General Guidelines
-- Ensure you take **all your trash** and belongings back home with you.
-- Keep the space clean and pristine for everyone to enjoy.
+There are no garbage bins on site — by design. That means **whatever you bring in, you take back out**.
 
-#### No Trash Cans On-Site
-Due to the absence of trash cans on-site, it is crucial to plan and manage your waste:
-- Bring reusable containers and bags to minimize waste.
-- Remove excess packaging from items before bringing them to the event.
-- Carry a small trash bag with you to collect waste throughout the day.
-- Be mindful of your consumption and only bring what you need.
+Some tips to make that easy:
+- Pack light and leave excess packaging at home.
+- Bring a small bag for your personal waste.
+- Use reusable containers and tools whenever you can.
+- Be mindful of what you consume — it adds up.
 
-#### Specific Waste Categories
-- **Compostable Waste:**
-  - Compostable items like organic waste (food scraps, paper napkins, etc.) can be dealt with on-site. Ensure these are disposed of in designated composting bins.
-- **Recyclables:**
-  - Take home recyclable materials such as plastic, glass, and metal. Separate these from other waste types and bring them back for proper recycling.
-- **Non-Recyclable Waste:**
-  - All other waste, especially non-recyclables, must be taken home. This includes items like plastic wrappers, Styrofoam, and mixed materials that cannot be easily recycled.
+---
 
-#### Special Arrangements for Public Transport Users
-- If you are coming by public transport, special arrangements can be made to help you manage your waste. We don't expect you to take a bag of empty cans on a train. 
+### Sort It Before You Leave
 
-#### For Smokers
-- If you smoke, please use a portable ashtray to collect your cigarette butts. This helps prevent ground pollution and fire risks. Be sure to dispose of the contents responsibly when you return home.
+- **Compostable stuff** (food scraps, paper napkins, etc.): We’ll have designated bins for these on site.  
+- **Recyclables** (glass, metal, clean plastic): Pack them out. Sort them at home.  
+- **Trash that can’t be recycled** (wrappers, mixed materials, etc.): Take it with you. Please don’t leave it behind.
+
+---
+
+### Coming by Train or Bus?
+
+We don’t expect you to carry garbage bags on public transport. If you’re not driving, let us know — we’ll sort out a way to help with your trash.
+
+---
+
+### Smokers, Read This
+
+If you smoke, bring a **portable ashtray**. Pocket tins, old film canisters, or custom buttpouches all work. Keep your butts off the ground — for fire safety, and because no one wants to kneel in someone else’s cigarette.
+
+---
+
+We want to be invited back.  
+We want the land to feel loved.  
+We want to show what a kinky camp can do when it cares.
+
+Leave no trace. Leave beauty instead.
 
 ![Tent with nice lights surrounding it.](/images/tent.jpg)

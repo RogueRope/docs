@@ -1,30 +1,59 @@
 ---
 title: "Cancellation"
-description: "Plans can change or go wrong, let's see how we can mitigate issues."
+description: "Plans can change or go wrong — here’s how we handle it."
 lead: 
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2024-04-06T13:37:00+00:00
-draft: false
+lastmod: 2025-04-11T13:37:00+00:00+0
 images: []
 weight: 125
 toc: true
 ---
 
-If the event is not legal under Belgian or local laws (due to Covid waves/Putin/...), it shall not take place. In this case, everyone will receive a **full refund** for all tickets purchased. No hidden fees will be deducted. If you paid X euros, we'll send you your X euros back via bank transfer.
+### Sometimes plans change. Sometimes the world does.
 
+We know life is unpredictable — and we’d rather be honest about it from the start. Here’s what happens if you need to cancel, or if we do.
 
-## Personal Cancellation
+---
 
-If you can't attend for personal reasons \(sickness, change of plans, ... \) you can resell or gift your tickets. In this case, let the organizers know, so we can vet the person you want to sell your ticket to. Every participant needs to be confirmed by the organization. There is no point in selling your ticket to someone who won't be allowed to participate. So first, send an email to the organization, with your friend's FetLife name and email. We will send you both an email with instructions on how to proceed.
+## If We Have to Cancel
 
-**Up untill 21 days before the start of the event, you can cancel your ticket for free.** Just go to your booking page and hit the cancel button. 
+If Rogue Rope Camp can’t legally take place — due to Covid regulations, war, or other delightful surprises — we’ll cancel the event. And if that happens, **you’ll get a full refund**.
 
-If you need to cancel in the 3 weeks before the event **and we have people on the waiting list**, you can get a refund of 90% of the ticket price. If we don't have people on the waiting list, we can't give you a refund. 
+No hidden fees. No penalties.  
+If you paid X euros, we’ll return X euros. Simple.
 
-## Organization Cancellation
+---
 
-In case something happens that forces us to cancel the camp, you will get a full refund.
+## If *You* Need to Cancel
 
-## Early Termination of the Event
+Things come up — we get it. If you can’t join us for personal reasons (sickness, schedule shift, life happening), here’s what to do:
 
-If the event has started but has to be terminated early, due to harsh weather, acts of nature or other conditions beyond our control, the ticket price is not refundable.
+### ✦ Reselling or Gifting Your Ticket
+
+You’re welcome to pass your ticket on — but please check with us first.
+
+Every participant needs to be confirmed by the organizers, so don’t sell your ticket to someone we wouldn’t be able to welcome. Send us an email with your replacement’s **FetLife name** and **email**, and we’ll follow up with both of you about how to proceed.
+
+### ✦ Cancelling Directly
+
+- **More than 21 days before camp:**  
+  Cancel for free — just go to your booking page and hit the button. That’s it.
+
+- **Less than 21 days before camp:**  
+  If we can fill your spot from the waiting list, we’ll refund **90% of your ticket**.  
+  If there’s no one waiting, we won’t be able to refund you.
+
+---
+
+## If the Event Is Cut Short
+
+If camp starts but has to end early — due to weather, wildfires, acts of nature, or anything else outside our control — we unfortunately can’t offer refunds.
+
+We hope it doesn’t happen. But if it does, we’ll handle it with as much care as possible.
+
+---
+
+Thanks for understanding.  
+We built these policies with trust in mind — and trust goes both ways.
+
+If you have questions, reach out. We’ll meet you with clarity and care.
