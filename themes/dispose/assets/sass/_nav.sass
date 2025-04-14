@@ -40,6 +40,7 @@
     left: 0
     top: 0
     bottom: 0
+    z-index: 1000
     height: 100vh
     transition: transform 0.25s var(--ease)
     transform: translateX(-101vw)
@@ -51,6 +52,7 @@
       background: transparent
       flex-direction: row
   &.show &_body
+    z-index: 1000
     transform: translateX(0)
     box-shadow: 0 1rem 4rem rgba(0,0,0,0.1)
     background: var(--bg)

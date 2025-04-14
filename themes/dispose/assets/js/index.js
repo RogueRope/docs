@@ -17,9 +17,13 @@ function toggleMenu(event) {
   }
 
   if(is_toggle_control || is_with_toggle_control) {
-    const menu = is_with_toggle_control ? is_with_toggle_control.parentNode.parentNode : target.parentNode.parentNode;
-    event.preventDefault();
-    modifyClass(menu, show_id);
+    // Find the closest .nav, then its .nav_body
+    const nav = (is_with_toggle_control || target).closest('.nav');
+    const menu = nav ? nav.querySelector('.nav_body') : null;
+    if (menu) {
+      event.preventDefault();
+      modifyClass(menu, show_id);
+    }
   } else {
     !menu_instance ? showOff(target) : showOff(target, true);
   }
