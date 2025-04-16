@@ -27,7 +27,6 @@ Come hang lights. Decorate a tent. Make coffee. Tie something weird to a tree. A
 
 And trust us: the people who show up early?  
 They tend to find the magic first.
-
 ---
 
 ## Explore the Essentials
@@ -45,8 +44,6 @@ We’ve gathered all the practicals so you can prepare with ease:
 - [**Cancellation**](/practical/cancellation): in case plans change
 - [**Performances**](/practical/performances): what *might* unfold
 - [**Unconference**](/practical/unconference): peer-led brilliance
-
-Click around. Get ready. Let the anticipation rise.
 
 ---
 

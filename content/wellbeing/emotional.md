@@ -61,4 +61,4 @@ And real things take courage.
 
 Let yourself be soft here, too.
 
-![animated drawing of two people hugging](/images/hug.webp)
+![animated drawing of two people hugging](/images/rrc25/encounter.png)

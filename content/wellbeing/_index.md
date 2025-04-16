@@ -15,7 +15,6 @@ Whether you're feeling overwhelmed, excited, cautious, curious — you're not al
 
 - Learn about [FWBs (Friends With Benefits)](/wellbeing/fwb) — our friendly, flirty, grounded-in-care connection crew.
 - Explore how we support [neurodiverse campers](/wellbeing/neuro) with intentional access and presence.
-- Familiarize yourself with our shared [Expectations](/wellbeing/expectations) — not rules, but agreements.
 - Check in with our approach to [Emotional wellbeing](/wellbeing/emotional), both solo and collective.
 - Review our foundations around [Consent](/wellbeing/consent) — clear, enthusiastic, and always ongoing.
 - Discover how we practice [Conscious Care](/wellbeing/conscious-care) when things get tender or tough.
