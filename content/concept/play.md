@@ -68,4 +68,4 @@ Find someone. Ask. Share your edges. The rest will come.
 
 The play is real.  
 And so are you.
-![Play](/images/play.png)
+![Play](/images/rrc25/play.png)

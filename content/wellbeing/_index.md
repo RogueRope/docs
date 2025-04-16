@@ -25,4 +25,4 @@ Whether you're feeling overwhelmed, excited, cautious, curious — you're not al
 Read what you need. Leave what you don’t.  
 These resources are here for your breath, your nervous system, your sense of safety — and your freedom to go deep, knowing you’re held.
 
-![wellbeing](/images/wellbeing.png)
+![wellbeing](/images/rrc25/wellbeing.png)
