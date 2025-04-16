@@ -45,6 +45,6 @@ Let’s see what happens when we meet without masks.
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/img2025.png)
+![diy](/images/rrc25/img2025.png)
 {{< /column >}}
 {{< /block >}}

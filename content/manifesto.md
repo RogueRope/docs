@@ -11,7 +11,7 @@ toc: true
 
 {{< column >}}
 
-![Postrope](/images/postrope.png)
+![Postrope](/images/rrc25/postrope.png)
 
 {{< /column >}}
 
