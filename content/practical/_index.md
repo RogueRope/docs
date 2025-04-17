@@ -40,7 +40,7 @@ We’ve gathered all the practicals so you can prepare with ease:
 - [**Camping**](/practical/camping): what to expect in the field
 - [**Merch**](/practical/merch): shirts, of course
 - [**Build Day**](/practical/build-day): co-creation details
-- [**Photography**](/practical/photography): consent comes first
+- [**Photography**](/practical/filming-and-photography): consent comes first
 - [**Cancellation**](/practical/cancellation): in case plans change
 - [**Performances**](/practical/performances): what *might* unfold
 - [**Unconference**](/practical/unconference): peer-led brilliance

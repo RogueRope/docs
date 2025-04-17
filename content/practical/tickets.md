@@ -98,4 +98,3 @@ Just clarity.
 
 We can’t wait to see who joins us.
 
-![Think](/images/tickets.webp)
