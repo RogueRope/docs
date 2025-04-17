@@ -16,7 +16,8 @@ toc: true
 If it feels like you’re selling something — stop.  
 If you’re working too hard for a “yes,”  
 pause.  
-Step back.  
+Step back. 
+pause.   
 Try again — or maybe, don’t.
 
 A real yes doesn’t need convincing.  
@@ -36,6 +37,24 @@ Good. That means they trust you enough to be honest.
 
 Say thank you.  
 Mean it.
+
+A “no” is not a rejection — it’s a reveal.  
+It shows you something real: that this person feels safe enough to voice their boundary.  
+That’s not a failure of connection — that’s the foundation of it.
+
+When someone says no, it proves they’re present.  
+It proves they’re paying attention to what they want — and what they don’t.  
+And when we receive that no with grace, we show we’re worthy of trust.
+
+Every healthy dynamic — sexual, sensual, kinky, or otherwise — is built on the ability to **hear no, hold it, and stay open**.
+
+So don’t rush past it. Don’t shrink from it.  
+Celebrate it.
+
+Because if someone can say no, it means that when they say yes…  
+they really mean it.
+
+And that’s the kind of yes worth waiting for.
 
 ---
 
@@ -72,8 +91,8 @@ If someone on the “going” list is raising red flags, if you’ve had an issu
 
 You can:
 - Message us via FetLife
-- Use [this contact form]({{< ref "/contact" >}} "Contact us")
-- Write from a pseudonymous email (ProtonMail, Fastmail, etc.)
+- Use [this contact page]({{< ref "/contact" >}} "Contact us")
+- Feel free to use a pseudonymous email (ProtonMail, Fastmail, etc.)
 
 Tell us what happened. If you have ideas for how we could hold it — boundaries, support, checking in — include those too.
 
