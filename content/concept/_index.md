@@ -34,14 +34,19 @@ Let’s name what it really is: a longing to be met.
 
 ---
 
-### Explore More:
+### 🧭 Explore More:
 
-Want to go deeper? Learn how Rogue Rope Camp moves differently in [Differences](/concept/differences).  
-Get a feel for how you might show up in [Participation](/concept/participation).  
-Read about how we hold one another in [Inclusivity](/concept/inclusivity).  
-Peek into how we play — for real — in [Play](/concept/play).  
-And if you’re the type who likes to know what’s next, the [Schedule](/concept/schedule) has your back.
+Want to go deeper? Follow the thread that tugs:
 
-Each page is a thread.  
-Follow whichever one tugs.
+- If you're new and not sure where to begin, start with [New Here?](/concept/new-here) — we see you.
+- Curious how Rogue Rope Camp moves differently? Read [Differences](/concept/differences).
+- Wondering what your presence might bring? Visit [Participation](/concept/participation).
+- Learn what we ask of one another in [Expectations](/concept/expectations).
+- Discover how we hold space for all bodies and minds in [Inclusivity](/concept/inclusivity).
+- See what play really means — beyond the buzzwords — in [Play](/concept/play).
+- And if structure helps you relax, peek into the [Schedule](/concept/schedule) to get a sense of the flow.
 
+Each page is a portal.  
+Enter where you are.  
+Follow what opens.
+![concept](/images/rrc25/concept.png)
