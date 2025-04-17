@@ -4,7 +4,7 @@ description: "A collective effort towards a tidy and comfortable space."
 lead: "Not just clean, but consciously cared for by all."
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00+0
-s: []
+images: []
 menu: 
   docs:
     parent: "wellbeing"
