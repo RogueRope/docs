@@ -55,4 +55,3 @@ We want to show what a kinky camp can do when it cares.
 
 Leave no trace. Leave beauty instead.
 
-![Tent with nice lights surrounding it.](/images/tent.jpg)

@@ -60,7 +60,7 @@ lead: ''
 ### Dressing for Delight
 - Layers — warm nights aren’t guaranteed
 - Camp clothes you can move, tie, and play in
-- An [outfit for the play party](/practical/dresscode)
+- An [outfit for the play party](/dresscode)
 - Something that makes you feel hot, silly, or sacred
 
 ---
