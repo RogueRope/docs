@@ -78,6 +78,7 @@ We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) f
 - Megaphones
 - Devices that drain power (heaters, fridges, AC units)
 - Bad vibes
+- Teslas
 
 ---
 
