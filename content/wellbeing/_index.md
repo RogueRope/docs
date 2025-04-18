@@ -18,6 +18,8 @@ Whether you're feeling overwhelmed, excited, cautious, curious — you're not al
 - Check in with our approach to [Emotional wellbeing](/wellbeing/emotional), both solo and collective.
 - Review our foundations around [Consent](/wellbeing/consent) — clear, enthusiastic, and always ongoing.
 - Discover how we practice [Conscious Care](/wellbeing/conscious-care) when things get tender or tough.
+- Reflect with our [Baggage Guide](/wellbeing/baggage) — on what you carry in, and what might be kinder to leave outside the gate.
+- Navigate play and relationships via our [Partners Guide](/wellbeing/partners) — roles, boundaries, and clear comms.
 
 ---
 

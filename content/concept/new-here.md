@@ -59,10 +59,10 @@ We expect that. This experience can be intense. There are quiet places, kind vol
 
 Consent means you get to choose — every time.
 
----
+
+![A small group of queer adults sitting around a campfire at night. No rope, just closeness. One person tells a story while another leans into them. A newcomer sits quietly at the edge, wrapped in a blanket, soft smile forming.](/images/rrc25/new-here.png)
+
 
 You don’t need to be ready. You just need to be here.
 
 Come as you are. We’ll meet you there.
-
-![A small group of queer adults sitting around a campfire at night. No rope, just closeness. One person tells a story while another leans into them. A newcomer sits quietly at the edge, wrapped in a blanket, soft smile forming.](/images/rrc25/new-here.png)

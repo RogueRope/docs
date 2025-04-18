@@ -46,7 +46,8 @@ Want to go deeper? Follow the thread that tugs:
 - See what play really means — beyond the buzzwords — in [Play](/concept/play).
 - And if structure helps you relax, peek into the [Schedule](/concept/schedule) to get a sense of the flow.
 
+![concept](/images/rrc25/concept.png)
+
 Each page is a portal.  
 Enter where you are.  
 Follow what opens.
-![concept](/images/rrc25/concept.png)
