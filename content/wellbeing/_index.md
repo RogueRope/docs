@@ -1,7 +1,7 @@
-+++
-title = "Wellbeing"
-weight = 1
-+++
+---
+title : "Wellbeing"
+weight : 1
+---
 
 This camp asks a lot of you — emotionally, energetically, relationally.  
 So we’ve built in care. Not just as a safety net, but as a way of being.

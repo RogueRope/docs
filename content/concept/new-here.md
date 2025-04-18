@@ -5,7 +5,7 @@ lead: "You don’t have to know. You just have to want to find out."
 date: 2024-04-12T00:00:00+00:00
 lastmod: 2024-04-12T00:00:00+00:00
 images: []
-weight: "2"
+weight: 2
 toc: false
 ---
 

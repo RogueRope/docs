@@ -1,7 +1,7 @@
-+++
-title = "Concept"
-weight = 1
-+++
+---
+title : "Concept"
+weight : 1
+---
 
 **Core Philosophy:**  
 At Rogue Rope Camp, we cherish the ties that bind — not just bodies, but hearts and breath, shadow and light. “Tie like no one is watching” isn’t a performance note. It’s an invitation to drop the mask. To meet through rope, not just with hands, but with honesty.
