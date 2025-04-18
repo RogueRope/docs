@@ -45,7 +45,7 @@ Play begins after the circle, softly.
 
 We ask you to begin with us. But you don’t have to stay until the end.
 
-If you find yourself overwhelmed, exhausted, complete — it’s okay to leave early.  
+If you find yourself overwhelmed, exhausted, complete — **it’s okay to leave early**.  
 We honor your limits. We celebrate your self-awareness.  
 Tapping out is not failure. It’s wisdom.
 
