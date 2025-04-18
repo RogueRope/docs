@@ -1,6 +1,6 @@
-+++
+---
 title = "Rogue Rope Camp!"
-+++
+---
 
 {{< block "grid-2" >}}
 {{< column >}}

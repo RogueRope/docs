@@ -3,9 +3,9 @@ title: "Participation"
 description: "At Rogue Rope Camp, your uniqueness adds to the magic. Join us in creating an unforgettable event!"
 lead: "Your talents, time, and enthusiasm are the soul of Rogue Rope Camp"
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00+0
+lastmod: 2025-04-11T13:37:00+00:00
 images: []
-weight: "20"
+weight: 20
 toc: true
 ---
 
