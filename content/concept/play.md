@@ -47,7 +47,9 @@ This is a place where kink lives beside care.
 Where sex is sacred and messy and not up for anyone else’s consumption.  
 Where play can look like fucking — or crying — or lying on the ground, wrapped in rope and sunlight, with someone watching over you.
 
----
+
+
+![Play](/images/rrc25/play.png)
 
 ## You Make the Scene
 
@@ -68,4 +70,3 @@ Find someone. Ask. Share your edges. The rest will come.
 
 The play is real.  
 And so are you.
-![Play](/images/rrc25/play.png)
