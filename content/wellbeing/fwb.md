@@ -1,10 +1,10 @@
 ---
 title: "FWBs"
 description: "Care doesn’t belong to a crew. It belongs to all of us."
-lead: "They're Friends With Benefits, indeed — providing essential support to our community."
+lead: "They're Casual Friends *and* With Benefits,."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00+0
-s: []
+lastmod: 2025-04-11T13:37:00+00:00
+images: []
 menu: 
   docs:
     parent: "wellbeing"

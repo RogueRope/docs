@@ -3,8 +3,8 @@ title: Camping
 description: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 lead: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00+0
-s: []
+lastmod: 2025-04-11T13:37:00+00:00
+images: []
 weight: 50
 toc: true
 ---
@@ -62,7 +62,18 @@ Just shared ground and a little chaos magic.
 
 ---
 
-This camp is temporary.  
-But the way it *feels* — if we do it right — might just stay with you forever.
+
+### Can’t Camp? Let’s Talk.
+
+We know camping isn’t possible for everyone — and we don’t want that to be a barrier if your heart is set on being here.
+
+If you’d rather **sleep off-site** (in a nearby B&B, hotel, or rental), that’s okay. We’ve had folks do that before. What matters most is that you're still fully part of the experience — not just dropping in.
+
+We’ll ask that you **commit to the key shared moments** — like the opening circle, the knotting ceremony, and other grounding points that help shape the collective container. We’ll talk it through together and make clear agreements that work for everyone.
+
+**If you're planning to stay off-site, please let us know when you book your ticket.**  
+
 
 ![Large camper tent at night](/images/rrc25/curtains.png)
+This camp is temporary.  
+But the way it *feels* — if we do it right — might just stay with you forever.

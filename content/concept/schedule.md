@@ -2,7 +2,7 @@
 title: Schedule
 description: A slow unfolding — from setup to surrender, from first knot to final hug.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00+0
+lastmod: 2025-04-11T13:37:00+00:00
 images: []
 weight: 60
 toc: true
@@ -45,7 +45,7 @@ Play begins after the circle, softly.
 
 We ask you to begin with us. But you don’t have to stay until the end.
 
-If you find yourself overwhelmed, exhausted, complete — it’s okay to leave early.  
+If you find yourself overwhelmed, exhausted, complete — **it’s okay to leave early**.  
 We honor your limits. We celebrate your self-awareness.  
 Tapping out is not failure. It’s wisdom.
 
