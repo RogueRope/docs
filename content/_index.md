@@ -1,5 +1,5 @@
 ---
-title = "Rogue Rope Camp!"
+title : "Rogue Rope Camp!"
 ---
 
 {{< block "grid-2" >}}
