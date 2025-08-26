@@ -37,7 +37,7 @@ We’ve gathered all the practicals so you can prepare with ease:
 - [**Tickets**](/practical/tickets): how to get in
 - [**Things to Bring**](/practical/things-to-bring): your packing guide
 - [**Leave No Trace**](/practical/leave-no-trace): how we protect the land
-- [**Camping**](/practical/camping): what to expect in the field
+- [**Accommodations**](/practical/accommodations): warm indoor living with bunk beds
 - [**Merch**](/practical/merch): shirts, of course
 - [**Build Day**](/practical/build-day): co-creation details
 - [**Photography**](/practical/filming-and-photography): consent comes first

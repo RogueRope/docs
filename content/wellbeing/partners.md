@@ -113,4 +113,4 @@ And stay open to what’s possible.
 
 ---
 
-![Two hands, loosely touching. A third hand rests nearby.](/images/rrc25/partners.png)
+![Two hands, loosely touching. A third hand rests nearby.](/images/rrw26/partners.png)

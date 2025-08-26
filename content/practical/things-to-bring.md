@@ -1,12 +1,12 @@
 ---
 title: Things to Bring
-description: Things to Bring
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
+description: Winter essentials for warmth, comfort, and kinky adventures indoors
+date: 2026-02-18T18:00:00+00:00
+lastmod: 2026-02-18T18:00:00+00:00
 images: []
 weight: 32
 toc: true
-lead: ''
+lead: 'Pack for warmth, connection, and four days of indoor magic'
 ---
 
 ### The Basics
@@ -23,18 +23,21 @@ lead: ''
 - Drinks you love — with or without alcohol
 - Cooler bag or box + space in your heart for ice (we’ll provide that part)
 
-### Lighting & Navigation
-- Handheld torch **with extra batteries**
-- LED headlamp for hands-free nighttime wanderings
-- Lights or fairy strings to make your tent a beacon of weird joy
+### Winter Comfort & Warmth
+- **Bedding for your bunk** — sleeping bag, sheets, blankets, whatever makes you cozy
+- **Pillow** — inflatable or your favorite from home  
+- **Warm layers** — it's February, dress accordingly
+- **Cozy clothes** for lounging in common areas
+- **Slippers or warm socks** — indoor floors can be cold
+- Lights or fairy strings to make your bunk space magical
 
-### Camping Comfort
-- Tent with stakes + tie-downs (it might get windy)
-- Sleeping bag (appropriate for summer nights)
-- Sleeping mat, air mattress, or padding
-- Inflatable or packable pillow
-- Blanket or chair for fireside lounging
-- Something soft to sit on in the amphitheatre of flames
+### Indoor Living Essentials
+- **Personal items** for your bunk space
+- Blanket for common area snuggling
+- Something comfortable for group activities
+- **Earplugs** — dormitory life can be... social
+- **Sleep mask** — shared spaces mean lights and movement
+- Power strips and charging cables (outlets are limited)
 
 ### Hygiene & Health
 - Biodegradable soap + shampoo
@@ -57,11 +60,12 @@ lead: ''
 - A **trash bag** for your own waste (no bins on site!)
 - A **portable ashtray** if you smoke
 
-### Dressing for Delight
-- Layers — warm nights aren’t guaranteed
-- Camp clothes you can move, tie, and play in
+### Dressing for Winter Delight
+- **Warm layers** — think February in Belgium
+- Indoor clothes you can move, tie, and play in
 - An [outfit for the play party](/dresscode)
-- Something that makes you feel hot, silly, or sacred
+- **Winter outerwear** for any outdoor activities
+- Something that makes you feel hot, silly, or sacred (despite the cold)
 
 ---
 
@@ -76,9 +80,11 @@ We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) f
 - Kids (<18j)
 - Pets (even the cute ones)
 - Megaphones
-- Devices that drain power (heaters, fridges, AC units)
+- **Personal heaters** (fire hazard in shared spaces)
+- Devices that drain excessive power
+- Summer camping gear (you won't need it!)
 - Bad vibes
-- Teslas
+- Expectations of hotel-level privacy
 
 ---
 

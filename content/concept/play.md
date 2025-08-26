@@ -49,7 +49,7 @@ Where play can look like fucking — or crying — or lying on the ground, wrapp
 
 
 
-![Play](/images/rrc25/play.png)
+![Play](/images/rrw26/play.png)
 
 ## You Make the Scene
 

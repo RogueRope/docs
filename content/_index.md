@@ -1,50 +1,50 @@
 ---
-title : "Rogue Rope Camp!"
+title : "Rogue Rope Winter 2026"
 ---
 
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Rogue Rope Camp 2025
+# Rogue Rope Winter 2026
 
 ### The Details
-* **When:** 05/08/2025 14:00 → 10/08/2025 16:00  
+* **When:** 18/02/2026 18:00 → 22/02/2026 16:00  
 * **Where:** East of Ghent, West of Antwerp  
-* **Cost:** 200€
+* **Cost:** TBD€
 
 ### Intro
 
-Rogue Rope Camp is back.
+Winter is coming. And with it, Rogue Rope Winter.
 
-If you were with us last time — welcome home.  
-If this is your first — take a deep breath.  
-You’re in the right place.
+If you've been with us before — welcome back to the warmth.  
+If this is your first winter gathering — breathe deep the cold air.  
+You're exactly where you need to be.
 
-The core is the same: rope as ritual.  
+The essence remains unchanged: rope as ritual.  
 Connection over performance.  
-Consent as a way of being.
+Consent as sacred practice.
 
-But this year, we’re stretching further — into more time, more space, more softness, more shadow.  
-We’ve added a day. Slowed the pace. Built in more room to land.
+But this winter, we're diving deeper — into intimacy, into stillness, into the quiet spaces between breaths.  
+Four days to shed the rush. To sink into something slower, softer, more essential.
 
-This isn’t a festival.  
-It’s a gathering. Of the brave. Of the curious.  
-A space where eros is invited — never expected.  
-Where rope is welcome — but never required.  
-Where your longing has room to speak — and be heard.
+This isn't a festival.  
+It's a sanctuary. For the curious. For the brave enough to be vulnerable.  
+A space where desire whispers — never demands.  
+Where rope is an invitation — never an obligation.  
+Where your authentic self has room to emerge — and be witnessed.
 
 Come to tie.  
-Come to be tied.  
-Come to find something you don’t have words for yet.
+Come to surrender.  
+Come to discover what lives in the spaces between.
 
-Bring your story.  
-Bring your body.
+Bring your hunger.  
+Bring your tenderness.
 
-Let’s see what happens when we meet without masks.
+Let's see what unfolds when we gather close against the cold.
 
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/rrc25/img2025.png)
+![winter](/images/rrw26/img2026.png)
 {{< /column >}}
 {{< /block >}}

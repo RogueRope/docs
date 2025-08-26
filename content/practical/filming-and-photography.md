@@ -75,4 +75,4 @@ Consent is not negotiable here.
 
 ---
 
-![Twee trollen staan dicht bij elkaar. Eén fluistert iets, de ander houdt een camera, maar laat die zakken met een glimlach.](/images/rrc25/photography.png)
+![Twee trollen staan dicht bij elkaar. Eén fluistert iets, de ander houdt een camera, maar laat die zakken met een glimlach.](/images/rrw26/photography.png)

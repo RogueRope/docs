@@ -46,4 +46,4 @@ The first knot in something unforgettable.
 
 Come build it with us.
 
-![Large camper tent at night](/images/rrc25/build.png)
+![Large camper tent at night](/images/rrw26/build.png)

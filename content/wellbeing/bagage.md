@@ -87,4 +87,4 @@ But heavy, volatile drama?
 Kindly—and courageously—leave it outside the gate.
 
 
-![Suitcase left on a threshold, camp lights glowing beyond.](/images/rrc25/baggage.png)
+![Suitcase left on a threshold, camp lights glowing beyond.](/images/rrw26/baggage.png)

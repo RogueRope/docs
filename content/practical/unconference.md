@@ -66,4 +66,4 @@ Keep an eye out. Listen to what’s bubbling in you.
 And when it’s ready, share it.
 
 We can’t wait to see what unfolds.
-![unconference](/images/rrc25/unconference.png)
+![unconference](/images/rrw26/unconference.png)

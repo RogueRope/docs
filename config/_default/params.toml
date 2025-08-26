@@ -51,5 +51,5 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
   name = "GitHub"
   iconLight = "images/GitHubMarkLight.svg"
   iconDark = "images/GitHubMarkDark.svg"
-  url = "https://github.com/RogueRope/docs/tree/master/content"
+  url = "https://github.com/RogueRope/docs/tree/winter26/content"
 
