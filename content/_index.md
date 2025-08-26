@@ -1,20 +1,20 @@
 ---
-title : "Rogue Rope Winter 2026"
+title : "Oh Bondage! Up Yours!"
 ---
 
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Rogue Rope Winter 2026
+# Oh Bondage! Up Yours!
 
 ### The Details
 * **When:** 18/02/2026 18:00 → 22/02/2026 16:00  
-* **Where:** East of Ghent, West of Antwerp  
+* **Where:** Mol, Belgium  
 * **Cost:** TBD€
 
 ### Intro
 
-Winter is coming. And with it, Rogue Rope Winter.
+Winter is coming. And with it, Oh Bondage! Up Yours!
 
 If you've been with us before — welcome back to the warmth.  
 If this is your first winter gathering — breathe deep the cold air.  
