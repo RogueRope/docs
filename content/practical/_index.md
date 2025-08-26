@@ -36,7 +36,7 @@ We’ve gathered all the practicals so you can prepare with ease:
 - [**Food**](/practical/food): what we’re feeding you (and what to bring)
 - [**Tickets**](/practical/tickets): how to get in
 - [**Things to Bring**](/practical/things-to-bring): your packing guide
-- [**Leave No Trace**](/practical/leave-no-trace): how we protect the land
+- [**Respect the Space**](/practical/leave-no-trace): how we respect our shared space
 - [**Accommodations**](/practical/accommodations): warm indoor living with bunk beds
 - [**Merch**](/practical/merch): shirts, of course
 - [**Build Day**](/practical/build-day): co-creation details

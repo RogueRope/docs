@@ -19,7 +19,7 @@ Maybe it’s undefined — a rope connection, a playmate, a lover, an anchor.
 
 Whatever shape it takes: you already have some shared language. Maybe some shared history. Maybe shared boundaries.
 
-This page is here to help you **stay grounded in that connection** — while still opening to the field around you.
+This page is here to help you **stay grounded in that connection** — while still opening to the space around you.
 
 ---
 
@@ -30,8 +30,8 @@ It’s natural to stick close when you arrive with someone you trust. Especially
 But intimacy doesn’t have to mean insulation.  
 And connection doesn’t have to mean containment.
 
-We invite you to stay open.  
-To soften the edges of your “we” — without losing what makes it special.
+We invite you to stay open.
+To soften the edges of your "we" — while still opening to the space around you.
 
 > Try orbiting. Try weaving. Try being findable.  
 > Let people know how you move: “I’m here with someone — and also open to new energy.”
@@ -45,8 +45,8 @@ It’s about **making room for emergence**.
 
 Whether you're tying, topping, bottoming, watching, or just breathing in sync:
 
-- **Check in.** Even if it’s familiar. Especially if it’s familiar. Camp energy can stir things up.
-- **Tend to the field.** Public play creates atmosphere — be aware of how you're shaping it.
+- **Check in.** Even if it’s familiar. Especially if it’s familiar. Event energy can stir things up.
+- **Tend to the space.** Public play creates atmosphere — be aware of how you're shaping it.
 - **Plan for aftercare.** Bring a blanket. Leave space. Make time to land back in each other.
 
 ---
@@ -68,7 +68,7 @@ Some suggestions:
 
 They might. That’s not failure — that’s reality.
 
-Camp energy is raw. Beautiful, but activating. You might feel:
+Event energy is raw. Beautiful, but activating. You might feel:
 - Protective
 - Left out
 - Jealous
@@ -80,9 +80,9 @@ Feelings aren’t threats — they’re data. Check in. Breathe. Come back to cu
 
 If you need support, reach out — you don’t have to hold it all alone:
 
-- [FWBs](/wellbeing/fwb) aren’t staff or professionals — they’re fellow campers who’ve chosen to show up with presence and care when they feel resourced. Look for someone wearing a bracelet.
+- [FWBs](/wellbeing/fwb) aren’t staff or professionals — they’re fellow participants who’ve chosen to show up with presence and care when they feel resourced. Look for someone wearing a bracelet.
 - The Consent Crew is here to help with trickier situations — boundaries, mediation, or navigating consent conversations.
-- There are quiet spaces on site if you need to step away, breathe, cry, stretch, or just be.
+- There are quiet spaces available if you need to step away, breathe, cry, stretch, or just be.
 
 Support here doesn’t follow a chain of command.  
 It follows a chain of compassion.  

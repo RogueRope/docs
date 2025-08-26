@@ -51,20 +51,16 @@ lead: 'Pack for comfort, connection, and four days of indoor magic'
 ### Self-Care & Sanity
 - Ear plugs (you might be bunked near a snorer)
 - Sleeping mask (shared spaces can be bright)
-- Sunscreen (SPF 30+)
-- Hat, scarf, or shawl for comfort
-- Sunglasses
-- Insect repellent
 - Portable phone charger / power bank
 - Charging cables for your stuff
-- A **trash bag** for your own waste (no bins on site!)
+- A **trash bag** for your own waste
 - A **portable ashtray** if you smoke
 
 ### Dressing for Delight
 - **Comfortable layers** — dress for indoor comfort
 - Indoor clothes you can move, tie, and play in
 - An [outfit for the play party](/dresscode)
-- **Light outerwear** for any brief outdoor moments
+- A warm layer in case you need it
 - Something that makes you feel hot, silly, or sacred
 
 ---

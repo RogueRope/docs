@@ -39,23 +39,23 @@ If we go forward with it, it will be:
 - Clearly explained  
 - Easy to change your mind
 
-It’s not confirmed yet. But if it is, we’ll tell you during camp — and make sure everyone knows the boundaries.
+It’s not confirmed yet. But if it is, we’ll tell you during the event — and make sure everyone knows the boundaries.
 
 ---
 
 ## Don’t Post Pictures of the Site
 
-We love this land.  
+We love this space.
 We want to keep using it. Protecting it includes protecting its anonymity.
 
 Please:
 
-- Don’t post identifiable photos of the location  
-- Don’t share wide shots of the grounds or buildings  
+- Don’t post identifiable photos of the venue
+- Don’t share wide shots of the venue
 - Do enjoy pictures for personal use — just don’t publish them online
 
 Think of it this way:  
-**The site didn’t consent to be exposed.** Let’s return the privacy it offers us.
+**The venue didn’t consent to be exposed.** Let’s return the privacy it offers us.
 
 ---
 

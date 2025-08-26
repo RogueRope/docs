@@ -36,11 +36,11 @@ Whether it’s a hard conversation, a crash after a scene, or just missing the f
 
 Care here isn’t assigned. It’s shared.
 
-When someone wears a **FWB bracelet**, it means they’re open to holding space — for a check-in, a grounding moment, a quiet sit under the trees. When you feel strong enough to care for others, you can wear one too.
+When someone wears a **FWB bracelet**, it means they’re open to holding space — for a check-in, a grounding moment, a quiet conversation in a cozy corner. When you feel strong enough to care for others, you can wear one too.
 
 You can also always approach:
 
-- A trusted friend or campmate  
+- A trusted friend or fellow participant
 - A Consent Crew member — they’re here for boundaries, repair, or if something feels off  
 - Or just someone who looks like they might get it — we’re all learning to read each other, gently  
 

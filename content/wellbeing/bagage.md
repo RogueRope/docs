@@ -23,7 +23,7 @@ Here’s the truth:
 > If it's wonder, the place will glow.
 > If it's unspoken resentment, it can overflow into disruption.
 
-This page is a loving caution. A reminder to **pause, scan, and sort** your inner luggage before you step onto the field.
+This page is a loving caution. A reminder to **pause, scan, and sort** your inner luggage before you enter the space.
 
 ---
 
@@ -38,23 +38,23 @@ This page is a loving caution. A reminder to **pause, scan, and sort** your inne
    - If it can’t be fully solved, at least give it a safe container.
 
 3. **Leave It**  
-   - Some loads are too fresh, too sharp. That doesn’t make you weak—just honest. If the weight feels un‑carry‑able, it might be kinder to sit this camp out (or arrive later, in a different year).
+   - Some loads are too fresh, too sharp. That doesn’t make you weak—just honest. If the weight feels un‑carry‑able, it might be kinder to sit this event out (or arrive later, in a different year).
 
 ---
 
 ### Relationship Storms & Drama Triangles
 
-- **Arriving with tension?** Name it together first. Decide: *Pause it, resolve it, or postpone camp.*  
+- **Arriving with tension?** Name it together first. Decide: *Pause it, resolve it, or postpone the event.*
 - **Love triangles & undefined connections?** Get explicit now. Vagueness becomes violence when the energy spikes.  
 - **Recent break‑ups?** If seeing this person tie someone else might rip you apart, love yourself enough to wait.
 
-Camp isn’t therapy. It’s not neutral ground. It’s a **magnifier**.
+This event isn’t therapy. It’s not neutral ground. It’s a **magnifier**.
 
 ---
 
 ### Respect the Shared Space
 
-This field holds many bodies, many hearts.  
+This space holds many bodies, many hearts.
 Personal storms can swirl into collective weather.
 
 - **Don’t process loudly in public zones.** Find a quiet corner or schedule time off‑site.  
@@ -83,8 +83,8 @@ It means stewarding your shadow **so it doesn’t take the whole room hostage**.
 Bring your curiosity. Bring your desire.  
 Bring your readiness to meet whatever arises.
 
-But heavy, volatile drama?  
-Kindly—and courageously—leave it outside the gate.
+But heavy, volatile drama?
+Kindly—and courageously—leave it at the door.
 
 
-![Suitcase left on a threshold, camp lights glowing beyond.](/images/rrw26/baggage.png)
+![Suitcase left at a doorway, with cozy lights glowing beyond.](/images/rrw26/baggage.png)

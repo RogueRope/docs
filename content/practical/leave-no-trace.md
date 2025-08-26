@@ -1,17 +1,17 @@
 ---
-title: Leave No Trace
-description: Things to Bring
+title: Respect the Space
+description: How to care for our shared venue
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 images: []
 weight: 35
 toc: true
-lead: ''
+lead: "Let's keep our indoor sanctuary clean and welcoming for everyone."
 ---
 
 ### The Space Holds Us. Let's Hold It, Too.
 
-Oh Bondage! Up Yours! takes place in a shared, welcoming space — and we want to keep it that way. That means leaving no mess behind. No damage. No burden for someone else to clean up.
+Oh Bondage! Up Yours! takes place in a shared, welcoming space — and we want to keep it that way. That means leaving our shared space as we found it. No damage. No burden for someone else to clean up.
 
 We treat the space like we treat each other: with care, with respect, and with attention.
 

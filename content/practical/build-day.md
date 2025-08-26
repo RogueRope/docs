@@ -14,7 +14,7 @@ toc: true
 Oh Bondage! Up Yours! doesn’t just *appear*.  
 It’s built — by hands, by hearts, by you.
 
-Our gathering now begins on **Tuesday**, with **Build Day** folded into the experience itself. No separation. No staff. Just a field, some rope, and a growing circle of people making it real.
+Our gathering now begins on **Tuesday**, with **Build Day** folded into the experience itself. No separation. No staff. Just a space, some rope, and a growing circle of people making it real.
 
 This is your invitation to be part of the beginning.
 
@@ -25,7 +25,7 @@ This is your invitation to be part of the beginning.
 You don’t need to be strong. Or skilled. Or organized.  
 You just need to show up.
 
-We’ll hang lights, set up suspension points, decorate the land, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
+We’ll hang lights, set up suspension points, decorate the space, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
 
 Come early. Arrive Tuesday if you can.  
 This is one of the best ways to meet people, soften into the vibe, and become part of the magic *before* it officially begins.
@@ -46,4 +46,4 @@ The first knot in something unforgettable.
 
 Come build it with us.
 
-![Large camper tent at night](/images/rrw26/build.png)
+![Cozy indoor setup at night](/images/rrw26/build.png)
