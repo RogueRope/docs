@@ -14,7 +14,7 @@ toc: true
 
 ### Neurodivergence Is Welcome. So Is Self-Knowing.
 
-Rogue Rope Camp welcomes the full spectrum of how brains and bodies move through the world.
+Oh Bondage! Up Yours! welcomes the full spectrum of how brains and bodies move through the world.
 
 Autism, ADHD, anxiety, PTSD, sensory sensitivity, dyslexia, executive dysfunction, social burnout, panic loops, self-medication…  
 Whatever you're navigating — you're not too much, and you're not alone.

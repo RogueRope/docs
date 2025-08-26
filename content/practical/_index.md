@@ -6,7 +6,7 @@ weight : 1
 ## Before You Say Yes
 
 Take a breath.  
-Rogue Rope Camp isn’t just a festival — it’s a full-body, full-heart experience. It can stretch you. It might stir things up. That’s part of the beauty. And also part of the reason to pause and ask:
+Oh Bondage! Up Yours! isn’t just a festival — it’s a full-body, full-heart experience. It can stretch you. It might stir things up. That’s part of the beauty. And also part of the reason to pause and ask:
 
 Are you ready to meet this intensity with care?  
 Can you engage without burning out?  
@@ -23,7 +23,7 @@ Camp officially opens on **Tuesday** with **Build Day**.
 This isn’t about hard labor or special skills — it’s about power in numbers.  
 One of the easiest ways to meet people and start feeling the flow *before* things begin.
 
-Come hang lights. Decorate a tent. Make coffee. Tie something weird to a tree. Add your energy. Every bit helps.
+Come hang lights. Arrange the lounge areas. Make coffee. Set up creative installations. Add your energy. Every bit helps.
 
 And trust us: the people who show up early?  
 They tend to find the magic first.

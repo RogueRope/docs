@@ -1,7 +1,7 @@
 ---
 title: "Participation"
-description: "At Rogue Rope Camp, your uniqueness adds to the magic. Join us in creating an unforgettable event!"
-lead: "Your talents, time, and enthusiasm are the soul of Rogue Rope Camp"
+description: "At Oh Bondage! Up Yours!, your uniqueness adds to the magic. Join us in creating an unforgettable event!"
+lead: "Your talents, time, and enthusiasm are the soul of Oh Bondage! Up Yours!"
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 images: []
@@ -20,10 +20,10 @@ Everyone gets a lot.
 
 All of it.
 
-Chopping onions.  
-Hanging lights.  
-Sweeping glitter.  
-Holding someone who needs to cry.  
+Chopping onions.
+Hanging lights.
+Tidying the space.
+Holding someone who needs to cry.
 Tying rope, sharing a song, offering your favorite snack at 3am.
 
 There is no competition here.  

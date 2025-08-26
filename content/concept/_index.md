@@ -4,7 +4,7 @@ weight : 1
 ---
 
 **Core Philosophy:**  
-At Rogue Rope Camp, we cherish the ties that bind — not just bodies, but hearts and breath, shadow and light. “Tie like no one is watching” isn’t a performance note. It’s an invitation to drop the mask. To meet through rope, not just with hands, but with honesty.
+At Oh Bondage! Up Yours!, we cherish the ties that bind — not just bodies, but hearts and breath, shadow and light. “Tie like no one is watching” isn’t a performance note. It’s an invitation to drop the mask. To meet through rope, not just with hands, but with honesty.
 
 **The Essence of Rope:**  
 Rope is a language. One of tension, stillness, surrender. It doesn’t need applause. It doesn’t need perfection. It needs presence. Skill helps, sure. But the real magic lives in what can’t be taught — those quiet, electric moments where something shifts between you.
@@ -39,7 +39,7 @@ Let’s name what it really is: a longing to be met.
 Want to go deeper? Follow the thread that tugs:
 
 - If you're new and not sure where to begin, start with [New Here?](/concept/new-here) — we see you.
-- Curious how Rogue Rope Camp moves differently? Read [Differences](/concept/differences).
+- Curious how Oh Bondage! Up Yours! moves differently? Read [Differences](/concept/differences).
 - Wondering what your presence might bring? Visit [Participation](/concept/participation).
 - Learn what we ask of one another in [Expectations](/concept/expectations).
 - Discover how we hold space for all bodies and minds in [Inclusivity](/concept/inclusivity).

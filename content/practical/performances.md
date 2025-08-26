@@ -14,7 +14,7 @@ toc: true
 
 ### No Stage. No Spotlights. Just Presence.
 
-At Rogue Rope Camp, we tie like no one is watching — because the rope isn’t a show.  
+At Oh Bondage! Up Yours!, we tie like no one is watching — because the rope isn’t a show.
 It’s a conversation. A confession. A prayer.
 
 This isn’t about performance.  

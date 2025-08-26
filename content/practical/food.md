@@ -51,7 +51,7 @@ We’re also assembling a **kitchen crew** — a small, scrappy team to help cho
 - **Cooler box or insulated bag** — we’ll provide ice cubes.  
 - **Your own drinks** — there’s no bar, so bring what you like.
 
-We’ve tried bars in the past. It was a hassle. Most people brought their own anyway. So let’s keep it simple — bring your favorite drinks, a few to share, and we’ll help you keep them cold.
+We've tried bars in the past. It was a hassle. Most people brought their own anyway. So let's keep it simple — bring your favorite drinks, a few to share, and we'll have space to store them properly.
 
 **Breakfast tip:** We’ll bring the bread. You bring what you like to put on it — cheese, jam, pindakaas, or whatever else fuels your morning glow.
 

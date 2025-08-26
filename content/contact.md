@@ -18,8 +18,8 @@ toc: true
 
 ## Got Questions?
 
-Need to check something before you pack your tent and glitter?  
-Want to run an idea past the team? Something unclear or confusing?  
+Need to check something before you arrive?
+Want to run an idea past the team? Something unclear or confusing?
 Just reach out.
 
 We’re here for:
@@ -42,10 +42,10 @@ We usually respond fast, but remember: this isn’t a call center. It’s still 
 
 ### 📬 Prefer Email?
 
-No problem.  
+No problem.
 Write to us at [info@gogogonzo.be](mailto:info@gogogonzo.be)
 
-We check it often — especially when camp season approaches.
+We check it often — especially as the event approaches.
 
 {{< /column >}}
 

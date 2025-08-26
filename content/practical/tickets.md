@@ -11,7 +11,7 @@ toc: true
 
 ### How to Join Us
 
-Securing your spot at Rogue Rope Camp is simple — but we ask that you move slowly.  
+Securing your spot at Oh Bondage! Up Yours! is simple — but we ask that you move slowly.  
 This isn’t just about clicking “buy.” It’s about saying yes, with your whole self.
 
 ---

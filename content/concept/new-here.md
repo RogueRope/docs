@@ -10,11 +10,11 @@ toc: false
 ---
 
 
-Maybe you’ve never been to a rope gathering before.  
-Maybe you’ve never been naked in public.  
-Maybe you’ve never camped with strangers.  
-Maybe you’ve never said out loud that you’re kinky.  
-Maybe you’re not even sure if you are.
+Maybe you've never been to a rope gathering before.
+Maybe you've never been naked in public.
+Maybe you've never shared intimate space with strangers.
+Maybe you've never said out loud that you're kinky.
+Maybe you're not even sure if you are.
 
 That’s okay.
 
@@ -27,7 +27,7 @@ You just have to be curious. And kind. And willing to feel.
 This is not a place for experts.  
 This is a place for the real.
 
-We’ve built Rogue Rope Camp for the ones who want something more. Not flashier. Not sexier. But **truer**.
+We’ve built Oh Bondage! Up Yours! for the ones who want something more. Not flashier. Not sexier. But **truer**.
 
 If you’re worried you won’t know how to start a conversation — you’re not alone. Most of us have felt that. So we’ve created icebreakers, gentle encounters, and open spaces that make it easier to connect. No games, no pressure. Just invitations.
 
@@ -47,7 +47,7 @@ Rope is welcome. Not required.
 
 ### What if I’m coming alone?
 
-A lot of people do. We’ll help you find your way in. Whether through shared meals, structured play spaces, or spontaneous moments around the fire, there are many ways to connect — slowly, gently, honestly.
+A lot of people do. We'll help you find your way in. Whether through shared meals, structured play spaces, or spontaneous moments in shared spaces, there are many ways to connect — slowly, gently, honestly.
 
 You might leave with people you didn’t know you needed.
 
@@ -60,7 +60,7 @@ We expect that. This experience can be intense. There are quiet places, kind vol
 Consent means you get to choose — every time.
 
 
-![A small group of queer adults sitting around a campfire at night. No rope, just closeness. One person tells a story while another leans into them. A newcomer sits quietly at the edge, wrapped in a blanket, soft smile forming.](/images/rrw26/new-here.png)
+![A small group of queer adults sitting in a cozy circle indoors. No rope, just closeness. One person tells a story while another leans into them. A newcomer sits quietly at the edge, wrapped in comfort, soft smile forming.](/images/rrw26/new-here.png)
 
 
 You don’t need to be ready. You just need to be here.

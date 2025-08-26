@@ -45,7 +45,7 @@ You don’t have to dim your shine, your heat, your hunger.
 
 This is a place where kink lives beside care.  
 Where sex is sacred and messy and not up for anyone else’s consumption.  
-Where play can look like fucking — or crying — or lying on the ground, wrapped in rope and sunlight, with someone watching over you.
+Where play can look like fucking — or crying — or lying in intimate embrace, wrapped in rope and connection, with someone watching over you.
 
 
 

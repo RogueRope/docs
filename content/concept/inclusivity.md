@@ -1,6 +1,6 @@
 ---
 title: "Inclusivity"
-description: "Everyone deserves to enjoy Rogue Rope Camp. We're here to ensure that happens."
+description: "Everyone deserves to enjoy Oh Bondage! Up Yours!. We're here to ensure that happens."
 lead: "Embracing diversity and providing support for all attendees."
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
@@ -12,7 +12,7 @@ toc: true
 This is a space for many.  
 But not for all.
 
-Rogue Rope Camp welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit cleanly into polite society. We hold space for shadow and play, for bodies that don’t match expectations, for desires that don’t ask permission.
+Oh Bondage! Up Yours! welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit cleanly into polite society. We hold space for shadow and play, for bodies that don’t match expectations, for desires that don’t ask permission.
 
 But we also hold standards. And we are not afraid to say no.
 
@@ -76,7 +76,7 @@ Reach out at [info@roguerope.be](mailto:info@roguerope.be). We’ll do what we c
 
 ---
 
-Rogue Rope Camp is built on trust.  
+Oh Bondage! Up Yours! is built on trust.  
 Trust that you’ll show up with care.  
 Trust that when you fuck up, you’ll own it.  
 Trust that your presence is a gift — not a demand.

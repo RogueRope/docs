@@ -14,17 +14,17 @@ title : "Oh Bondage! Up Yours!"
 
 ### Intro
 
-Winter is coming. And with it, Oh Bondage! Up Yours!
+Oh Bondage! Up Yours! is here.
 
-If you've been with us before — welcome back to the warmth.  
-If this is your first winter gathering — breathe deep the cold air.  
+If you've been with us before — welcome back to the warmth of connection.
+If this is your first gathering — breathe deep the shared air.
 You're exactly where you need to be.
 
-The essence remains unchanged: rope as ritual.  
-Connection over performance.  
+The essence remains unchanged: rope as ritual.
+Connection over performance.
 Consent as sacred practice.
 
-But this winter, we're diving deeper — into intimacy, into stillness, into the quiet spaces between breaths.  
+But this time, we're diving deeper — into intimacy, into stillness, into the quiet spaces between breaths.
 Four days to shed the rush. To sink into something slower, softer, more essential.
 
 This isn't a festival.  
@@ -37,14 +37,14 @@ Come to tie.
 Come to surrender.  
 Come to discover what lives in the spaces between.
 
-Bring your hunger.  
+Bring your hunger.
 Bring your tenderness.
 
-Let's see what unfolds when we gather close against the cold.
+Let's see what unfolds when we gather close in shared warmth.
 
 {{< /column >}}
 
 {{< column >}}
-![winter](/images/rrw26/img2026.png)
+![gathering](/images/rrw26/img2026.png)
 {{< /column >}}
 {{< /block >}}

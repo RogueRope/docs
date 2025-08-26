@@ -1,12 +1,12 @@
 ---
 title: Things to Bring
-description: Winter essentials for warmth, comfort, and kinky adventures indoors
+description: Essentials for comfort, connection, and kinky adventures indoors
 date: 2026-02-18T18:00:00+00:00
 lastmod: 2026-02-18T18:00:00+00:00
 images: []
 weight: 32
 toc: true
-lead: 'Pack for warmth, connection, and four days of indoor magic'
+lead: 'Pack for comfort, connection, and four days of indoor magic'
 ---
 
 ### The Basics
@@ -23,13 +23,13 @@ lead: 'Pack for warmth, connection, and four days of indoor magic'
 - Drinks you love — with or without alcohol
 - Cooler bag or box + space in your heart for ice (we’ll provide that part)
 
-### Winter Comfort & Warmth
+### Comfort & Coziness
 - **Bedding for your bunk** — sleeping bag, sheets, blankets, whatever makes you cozy
-- **Pillow** — inflatable or your favorite from home  
-- **Warm layers** — it's February, dress accordingly
+- **Pillow** — inflatable or your favorite from home
+- **Comfortable layers** — dress for indoor comfort
 - **Cozy clothes** for lounging in common areas
-- **Slippers or warm socks** — indoor floors can be cold
-- Lights or fairy strings to make your bunk space magical
+- **Slippers or socks** — indoor floors are shared
+- Lights or decorative strings to make your bunk space magical
 
 ### Indoor Living Essentials
 - **Personal items** for your bunk space
@@ -49,10 +49,10 @@ lead: 'Pack for warmth, connection, and four days of indoor magic'
 - First aid basics (band-aids, antiseptic, electrolytes)
 
 ### Self-Care & Sanity
-- Ear plugs (you might be tented near a snorer)
-- Sleeping mask (sunrise is early)
+- Ear plugs (you might be bunked near a snorer)
+- Sleeping mask (shared spaces can be bright)
 - Sunscreen (SPF 30+)
-- Hat, scarf, or shawl for shade
+- Hat, scarf, or shawl for comfort
 - Sunglasses
 - Insect repellent
 - Portable phone charger / power bank
@@ -60,12 +60,12 @@ lead: 'Pack for warmth, connection, and four days of indoor magic'
 - A **trash bag** for your own waste (no bins on site!)
 - A **portable ashtray** if you smoke
 
-### Dressing for Winter Delight
-- **Warm layers** — think February in Belgium
+### Dressing for Delight
+- **Comfortable layers** — dress for indoor comfort
 - Indoor clothes you can move, tie, and play in
 - An [outfit for the play party](/dresscode)
-- **Winter outerwear** for any outdoor activities
-- Something that makes you feel hot, silly, or sacred (despite the cold)
+- **Light outerwear** for any brief outdoor moments
+- Something that makes you feel hot, silly, or sacred
 
 ---
 
@@ -82,7 +82,7 @@ We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) f
 - Megaphones
 - **Personal heaters** (fire hazard in shared spaces)
 - Devices that drain excessive power
-- Summer camping gear (you won't need it!)
+- Outdoor camping gear (you won't need it!)
 - Bad vibes
 - Expectations of hotel-level privacy
 

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Hugo static site for Rogue Rope Camp documentation using the "Compose" theme. The site is built for https://docs.roguerope.be and contains event information, guidelines, and documentation for the rope camp community.
+This is a Hugo static site for Oh Bondage! Up Yours! documentation using the "Compose" theme. The site is built for https://docs.roguerope.be and contains event information, guidelines, and documentation for the rope camp community.
 
 ## Development Commands
 

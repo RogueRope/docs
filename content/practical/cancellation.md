@@ -17,7 +17,7 @@ We know life is unpredictable — and we’d rather be honest about it from the 
 
 ## If We Have to Cancel
 
-If Rogue Rope Camp can’t legally take place — due to Covid regulations, war, or other delightful surprises — we’ll cancel the event. And if that happens, **you’ll get a full refund**.
+If Oh Bondage! Up Yours! can’t legally take place — due to Covid regulations, war, or other delightful surprises — we’ll cancel the event. And if that happens, **you’ll get a full refund**.
 
 No hidden fees. No penalties.  
 If you paid X euros, we’ll return X euros. Simple.
@@ -47,7 +47,7 @@ Every participant needs to be confirmed by the organizers, so don’t sell your 
 
 ## If the Event Is Cut Short
 
-If camp starts but has to end early — due to weather, wildfires, acts of nature, or anything else outside our control — we unfortunately can’t offer refunds.
+If the event starts but has to end early — due to facility issues, power outages, or other circumstances outside our control — we unfortunately can't offer refunds.
 
 We hope it doesn’t happen. But if it does, we’ll handle it with as much care as possible.
 

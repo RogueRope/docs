@@ -8,7 +8,7 @@ weight: 10
 toc: true
 ---
 
-_Rogue Rope Camp_ arrives with the summer sun — raw, playful, and wide open. This isn’t a weekend of workshops. It’s a living, breathing space for connection. For exploration. For erotic truth under the sky.
+_Oh Bondage! Up Yours!_ arrives with intimate warmth — raw, playful, and wide open. This isn't a weekend of workshops. It's a living, breathing space for connection. For exploration. For erotic truth in shared sanctuary.
 
 ### Embracing Eros
 
@@ -20,12 +20,12 @@ Sexuality isn’t an afterthought here. It’s part of the fabric. Part of the r
 This is not a place for performance.  
 It’s a space for personal expression — messy, beautiful, and yours.
 
-### Rope in the Wild
+### Rope in Intimate Spaces
 
-Nature changes everything.  
-You feel it when the wind slides through your scene. When your feet sink into the earth. When rope creaks above you, strung between trees that have seen centuries of desire.
+The setting changes everything.
+You feel it when the atmosphere envelops your scene. When you move with intention in shared space. When rope becomes the bridge between souls in this carefully held container.
 
-Out here, we let go of the studio rules. We suspend from branches, not beams. We breathe in sun and dust and laughter. The landscape becomes part of the play — untamed, alive, and endlessly generous.
+Here, we let go of the studio rules. We create suspension from within. We breathe in connection and presence and laughter. The space becomes part of the play — intimate, alive, and endlessly welcoming.
 
 ### Peer-Led and Pressure-Free
 
@@ -43,11 +43,11 @@ It’s about transformation.
 
 We don’t chase productivity. We don’t sell certainty. What we’re building is a community of risk-takers and tenderness-makers. People who want to feel more, not just know more.
 
-At Rogue Rope Camp, you won’t leave with a certificate.  
+At Oh Bondage! Up Yours!, you won’t leave with a certificate.  
 You might leave changed.
 
 ---
 
-Come if you’re ready for something real.  
-Come if you’re craving something a little wild.  
+Come if you're ready for something real.
+Come if you're craving something deeply connective.
 Come if you want to feel rope not just on your skin — but in your soul.

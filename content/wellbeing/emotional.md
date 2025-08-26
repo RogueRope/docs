@@ -13,8 +13,8 @@ toc: true
 
 ### Emotional Safety Matters Just as Much as Physical Safety
 
-Rogue Rope Camp can stir a lot.  
-Connection. Intensity. Joy. Tenderness.  
+Oh Bondage! Up Yours! can stir a lot.
+Connection. Intensity. Joy. Tenderness.
 And sometimes — disorientation, overwhelm, or loneliness.
 
 Whether it’s a hard conversation, a crash after a scene, or just missing the familiar rhythms of home… it’s okay. You’re not doing it wrong.

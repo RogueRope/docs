@@ -1,7 +1,7 @@
 ---
 title: "Photography"
 description: "No pics without consent!"
-lead: "Always get consent before you film or photograph someone at Rogue Rope Camp."
+lead: "Always get consent before you film or photograph someone at Oh Bondage! Up Yours!."
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 images: []
@@ -11,7 +11,7 @@ toc: true
 
 ### This is a private space. That includes your camera roll.
 
-Rogue Rope Camp is a place where people come to be real — raw, soft, naked, messy, tender, fierce. That kind of openness requires deep trust.
+Oh Bondage! Up Yours! is a place where people come to be real — raw, soft, naked, messy, tender, fierce. That kind of openness requires deep trust.
 
 So let’s be clear:
 

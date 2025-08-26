@@ -17,59 +17,59 @@ toc: true
 
 {{< column >}}
 
-### ✨ *Dress Code: Trolls, Faeries & Fabled Creatures* ✨
+### ✨ *Dress Code: Urban Mystics & Enchanted Souls* ✨
 
-This year, we invite you to **step through the portal** and emerge as your truest, wildest self — a creature of the in-between, of moss and moonlight, of tangled roots and sparkling mischief.
+This year, we invite you to **step into the space** and emerge as your truest, most authentic self — a being of intimate connection, of soft lights and shared stories.
 
-Our theme: **Trollen, Feeën en Fabelwezens**.
+Our theme: **Urban Mystics & Enchanted Souls**.
 
-Picture it: earthy trolls with mossy skin, mischievous goblins clinking with trinkets, regal elves in vines and silver, glowing faeries dusted with stardust. A forest full of beings that don’t quite belong — and never needed to.
+Picture it: sophisticated mystics with velvet robes, enchanting souls with flowing fabrics, artistic spirits with creative accessories, intuitive healers with meaningful symbols. A gathering of beings who connect deeply — and never needed to pretend.
 
-Let your costume reflect the creature within — or the one you long to become.
+Let your attire reflect the person within — or the one you long to become.
 
 ---
 
 ### 🌿 *Archetypes to Inspire* 🌿
 
-**Trolls**: Earth-toned, grounded, and a little gruff. Fur, moss, stones, oversized shapes, funny lumps. Maybe a bark-like mask or a single leafy eyebrow.  
+**Urban Mystics**: Sophisticated and enigmatic. Velvet robes, crystal accessories, intricate jewelry, mysterious pendants. Maybe a tarot-inspired accessory or a single meaningful symbol.
 
-**Faeries**: Light, ethereal, and a little mischievous. Glitter, wings (or not), sheer fabrics, glowing threads. Are you a sun-fae or shadow-fae?
+**Enchanted Souls**: Light, ethereal, and a little mysterious. Flowing fabrics, delicate accessories, glowing threads. Are you a night-soul or twilight-soul?
 
-**Goblins**: Chaotic, shiny, cluttercore. Pockets full of treasures — bottle caps, buttons, broken keys. Nothing matches. Everything works.
+**Creative Spirits**: Artistic, expressive, eclectic. Mixed patterns, unique accessories, personal treasures — vintage buttons, creative patches, meaningful trinkets. Nothing matches. Everything tells a story.
 
-**Forest Witches**: Herbs, cloaks, mysterious pendants. Maybe a bone wand or a grimoire full of secrets. You’re here for the transformation.
+**Intuitive Healers**: Wise, nurturing, transformative. Soft cloaks, healing crystals, symbolic jewelry. Maybe a meaningful pendant or a small book of inspiration. You're here for connection.
 
-**Elves & Satyrs**: Elegant or wild. Leather straps, horns, leaf crowns, silky tunics, bare feet. Choose mischief, grace, or both.
+**Night Poets**: Elegant or passionate. Silk scarves, artistic jewelry, flowing layers, comfortable yet expressive. Choose romance, creativity, or both.
 
-**Shapeshifters**: Mix everything. Fur and feathers. Layers that change. Let your look evolve over time. Let no one pin you down.
+**Shape-Shifters**: Mix everything. Different fabrics and textures. Layers that express your mood. Let your look evolve over time. Let no one define you.
 
 ---
 
-### 🌌 *Twinkling Tokens of the Fae Realm* 🌌
+### 🌌 *Glowing Tokens of Connection* 🌌
 
-To help you cross into the realm, we’ll provide **twinkling fae tokens** — tiny lights, glowing threads, or shimmer patches you can clip onto your look.
+To help you feel part of the intimate space, we'll provide **glowing connection tokens** — soft lights, shimmering threads, or subtle glow patches you can add to your look.
 
 Use them:
-- **In your hair or horns**
-- **Wrapped around wrists, ankles, staffs**
-- **Like stars on your skin or cloak**
+- **In your hair or as jewelry**
+- **Wrapped around wrists or accessories**
+- **Like accents on your clothing or scarf**
 
-Short on prep? No worries.  
-Dark clothes + a fae token + a glint in your eye = you’re through the portal.
+Short on prep? No worries.
+Comfortable clothes + a connection token + your authentic self = you're ready to connect.
 
 ---
 
-### 🌟 *Consent is Sacred Magic* 🌟
+### 🌟 *Comfort is Sacred* 🌟
 
-How much (or how little) you dress up is your call.  
-The portal opens wide — whether you’re covered in moss, dressed in denim, or glittering nipple to toe.
+How much (or how little) you dress up is your call.
+The space welcomes everyone — whether you're in elegant attire, comfortable loungewear, or creative expression.
 
-We don’t enforce this theme. It’s an invitation, not a requirement.
+We don't enforce this theme. It's an invitation, not a requirement.
 
-And if you want to come as a purple hippo in a tutu? That’s rogue enough for us. 🦛
+And if you want to come as a purple hippo in a tutu? That's wonderfully expressive for us. 🦛
 
-We can’t wait to see who — or what — steps through.  
-✨🌲🌀
+We can't wait to see who — or what — joins us.
+✨🏠💫
 
 {{< /column >}}
 

@@ -22,8 +22,8 @@ But here’s the rhythm we’re weaving toward — not a program, but a pulse.
 Come early if you can.  
 Not because we need help (though we do), but because this is one of the best ways to arrive.
 
-There’s something sacred about shaping the space before it holds us.  
-Hanging lights. Painting signs. Tying fabric between trees.  
+There's something sacred about shaping the space before it holds us.
+Hanging lights. Painting signs. Arranging the lounge areas.
 Making coffee. Making eye contact. Making meaning.
 
 No skills required. Just hands. Just heart. Just presence.
@@ -32,9 +32,9 @@ No skills required. Just hands. Just heart. Just presence.
 
 ## Wednesday – **We Land**
 
-This is arrival day.  
-**Everyone is expected to arrive by Wednesday evening.**  
-Set up your tent. Shake off the outside world. Step in slowly.
+This is arrival day.
+**Everyone is expected to arrive by Wednesday evening.**
+Get settled in your space. Shake off the outside world. Step in slowly.
 
 And then, as night falls:  
 **The Opening Circle begins at 21:00.**  
@@ -62,8 +62,8 @@ It’s mandatory. And it’s meaningful.
 
 From there, the days stretch open.
 
-Jam spaces. Fireside whispers. Quiet rituals. Late-night laughter.  
-Rope in the grass. Kisses in the dark. Long walks. Soft eyes. Stillness. Play.
+Jam spaces. Lounge whispers. Quiet rituals. Late-night laughter.
+Rope in the space. Kisses in the dim light. Gentle movements. Soft eyes. Stillness. Play.
 
 There will be peer-led offerings — nothing scheduled yet, everything possible.  
 And we won’t leave it all to chance.
@@ -84,8 +84,8 @@ Let yourself unfold.
 
 ## Sunday – **We Unravel**
 
-For many, this is the soft close.  
-Tents come down. Tears come up.  
+For many, this is the soft close.
+We gather our things. Tears come up.
 We hold each other. We say goodbye.
 
 But not everyone makes it to Sunday — and that’s okay.

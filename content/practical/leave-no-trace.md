@@ -9,17 +9,17 @@ toc: true
 lead: ''
 ---
 
-### The Land Holds Us. Let’s Hold It, Too.
+### The Space Holds Us. Let's Hold It, Too.
 
-Rogue Rope Camp takes place in a wild, beautiful space — and we want to keep it that way. That means leaving no trace behind. No trash. No damage. No mess for someone else to clean up.
+Oh Bondage! Up Yours! takes place in a shared, welcoming space — and we want to keep it that way. That means leaving no mess behind. No damage. No burden for someone else to clean up.
 
-We treat the land like we treat each other: with care, with respect, and with attention.
+We treat the space like we treat each other: with care, with respect, and with attention.
 
 ---
 
-### No Trash Cans. No Problem.
+### Respect the Shared Spaces
 
-There are no garbage bins on site — by design. That means **whatever you bring in, you take back out**.
+While we have waste facilities available, we ask everyone to be mindful of the shared indoor environment. That means **being responsible for your own waste and respecting common areas**.
 
 Some tips to make that easy:
 - Pack light and leave excess packaging at home.
@@ -29,29 +29,23 @@ Some tips to make that easy:
 
 ---
 
-### Sort It Before You Leave
+### Sort Your Waste
 
-- **Compostable stuff** (food scraps, paper napkins, etc.): We’ll have designated bins for these on site.  
-- **Recyclables** (glass, metal, clean plastic): Pack them out. Sort them at home.  
-- **Trash that can’t be recycled** (wrappers, mixed materials, etc.): Take it with you. Please don’t leave it behind.
-
----
-
-### Coming by Train or Bus?
-
-We don’t expect you to carry garbage bags on public transport. If you’re not driving, let us know — we’ll sort out a way to help with your trash.
+- **Compostable stuff** (food scraps, paper napkins, etc.): We'll have designated bins for these on site.
+- **Recyclables** (glass, metal, clean plastic): Use the recycling facilities provided.
+- **Trash that can't be recycled** (wrappers, mixed materials, etc.): Use the provided trash facilities. Please don't leave waste in common areas.
 
 ---
 
-### Smokers, Read This
+### Smoking Policy
 
-If you smoke, bring a **portable ashtray**. Pocket tins, old film canisters, or custom buttpouches all work. Keep your butts off the ground — for fire safety, and because no one wants to kneel in someone else’s cigarette.
+We have designated outdoor smoking areas. If you smoke, please use these areas and keep the indoor spaces smoke-free. Bring a portable ashtray for any brief outdoor moments.
 
 ---
 
-We want to be invited back.  
-We want the land to feel loved.  
-We want to show what a kinky camp can do when it cares.
+We want to be invited back.
+We want the space to feel loved.
+We want to show what a kinky gathering can do when it cares.
 
-Leave no trace. Leave beauty instead.
+Leave no mess. Leave beauty instead.
 

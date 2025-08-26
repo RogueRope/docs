@@ -6,7 +6,7 @@ weight : 1
 This camp asks a lot of you — emotionally, energetically, relationally.  
 So we’ve built in care. Not just as a safety net, but as a way of being.
 
-These pages are here to support you before, during, and after your time at Rogue Rope Camp.  
+These pages are here to support you before, during, and after your time at Oh Bondage! Up Yours!.  
 Whether you're feeling overwhelmed, excited, cautious, curious — you're not alone. We've thought about you.
 
 ---

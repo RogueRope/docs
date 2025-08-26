@@ -1,6 +1,6 @@
 ---
 title: Accommodations
-description: This winter, trade the tent for a bunk bed in our communal dormitory-style accommodations. Think budget hostel vibes, with the warmth and camaraderie of a shared space.
+description: Trade the tent for a bunk bed in our communal dormitory-style accommodations. Think budget hostel vibes, with the warmth and camaraderie of a shared space.
 lead: Embrace the cozy hostel experience with our indoor bunk bed setup.
 date: 2024-12-01T18:00:00+00:00
 lastmod: 2024-12-01T18:00:00+00:00
@@ -11,8 +11,8 @@ toc: true
 
 ### Warm Beds. Shared Dreams. A Home Away from Home.
 
-This winter, we're coming indoors.  
-No tents in frozen fields. No frost on sleeping bags.  
+We're creating an indoor sanctuary.
+No tents needed. No worries about the weather.
 Just warm dormitory spaces with bunk beds, community areas, and the gentle hum of people finding each other in close quarters.
 
 Think hostel life with kinky hearts — budget-friendly comfort where connection happens as naturally as breathing.
@@ -23,7 +23,7 @@ Think hostel life with kinky hearts — budget-friendly comfort where connection
 
 - **Bunk Beds for Everyone.** Your own sleeping space with a mattress, in shared rooms designed for rest and community.  
 - **Diverse Room Options.** Choose what feels safest: mixed rooms, FLINTA-only spaces, or our designated "snoring-friendly" room for heavy sleepers and their allies.  
-- **Indoor Everything.** Real toilets, hot showers, and no midnight walks to the porta-potty. Winter just got easier.
+- **Indoor Everything.** Real toilets, hot showers, and no worries about the weather.
 
 ---
 
@@ -40,7 +40,7 @@ Think hostel life with kinky hearts — budget-friendly comfort where connection
 - **Your Bunk** — A bed with a mattress. Bring your bedding, sleeping bag, or whatever makes you cozy.  
 - **Shared Spaces** — Common areas for late-night conversations, morning coffee, and everything in between.  
 - **Power Access** — Charge your devices indoors, but please leave energy-heavy appliances at home.  
-- **Indoor Facilities** — Hot showers, real toilets, and the luxury of not braving the cold for basic needs.
+- **Indoor Facilities** — Hot showers, real toilets, and the luxury of comfortable indoor living.
 
 ---
 
@@ -49,9 +49,9 @@ Think hostel life with kinky hearts — budget-friendly comfort where connection
 This isn't a hotel. It's not private or pristine.  
 It's communal, a little chaotic, and absolutely alive with the energy of people choosing to share space, stories, and maybe a few snores.
 
-Some nights you'll fall asleep to whispered conversations in the next bunk.  
-Some mornings you'll wake to someone making tea for the whole room.  
-It's intimate. It's real. It's exactly what winter gatherings should feel like.
+Some nights you'll fall asleep to whispered conversations in the next bunk.
+Some mornings you'll wake to someone making tea for the whole room.
+It's intimate. It's real. It's exactly what cozy gatherings should feel like.
 
 ---
 

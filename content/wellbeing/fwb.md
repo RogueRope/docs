@@ -12,10 +12,10 @@ weight: 10
 toc: false
 ---
 
-# Friends With Benefits  
+# Friends With Benefits
 _Yes, the good kind._
 
-At Rogue Rope Camp, care isn’t something the organizers provide.  
+At Oh Bondage! Up Yours!, care isn’t something the organizers provide.
 It’s something **we all create** — together, moment by moment.
 
 This year, anyone can be an FWB. And we mean anyone.

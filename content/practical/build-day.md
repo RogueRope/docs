@@ -11,7 +11,7 @@ toc: true
 
 ### Build Day is How We Begin
 
-Rogue Rope Camp doesn’t just *appear*.  
+Oh Bondage! Up Yours! doesn’t just *appear*.  
 It’s built — by hands, by hearts, by you.
 
 Our gathering now begins on **Tuesday**, with **Build Day** folded into the experience itself. No separation. No staff. Just a field, some rope, and a growing circle of people making it real.

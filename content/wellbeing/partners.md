@@ -106,10 +106,10 @@ But you are invited to arrive with presence and openness.
 
 Whether you move as a couple, a trio, a constellation, or a vibe — we ask this:
 
-> **Let your bond be a root — not a wall.**
+> **Let your bond be a foundation — not a wall.**
 
-Protect what’s sacred.  
-And stay open to what’s possible.
+Protect what's sacred.
+And stay open to what's possible.
 
 ---
 

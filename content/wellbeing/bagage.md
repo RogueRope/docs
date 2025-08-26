@@ -14,14 +14,14 @@ draft: false
 
 ### Before You Cross the Threshold
 
-Every one of us carries stories: heartbreaks, unresolved fights, jealousy, shame, grief, burnout.  
-That’s human. It’s also **volatile tinder** in a space like Rogue Rope Camp—where intensity, intimacy, and erotic charge run high.
+Every one of us carries stories: heartbreaks, unresolved fights, jealousy, shame, grief, burnout.
+That’s human. It’s also **volatile tinder** in a space like Oh Bondage! Up Yours!—where intensity, intimacy, and erotic charge run high.
 
 Here’s the truth:
 
-> **Whatever you bring in—light or dark—will get amplified.**  
-> If it’s wonder, the place will glow.  
-> If it’s unspoken resentment, it can burst into wildfire.
+> **Whatever you bring in—light or dark—will get amplified.**
+> If it's wonder, the place will glow.
+> If it's unspoken resentment, it can overflow into disruption.
 
 This page is a loving caution. A reminder to **pause, scan, and sort** your inner luggage before you step onto the field.
 
