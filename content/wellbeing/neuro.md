@@ -23,8 +23,8 @@ But we’ll say this plainly:
 
 **There is no dedicated neuro-support crew.**
 
-There are no therapists, no designated liaisons.  
-Just a camp full of people doing their best — including you.
+There are no therapists, no designated liaisons.
+Just an event full of people doing their best — including you.
 
 ---
 
@@ -33,8 +33,8 @@ Just a camp full of people doing their best — including you.
 - **You are the expert on your needs.**  
   We trust you to know what helps — and to bring it with you.
 
-- **Support is peer-based and informal.**  
-  If you’re struggling, reach out to someone you trust. That might be a friend, a partner, a fellow camper.  
+- **Support is peer-based and informal.**
+  If you’re struggling, reach out to someone you trust. That might be a friend, a partner, a fellow attendee.
 
 - **Care flows in all directions.**  
   If you’re able to support someone else, beautiful. If not, that’s okay too. Don’t overextend yourself to meet someone else’s regulation needs. You don’t have to.
@@ -56,7 +56,7 @@ That said:
 
 ## Be Real With Yourself
 
-This camp is raw, intense, and immersive.  
+This event is raw, intense, and immersive.
 It can be magical. It can also be too much.
 
 If you know you need more structure, more predictability, or more emotional scaffolding than this space can offer — **that’s okay.**  
@@ -66,7 +66,7 @@ If you do come, come prepared. With tools. With a plan. With your own signals an
 
 ---
 
-Rogue Rope isn’t designed for ease.  
+Oh Bondage! Up Yours! isn’t designed for ease.
 It’s designed for truth.
 
 And we trust you to meet it in the way that’s right for you.

@@ -41,7 +41,7 @@ You just have to be here. With intention.
 
 ### Together, We Make the Magic
 
-This camp lives and breathes through what we all bring.  
+This event lives and breathes through what we all bring.
 The way you show up changes the space.
 
 So come as you are.  

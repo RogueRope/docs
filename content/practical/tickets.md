@@ -60,7 +60,7 @@ We’ll meet you where we can.
 If it’s a yes — beautiful.  
 Tickets go on sale **May 5th at 20:00**.
 
-👉 [Buy your ticket here](https://shop.gogogonzo.be/RRC25/)
+👉 [Buy your ticket here](https://shop.gogogonzo.be/RRW26/)
 
 You’ll be asked to provide a name at checkout (for legal/accounting reasons).  
 Use your real name, a chosen name, or a pseudonym — whatever you feel comfortable with.

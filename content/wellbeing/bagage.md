@@ -1,7 +1,7 @@
 ---
 title: "Baggage"
 description: A gentle (but serious) word about the weight you bring—and the weight you might off‑load onto others.
-lead: We’ve all got shadows. What matters is whether we drag them through camp or meet them with care before we arrive.
+lead: We’ve all got shadows. What matters is whether we drag them into the event or meet them with care before we arrive.
 date: 2025-04-11T15:05:00+00:00
 weight: 75
 menu:

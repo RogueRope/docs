@@ -78,7 +78,7 @@ We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) f
 - Megaphones
 - **Personal heaters** (fire hazard in shared spaces)
 - Devices that drain excessive power
-- Outdoor camping gear (you won't need it!)
+- Tents or other outdoor gear (you won't need them at this event!)
 - Bad vibes
 - Expectations of hotel-level privacy
 

@@ -36,11 +36,11 @@ Every participant needs to be confirmed by the organizers, so don’t sell your 
 
 ### ✦ Cancelling Directly
 
-- **More than 21 days before camp:**  
+- **More than 21 days before the event:**
   Cancel for free — just go to your booking page and hit the button. That’s it.
 
-- **Less than 21 days before camp:**  
-  If we can fill your spot from the waiting list, we’ll refund **90% of your ticket**.  
+- **Less than 21 days before the event:**
+  If we can fill your spot from the waiting list, we’ll refund **90% of your ticket**.
   If there’s no one waiting, we won’t be able to refund you.
 
 ---
