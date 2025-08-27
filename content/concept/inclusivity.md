@@ -1,5 +1,5 @@
 ---
-title: "Inclusivity"
+title: Inclusivity
 weight: 30
 toc: true
 ---

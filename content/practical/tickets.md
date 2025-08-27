@@ -17,7 +17,7 @@ Securing your spot at Oh Bondage! Up Yours! is simple — but we ask that you mo
 
 If you've made it to this page, you've probably explored the rest of the site. (If not, we lovingly encourage you to pause and wander back through the other pages.)  
 
-This isn't a spectator event. It's immersive. Real. Sometimes beautifully raw.  
+This isn't a spectator gathering. It's immersive. Real. Sometimes beautifully raw.  
 We want you to arrive with your eyes wide open — excited, ready, and fully informed about what you're stepping into.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Consent Crew"
+title: Consent Crew
 description: "Your dedicated point of contact for consent, boundaries, and repair."
 lead: "A trusted team to help navigate the complexities of consent and interpersonal issues."
 date: 2025-08-27T15:00:00+00:00

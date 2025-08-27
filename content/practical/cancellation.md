@@ -1,5 +1,5 @@
 ---
-title: "Cancellation"
+title: Cancellation
 weight: 125
 toc: true
 ---
@@ -14,7 +14,7 @@ We've built these policies with trust in mind — and trust goes both ways. Here
 
 ## If We Have to Cancel
 
-If Oh Bondage! Up Yours! can't legally take place — due to pandemic restrictions, conflict, natural disasters, or other forces beyond our control — we'll cancel the gathering. And if that happens, **you'll get a full refund**.
+If Oh Bondage! Up Yours! can't legally take place — due to public-health orders, safety directives, or other force-majeure conditions — we'll cancel the gathering. And if that happens, **you'll get a full refund**.
 
 No hidden fees. No penalties.  
 If you paid X euros, we’ll return X euros. Simple.
@@ -33,18 +33,18 @@ Every person goes through our gentle vetting process, so we need to connect with
 
 ### ✦ Cancelling Directly
 
-- **More than 21 days before the event:**
+- **More than 21 days before the gathering:**
   Cancel for free — just go to your booking page and hit the button. That’s it.
 
-- **Less than 21 days before the event:**
+- **Less than 21 days before the gathering:**
   If we can fill your spot from the waiting list, we’ll refund **90% of your ticket**.
   If there’s no one waiting, we won’t be able to refund you.
 
 ---
 
-## If the Event Is Cut Short
+## If the Gathering Is Cut Short
 
-If the event starts but has to end early — due to facility issues, emergencies, or other circumstances outside our control — we unfortunately can't offer refunds.
+If the gathering starts but has to end early — due to facility issues, emergencies, or other circumstances outside our control — we unfortunately can't offer refunds.
 
 This is the hardest policy to write, because we know how disappointing it would be. But if something like this happens, we promise to handle it with as much transparency and care as possible. We'll do everything we can to make the most of whatever time we have together.
 

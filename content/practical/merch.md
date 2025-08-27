@@ -50,5 +50,5 @@ Choose what feels good on your body — classic cut or a shape with more space f
 
 ---
 
-Whether you wear it during the event or save it for when you miss us later —
+Whether you wear it during the gathering or save it for when you miss us later —
 this shirt is a thread back to something real.

@@ -6,7 +6,7 @@ weight : 1
 ## Before You Say Yes
 
 Take a breath.  
-Oh Bondage! Up Yours! isn’t just a festival — it’s a full-body, full-heart experience. It can stretch you. It might stir things up. That’s part of the beauty. And also part of the reason to pause and ask:
+Oh Bondage! Up Yours! isn't just a gathering — it's a full-body, full-heart experience. It can stretch you. It might stir things up. That’s part of the beauty. And also part of the reason to pause and ask:
 
 Are you ready to meet this intensity with care?  
 Can you engage without burning out?  
@@ -19,7 +19,7 @@ If it’s not, that’s okay too. Honoring your limits is one of the most powerf
 
 ## Build Day = Shared Beginnings
 
-The event officially opens on **Tuesday** with **Build Day**.
+The gathering opens on **Tuesday** with **Build Day**.
 This isn’t about hard labor or special skills — it’s about power in numbers.  
 One of the easiest ways to meet people and start feeling the flow *before* things begin.
 

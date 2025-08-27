@@ -1,5 +1,5 @@
 ---
-title: "Being Together"
+title: Being Together
 description: "How we co-create this experience through care and presence"
 lead: "What we ask of each other"
 date: 2024-04-06T13:37:00+00:00
@@ -34,7 +34,7 @@ Whether you're a helper, a dreamer, a mischief-maker, or someone who simply hold
 
 We ask everyone to take part in a short volunteer shift — a way to anchor your presence in this shared container. It's not a job. It's a spell. A ripple of care that touches more people than you'll ever know.
 
-You don't have to lead a workshop or be extroverted. You just have to be here. With intention.
+You don't have to lead an offering or host a moment. You just have to be here. With intention.
 
 ---
 

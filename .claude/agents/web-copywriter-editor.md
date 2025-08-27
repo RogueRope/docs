@@ -1,7 +1,7 @@
 ---
 name: web-copywriter-editor
 description: Use this agent when you need professional copywriting or editing services for web content written in markdown format. Examples include: editing blog posts, landing pages, product descriptions, marketing copy, email campaigns, social media content, website copy, or any web-focused content that needs professional polish, clarity, and conversion optimization. Also use when you need to transform existing content into web-optimized copy or when creating new marketing materials from scratch.
-tools: Edit, MultiEdit, Write, NotebookEdit
+tools: Edit, MultiEdit, Write, NotebookEdit, Glob, Grep, LS, Read, WebFetch, TodoWrite, WebSearch, BashOutput, KillBash
 model: sonnet
 color: green
 ---

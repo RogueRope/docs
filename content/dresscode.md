@@ -1,5 +1,5 @@
 ---
-title: "Dress Code"
+title: Dress Code
 lead: ""
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
@@ -17,7 +17,7 @@ toc: true
 
 {{< column >}}
 
-### ✨ *Dress Code: Urban Mystics & Enchanted Souls* ✨
+### Dress Code: Urban Mystics & Enchanted Souls
 
 This year, we invite you to **step into the space** and emerge as your truest, most authentic self — a being of intimate connection, of soft lights and shared stories.
 
@@ -29,7 +29,7 @@ Let your attire reflect the person within — or the one you long to become.
 
 ---
 
-### 🌿 *Archetypes to Inspire* 🌿
+### Archetypes to Inspire
 
 **Urban Mystics**: Sophisticated and enigmatic. Velvet robes, crystal accessories, intricate jewelry, mysterious pendants. Maybe a tarot-inspired accessory or a single meaningful symbol.
 
@@ -53,17 +53,15 @@ Let your attire reflect the person within — or the one you long to become.
 
 ---
 
-### 🌟 *Comfort is Sacred* 🌟
-
+### Comfort is Sacred 
 How much (or how little) you dress up is your call.
 The space welcomes everyone — whether you're in elegant attire, comfortable loungewear, or creative expression.
 
 We don't enforce this theme. It's an invitation, not a requirement.
 
-And if you want to come as a purple hippo in a tutu? That's wonderfully expressive for us. 🦛
+And if you want to come as a purple hippo in a tutu? That's wonderfully expressive for us.
 
 We can't wait to see who — or what — joins us.
-✨🏠💫
 
 {{< /column >}}
 

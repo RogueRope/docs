@@ -14,7 +14,8 @@
       "mcp__browser-tools__getConsoleErrors",
       "Bash(git commit:*)",
       "Bash(chmod:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []

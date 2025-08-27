@@ -14,11 +14,10 @@ toc: true
 ### The Short Version?
 
 If it feels like you’re selling something — stop.  
-If you’re working too hard for a “yes,”  
-pause.  
-Step back. 
-pause.   
-Try again — or maybe, don’t.
+If you're working too hard for a "yes,"
+pause.
+Step back.
+Try again — or maybe, don't.
 
 A real yes doesn’t need convincing.  
 Look for the “HELL YES.” The “OMG YES.”  

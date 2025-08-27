@@ -17,7 +17,7 @@ It's about proximity. About choosing to be held by a space, and by each other.
 ## What You'll Find
 
 * **Bunk beds indoors** — no tents, no weather worries. Each person gets their own bed and mattress. Bring the bedding that makes you feel safe and soft.
-* **Different room flows** — mixed rooms for those who like variety, FLINTA-only rooms (for attendees who are Female, Lesbian, Intersex, Non-binary, Trans, and Agender) for those who want that layer of safety, and a "snoring sanctuary" for the heavy sleepers and their companions.
+* **Different room flows** — mixed rooms for those who like variety, FLINTA-only rooms (for people here who are Female, Lesbian, Intersex, Non-binary, Trans, and Agender) for those who want that layer of safety, and a "snoring sanctuary" for the heavy sleepers and their companions.
 * **Real facilities** — hot showers, indoor toilets, places to brush your teeth, splash water on your face, and return renewed.
 
 It's simple. But it's real.

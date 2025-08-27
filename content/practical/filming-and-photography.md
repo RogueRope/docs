@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+title: Photography
 weight: 95
 toc: true
 ---

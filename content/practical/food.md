@@ -1,5 +1,5 @@
 ---
-title: "Food"
+title: Food
 description: Much food, such good times.
 lead: "Hearty communal meals with daily bread, snacks, and warm dinners."
 date: 2024-04-06T13:37:00+00:00
@@ -23,7 +23,7 @@ This is *not* a gourmet weekend. But it will be tasty, filling, and made with lo
 
 ### Sample Schedule — Subject to Change
 
-Just to give you a sense of the rhythm. None of this is locked in.
+Just to give you a sense of the rhythm. Times and offerings may shift based on our collective needs.
 
 | _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

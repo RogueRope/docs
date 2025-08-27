@@ -30,7 +30,7 @@ This is one of the best ways to meet people, soften into the vibe, and become pa
 ### How It Flows
 
 - **Come When You Can:** Early arrivals are welcome. No sign-up, no pressure. Just show up and join in.  
-- **Work + Play:** Tuesday and Wednesday are for build. we play after dinner; earlier we build together so the space can hold us.  
+- **Work + Play:** Tuesday and Wednesday are for build. We play after dinner; earlier, we build together so the space can hold us.  
 - **Coordination Is Casual:** We’ll use a shared WhatsApp group to help organize, or you can just wander in and ask what’s needed. Someone will point you toward tools, tasks, or tunes.
 
 ---

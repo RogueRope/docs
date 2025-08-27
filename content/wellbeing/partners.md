@@ -1,5 +1,5 @@
 ---
-title: "Partners"
+title: Partners
 description: Navigating connection, openness, and care when arriving with someone.
 lead: Whether you're arriving with a lover, anchor partner, rope buddy, or someone more undefined — this page is for you.
 date: 2025-04-11T14:44:00+00:00

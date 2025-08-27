@@ -1,5 +1,5 @@
 ---
-title: "Rituals & Portals"
+title: Rituals & Portals
 description: "The ceremonies that shape our time together"
 lead: "Sacred thresholds we cross together"
 date: 2024-04-06T13:37:00+00:00

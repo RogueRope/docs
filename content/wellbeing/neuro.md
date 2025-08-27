@@ -24,7 +24,7 @@ But we’ll say this plainly:
 **There is no dedicated neuro-support crew.**
 
 There are no therapists, no designated liaisons.
-Just an event full of people doing their best — including you.
+Just a gathering full of people doing their best — including you.
 
 ---
 
@@ -56,7 +56,7 @@ That said:
 
 ## Be Real With Yourself
 
-This event is raw, intense, and immersive.
+This gathering is raw, intense, and immersive.
 It can be magical. It can also be too much.
 
 If you know you need more structure, more predictability, or more emotional scaffolding than this space can offer — **that’s okay.**  

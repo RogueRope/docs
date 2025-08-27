@@ -32,10 +32,11 @@ That’s it. That’s the magic.
 No experts. Just people bringing what’s alive.
 
 What could you bring?
-- A conversation you’re hungry to have?
-- A practice or technique you’d love to show?
-- A rope-related body puzzle?
-- A hot take on power dynamics, neurodivergence, play, pain, ritual, or consent?
+- A conversation you're hungry to have (e.g., navigating polyamory at gatherings)?
+- A skillshare on something you love (e.g., giving a grounding massage, a specific rope technique)?
+- A quiet, shared practice (e.g., a guided meditation or an hour of journaling together)?
+- A deep dive into a tricky topic (e.g., power dynamics, aftercare, neurodivergence in play)?
+- A question or body puzzle you want to explore with others?
 
 We’re here for the offbeat, the half-formed, the personal.  
 If you care about it, someone else probably does too.

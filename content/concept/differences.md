@@ -1,5 +1,5 @@
 ---
-title: "Our Philosophy"
+title: Our Philosophy
 description: "Connection over performance, presence over polish"
 lead: "What makes Oh Bondage! Up Yours! different"
 date: 2024-04-06T13:37:00+00:00

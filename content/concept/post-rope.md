@@ -1,5 +1,5 @@
 ---
-title: "Post-Rope: A Gentle Rebellion"
+title: Post-Rope: A Gentle Rebellion
 description: "Rope beyond performance — an invitation into presence, intimacy, and honesty."
 lead: "Not a scene. Not a style. A shift toward what feels real."
 weight: 2
@@ -99,7 +99,7 @@ Alive. Breathing. Together.
 
 ## Is This You?  
 
-- You've done the workshops, the parties, the posts  
+- You've done the offerings, the parties, the posts  
 - You tie to explore, not to impress  
 - You're ready for floor, not stage  
 - You crave emotional depth over technical mastery  
@@ -124,7 +124,7 @@ We'll be tying slowly. Laughing. Crying.
 Making art that doesn't need to be seen.  
 Letting things be what they are.  
 
-🌀 _Welcome to the Post-Rope._  
+_Welcome to the Post-Rope._  
 
 ---
 

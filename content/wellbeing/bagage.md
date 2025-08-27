@@ -1,7 +1,7 @@
 ---
-title: "Baggage"
+title: Baggage
 description: A gentle (but serious) word about the weight you bring—and the weight you might off‑load onto others.
-lead: We’ve all got shadows. What matters is whether we drag them into the event or meet them with care before we arrive.
+lead: We've all got shadows. What matters is whether we drag them into the gathering or meet them with care before we arrive.
 date: 2025-04-11T15:05:00+00:00
 weight: 75
 menu:
@@ -38,17 +38,17 @@ This page is a loving caution. A reminder to **pause, scan, and sort** your inne
    - If it can’t be fully solved, at least give it a safe container.
 
 3. **Leave It**  
-   - Some loads are too fresh, too sharp. That doesn’t make you weak—just honest. If the weight feels un‑carry‑able, it might be kinder to sit this event out (or arrive later, in a different year).
+   - Some loads are too fresh, too sharp. That doesn't make you weak—just honest. If the weight feels un‑carry‑able, it might be kinder to sit this gathering out (or arrive later, in a different year).
 
 ---
 
 ### Relationship Storms & Drama Triangles
 
-- **Arriving with tension?** Name it together first. Decide: *Pause it, resolve it, or postpone the event.*
+- **Arriving with tension?** Name it together first. Decide: *Pause it, resolve it, or postpone the gathering.*
 - **Love triangles & undefined connections?** Get explicit now. Vagueness becomes violence when the energy spikes.  
 - **Recent break‑ups?** If seeing this person tie someone else might rip you apart, love yourself enough to wait.
 
-This event isn’t therapy. It’s not neutral ground. It’s a **magnifier**.
+This gathering isn't therapy. It's not neutral ground. It's a **magnifier**.
 
 ---
 
@@ -72,6 +72,8 @@ Personal storms can swirl into collective weather.
 
 If you can answer yes—welcome.  
 If not, pause. Breathe. Decide with care.
+
+This self-reflection is a challenging practice, and we trust you to approach it with self-compassion.
 
 ---
 
