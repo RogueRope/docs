@@ -61,8 +61,8 @@ This space will hold you — if you also hold it.
 
 We are actively queer-inclusive. Kink-aware. Neuro-friendly. Body-positive. And we mean it. But inclusion doesn’t mean anything without boundaries.
 
-We’ve said no before. We’ll say no again.  
-Because harm, manipulation, or repeated disregard for consent are not part of this camp — and won’t be tolerated.
+We’ve said no before. We’ll say no again.
+Because harm, manipulation, or repeated disregard for consent are not part of this event — and won’t be tolerated.
 
 If you’ve been removed from this space before, or made someone feel unsafe here: know that we remember. We investigate reports. We prioritize care over comfort.
 

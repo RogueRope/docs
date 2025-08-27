@@ -19,7 +19,7 @@ If it’s not, that’s okay too. Honoring your limits is one of the most powerf
 
 ## Build Day = Shared Beginnings
 
-Camp officially opens on **Tuesday** with **Build Day**.  
+The event officially opens on **Tuesday** with **Build Day**.
 This isn’t about hard labor or special skills — it’s about power in numbers.  
 One of the easiest ways to meet people and start feeling the flow *before* things begin.
 

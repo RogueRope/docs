@@ -40,7 +40,7 @@ We can support you with:
 - A container for your rope journey to be witnessed
 - Encouragement to turn your private moment into something communal — if that feels right
 
-Just reach out during camp. We’ll find a way to say yes.
+Just reach out during the event. We’ll find a way to say yes.
 
 ---
 
@@ -50,7 +50,7 @@ We invite you to witness what unfolds — with reverence, not consumption.
 To see without interrupting. To feel without framing.  
 To let each rope encounter stand on its own, unfiltered and unforced.
 
-This camp is full of stories.  
+This event is full of stories.
 They may not play out on a stage.  
 But they are real.  
 And they are yours to join.

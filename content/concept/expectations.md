@@ -1,6 +1,6 @@
 ---
 title: Expectations
-description: 'Rogue rope is focused on infrastructure.'
+description: 'Oh Bondage! Up Yours! is built on shared care.'
 lead: What do we ask from you?
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
@@ -12,7 +12,7 @@ weight: 30
 toc: false
 ---
 
-We built this camp to hold us.  
+We built this event to hold us.
 But a space alone isn’t enough.  
 It’s the people — and the agreements between us — that make it real.
 

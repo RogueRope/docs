@@ -8,9 +8,9 @@ title : "Oh Bondage! Up Yours!"
 # Oh Bondage! Up Yours!
 
 ### The Details
-* **When:** 18/02/2026 18:00 → 22/02/2026 16:00  
-* **Where:** Mol, Belgium  
-* **Cost:** TBD€
+* **When:** 18/02/2026 18:00 → 22/02/2026 16:00
+* **Where:** Mol, Belgium
+* **Cost:** 200€
 
 ### Intro
 

@@ -8,7 +8,7 @@ weight: 60
 toc: true
 ---
 
-### The Rhythm of Rogue
+### The Rhythm of Oh Bondage
 
 We don’t run on a clock.  
 We move with breath. With bodies. With whatever the moment asks for.

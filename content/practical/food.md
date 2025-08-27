@@ -1,7 +1,7 @@
 ---
 title: "Food"
 description: Much food, such good times.
-lead: "Expect basic but tasty 'camp food' — details still simmering."
+lead: "Hearty communal meals with daily bread, snacks, and warm dinners."
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 images: []
@@ -9,9 +9,9 @@ weight: 15
 toc: true
 ---
 
-### The food plan? Still simmering.
+### The food plan
 
-We’re still working out the final details, but here’s what we *do* know:
+Here’s what we *do* know:
 
 - There will be **coffee and water**, always.
 - We’ll serve **bread in the morning**, **snacks** most afternoons, and **a warm meal every evening**.
@@ -27,10 +27,10 @@ Just to give you a sense of the rhythm. None of this is locked in.
 
 | _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9–12 | Brunch | --/-- | --/-- | Bread | Bread | Bread |
-| 15:00 | Soup | TBC | TBC | TBC | TBC | Leftovers |
-| 16:00 | Snacks | TBC | TBC | TBC | TBC | Leftovers |
-| 19–21 | Dinner | TBC | TBC | TBC | TBC | --/-- |
+| 9–12 | Brunch | --/-- | Bread | Bread | Bread | Bread |
+| 15:00 | Soup | --/-- | Soup | Soup | Soup | Leftovers |
+| 16:00 | Snacks | --/-- | Snacks | Snacks | Snacks | Leftovers |
+| 19–21 | Dinner | Dinner | Dinner | Dinner | Dinner | --/-- |
 
 ---
 

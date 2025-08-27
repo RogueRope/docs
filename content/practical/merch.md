@@ -11,7 +11,7 @@ toc: true
 
 ### A Shirt Worth Tying Yourself Into
 
-Want to bring a piece of Rogue home with you?  
+Want to bring a piece of Oh Bondage! Up Yours! home with you?
 We’ve got a limited run of t-shirts — soft, sustainable, and cut for bodies that move.
 
 * Fairly made  
@@ -21,12 +21,11 @@ We’ve got a limited run of t-shirts — soft, sustainable, and cut for bodies 
 
 ---
 
-### The Design?
+### The Design
 
-Still under wraps.  
-It might whisper. It might shout. It might make your friends ask questions.
-
-We’ll reveal it closer to camp. Trust: it’ll be hot.
+A hand-drawn knot heart on deep plum.
+"Oh Bondage! Up Yours!" coils around it in rough white lines.
+It whispers and shouts all at once.
 
 ---
 
@@ -56,5 +55,5 @@ Choose what feels good on your body — classic cut or a shape with more space f
 
 ---
 
-Whether you wear it during camp or save it for when you miss us later —  
+Whether you wear it during the event or save it for when you miss us later —
 this shirt is a thread back to something real.

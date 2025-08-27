@@ -51,8 +51,8 @@ And when you’re ready to offer care, you show it by putting on a bracelet.
 
 Because **care can’t be outsourced**.  
 Because the orga team can’t hold it all — and shouldn’t.  
-Because we believe in shared responsibility, not designated heroes.  
-**Because we want to see what happens when a whole camp decides to care for each other.**
+Because we believe in shared responsibility, not designated heroes.
+**Because we want to see what happens when everyone at the event decides to care for each other.**
 
 This bracelet system lets us flow in and out of service — with consent, clarity, and freedom.
 
@@ -65,7 +65,7 @@ This bracelet system lets us flow in and out of service — with consent, clarit
 - You’re not sure who to talk to about something that feels off  
 - You just need someone to walk with for a minute
 
-FWBs aren’t therapists or security. They’re fellow campers.  
+FWBs aren’t therapists or security. They’re fellow attendees.
 If more support is needed, they’ll help connect you with Consent Crew or orga.
 
 ---
@@ -81,6 +81,6 @@ That someone will see you. That someone will stay.
 So if it feels right, slip on the bracelet.  
 And if you need care? Look for one glowing on someone’s wrist.
 
-We’ve got each other.  
-That’s what makes this camp work.
+We’ve got each other.
+That’s what makes this event work.
 ![fwbs](/images/rrw26/fwbs.png)

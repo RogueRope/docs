@@ -53,7 +53,7 @@ Whether you're tying, topping, bottoming, watching, or just breathing in sync:
 
 ### Playing Separately
 
-Some of you arrive with **non-monogamous agreements**, or **independent playstyles**. Others might discover desires at camp you didn’t expect.
+Some of you arrive with **non-monogamous agreements**, or **independent playstyles**. Others might discover desires at the event you didn’t expect.
 
 We celebrate that.
 
