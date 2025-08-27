@@ -39,6 +39,7 @@ Let’s name what it really is: a longing to be met.
 Want to go deeper? Follow the thread that tugs:
 
 - If you're new and not sure where to begin, start with [New Here?](/concept/new-here) — we see you.
+- Ready to leave high school hierarchies behind? Read [Beyond Cool Kids](/concept/beyond-cool-kids) — authenticity over performance.
 - Curious how Oh Bondage! Up Yours! moves differently? Read [Differences](/concept/differences).
 - Wondering what your presence might bring? Visit [Participation](/concept/participation).
 - Learn what we ask of one another in [Expectations](/concept/expectations).
