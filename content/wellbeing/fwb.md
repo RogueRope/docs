@@ -61,8 +61,9 @@ This bracelet system lets us flow in and out of service — with consent, clarit
 - You’re not sure who to talk to about something that feels off  
 - You just need someone to walk with for a minute
 
-FWBs aren’t therapists or security. They’re fellow people.
-If more support is needed, they’ll help connect you with Consent Crew or orga.
+FWBs aren't therapists, mediators, or security. They're fellow participants offering peer support.
+
+If you can't find someone wearing an FWB bracelet, or if your issue feels like it needs more dedicated support (especially around consent or boundaries), **please seek out a member of the [Consent Crew]({{< ref "/wellbeing/consent-crew" >}})** or the organizing team. An FWB can also help you find them.
 
 ---
 
