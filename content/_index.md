@@ -10,7 +10,7 @@ title : "Oh Bondage! Up Yours!"
 ### The Details
 * **When:** 18/02/2026 18:00 → 22/02/2026 16:00
 * **Where:** Mol, Belgium
-* **Cost:** 200€
+* **Contribution:** 200€
 
 ### Intro
 
@@ -41,6 +41,22 @@ Bring your hunger.
 Bring your tenderness.
 
 Let's see what unfolds when we gather close in shared warmth.
+
+---
+
+### Your Journey Through This Site
+
+**First time here?** Follow this path:  
+1. 📍 [New Here?](/concept/new-here) — Start here if you're curious but unsure  
+2. 🌀 [Our Philosophy](/concept/differences) — Understand what makes us different  
+3. 🤝 [Being Together](/concept/expectations) — How we co-create this experience  
+4. 🎒 [Practical Details](/practical) — What you need to know  
+5. 🎫 [When you’re ready to join us](/practical/tickets)
+
+**Returning from previous gatherings?** Jump to:  
+- [Post-Rope](/concept/post-rope) — Our gentle rebellion  
+- [Rituals & Portals](/concept/rituals) — The ceremonies that shape our time  
+- [Tickets](/practical/tickets) — Secure your spot
 
 {{< /column >}}
 

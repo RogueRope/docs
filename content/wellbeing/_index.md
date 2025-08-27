@@ -3,7 +3,9 @@ title : "Wellbeing"
 weight : 1
 ---
 
-This event asks a lot of you — emotionally, energetically, relationally.
+Consent isn’t a question; it’s the water we swim in.
+
+This gathering asks a lot of you — emotionally, energetically, relationally.
 So we’ve built in care. Not just as a safety net, but as a way of being.
 
 These pages are here to support you before, during, and after your time at Oh Bondage! Up Yours!.  
@@ -13,8 +15,8 @@ Whether you're feeling overwhelmed, excited, cautious, curious — you're not al
 
 ### Things You Might Want to Read
 
-- Learn about [FWBs (Friends With Benefits)](/wellbeing/fwb) — our friendly, flirty, grounded-in-care connection crew.
-- Explore how we support [neurodiverse participants](/wellbeing/neuro) with intentional access and presence.
+- Learn about our [FWBs (our peer care volunteers)](/wellbeing/fwb) — our friendly, flirty, grounded-in-care connection crew.
+- Explore how we support [neurodiverse people](/wellbeing/neuro) with intentional access and presence.
 - Check in with our approach to [Emotional wellbeing](/wellbeing/emotional), both solo and collective.
 - Review our foundations around [Consent](/wellbeing/consent) — clear, enthusiastic, and always ongoing.
 - Discover how we practice [Conscious Care](/wellbeing/conscious-care) when things get tender or tough.

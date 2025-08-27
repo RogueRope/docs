@@ -11,7 +11,10 @@
       "mcp__puppeteer__puppeteer_screenshot",
       "mcp__puppeteer__puppeteer_evaluate",
       "Bash(pkill:*)",
-      "mcp__browser-tools__getConsoleErrors"
+      "mcp__browser-tools__getConsoleErrors",
+      "Bash(git commit:*)",
+      "Bash(chmod:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

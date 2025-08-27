@@ -12,11 +12,11 @@ Rope is a language. One of tension, stillness, surrender. It doesn’t need appl
 **An Inclusive Sanctuary:**  
 This is a space for all bodies, all backgrounds, all orientations. We honor the rigger and the bottom equally — not as roles to perform, but as people to witness. Rope isn’t a hierarchy. It’s a dance of trust, in whatever form it takes.
 
-**Beyond the Workshop Mindset:**  
-It’s tempting to chase knowledge. To fill a schedule, collect techniques, feel productive. But we’ve seen it: the hunger isn’t really for more information. It’s for connection. For experiences that linger. The kind that don’t come from sitting in a circle taking notes — they come from being brave enough to reach out.
+**Beyond the classroom mindset:**  
+It’s tempting to chase knowledge. To fill a schedule, collecting techniques, feel productive. But we’ve seen it: the hunger isn’t really for more information. It’s for connection. For experiences that linger. The kind that don’t come from sitting in a circle taking notes — they come from being brave enough to reach out.
 
 **Our Approach:**  
-There are no celebrity teachers here. No extra fees for insight. No backstage pass. Just people — tying, learning, crying, laughing, showing up. Everyone is a participant. Everyone belongs.
+There are no celebrity teachers here. No extra fees for insight. No backstage pass. Just people — tying, learning, crying, laughing, showing up. Everyone is a person. Everyone belongs.
 
 **How We Foster Connection:**  
 We design for serendipity. For encounters that might not happen unless we make space for them. This isn’t a lineup of scheduled classes. It’s a curated field of possibilities — moments of shared joy, awkward first hellos, spontaneous knots that turn into friendships.
@@ -34,21 +34,4 @@ Let’s name what it really is: a longing to be met.
 
 ---
 
-### 🧭 Explore More:
-
-Want to go deeper? Follow the thread that tugs:
-
-- If you're new and not sure where to begin, start with [New Here?](/concept/new-here) — we see you.
-- Ready to leave high school hierarchies behind? Read [Beyond Cool Kids](/concept/beyond-cool-kids) — authenticity over performance.
-- Curious how Oh Bondage! Up Yours! moves differently? Read [Differences](/concept/differences).
-- Wondering what your presence might bring? Visit [Participation](/concept/participation).
-- Learn what we ask of one another in [Expectations](/concept/expectations).
-- Discover how we hold space for all bodies and minds in [Inclusivity](/concept/inclusivity).
-- See what play really means — beyond the buzzwords — in [Play](/concept/play).
-- And if structure helps you relax, peek into the [Schedule](/concept/schedule) to get a sense of the flow.
-
-![concept](/images/rrw26/concept.png)
-
-Each page is a portal.  
-Enter where you are.  
-Follow what opens.
+**Where to go next** → [Differences](/concept/differences) · [Participation](/concept/expectations) · [Inclusivity](/concept/inclusivity) · [Play](/concept/play) · [Schedule](/concept/schedule).

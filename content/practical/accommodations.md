@@ -1,73 +1,61 @@
 ---
 title: Accommodations
-description: Trade the tent for a bunk bed in our communal dormitory-style accommodations. Think budget hostel vibes, with the warmth and camaraderie of a shared space.
-lead: Embrace the cozy hostel experience with our indoor bunk bed setup.
-date: 2024-12-01T18:00:00+00:00
-lastmod: 2024-12-01T18:00:00+00:00
-images: []
 weight: 50
 toc: true
 ---
 
-### Warm Beds. Shared Dreams. A Home Away from Home.
+## Sleeping Close
 
-We're creating an indoor sanctuary.
-No tents needed. No worries about the weather.
-Just warm dormitory spaces with bunk beds, community areas, and the gentle hum of people finding each other in close quarters.
+Nights shape us as much as days.
+The way we rest, the way we hear each other breathing, the way we wake up into shared light — it all weaves into the story of this gathering.
 
-Think hostel life with kinky hearts — budget-friendly comfort where connection happens as naturally as breathing.
-
----
-
-### What to Expect
-
-- **Bunk Beds for Everyone.** Your own sleeping space with a mattress, in shared rooms designed for rest and community.  
-- **Diverse Room Options.** Choose what feels safest: mixed rooms, FLINTA-only spaces, or our designated "snoring-friendly" room for heavy sleepers and their allies.  
-- **Indoor Everything.** Real toilets, hot showers, and no worries about the weather.
+This isn't about luxury.
+It's about proximity. About choosing to be held by a space, and by each other.
 
 ---
 
-### Room Types
+## What You'll Find
 
-- **Mixed Rooms** — Open to all genders, perfect for those who love the full social experience.  
-- **FLINTA Rooms** — Safe spaces for women, lesbians, inter, non-binary, trans, and agender folks.  
-- **Snoring Sanctuary** — For those who snore proudly (or sleep deeply despite it). Your people are here.
+* **Bunk beds indoors** — no tents, no weather worries. Each person gets their own bed and mattress. Bring the bedding that makes you feel safe and soft.
+* **Different room flows** — mixed rooms for those who like variety, FLINTA-only rooms (for attendees who are Female, Lesbian, Intersex, Non-binary, Trans, and Agender) for those who want that layer of safety, and a "snoring sanctuary" for the heavy sleepers and their companions.
+* **Real facilities** — hot showers, indoor toilets, places to brush your teeth, splash water on your face, and return renewed.
 
----
-
-### What's Included
-
-- **Your Bunk** — A bed with a mattress. Bring your bedding, sleeping bag, or whatever makes you cozy.  
-- **Shared Spaces** — Common areas for late-night conversations, morning coffee, and everything in between.  
-- **Power Access** — Charge your devices indoors, but please leave energy-heavy appliances at home.  
-- **Indoor Facilities** — Hot showers, real toilets, and the luxury of comfortable indoor living.
+It's simple. But it's real.
 
 ---
 
-### The Hostel Vibe
+## The Atmosphere
 
-This isn't a hotel. It's not private or pristine.  
-It's communal, a little chaotic, and absolutely alive with the energy of people choosing to share space, stories, and maybe a few snores.
+Don't expect hotel silence. Expect life.
+Whispers between bunks at midnight. Someone brewing tea in the morning for whoever's awake. A soft shuffle of blankets. Occasional laughter, occasional tears.
 
-Some nights you'll fall asleep to whispered conversations in the next bunk.
-Some mornings you'll wake to someone making tea for the whole room.
-It's intimate. It's real. It's exactly what cozy gatherings should feel like.
+This is what communal rest feels like. A little messy. Deeply human. Intimate in the most ordinary ways.
+
+Some nights you'll fall asleep faster than you thought. Some nights you'll lie awake, listening to breath, and feel strangely grateful you're not alone.
 
 ---
 
-### Can't Do Shared Spaces? Let's Talk.
+## If You Need Different
 
-We know communal sleeping isn't for everyone — and that's okay.  
-If you need more privacy or have specific accommodation needs, reach out to us. We'll work together to find solutions that let you be fully part of the experience.
+Communal sleeping isn't for everyone. That's okay.
+If privacy is something you need, or if shared rest feels unsafe for you right now, talk to us.
 
-**Off-site stays are possible** — nearby B&Bs, hotels, or rentals — as long as you commit to the key shared moments that shape our collective container.
+* **Nearby stays** — B&Bs and hotels are available close to the venue.
+* **Hybrid approach** — Some choose to sleep off-site but commit to the key shared rituals that shape the gathering. That works, too.
 
-**If you're planning to stay off-site, let us know when you book.**
+If this is you, tell us when you register. We'll help make sure you can still be woven into the fabric of the group.
+
+---
+
+## Why It Matters
+
+Rope isn't the only thread here. So is breakfast together. So is brushing teeth side by side. So is sharing a room where nothing needs to be hidden.
+
+We believe intimacy isn't just in the knots. It's also in the silence of shared rest.
+
+Bring your blanket. Bring your breath.
+The night will hold us all.
 
 ---
 
 ![Cozy bunk beds in dormitory setting](/images/rrw26/accommodations.png)
-
-This isn't just about where you sleep.  
-It's about choosing to be close. To share breath, space, and the tender vulnerability of rest.  
-To wake up knowing you're exactly where you belong.

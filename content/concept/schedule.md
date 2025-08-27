@@ -8,12 +8,7 @@ weight: 60
 toc: true
 ---
 
-### The Rhythm of Oh Bondage
-
-We don’t run on a clock.  
-We move with breath. With bodies. With whatever the moment asks for.
-
-But here’s the rhythm we’re weaving toward — not a program, but a pulse.
+**A rough outline. We’ll adjust to what the camp needs.**
 
 ---
 
@@ -101,16 +96,4 @@ What matters is that you came at all.
 
 ---
 
-### Notes
 
-- **Wednesday 21:00:** Mandatory Opening Circle  
-- **Thursday morning:** Mandatory Consent Moment  
-- **Play begins after Wednesday’s ritual**  
-- Expect light structure to support new connections — rituals, icebreakers, and soft invitations to meet each other  
-- All other offerings are peer-led, optional, and spontaneous  
-- The schedule is loose — because your body knows better than a clock
-
----
-
-Come for the week.  
-Stay for the moments you didn’t know you needed.

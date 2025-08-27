@@ -45,17 +45,11 @@ Let your attire reflect the person within — or the one you long to become.
 
 ---
 
-### 🌌 *Glowing Tokens of Connection* 🌌
+**Dress for ease, for touch, for breath.**
 
-To help you feel part of the intimate space, we'll provide **glowing connection tokens** — soft lights, shimmering threads, or subtle glow patches you can add to your look.
+---
 
-Use them:
-- **In your hair or as jewelry**
-- **Wrapped around wrists or accessories**
-- **Like accents on your clothing or scarf**
 
-Short on prep? No worries.
-Comfortable clothes + a connection token + your authentic self = you're ready to connect.
 
 ---
 

@@ -1,10 +1,5 @@
 ---
 title: "Photography"
-description: "No pics without consent!"
-lead: "Always get consent before you film or photograph someone at Oh Bondage! Up Yours!."
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
-images: []
 weight: 95
 toc: true
 ---
@@ -29,17 +24,7 @@ Ask before you tag. Ask before you post. Ask even if it feels obvious.
 
 ---
 
-## Maybe: A System for Consent-Based Photography
-
-We’re exploring an **opt-in system** — maybe color-coded bracelets or visible markers — to support light, consensual documentation.
-
-If we go forward with it, it will be:
-
-- Strictly opt-in  
-- Clearly explained  
-- Easy to change your mind
-
-It’s not confirmed yet. But if it is, we’ll tell you during the event — and make sure everyone knows the boundaries.
+We keep most things offline. If you share at all, do it only with explicit consent from everyone visible.
 
 ---
 
@@ -75,4 +60,4 @@ Consent is not negotiable here.
 
 ---
 
-![Twee trollen staan dicht bij elkaar. Eén fluistert iets, de ander houdt een camera, maar laat die zakken met een glimlach.](/images/rrw26/photography.png)
+![Two trolls stand close to each other. One whispers something, the other holds a camera, but lowers it with a smile.](/images/rrw26/photography.png)

@@ -1,22 +1,18 @@
 [[main]]
-  name = "Concept"
+  name = "Philosophy"
   weight = 2
   url = "concept"
 
 [[main]]
-  name = "Practical"
+  name = "Details"
   weight = 3
   url = "practical"
 
 [[main]]
-  name = "Wellbeing"
+  name = "Care"
   weight = 4
   url = "wellbeing"
 
-[[main]]
-  name = "Manifesto"
-  weight = 5
-  url = "manifesto"
 
 [[main]]
   name = "Contact"

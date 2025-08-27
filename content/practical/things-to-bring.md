@@ -1,12 +1,7 @@
 ---
 title: Things to Bring
-description: Essentials for comfort, connection, and kinky adventures indoors
-date: 2026-02-18T18:00:00+00:00
-lastmod: 2026-02-18T18:00:00+00:00
-images: []
 weight: 32
 toc: true
-lead: 'Pack for comfort, connection, and four days of indoor magic'
 ---
 
 ### The Basics
@@ -29,7 +24,7 @@ lead: 'Pack for comfort, connection, and four days of indoor magic'
 - **Comfortable layers** — dress for indoor comfort
 - **Cozy clothes** for lounging in common areas
 - **Slippers or socks** — indoor floors are shared
-- Lights or decorative strings to make your bunk space magical
+- A few lights for your bunk.
 
 ### Indoor Living Essentials
 - **Personal items** for your bunk space
@@ -79,7 +74,7 @@ We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) f
 - **Personal heaters** (fire hazard in shared spaces)
 - Devices that drain excessive power
 - Tents or other outdoor gear (you won't need them at this event!)
-- Bad vibes
+- disrespect
 - Expectations of hotel-level privacy
 
 ---

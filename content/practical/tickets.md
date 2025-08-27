@@ -1,27 +1,24 @@
 ---
 title: Tickets
-description: Step-by-step guide on securing your spot at the event.
-lead: "Resist the pull of FOMO and prioritize your well-being."
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
-images: []
 weight: 25
 toc: true
 ---
 
-### How to Join Us
+### Saying Yes (When You Mean It)
 
-Securing your spot at Oh Bondage! Up Yours! is simple — but we ask that you move slowly.  
-This isn’t just about clicking “buy.” It’s about saying yes, with your whole self.
+A ticket isn't just entry — it's commitment.  
+To show up. To co-create. To meet this intensity with presence.
+
+Securing your spot at Oh Bondage! Up Yours! is simple — but we ask that you move slowly. This isn't just about clicking "buy." It's about saying yes, with your whole self.
 
 ---
 
-## Step 1: Know What You’re Saying Yes To
+## Step 1: Read this first
 
-If you’ve made it to this page, you’ve probably explored the rest of the site. (If not, we gently ask you to pause and go back.)  
+If you've made it to this page, you've probably explored the rest of the site. (If not, we lovingly encourage you to pause and wander back through the other pages.)  
 
-This isn’t a spectator event. It’s immersive. Real. Sometimes raw.  
-We want you to arrive with your eyes wide open — excited, ready, and informed.
+This isn't a spectator event. It's immersive. Real. Sometimes beautifully raw.  
+We want you to arrive with your eyes wide open — excited, ready, and fully informed about what you're stepping into.
 
 ---
 
@@ -35,48 +32,47 @@ Ask yourself:
 - Do I have the capacity (emotionally, physically, financially) to be fully present?
 
 **FOMO is not a good reason to come.**  
-You deserve more than that. And so does this space.
+You deserve more than that. And so does this space. This gathering asks for your full presence — not your anxious attendance.
 
-Come because it’s a yes in your gut.  
+Come because it's a yes in your gut.  
 Not a maybe in your mind.
 
 ---
 
 ### Can’t Afford It Right Now?
 
-If money is the only thing standing in your way, please reach out.  
-We’re open to dialogue — and ready to find a solution that works for you.
+If money is the only thing standing between you and this experience, please reach out.  
+We're open to real conversation — and committed to finding a solution that honors both your needs and ours.
 
-That might mean a discount, a payment plan, or the option to pay later.  
-No shame. No hoops. Just conversation and care.
+That might mean a sliding scale, a payment plan, work exchange, or creative alternatives.  
+No shame. No complicated applications. Just honest conversation and mutual care.
 
 Email us at [info@roguerope.be](mailto:info@roguerope.be) and let us know what’s manageable.  
 We’ll meet you where we can.
 
 ---
 
-## Step 3: Buy Your Ticket
+## Step 3: If it still feels right, request a ticket
 
 If it’s a yes — beautiful.  
 Tickets go on sale **May 5th at 20:00**.
 
 👉 [Buy your ticket here](https://shop.gogogonzo.be/RRW26/)
 
-You’ll be asked to provide a name at checkout (for legal/accounting reasons).  
-Use your real name, a chosen name, or a pseudonym — whatever you feel comfortable with.
+We’ll ask a name for invoicing. Use the one you’re comfortable sharing.
 
 ---
 
 ## Step 4: Vetting
 
-To help keep our space safe and aligned, we ask for your **FetLife name** during the ticket process.  
+To help keep our space safe and aligned with our values, we ask for your **FetLife name** during the ticket process.  
 
-After you place your order, we’ll:
-- Review your FetLife profile  
-- Reach out to our community if needed  
-- Contact you if we have any concerns
+After you place your order, we'll:
+- Review your FetLife profile with care and respect
+- Reach out to our community for perspective if needed  
+- Contact you directly if we have any questions or concerns
 
-Once you're confirmed, we’ll send payment instructions by email.
+This isn't about judgment — it's about ensuring everyone feels comfortable and safe. Once you're confirmed (which happens for the vast majority of applicants), we'll send payment instructions by email.
 
 ---
 

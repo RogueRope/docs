@@ -1,10 +1,5 @@
 ---
 title: Merch!
-description: When you order a ticket, you have the option to buy a t-shirt for 25€.
-lead: When you order a ticket, you have the option to buy a t-shirt for 25€.
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
-images: []
 weight: 90
 toc: true
 ---
@@ -49,7 +44,7 @@ Choose what feels good on your body — classic cut or a shape with more space f
 
 ![Classic Shirt](/images/m-size.png)
 
-**Shirt Fitted for Boobs**
+**Fitted cut (designed for people with breasts)**
 
 ![Boobies Shirt](/images/f-size.png)
 

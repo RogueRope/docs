@@ -43,7 +43,7 @@ We usually respond fast, but remember: this isn’t a call center. It’s still 
 ### 📬 Prefer Email?
 
 No problem.
-Write to us at [info@gogogonzo.be](mailto:info@gogogonzo.be)
+Write to us at [info@roguerope.be](mailto:info@roguerope.be)
 
 We check it often — especially as the event approaches.
 

@@ -1,15 +1,10 @@
 ---
 title: Build Day
-description: >
-Every hand helps shape our gathering. With no staff, we rely on our collective effort to transform a space into an arena for connection and exploration.Your contribution is the keystone to this endeavor’s success.lead: Calling all builders and dreamers!
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
-images: []
 weight: 95
 toc: true
 ---
 
-### Build Day is How We Begin
+### Arrival flows into build.
 
 Oh Bondage! Up Yours! doesn’t just *appear*.  
 It’s built — by hands, by hearts, by you.
@@ -35,7 +30,7 @@ This is one of the best ways to meet people, soften into the vibe, and become pa
 ### How It Flows
 
 - **Come When You Can:** Early arrivals are welcome. No sign-up, no pressure. Just show up and join in.  
-- **Work + Play:** Tuesday and Wednesday are for build. Play is welcome **after dinner on Wednesday**, and during **Thursday late afternoon**, once the setup is complete.  
+- **Work + Play:** Tuesday and Wednesday are for build. we play after dinner; earlier we build together so the space can hold us.  
 - **Coordination Is Casual:** We’ll use a shared WhatsApp group to help organize, or you can just wander in and ask what’s needed. Someone will point you toward tools, tasks, or tunes.
 
 ---

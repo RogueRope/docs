@@ -1,9 +1,5 @@
 ---
 title: Unconference
-description: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
-lead: Maybe we can do some kind of semi formal knowledge-exchange/peer-learning?
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
 c: true
 images: []
 menu: 
@@ -33,8 +29,7 @@ That’s it. That’s the magic.
 
 ## What Might You Offer?
 
-You don’t need to be an expert.  
-You just need to care. Maybe a little curiosity, maybe a story, maybe something strange you’ve been thinking about.
+No experts. Just people bringing what’s alive.
 
 What could you bring?
 - A conversation you’re hungry to have?
