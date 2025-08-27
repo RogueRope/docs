@@ -81,7 +81,7 @@ Feelings aren’t threats — they’re data. Check in. Breathe. Come back to cu
 If you need support, reach out — you don’t have to hold it all alone:
 
 - [FWBs](/wellbeing/fwb) aren’t staff or professionals — they’re fellow participants who’ve chosen to show up with presence and care when they feel resourced. Look for someone wearing a bracelet.
-- The [Consent Crew]({{< ref "/wellbeing/consent-crew" >}}) is here to help with trickier situations — boundaries, mediation, or navigating consent conversations.
+- The [Consent Crew](/wellbeing/consent-crew) is here to help with trickier situations — boundaries, mediation, or navigating consent conversations.
 - There are quiet spaces available if you need to step away, breathe, cry, stretch, or just be.
 
 Support here doesn’t follow a chain of command.  

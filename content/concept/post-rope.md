@@ -1,5 +1,5 @@
 ---
-title: Post-Rope: A Gentle Rebellion
+title: "Post-Rope: A Gentle Rebellion"
 description: "Rope beyond performance - an invitation into presence, intimacy, and honesty."
 lead: "Not a scene. Not a style. A shift toward what feels real."
 weight: 2

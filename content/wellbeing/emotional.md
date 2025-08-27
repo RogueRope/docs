@@ -41,7 +41,7 @@ When someone wears a **FWB bracelet**, it means they’re open to holding space 
 You can also always approach:
 
 - A trusted friend or fellow participant
-- A [Consent Crew member]({{< ref "/wellbeing/consent-crew" >}}) — they're the dedicated team for boundaries, repair, or if something feels off  
+- A [Consent Crew member](/wellbeing/consent-crew) — they're the dedicated team for boundaries, repair, or if something feels off  
 - Or just someone who looks like they might get it — we’re all learning to read each other, gently  
 
 ---
