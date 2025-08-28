@@ -4,81 +4,109 @@ weight: 32
 toc: true
 ---
 
-### The Basics
-- Your ticket (with QR code)
-- Rope (even if you don’t plan to use it)
-- Any toys or gear that bring you joy
+## Required Items ⭐ {#required}
 
-### For Eating & Drinking
-- Solid **reusable cup** (no glass) ~ **MANDATORY**
-- Plate for meals
-- Fork, knife, spoon (or spork if you’re that kind of genius)
-- Water bottle or hydration container
-- Your favorite snacks or specialty food items
-- Drinks you love — with or without alcohol
-- Cooler bag or box + space in your heart for ice (we’ll provide that part)
+These are **mandatory** for all attendees:
 
-### Comfort & Coziness
-- **Bedding for your bunk** — sleeping bag, sheets, blankets, whatever makes you cozy
-- **Pillow** — inflatable or your favorite from home
-- **Comfortable layers** — dress for indoor comfort
-- **Cozy clothes** for lounging in common areas
-- **Slippers or socks** — indoor floors are shared
-- A few lights for your bunk.
-
-### Indoor Living Essentials
-- **Personal items** for your bunk space
-- Blanket for common area snuggling
-- Something comfortable for group activities
-- **Earplugs** — dormitory life can be... social
-- **Sleep mask** — shared spaces mean lights and movement
-- Power strips and charging cables (outlets are limited)
-
-### Hygiene & Health
-- Biodegradable soap + shampoo
-- Toothbrush + toothpaste
-- Quick-dry towel
-- Hand sanitizer
-- Any prescription meds you need
-- Useful over-the-counter stuff (painkillers, allergy meds, etc.)
-- First aid basics (band-aids, antiseptic, electrolytes)
-
-### Self-Care & Sanity
-- Ear plugs (you might be bunked near a snorer)
-- Sleeping mask (shared spaces can be bright)
-- Portable phone charger / power bank
-- Charging cables for your stuff
-- A **trash bag** for your own waste
-- A **portable ashtray** if you smoke
-
-### Dressing for Delight
-- **Comfortable layers** — dress for indoor comfort
-- Indoor clothes you can move, tie, and play in
-- An [outfit for the play party](/dresscode)
-- A warm layer in case you need it
-- Something that makes you feel hot, silly, or sacred
+- [ ] Your ticket (with QR code) — for entry
+- [ ] **Reusable cup** (no glass) — we provide drinks, you bring the cup
+- [ ] ID/passport — for registration
 
 ---
 
-### Food Planning
+## For Your Bunk 🛏️ {#bunk}
 
-We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) for what’s provided and what to bring.
+Make your space comfortable for the duration:
+
+- [ ] **Bedding** — sleeping bag, sheets, blankets (whatever makes you cozy)
+- [ ] **Pillow** — inflatable or your favorite from home  
+- [ ] A few lights for your bunk area
+- [ ] **Earplugs** — dormitory life can be... social
+- [ ] **Sleep mask** — shared spaces mean lights and movement
+- [ ] Power strips and charging cables (outlets are limited)
+- [ ] Personal items to make your bunk feel like home
 
 ---
 
-## Please Leave These at Home
+## Personal Care Essentials 🧴 {#personal-care}
 
-- Kids (<18j)
-- Pets (even the cute ones)
+Daily necessities for communal living:
+
+- [ ] Biodegradable soap + shampoo
+- [ ] Toothbrush + toothpaste  
+- [ ] Quick-dry towel
+- [ ] Hand sanitizer
+- [ ] Any prescription medications you need
+- [ ] Basic over-the-counter items (painkillers, allergy meds, etc.)
+- [ ] First aid basics (band-aids, antiseptic, electrolytes)
+
+---
+
+## Food & Drink 🍽️ {#food-drink}
+
+We provide meals, but these make the experience better:
+
+- [ ] Plate for meals
+- [ ] Fork, knife, spoon (or spork if you're that kind of genius)
+- [ ] Water bottle or hydration container
+- [ ] Your favorite snacks or specialty food items
+- [ ] Drinks you love — with or without alcohol  
+- [ ] Cooler bag or box (we'll provide ice)
+
+*Check our [Food section]({{<ref "food.md" >}}) for what's provided and dietary accommodations.*
+
+---
+
+## Clothing & Comfort 👕 {#clothing}
+
+Dress for indoor comfort and movement:
+
+- [ ] **Comfortable layers** for various activities
+- [ ] Cozy clothes for lounging in common areas
+- [ ] Indoor clothes you can move, tie, and play in
+- [ ] **Slippers or socks** — indoor floors are shared
+- [ ] An [outfit for the play party](/dresscode)
+- [ ] A warm layer in case you need it
+- [ ] Something that makes you feel hot, silly, or sacred
+- [ ] Blanket for common area snuggling
+
+---
+
+## Optional but Recommended 🎯 {#optional}
+
+These enhance your experience:
+
+- [ ] **Rope** (even if you don't plan to use it)
+- [ ] Any toys or gear that bring you joy
+- [ ] Portable phone charger / power bank  
+- [ ] Something comfortable for group activities
+- [ ] A **trash bag** for your own waste
+- [ ] A **portable ashtray** if you smoke
+
+## Please Leave These at Home ❌ {#leave-home}
+
+For everyone's safety and comfort:
+
+- Kids (<18 years)
+- Pets (even the cute ones) 
 - Megaphones
 - **Personal heaters** (fire hazard in shared spaces)
 - Devices that drain excessive power
 - Tents or other outdoor gear (you won't need them at this event!)
-- disrespect
+- Disrespect
 - Expectations of hotel-level privacy
 
 ---
 
-This list is a suggestion, not a prescription.  
+## Print-Friendly Checklist 📝 {#checklist}
+
+*Save or print this page to check items off as you pack!*
+
+**💡 Packing tip**: Start with Required Items, then move through each category. Pack an extra day's worth of personal care items, and remember — this is communal living, so bring your patience and kindness along with your gear.
+
+---
+
+This list is a guide, not a prescription.  
 Bring what makes you feel safe, curious, and alive.  
-And don’t forget your rope.
+
+**Most importantly**: Don't forget your rope — and your open heart. 💝
