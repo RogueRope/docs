@@ -80,4 +80,4 @@ And if you need care? Look for one glowing on someone’s wrist.
 
 We’ve got each other.
 That’s what makes this gathering work.
-![fwbs](/images/rrw26/fwbs.png)
+![A person offering a comforting hand to another, symbolizing peer support.](/images/rrw26/fwbs.png)

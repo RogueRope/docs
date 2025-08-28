@@ -11,7 +11,7 @@ toc: true
 {{< block "grid-2" >}}
 
 {{< column >}}
-![QR code to last link](/images/whatsappqr.png)
+![QR code to contact Oh Bondage! Up Yours! on WhatsApp.](/images/whatsappqr.png)
 {{< /column >}}
 
 {{< column >}}

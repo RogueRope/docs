@@ -56,7 +56,7 @@ We’ll meet you where we can.
 
 If it's a yes — beautiful.  
 
-**📅 Tickets go on sale: May 5th at 20:00**
+**📅 Tickets go on sale: May 5th, 2025 at 20:00**
 
 👉 **[Buy your ticket here](https://shop.gogogonzo.be/RRW26/)**
 

@@ -11,7 +11,13 @@ toc: true
 
 **We made a few agreements to keep this space honest, safe, and kind.**
 
-Consent comes first, always. Get it clearly, give it freely, and tune in to words and silence. Be grateful when someone trusts you with their truth. Respect the humans around you; every person here carries a story. Be mindful, be curious, ask before touching, and honor pronouns. Speak what’s real: say what you mean and hear what’s said. When things feel tender, choose clarity as a form of care. Stay present and let the outside world wait. Be here with your body, your breath, and your attention. Own your impact. We all fuck up; what matters is what you do next. Apologize, repair, learn, and grow. Play with awareness. Kink, sex, and BDSM are welcome here, but never at the cost of safety or consent. Know your edges, respect others’, and be gentle with power. Take care of yourself: eat, hydrate, rest, and ask for what you need. You’re not here to push through—you’re here to be whole.
+- **Consent comes first, always.** Get it clearly, give it freely, and tune in to words and silence. Be grateful when someone trusts you with their truth.
+- **Respect the humans around you.** Every person here carries a story. Be mindful, be curious, ask before touching, and honor pronouns.
+- **Speak what’s real.** Say what you mean and hear what’s said. When things feel tender, choose clarity as a form of care.
+- **Stay present.** Let the outside world wait. Be here with your body, your breath, and your attention.
+- **Own your impact.** We all fuck up; what matters is what you do next. Apologize, repair, learn, and grow.
+- **Play with awareness.** Kink, sex, and BDSM are welcome here, but never at the cost of safety or consent. Know your edges, respect others’, and be gentle with power.
+- **Take care of yourself.** Eat, hydrate, rest, and ask for what you need. You’re not here to push through—you’re here to be whole.
 
 ---
 

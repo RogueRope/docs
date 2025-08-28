@@ -44,7 +44,7 @@ Where play can look like fucking — or crying — or lying in intimate embrace,
 
 
 
-![Play](/images/rrw26/play.png)
+![An artistic arrangement of objects suggesting play and kink.](/images/rrw26/play.png)
 
 ## You Make the Scene
 

@@ -62,4 +62,4 @@ Keep an eye out. Listen to what’s bubbling in you.
 And when it’s ready, share it.
 
 We can’t wait to see what unfolds.
-![unconference](/images/rrw26/unconference.png)
+![A group of people gathered informally, sharing ideas and collaborating on a whiteboard.](/images/rrw26/unconference.png)

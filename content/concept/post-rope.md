@@ -7,7 +7,7 @@ images: ["/images/rrw26/postrope.png"]
 toc: true
 ---
 
-![Postrope](/images/rrw26/postrope.png)
+![A quiet, intimate rope scene in a softly lit room, focusing on connection rather than performance.](/images/rrw26/postrope.png)
 
 ## Beyond the Performance
 

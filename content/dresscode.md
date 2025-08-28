@@ -11,7 +11,7 @@ toc: true
 
 {{< column >}}
 
-![Dresscode](/images/dresscode.webp)
+![A person dressed in creative, mystical attire, embodying the 'Urban Mystics & Enchanted Souls' theme.](/images/dresscode.webp)
 
 {{< /column >}}
 
