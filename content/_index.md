@@ -47,11 +47,12 @@ Let's see what unfolds when we gather close in shared warmth.
 ### Your Journey Through This Site
 
 **First time here?** Follow this path:  
-1. 📍 [New Here?](/concept/new-here) — Start here if you're curious but unsure  
-2. 🌀 [Our Philosophy](/concept/differences) — Understand what makes us different  
-3. 🤝 [Being Together](/concept/expectations) — How we co-create this experience  
-4. 🎒 [Practical Details](/practical) — What you need to know  
-5. 🎫 [When you're ready to join us](/practical/tickets)
+1. ❓ [Who Is This For?](/concept/who-is-this-for) — Is this gathering right for you?
+2. 📍 [New Here?](/concept/new-here) — Gentle guidance if you're curious but unsure  
+3. 🌀 [Our Philosophy](/concept/differences) — Understand what makes us different  
+4. 🤝 [Being Together](/concept/expectations) — How we co-create this experience  
+5. 🎒 [Practical Details](/practical) — What you need to know  
+6. 🎫 [When you're ready to join us](/practical/tickets)
 
 **Returning from previous gatherings?** Jump to:  
 - [Post-Rope](/concept/post-rope) — Our gentle rebellion  
@@ -61,6 +62,6 @@ Let's see what unfolds when we gather close in shared warmth.
 {{< /column >}}
 
 {{< column >}}
-![gathering](/images/rrw26/img2026.png)
+![A vibrant, welcoming scene from a past gathering, showing people connecting in a warmly lit space.](/images/rrw26/img2026.png)
 {{< /column >}}
 {{< /block >}}
