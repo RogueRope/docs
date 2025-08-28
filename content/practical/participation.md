@@ -44,7 +44,7 @@ Not a maybe in your mind.
 If money is the only thing standing between you and this experience, please reach out.  
 We're open to real conversation — and committed to finding a solution that honors both your needs and ours.
 
-That might mean a sliding scale, a payment plan, work exchange, or creative alternatives.  
+That might mean a sliding scale discount or flexible payment plan to make it work for your budget.  
 No shame. No complicated applications. Just honest conversation and mutual care.
 
 Email us at [info@roguerope.be](mailto:info@roguerope.be) and let us know what's manageable.  
@@ -75,8 +75,7 @@ Your ticket includes:
 
 - **Full payment** at time of booking
 - **Payment plans** available (contact us to arrange)
-- **Sliding scale** options for financial hardship
-- **Work exchange** opportunities (limited spots)
+- **Sliding scale discounts** for financial hardship
 
 ---
 

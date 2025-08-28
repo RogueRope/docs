@@ -22,7 +22,7 @@ We provide indoor bunk beds in shared dormitory-style rooms. You'll have your ow
 Yes! We accommodate vegetarian, vegan, and most dietary restrictions. Please let us know your needs when you register so we can plan accordingly.
 
 **When do tickets go on sale and how much do they cost?**
-Tickets go on sale **May 5th at 20:00**. Can't afford the full price? We offer sliding scale options, payment plans, and work exchange. Email us at [info@roguerope.be](mailto:info@roguerope.be) - no shame, just honest conversation.
+Tickets go on sale **May 5th at 20:00**. Can't afford the full price? We offer sliding scale discounts and flexible payment plans. Email us at [info@roguerope.be](mailto:info@roguerope.be) - no shame, just honest conversation.
 
 ### Experience & Community
 
