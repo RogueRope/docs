@@ -16,9 +16,14 @@ It's about proximity. About choosing to be held by a space, and by each other.
 
 ## What You'll Find
 
+**🏠 Indoor Accommodations:**
 * **Bunk beds indoors** — no tents, no weather worries. Each person gets their own bed and mattress. Bring the bedding that makes you feel safe and soft.
-* **Different room flows** — mixed rooms for those who like variety, FLINTA-only rooms (for people here who are Female, Lesbian, Intersex, Non-binary, Trans, and Agender) for those who want that layer of safety, and a "snoring sanctuary" for the heavy sleepers and their companions.
 * **Real facilities** — hot showers, indoor toilets, places to brush your teeth, splash water on your face, and return renewed.
+
+**🛏️ Room Options:**
+* **Mixed rooms** — for those who like variety
+* **FLINTA-only rooms** — for people who are Female, Lesbian, Intersex, Non-binary, Trans, and Agender
+* **"Snoring sanctuary"** — for heavy sleepers and their companions
 
 It's simple. But it's real.
 
@@ -40,10 +45,11 @@ Some nights you'll fall asleep faster than you thought. Some nights you'll lie a
 Communal sleeping isn't for everyone. That's okay.
 If privacy is something you need, or if shared rest feels unsafe for you right now, talk to us.
 
-* **Nearby stays** — B&Bs and hotels are available close to the venue.
-* **Hybrid approach** — Some choose to sleep off-site but commit to the key shared rituals that shape the gathering. That works, too.
+**🏨 Alternative Options:**
+* **Nearby stays** — B&Bs and hotels are available close to the venue
+* **Hybrid approach** — Sleep off-site but participate in key shared rituals
 
-If this is you, tell us when you register. We'll help make sure you can still be woven into the fabric of the group.
+**👋 Just tell us when you register.** We'll help make sure you can still be woven into the fabric of the group.
 
 ---
 

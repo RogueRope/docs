@@ -54,12 +54,13 @@ We’ll meet you where we can.
 
 ## Step 3: If it still feels right, request a ticket
 
-If it’s a yes — beautiful.  
-Tickets go on sale **May 5th at 20:00**.
+If it's a yes — beautiful.  
 
-👉 [Buy your ticket here](https://shop.gogogonzo.be/RRW26/)
+**📅 Tickets go on sale: May 5th at 20:00**
 
-We’ll ask a name for invoicing. Use the one you’re comfortable sharing.
+👉 **[Buy your ticket here](https://shop.gogogonzo.be/RRW26/)**
+
+We'll ask a name for invoicing. Use the one you're comfortable sharing.
 
 ---
 
@@ -67,12 +68,12 @@ We’ll ask a name for invoicing. Use the one you’re comfortable sharing.
 
 To help keep our space safe and aligned with our values, we ask for your **FetLife name** during the ticket process.  
 
-After you place your order, we'll:
-- Review your FetLife profile with care and respect
-- Reach out to our community for perspective if needed  
-- Contact you directly if we have any questions or concerns
+**Our vetting process:**
+- ✅ Review your FetLife profile with care and respect
+- ✅ Reach out to our community for perspective if needed  
+- ✅ Contact you directly if we have any questions or concerns
 
-This isn't about judgment — it's about ensuring everyone feels comfortable and safe. Once you're confirmed (which happens for the vast majority of applicants), we'll send payment instructions by email.
+This isn't about judgment — it's about ensuring everyone feels comfortable and safe. **The vast majority of applicants are confirmed.** Once approved, we'll send payment instructions by email.
 
 ---
 

@@ -9,13 +9,16 @@ weight: 15
 toc: true
 ---
 
-### The food plan
+## The Food Plan
 
-Here’s what we *do* know:
+**🍽️ What we provide:**
+- **Coffee and water** — always available
+- **Bread in the morning** — daily
+- **Snacks** — most afternoons  
+- **Warm meal** — every evening
 
-- There will be **coffee and water**, always.
-- We’ll serve **bread in the morning**, **snacks** most afternoons, and **a warm meal every evening**.
-- You'll choose **vegetarian** or **meat** when you register — and we’ll ask you to stick with your choice so we can plan portions.
+**🥗 Dietary choice:**
+You'll choose **vegetarian** or **meat** when you register — and we'll ask you to stick with your choice so we can plan portions.
 
 This is *not* a gourmet weekend. But it will be tasty, filling, and made with love (and probably laughter).
 
@@ -34,26 +37,31 @@ Just to give you a sense of the rhythm. Times and offerings may shift based on o
 
 ---
 
-### What About Special Diets?
+## Special Diets & Dietary Needs
 
-We can accommodate **vegetarian** and **meat-based** meals — and we do our **best-effort vegan** too.  
-While our kitchen isn’t fully equipped to handle every dietary need, we genuinely want to find solutions that work.
+**✅ What we can accommodate:**
+- **Vegetarian meals** — fully supported
+- **Meat-based meals** — fully supported  
+- **Vegan meals** — best-effort basis
 
-If you have specific requirements (vegan, gluten-free, allergies, etc.), reach out. We’re happy to collaborate and find something that suits you — whether that means adjusting ingredients or giving you access to kitchen space for your own prep.
+**🤝 Have specific needs?** (gluten-free, allergies, etc.)
+**Please reach out!** We're happy to collaborate and find solutions — whether adjusting ingredients or providing kitchen space for your own prep.
 
-We’re also assembling a **kitchen crew** — a small, scrappy team to help chop, stir, and keep the meals flowing. Want to be part of it? Stay tuned for sign-ups. It’s a great way to contribute, connect, and maybe pick up a few cooking secrets along the way.
+**👨‍🍳 Join our Kitchen Crew**
+Want to help chop, stir, and keep meals flowing? Stay tuned for sign-ups. It's a great way to contribute, connect, and maybe pick up cooking secrets along the way.
 
 ---
 
-### What Should You Bring?
+## What Should You Bring?
 
-- **Snacks & treats** — especially if you love sharing.  
-- **Cooler box or insulated bag** — we’ll provide ice cubes.  
-- **Your own drinks** — there’s no bar, so bring what you like.
+**🛍️ Essential items:**
+- **Snacks & treats** — especially if you love sharing  
+- **Cooler box or insulated bag** — we'll provide ice cubes  
+- **Your own drinks** — there's no bar, so bring what you like
 
-We've tried bars in the past. It was a hassle. Most people brought their own anyway. So let's keep it simple — bring your favorite drinks, a few to share, and we'll have space to store them properly.
+**🍞 Breakfast tip:** We provide the bread. You bring what you like on it — cheese, jam, pindakaas, or whatever fuels your morning glow.
 
-**Breakfast tip:** We’ll bring the bread. You bring what you like to put on it — cheese, jam, pindakaas, or whatever else fuels your morning glow.
+*We've tried bars before — it was a hassle and most people brought their own drinks anyway. Simple works better: bring your favorites, a few to share, and we'll have proper storage space.*
 
 ---
 
