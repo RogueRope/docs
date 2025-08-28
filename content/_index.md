@@ -12,7 +12,7 @@ title : "Oh Bondage! Up Yours!"
 **🗓️ When:** February 18-22, 2026 (18:00 → 16:00)  
 **📍 Where:** Mol, Belgium  
 **💰 Contribution:** €200  
-**🎫 Tickets:** [Available now]({{< ref "/practical/tickets" >}}) — limited spots
+**🎫 Tickets:** [Available now]({{< ref "/practical/participation" >}}) — limited spots
 
 ### Intro
 
@@ -49,17 +49,16 @@ Let's see what unfolds when we gather close in shared warmth.
 ### Your Journey Through This Site
 
 **First time here?** Follow this path:  
-1. ❓ [Who Is This For?](/concept/who-is-this-for) — Is this gathering right for you?
-2. 📍 [New Here?](/concept/new-here) — Gentle guidance if you're curious but unsure  
-3. 🌀 [Our Philosophy](/concept/differences) — Understand what makes us different  
-4. 🤝 [Being Together](/concept/expectations) — How we co-create this experience  
+1. ❓ [Getting Started](/concept/getting-started) — Is this gathering right for you?
+2. 🌀 [Our Philosophy](/concept/philosophy) — Understand what makes us different  
+3. 🤝 [The Experience](/concept/experience) — How we co-create this experience  
 5. 🎒 [Practical Details](/practical) — What you need to know  
-6. 🎫 [When you're ready to join us](/practical/tickets)
+6. 🎫 [When you're ready to join us](/practical/participation)
 
 **Returning from previous gatherings?** Jump to:  
-- [Post-Rope](/concept/post-rope) — Our gentle rebellion  
-- [Rituals & Portals](/concept/rituals) — The ceremonies that shape our time  
-- [Tickets](/practical/tickets) — Secure your spot
+- [Our Philosophy](/concept/philosophy) — Our gentle rebellion  
+- [The Experience](/concept/experience) — The ceremonies that shape our time  
+- [Participation](/practical/participation) — Secure your spot
 
 {{< /column >}}
 

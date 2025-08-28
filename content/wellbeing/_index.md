@@ -15,14 +15,9 @@ Whether you're feeling overwhelmed, excited, cautious, curious — you're not al
 
 ### Things You Might Want to Read
 
-- Learn about our [FWBs (our peer care volunteers)](/wellbeing/fwb) — our friendly, flirty, grounded-in-care connection crew.
-- Meet the [Consent Crew](/wellbeing/consent-crew) — our dedicated team for consent and boundary support.
-- Explore how we support [neurodiverse people](/wellbeing/neuro) with intentional access and presence.
-- Check in with our approach to [Emotional wellbeing](/wellbeing/emotional), both solo and collective.
-- Review our foundations around [Consent](/wellbeing/consent) — clear, enthusiastic, and always ongoing.
-- Discover how we practice [Conscious Care](/wellbeing/conscious-care) when things get tender or tough.
-- Reflect with our [Baggage Guide](/wellbeing/bagage) — on what you carry in, and what might be kinder to leave at the door.
-- Navigate play and relationships via our [Partners Guide](/wellbeing/partners) — roles, boundaries, and clear comms.
+- Learn about our [Consent & Safety](/wellbeing/consent-safety) framework — how we create safe containers for vulnerability and exploration.
+- Discover our [Support Systems](/wellbeing/support) — FWBs, emotional care, and neurodivergent inclusion.
+- Navigate [Relationships & Boundaries](/wellbeing/relationships) — whether you're arriving solo or with partners.
 
 ---
 

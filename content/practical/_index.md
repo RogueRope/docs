@@ -1,6 +1,19 @@
 ---
-title : "Practical"
-weight : 1
+title: "Practical"
+weight: 1
+---
+
+## Getting Real About the Details
+
+This is where theory meets practice. Where intention meets logistics. Where we turn "sounds amazing" into "here's exactly what you need to know."
+
+### Quick Navigation
+
+- [**Policies**](/practical/policies): FAQ, cancellations, photography, and respect guidelines
+- [**Logistics**](/practical/logistics): food, accommodations, and what to bring
+- [**Participation**](/practical/participation): tickets, merch, build day, and unconference
+- [**Performances**](/practical/performances): when rope meets the stage
+
 ---
 
 ## Before You Say Yes
