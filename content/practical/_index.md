@@ -33,7 +33,8 @@ They tend to find the magic first.
 
 We’ve gathered all the practicals so you can prepare with ease:
 
-- [**Food**](/practical/food): what we’re feeding you (and what to bring)
+- [**FAQ**](/practical/faq): quick answers to common questions
+- [**Food**](/practical/food): what we're feeding you (and what to bring)
 - [**Tickets**](/practical/tickets): how to get in
 - [**Things to Bring**](/practical/things-to-bring): your packing guide
 - [**Respect the Space**](/practical/leave-no-trace): how we respect our shared space
