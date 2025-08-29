@@ -8,13 +8,13 @@ t: 150
 toc: true
 ---
 
-{{< block "grid-2" >}}
+<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
 
-{{< column >}}
+<div class="hx-col-span-1">
 ![QR code to contact Oh Bondage! Up Yours! on WhatsApp.](/images/whatsappqr.png)
-{{< /column >}}
+</div>
 
-{{< column >}}
+<div class="hx-col-span-1">
 
 ## Got Questions?
 
@@ -22,7 +22,7 @@ Need to check something before you arrive?
 Want to run an idea past the team? Something unclear or confusing?
 Just reach out.
 
-We’re here for:
+We're here for:
 - Curious questions
 - Nerdy logistics
 - Weird edge cases
@@ -36,7 +36,7 @@ We’re here for:
 Message us on [WhatsApp](https://wa.me/32476870515), Signal, or Telegram:  
 **+32 476 87 05 15**
 
-We usually respond fast, but remember: this isn’t a call center. It’s still just us.
+We usually respond fast, but remember: this isn't a call center. It's still just us.
 
 ---
 
@@ -47,6 +47,26 @@ Write to us at [info@roguerope.be](mailto:info@roguerope.be)
 
 We check it often — especially as the event approaches.
 
-{{< /column >}}
+</div>
 
-{{< /block >}}
+</div>
+
+---
+
+<div class="hx-bg-gradient-to-r hx-from-gray-50 hx-to-slate-50 dark:hx-from-gray-800/30 dark:hx-to-slate-800/30 hx-p-8 hx-rounded-lg hx-text-center">
+
+## Want to explore more?
+
+Ready to dive deeper into what makes this gathering special?
+
+<div class="hx-mt-6">
+<a href="/" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-gray-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-gray-700 hx-transition-colors">
+  Back to Home →
+</a>
+</div>
+
+<div class="hx-mt-4 hx-text-sm text-outer-space">
+Or explore: <a href="/concept/getting-started" class="hx-underline hover:hx-no-underline">Is This For You?</a> • <a href="/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a>
+</div>
+
+</div>

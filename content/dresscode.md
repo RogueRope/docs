@@ -7,15 +7,15 @@ images: []
 toc: true
 ---
 
-{{< block "grid-2" >}}
+<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
 
-{{< column >}}
+<div class="hx-col-span-1">
 
 ![A person dressed in creative, mystical attire, embodying the 'Urban Mystics & Enchanted Souls' theme.](/images/dresscode.webp)
 
-{{< /column >}}
+</div>
 
-{{< column >}}
+<div class="hx-col-span-1">
 
 ### Dress Code: Urban Mystics & Enchanted Souls
 
@@ -49,10 +49,6 @@ Let your attire reflect the person within — or the one you long to become.
 
 ---
 
-
-
----
-
 ### Comfort is Sacred 
 How much (or how little) you dress up is your call.
 The space welcomes everyone — whether you're in elegant attire, comfortable loungewear, or creative expression.
@@ -63,6 +59,6 @@ And if you want to come as a purple hippo in a tutu? That's wonderfully expressi
 
 We can't wait to see who — or what — joins us.
 
-{{< /column >}}
+</div>
 
-{{< /block >}}
+</div>

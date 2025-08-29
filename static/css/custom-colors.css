@@ -1,0 +1,172 @@
+/* Custom Color Palette for Oh Bondage! Up Yours! */
+
+:root {
+  /* Cherry Blossom Pink */
+  --cherry-blossom-pink: #edafb8;
+  --cherry-blossom-pink-100: #430f17;
+  --cherry-blossom-pink-200: #871f2e;
+  --cherry-blossom-pink-300: #ca2e45;
+  --cherry-blossom-pink-400: #de6d7e;
+  --cherry-blossom-pink-500: #edafb8;
+  --cherry-blossom-pink-600: #f1c0c7;
+  --cherry-blossom-pink-700: #f4d0d5;
+  --cherry-blossom-pink-800: #f8dfe3;
+  --cherry-blossom-pink-900: #fbeff1;
+  
+  /* Champagne Pink */
+  --champagne-pink: #f7e1d7;
+  --champagne-pink-100: #4e230f;
+  --champagne-pink-200: #9b461f;
+  --champagne-pink-300: #d96f3e;
+  --champagne-pink-400: #e8a98b;
+  --champagne-pink-500: #f7e1d7;
+  --champagne-pink-600: #f9e8e0;
+  --champagne-pink-700: #faeee8;
+  --champagne-pink-800: #fcf4f0;
+  --champagne-pink-900: #fdf9f7;
+  
+  /* Timberwolf */
+  --timberwolf: #dedbd2;
+  --timberwolf-100: #322f25;
+  --timberwolf-200: #645d4a;
+  --timberwolf-300: #958b6f;
+  --timberwolf-400: #bab4a1;
+  --timberwolf-500: #dedbd2;
+  --timberwolf-600: #e5e3dc;
+  --timberwolf-700: #ebeae5;
+  --timberwolf-800: #f2f1ed;
+  --timberwolf-900: #f8f8f6;
+  
+  /* Ash Gray */
+  --ash-gray: #b0c4b1;
+  --ash-gray-100: #202a21;
+  --ash-gray-200: #405541;
+  --ash-gray-300: #607f62;
+  --ash-gray-400: #86a488;
+  --ash-gray-500: #b0c4b1;
+  --ash-gray-600: #c0d0c1;
+  --ash-gray-700: #d0dbd0;
+  --ash-gray-800: #e0e7e0;
+  --ash-gray-900: #eff3ef;
+  
+  /* Outer Space */
+  --outer-space: #4a5759;
+  --outer-space-100: #0f1112;
+  --outer-space-200: #1e2324;
+  --outer-space-300: #2d3435;
+  --outer-space-400: #3b4647;
+  --outer-space-500: #4a5759;
+  --outer-space-600: #6a7c7f;
+  --outer-space-700: #8e9ea0;
+  --outer-space-800: #b3bec0;
+  --outer-space-900: #d9dfdf;
+}
+
+/* Custom utility classes using the new color palette */
+.bg-cherry-blossom-pink { background-color: var(--cherry-blossom-pink) !important; }
+.bg-cherry-blossom-pink-50 { background-color: var(--cherry-blossom-pink-900) !important; }
+.bg-cherry-blossom-pink-100 { background-color: var(--cherry-blossom-pink-800) !important; }
+.bg-cherry-blossom-pink-200 { background-color: var(--cherry-blossom-pink-700) !important; }
+.bg-cherry-blossom-pink-300 { background-color: var(--cherry-blossom-pink-600) !important; }
+
+.bg-champagne-pink { background-color: var(--champagne-pink) !important; }
+.bg-champagne-pink-50 { background-color: var(--champagne-pink-900) !important; }
+.bg-champagne-pink-100 { background-color: var(--champagne-pink-800) !important; }
+.bg-champagne-pink-200 { background-color: var(--champagne-pink-700) !important; }
+.bg-champagne-pink-300 { background-color: var(--champagne-pink-600) !important; }
+
+.bg-timberwolf { background-color: var(--timberwolf) !important; }
+.bg-timberwolf-50 { background-color: var(--timberwolf-900) !important; }
+.bg-timberwolf-100 { background-color: var(--timberwolf-800) !important; }
+.bg-timberwolf-200 { background-color: var(--timberwolf-700) !important; }
+.bg-timberwolf-300 { background-color: var(--timberwolf-600) !important; }
+
+.bg-ash-gray { background-color: var(--ash-gray) !important; }
+.bg-ash-gray-50 { background-color: var(--ash-gray-900) !important; }
+.bg-ash-gray-100 { background-color: var(--ash-gray-800) !important; }
+.bg-ash-gray-200 { background-color: var(--ash-gray-700) !important; }
+.bg-ash-gray-300 { background-color: var(--ash-gray-600) !important; }
+
+.bg-outer-space { background-color: var(--outer-space) !important; }
+.bg-outer-space-50 { background-color: var(--outer-space-900) !important; }
+.bg-outer-space-100 { background-color: var(--outer-space-800) !important; }
+.bg-outer-space-200 { background-color: var(--outer-space-700) !important; }
+.bg-outer-space-300 { background-color: var(--outer-space-600) !important; }
+
+/* Gradient backgrounds using custom colors */
+.bg-gradient-cherry-champagne {
+  background: linear-gradient(to right, var(--cherry-blossom-pink-800), var(--champagne-pink-800)) !important;
+}
+
+.bg-gradient-ash-timberwolf {
+  background: linear-gradient(to right, var(--ash-gray-800), var(--timberwolf-800)) !important;
+}
+
+.bg-gradient-outer-space {
+  background: linear-gradient(to right, var(--outer-space-200), var(--outer-space-300)) !important;
+}
+
+/* Dark mode variants */
+.dark .bg-cherry-blossom-pink-50 { background-color: var(--cherry-blossom-pink-200) !important; }
+.dark .bg-cherry-blossom-pink-100 { background-color: var(--cherry-blossom-pink-300) !important; }
+.dark .bg-champagne-pink-50 { background-color: var(--champagne-pink-200) !important; }
+.dark .bg-champagne-pink-100 { background-color: var(--champagne-pink-300) !important; }
+.dark .bg-timberwolf-50 { background-color: var(--timberwolf-200) !important; }
+.dark .bg-timberwolf-100 { background-color: var(--timberwolf-300) !important; }
+.dark .bg-ash-gray-50 { background-color: var(--ash-gray-200) !important; }
+.dark .bg-ash-gray-100 { background-color: var(--ash-gray-300) !important; }
+.dark .bg-outer-space-50 { background-color: var(--outer-space-100) !important; }
+
+/* Enhanced contrast for text on colored backgrounds */
+.bg-cherry-blossom-pink-100, .bg-champagne-pink-100, .bg-timberwolf-100, .bg-ash-gray-100 {
+  color: var(--outer-space-200) !important;
+}
+
+.dark .bg-cherry-blossom-pink-100, .dark .bg-champagne-pink-100, .dark .bg-timberwolf-100, .dark .bg-ash-gray-100 {
+  color: var(--outer-space-900) !important;
+}
+
+/* Text colors */
+.text-cherry-blossom-pink { color: var(--cherry-blossom-pink) !important; }
+.text-champagne-pink { color: var(--champagne-pink) !important; }
+.text-timberwolf { color: var(--timberwolf) !important; }
+.text-ash-gray { color: var(--ash-gray) !important; }
+.text-outer-space { color: var(--outer-space) !important; }
+
+/* Border colors */
+.border-cherry-blossom-pink { border-color: var(--cherry-blossom-pink) !important; }
+.border-champagne-pink { border-color: var(--champagne-pink) !important; }
+.border-timberwolf { border-color: var(--timberwolf) !important; }
+.border-ash-gray { border-color: var(--ash-gray) !important; }
+.border-outer-space { border-color: var(--outer-space) !important; }
+
+/* Button styles using custom colors */
+.btn-cherry-blossom-pink {
+  background-color: var(--cherry-blossom-pink-300) !important;
+  color: var(--cherry-blossom-pink-100) !important;
+  border: 1px solid var(--cherry-blossom-pink-400) !important;
+}
+
+.btn-cherry-blossom-pink:hover {
+  background-color: var(--cherry-blossom-pink-400) !important;
+}
+
+.btn-ash-gray {
+  background-color: var(--ash-gray-300) !important;
+  color: var(--ash-gray-100) !important;
+  border: 1px solid var(--ash-gray-400) !important;
+}
+
+.btn-ash-gray:hover {
+  background-color: var(--ash-gray-400) !important;
+}
+
+.btn-outer-space {
+  background-color: var(--outer-space-300) !important;
+  color: var(--outer-space-900) !important;
+  border: 1px solid var(--outer-space-400) !important;
+}
+
+.btn-outer-space:hover {
+  background-color: var(--outer-space-400) !important;
+}

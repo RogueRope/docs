@@ -61,7 +61,41 @@ We’ve gathered all the practicals so you can prepare with ease:
 
 ---
 
-This isn’t just something you attend.  
-It’s something you help make.
+This isn't just something you attend.  
+It's something you help make.
 
 And it starts now.
+
+---
+
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
+
+## Before You Dive In
+
+**Still exploring?** These pages might help you decide:
+
+- [Is This For You?](/concept/getting-started) — Self-reflection for newcomers
+- [Core Philosophy](/concept/philosophy) — The values behind our approach  
+- [Experience Structure](/concept/experience) — What happens during the four days
+
+**Ready for support?** → [Care & Support](/wellbeing) — Consent, safety, and wellbeing resources
+
+</div>
+
+<div class="hx-bg-gradient-to-r hx-from-orange-50 hx-to-red-50 dark:hx-from-orange-900/20 dark:hx-to-red-900/20 hx-p-8 hx-rounded-lg hx-text-center">
+
+## Ready to join us?
+
+Now that you understand what you're stepping into, it's time to secure your spot and become part of this experience.
+
+<div class="hx-mt-6">
+<a href="/practical/participation" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-orange-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-orange-700 hx-transition-colors">
+  Get Your Ticket →
+</a>
+</div>
+
+<div class="hx-mt-4 hx-text-sm text-outer-space">
+Or explore: <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
+</div>
+
+</div>

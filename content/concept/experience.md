@@ -124,3 +124,19 @@ You don't have to dim your shine, your heat, your hunger.
 This is a place where kink lives beside care.  
 Where sex is sacred and messy and not up for anyone else's consumption.  
 Where play can look like fucking — or crying — or lying in intimate embrace, wrapped in rope and connection, with someone watching over you.
+
+---
+
+<div class="bg-cherry-blossom-pink-100 hx-p-6 hx-rounded-lg">
+
+## Explore Related Pages
+
+**Want to understand the why behind this experience?** → [Core Philosophy](/concept/philosophy) — The values that shape everything we do
+
+**Wondering if this is for you?** → [Is This For You?](/concept/getting-started) — Gentle guidance for self-reflection
+
+**Ready to join us?** → [Join Us](/practical) — Practical details about participation and tickets
+
+**Need support preparing?** → [Care & Support](/wellbeing) — Resources for consent, safety, and wellbeing
+
+</div>

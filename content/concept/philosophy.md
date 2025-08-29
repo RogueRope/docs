@@ -220,3 +220,19 @@ You might leave changed.
 Come if you're ready for something real.  
 Come if you're craving something deeply connective.  
 Come if you want to feel rope not just on your skin — but in your soul.
+
+---
+
+<div class="bg-timberwolf-100 hx-p-6 hx-rounded-lg">
+
+## Continue Your Journey
+
+**New to this philosophy?** → [Is This For You?](/concept/getting-started) — Self-reflection to see if this resonates  
+
+**Ready to understand the structure?** → [Experience Structure](/concept/experience) — How these ideals come alive over four days
+
+**Want to dive deeper?** → [Join Us](/practical) — Everything you need to know about participating
+
+**Looking for support?** → [Care & Support](/wellbeing) — Resources to help you prepare and thrive
+
+</div>

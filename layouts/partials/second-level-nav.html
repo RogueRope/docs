@@ -1,0 +1,105 @@
+{{- $currentSection := .Section -}}
+{{- $currentPage := .RelPermalink -}}
+
+<div class="hx-mt-12 hx-pt-8 hx-border-t hx-border-gray-200 dark:hx-border-gray-700">
+  
+  {{/* Section-specific navigation */}}
+  {{ if eq $currentSection "wellbeing" }}
+  <div class="bg-timberwolf-100 hx-p-6 hx-rounded-lg hx-mb-8">
+    <h3 class="hx-text-lg hx-font-semibold hx-mb-4 hx-text-outer-space">Wellbeing Resources</h3>
+    <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-3 hx-gap-4">
+      <a href="/wellbeing/consent-safety" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Consent & Safety</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">Framework for safe containers</span>
+      </a>
+      <a href="/wellbeing/support" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Support Systems</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">FWBs and emotional care</span>
+      </a>
+      <a href="/wellbeing/relationships" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Relationships & Boundaries</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">Solo or with partners</span>
+      </a>
+    </div>
+  </div>
+  {{ else if eq $currentSection "concept" }}
+  <div class="bg-cherry-blossom-pink-100 hx-p-6 hx-rounded-lg hx-mb-8">
+    <h3 class="hx-text-lg hx-font-semibold hx-mb-4 hx-text-outer-space">Core Concepts</h3>
+    <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-3 hx-gap-4">
+      <a href="/concept/philosophy" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Core Philosophy</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">Values behind our approach</span>
+      </a>
+      <a href="/concept/getting-started" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Is This For You?</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">Self-reflection guide</span>
+      </a>
+      <a href="/concept/experience" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Experience Structure</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">How four days unfold</span>
+      </a>
+    </div>
+  </div>
+  {{ else if eq $currentSection "practical" }}
+  <div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
+    <h3 class="hx-text-lg hx-font-semibold hx-mb-4 hx-text-outer-space">Practical Information</h3>
+    <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-3 hx-gap-4">
+      <a href="/practical/participation" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Participation</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">Tickets and joining us</span>
+      </a>
+      <a href="/practical/logistics" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Logistics</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">Food, accommodations, what to bring</span>
+      </a>
+      <a href="/practical/policies" class="hx-block hx-p-3 hx-bg-white hx-rounded-lg hover:hx-bg-gray-50 hx-transition-colors">
+        <strong>Policies</strong><br>
+        <span class="hx-text-sm hx-text-gray-600">FAQ, cancellations, guidelines</span>
+      </a>
+    </div>
+  </div>
+  {{ end }}
+
+  {{/* Global main section navigation */}}
+  <div class="hx-bg-gradient-to-r hx-from-champagne-pink-50 hx-to-cherry-blossom-pink-50 dark:hx-from-champagne-pink-900/20 dark:hx-to-cherry-blossom-pink-900/20 hx-p-8 hx-rounded-lg hx-text-center">
+    <h3 class="hx-text-xl hx-font-bold hx-mb-6 hx-text-outer-space">Continue Your Journey</h3>
+    
+    <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 lg:hx-grid-cols-4 hx-gap-6">
+      <div class="hx-text-center">
+        <a href="/concept/getting-started" class="hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-bg-cherry-blossom-pink hx-text-white hx-rounded-lg hover:hx-bg-cherry-blossom-pink-dark hx-transition-colors hx-mb-2">
+          Getting Started
+        </a>
+        <p class="hx-text-sm hx-text-gray-600">Is this for you?</p>
+      </div>
+      
+      <div class="hx-text-center">
+        <a href="/concept" class="hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-bg-timberwolf hx-text-outer-space hx-rounded-lg hover:hx-bg-timberwolf-dark hx-transition-colors hx-mb-2">
+          The Experience
+        </a>
+        <p class="hx-text-sm hx-text-gray-600">Core concepts</p>
+      </div>
+      
+      <div class="hx-text-center">
+        <a href="/practical" class="hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-bg-ash-gray hx-text-white hx-rounded-lg hover:hx-bg-ash-gray-dark hx-transition-colors hx-mb-2">
+          Join Us
+        </a>
+        <p class="hx-text-sm hx-text-gray-600">Practical details</p>
+      </div>
+      
+      <div class="hx-text-center">
+        <a href="/wellbeing" class="hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-bg-outer-space hx-text-white hx-rounded-lg hover:hx-bg-gray-700 hx-transition-colors hx-mb-2">
+          Care & Support
+        </a>
+        <p class="hx-text-sm hx-text-gray-600">Wellbeing resources</p>
+      </div>
+    </div>
+
+    <div class="hx-mt-8 hx-pt-4 hx-border-t hx-border-gray-200 dark:hx-border-gray-600">
+      <p class="hx-text-sm hx-text-gray-600 hx-mb-3">Need help or have questions?</p>
+      <a href="/contact" class="hx-inline-flex hx-items-center hx-px-6 hx-py-2 hx-bg-champagne-pink hx-text-outer-space hx-rounded-lg hover:hx-bg-champagne-pink-dark hx-transition-colors">
+        Contact Us
+      </a>
+    </div>
+  </div>
+
+</div>

@@ -17,7 +17,10 @@
       "Bash(git add:*)",
       "Bash(git push:*)",
       "Bash(gh issue:*)",
-      "mcp__sequential-thinking__sequentialthinking"
+      "mcp__sequential-thinking__sequentialthinking",
+      "WebFetch(domain:imfing.github.io)",
+      "WebFetch(domain:github.com)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []

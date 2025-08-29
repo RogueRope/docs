@@ -1,18 +1,158 @@
 baseURL = "https://docs.roguerope.be/"
 title = "Oh Bondage! Up Yours!"
 enableRobotsTXT = true
-# this example loads the theme as hugo module
-# comment out line below, and uncomment the line after it if you prefer to load the theme normally
-# theme = ["github.com/roguerope/compose"] # edit this if you'ld rather use a fork of this repon
-theme = "compose"
 enableGitInfo = true
 
-enableDarkMode = true # set to false to disable darkmode by default # user will still have the option to use dark mode
-defaultLightingMode = "dark" # other possible values: "dark", "light"
-enforceDarkMode = true
+languageCode = "en"
+defaultContentLanguage = "en"
 
+[pagination]
+  pagerSize = 10
 
-# disableKinds = ["taxonomy", "taxonomyTerm"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    tabWidth = 2
+
+[module]
+  [[module.imports]]
+    path = "github.com/imfing/hextra"
 
 [outputs]
-  home = ["HTML", "RSS","JSON"]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "Oh Bondage! Up Yours!"
+
+[params]
+  description = "A sanctuary for rope as ritual, connection over performance, and consent as sacred practice."
+  
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+
+  [params.footer]
+    enable = true
+    displayCopyright = false
+    displayPoweredBy = true
+
+  [params.editPage]
+    enable = true
+    base = "https://github.com/RogueRope/docs/edit/winter26/content"
+
+  [params.search]
+    enable = true
+    type = "flexsearch"
+
+# Menu configuration - Story-driven navigation
+[[menu.main]]
+  name = "Is This For You?"
+  pageRef = "/concept/getting-started"
+  weight = 1
+
+[[menu.main]]
+  name = "The Experience"
+  pageRef = "/concept"
+  weight = 2
+
+[[menu.main]]
+  name = "Join Us"
+  pageRef = "/practical"
+  weight = 3
+
+[[menu.main]]
+  name = "Care & Support"
+  pageRef = "/wellbeing"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 5
+
+# Sidebar menu - Simplified and story-driven
+[[menu.sidebar]]
+  name = "Getting Started"
+  pageRef = "/concept/getting-started"
+  weight = 1
+
+[[menu.sidebar]]
+  name = "The Experience"
+  pageRef = "/concept"
+  weight = 2
+
+[[menu.sidebar]]
+  name = "Philosophy"
+  pageRef = "/concept/philosophy"
+  parent = "The Experience"
+  weight = 1
+
+[[menu.sidebar]]
+  name = "What Happens"
+  pageRef = "/concept/experience"
+  parent = "The Experience"
+  weight = 2
+
+[[menu.sidebar]]
+  name = "Join Us"
+  pageRef = "/practical"
+  weight = 3
+
+[[menu.sidebar]]
+  name = "Participation"
+  pageRef = "/practical/participation"
+  parent = "Join Us"
+  weight = 1
+
+[[menu.sidebar]]
+  name = "Logistics"
+  pageRef = "/practical/logistics"
+  parent = "Join Us"
+  weight = 2
+
+[[menu.sidebar]]
+  name = "Performances"
+  pageRef = "/practical/performances"
+  parent = "Join Us"
+  weight = 3
+
+[[menu.sidebar]]
+  name = "Policies"
+  pageRef = "/practical/policies"
+  parent = "Join Us"
+  weight = 4
+
+[[menu.sidebar]]
+  name = "Care & Support"
+  pageRef = "/wellbeing"
+  weight = 4
+
+[[menu.sidebar]]
+  name = "Consent & Safety"
+  pageRef = "/wellbeing/consent-safety"
+  parent = "Care & Support"
+  weight = 1
+
+[[menu.sidebar]]
+  name = "Relationships"
+  pageRef = "/wellbeing/relationships"
+  parent = "Care & Support"
+  weight = 2
+
+[[menu.sidebar]]
+  name = "Support"
+  pageRef = "/wellbeing/support"
+  parent = "Care & Support"
+  weight = 3

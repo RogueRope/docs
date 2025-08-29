@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Is This For You?
 description: "A gentle guide for newcomers and those wondering if this gathering is right for them"
 lead: "You don't have to know. You just have to want to find out."
 date: 2025-08-28T00:00:00+00:00
@@ -8,21 +8,27 @@ weight: 20
 toc: true
 ---
 
-## New Here?
+<div class="bg-gradient-cherry-champagne hx-p-8 hx-rounded-lg hx-mb-12">
 
-Maybe you've never been to a rope gathering before.
-Maybe you've never been naked in public.
-Maybe you've never shared intimate space with strangers.
-Maybe you've never said out loud that you're kinky.
+# New Here? Welcome.
+
+Maybe you've never been to a rope gathering before.  
+Maybe you've never been naked in public.  
+Maybe you've never shared intimate space with strangers.  
+Maybe you've never said out loud that you're kinky.  
 Maybe you're not even sure if you are.
 
-That's okay.
+**That's okay.**
 
 You don't have to arrive confident. Or experienced. Or loud.  
 You don't have to tie. You don't have to undress. You don't have to explain.  
 You just have to be curious. And kind. And willing to feel.
 
+</div>
+
 ---
+
+<div class="bg-timberwolf-100 hx-p-6 hx-rounded-lg hx-mb-8">
 
 ## This is Not a Place for Experts
 
@@ -34,7 +40,11 @@ If you're worried you won't know how to start a conversation — you're not alon
 
 If you're afraid you'll be the only one who doesn't know how it all works — you won't be. We celebrate beginners. We honor questions. We welcome quiet.
 
-You belong here as you are.
+**You belong here as you are.**
+
+*Want to understand the deeper philosophy behind this approach?* → [Core Philosophy](/concept/philosophy)
+
+</div>
 
 ### What if I don't want to do rope?
 
@@ -120,6 +130,8 @@ Ask yourself:
 
 If you're feeling "YES" — even a nervous, excited, uncertain yes — then this might be exactly what you need.
 
+*Ready to see what this looks like in practice?* → [Experience Structure](/concept/experience)
+
 If you're feeling "maybe" or "I'm not sure" — that's perfectly valid too. Trust your instincts. There are many beautiful gatherings in the world. This one might not be yours right now, and that's okay.
 
 ---
@@ -130,10 +142,24 @@ You don't need to be ready. You just need to be here.
 
 Come as you are. We'll meet you there.
 
-**Ready to explore further?**
+---
 
-👉 [Our Philosophy](/concept/philosophy) — What makes this gathering unique  
-👉 [Practical Details](/practical) — Everything you need to know about logistics  
-👉 [Get your ticket](/practical/participation) — Join us for this intimate exploration
+<div class="bg-gradient-cherry-champagne hx-p-8 hx-rounded-lg hx-text-center">
+
+## Ready to continue your journey?
+
+**If this feels like a YES**, your next step is to understand what makes this gathering unique.
+
+<div class="hx-mt-6">
+<a href="/concept" class="btn-cherry-blossom-pink hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-text-lg hx-rounded-lg hx-mr-4">
+  Explore The Experience →
+</a>
+</div>
+
+<div class="hx-mt-4 hx-text-sm text-outer-space">
+Or jump ahead: <a href="/practical/participation" class="hx-underline hover:hx-no-underline">Join Us</a> • <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact</a>
+</div>
+
+</div>
 
 *Trust your knowing. Honor your boundaries. Follow what calls to your heart.*
