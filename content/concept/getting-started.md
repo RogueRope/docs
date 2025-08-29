@@ -100,6 +100,8 @@ Four days to step away from rush culture. To breathe. To be present. To let inti
 
 **You're not ready to engage with emotions** — rope brings up feelings. Ours, others', unexpected ones. We hold that tenderly, but it happens.
 
+**You're uncomfortable witnessing sexual expression** — while no one is required to participate sexually, intimate and sexual interactions will happen around you. If seeing others kiss, touch, or engage sexually makes you uncomfortable or triggers you, this gathering may not be right for you.
+
 **You're seeking a party atmosphere** — this is contemplative, intentional, and sometimes quiet. Fun, yes. Wild party, no.
 
 ---

@@ -167,5 +167,6 @@ Leave no mess. Leave beauty instead.
 - If someone says no to you, accept it gracefully
 - Watch for non-verbal signs of discomfort
 - When in doubt, check in verbally
+- **Be open with play partners about your state of mind and any substances that may alter it** — this includes alcohol, cannabis, prescription medications, or any other legal or illegal substances that might affect your judgment, perception, or ability to give informed consent
 
 Remember: This isn't just about physical safety, but emotional and energetic well-being too.

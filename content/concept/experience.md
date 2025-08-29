@@ -16,9 +16,9 @@ This isn't a scheduled program. It's a gentle container for what wants to emerge
 
 ---
 
-## Tuesday – Build Begins
+## Wednesday Afternoon – Build Begins
 
-Come early if you can.  
+Come early if you can.
 Not because we need help (though we do), but because this is one of the best ways to arrive.
 
 There's something sacred about shaping the space before it holds us.
@@ -88,53 +88,6 @@ What matters is that you came at all.
 
 ---
 
-## Sacred Thresholds
-
-Rituals aren't performances here.  
-They're **collective spells** — moments where we step through together.
-
-These are the ceremonies that punctuate our time, creating portals between ordinary life and the depth we're here to explore.
-
-### Circle of Trust
-*Wednesday Night*
-
-We arrive scattered from our separate lives. We leave connected.
-
-This is our guided journey into shared presence — a gentle ritual to help you land in your body, in this space, with these people. Not an icebreaker. An invitation to arrive fully.
-
-We share names (chosen ones welcome). We speak our hopes and fears. We begin to see each other.
-
-### Portal of Passage  
-*Thursday Morning*
-
-Not a rope tutorial. An embodied invitation.
-
-This isn't about learning technique. It's about learning presence. About consent as a living practice. About really arriving — in your body, in relationship, in this moment.
-
-We explore touch, boundaries, and the delicate dance of asking and receiving. By the end, you'll know how to begin — not just with rope, but with each other.
-
-### The Desire Market
-*When it emerges*
-
-Trade wants. Name needs. Find matches.
-
-No apps. No swipes. Just honest human negotiation. A structured space to speak desires out loud, to hear others', to discover unexpected connections.
-
-This is where the magic of "I didn't know I wanted that" happens. Where shy proposals become shared adventures. Where fantasy meets reality through brave conversations.
-
-Some call it speed dating for kinksters. We call it sacred commerce — the tender exchange of yearnings.
-
-### Closing Circle
-*Sunday Afternoon*
-
-How we complete. Together.
-
-We don't just pack up and scatter. We gather one final time to witness what happened, to honor what changed, to speak gratitude for what we received.
-
-Tears welcome. Hugging probable. Silence honored.
-
----
-
 ## The Playground Is Wide
 
 ## Rope Is Just the Beginning
@@ -171,14 +124,3 @@ You don't have to dim your shine, your heat, your hunger.
 This is a place where kink lives beside care.  
 Where sex is sacred and messy and not up for anyone else's consumption.  
 Where play can look like fucking — or crying — or lying in intimate embrace, wrapped in rope and connection, with someone watching over you.
-
-### Play Spaces
-
-We've designed multiple areas for different kinds of connection:
-
-- **Rope Jam Spaces** — Open areas for tying, untying, and everything in between
-- **Quiet Intimacy Rooms** — For softer connections, conversations, and rest
-- **Sensation Play Areas** — For exploring impact, temperature, and touch
-- **Community Lounge** — For hanging out, sharing meals, and casual connection
-
-Each space has its own energy and agreements. We'll orient you when you arrive.

@@ -8,14 +8,14 @@ weight: 20
 toc: true
 ---
 
-## Build Day - Tuesday
+## Build Day - Wednesday Afternoon
 
 ### Arrival flows into build.
 
 Oh Bondage! Up Yours! doesn't just *appear*.  
 It's built — by hands, by hearts, by you.
 
-Our gathering now begins on **Tuesday**, with **Build Day** folded into the experience itself. No separation. No staff. Just a space, some rope, and a growing circle of people making it real.
+Our gathering now begins on **Wednesday afternoon**, with **Build Day** folded into the experience itself. No separation. No staff. Just a space, some rope, and a growing circle of people making it real.
 
 This is your invitation to be part of the beginning.
 
@@ -26,7 +26,7 @@ You just need to show up.
 
 We'll hang lights, set up suspension points, decorate the space, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
 
-Come early. Arrive Tuesday if you can.  
+Come early. Arrive Wednesday afternoon if you can.
 This is one of the best ways to meet people, soften into the vibe, and become part of the magic *before* it officially begins.
 
 ---

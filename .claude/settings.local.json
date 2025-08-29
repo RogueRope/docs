@@ -16,7 +16,8 @@
       "Bash(chmod:*)",
       "Bash(git add:*)",
       "Bash(git push:*)",
-      "Bash(gh issue:*)"
+      "Bash(gh issue:*)",
+      "mcp__sequential-thinking__sequentialthinking"
     ],
     "deny": [],
     "ask": []

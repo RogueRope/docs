@@ -75,8 +75,7 @@ Your ticket includes:
 
 - **Full payment** at time of booking
 - **Payment plans** available (contact us to arrange)
-- **Sliding scale** options for financial hardship
-- **Work exchange** opportunities (limited spots)
+- **Reduced payment** available (contact us to arrange)
 
 ---
 
@@ -111,60 +110,7 @@ What could you bring?
 We're here for the offbeat, the half-formed, the personal.  
 If you care about it, someone else probably does too.
 
-### How It Works
 
-- **Thursday morning**: Unconference board opens
-- **Post your offering**: Write it on a sticky note, find a time slot
-- **Show up**: Honor your commitment, but don't stress perfection
-- **Participate**: Attend others' offerings, bring curiosity and respect
-
-Sessions can be 30 minutes to 2 hours. They can be structured workshops, open discussions, or experimental collaborations. The only requirement is that they serve the collective exploration.
-
----
-
-## Merchandise: Take Something Home
-
-### A Shirt Worth Tying Yourself Into
-
-Want to bring a piece of Oh Bondage! Up Yours! home with you?
-We've got a limited run of t-shirts — soft, sustainable, and cut for bodies that move.
-
-**Details:**
-* Fairly made  
-* 100% cotton  
-* 150 g/m² — light but durable  
-* **Cost: €25** (add it when you buy your ticket)
-
-### The Design
-
-A hand-drawn knot heart on deep plum.
-"Oh Bondage! Up Yours!" coils around it in rough white lines.
-It whispers and shouts all at once.
-
-### How to Order
-
-You'll have the option to buy a shirt during the ticket checkout process. No need to decide now — but sizes will be limited, so best not to wait.
-
-### Sizing
-
-We carry sizes XS through 3XL. The shirts have a relaxed, comfortable fit that works well for all body types. When in doubt, size up for comfort during movement and play.
-
-**Size Guide:**
-- XS: Chest 44-46cm
-- S: Chest 48-50cm  
-- M: Chest 52-54cm
-- L: Chest 56-58cm
-- XL: Chest 60-62cm
-- XXL: Chest 64-66cm
-- 3XL: Chest 68-70cm
-
-### Why We Made This
-
-This isn't about profit or branding. It's about having something tangible to connect you back to the experience when you return to everyday life. 
-
-When you wear this shirt, you're carrying a piece of the magic with you. You're part of a quiet community of people who've been brave enough to explore what it means to connect authentically.
-
-Sometimes, when you're back in the regular world feeling alone or disconnected, this shirt is a thread back to something real.
 
 ---
 

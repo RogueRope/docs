@@ -32,8 +32,8 @@ If it’s not, that’s okay too. Honoring your limits is one of the most powerf
 
 ## Build Day = Shared Beginnings
 
-The gathering opens on **Tuesday** with **Build Day**.
-This isn’t about hard labor or special skills — it’s about power in numbers.  
+The gathering opens on **Wednesday afternoon** with **Build Day**.
+This isn’t about hard labor or special skills — it’s about power in numbers.
 One of the easiest ways to meet people and start feeling the flow *before* things begin.
 
 Come hang lights. Arrange the lounge areas. Make coffee. Set up creative installations. Add your energy. Every bit helps.
