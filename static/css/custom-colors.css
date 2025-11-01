@@ -309,16 +309,18 @@ aside > div {
   gap: 1rem;
   padding: 1.5rem;
   border-radius: 0.75rem;
-  border: 2px solid;
+  border: 2px solid #e5e3e0;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
 }
 
 /* Mobile navigation dropdown */
 details {
-  border: 2px solid;
+  border: 2px solid #e5e3e0;
   border-radius: 0.75rem;
   padding: 1.25rem;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
 }
 
 details summary {
@@ -338,5 +340,5 @@ details summary:hover {
 details > div {
   margin-top: 1.25rem;
   padding-top: 1.25rem;
-  border-top: 2px solid;
+  border-top: 2px solid #e5e3e0;
 }
