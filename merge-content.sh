@@ -1,67 +1,64 @@
 #!/bin/bash
 
-# Script to merge all Markdown files in the content directory into one file
-# Usage: ./merge-content.sh [output_file]
+# Script to merge all content markdown files into a single file for review
+# Usage: ./merge-content.sh [output-file]
 
 OUTPUT_FILE="${1:-merged-content.md}"
-CONTENT_DIR="./content"
+CONTENT_DIR="content"
 
-# Check if content directory exists
-if [ ! -d "$CONTENT_DIR" ]; then
-    echo "Error: Content directory '$CONTENT_DIR' not found!"
-    exit 1
-fi
+# Create output file with header
+{
+    echo "# Bottoms Up! - Complete Content Dump"
+    echo ""
+    echo "Generated: $(date)"
+    echo "Total files: $(find "$CONTENT_DIR" -name "*.md" | wc -l)"
+    echo ""
+    echo "---"
+    echo ""
+} > "$OUTPUT_FILE"
 
-# Create/clear the output file
-echo "# Merged Content from $CONTENT_DIR" > "$OUTPUT_FILE"
-echo "" >> "$OUTPUT_FILE"
-echo "Generated on: $(date)" >> "$OUTPUT_FILE"
-echo "" >> "$OUTPUT_FILE"
-
-# Add navigation menu
-echo "" >> "$OUTPUT_FILE"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" >> "$OUTPUT_FILE"
-echo "# 🧭 Navigation Menu (from config/_default/menus/menu.en.toml)" >> "$OUTPUT_FILE"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" >> "$OUTPUT_FILE"
-echo "" >> "$OUTPUT_FILE"
-cat "./config/_default/menus/menu.en.toml" >> "$OUTPUT_FILE"
-echo "" >> "$OUTPUT_FILE"
-
-
-# Function to add a file to the merged output
-add_file() {
-    local file="$1"
-    local relative_path="${file#$CONTENT_DIR/}"
-    
-    echo "Adding: $relative_path"
-    
-    # Add separator and file header
-    echo "" >> "$OUTPUT_FILE"
-    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" >> "$OUTPUT_FILE"
-    echo "# 📄 $relative_path" >> "$OUTPUT_FILE"
-    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" >> "$OUTPUT_FILE"
-    echo "" >> "$OUTPUT_FILE"
-    
-    # Extract title from frontmatter if it exists
-    if head -1 "$file" | grep -q "^---$"; then
-        local title=$(sed -n '/^---$/,/^---$/p' "$file" | grep -i "^title" | sed 's/.*: *"\?\(.*\)"\?$/\1/')
-        if [ -n "$title" ]; then
-            echo "**Title:** $title" >> "$OUTPUT_FILE"
-            echo "" >> "$OUTPUT_FILE"
-        fi
-    fi
-    
-    # Add the file content
-    cat "$file" >> "$OUTPUT_FILE"
-    echo "" >> "$OUTPUT_FILE"
-    echo "" >> "$OUTPUT_FILE"
-}
-
-# Find and process all .md files, excluding CSV files
+# Find all markdown files, sorted by path
 find "$CONTENT_DIR" -name "*.md" -type f | sort | while read -r file; do
-    add_file "$file"
+    # Get relative path from content directory
+    relative_path="${file#$CONTENT_DIR/}"
+
+    # Extract section from path (concept, practical, wellbeing, etc.)
+    section=$(echo "$relative_path" | cut -d'/' -f1)
+
+    # Get filename without extension
+    filename=$(basename "$file" .md)
+
+    # Add file separator and metadata
+    echo "## FILE: $relative_path" >> "$OUTPUT_FILE"
+    echo "**Section:** $section | **File:** $filename" >> "$OUTPUT_FILE"
+    echo "" >> "$OUTPUT_FILE"
+
+    # Add the content of the file
+    cat "$file" >> "$OUTPUT_FILE"
+
+    # Add separator between files
+    echo "" >> "$OUTPUT_FILE"
+    echo "---" >> "$OUTPUT_FILE"
+    echo "" >> "$OUTPUT_FILE"
 done
 
-echo ""
-echo "Merge complete! Output written to: $OUTPUT_FILE"
-echo "Total files processed: $(find "$CONTENT_DIR" -name "*.md" -type f | wc -l)"
+# Add summary at the end
+{
+    echo ""
+    echo "---"
+    echo ""
+    echo "# End of Content Dump"
+    echo ""
+    echo "**Total sections found:**"
+    echo ""
+    find "$CONTENT_DIR" -mindepth 1 -maxdepth 1 -type d | sort | while read -r section; do
+        section_name=$(basename "$section")
+        file_count=$(find "$section" -name "*.md" -type f | wc -l)
+        echo "- **$section_name**: $file_count files"
+    done
+} >> "$OUTPUT_FILE"
+
+echo "✅ Content merged successfully!"
+echo "📄 Output: $OUTPUT_FILE"
+echo "📊 Total lines: $(wc -l < "$OUTPUT_FILE")"
+echo "💾 File size: $(du -h "$OUTPUT_FILE" | cut -f1)"

@@ -53,7 +53,7 @@ We've built these policies with trust in mind — and trust goes both ways.
 
 ### If We Have to Cancel
 
-If Oh Bondage! Up Yours! can't legally take place — due to public-health orders, safety directives, or other force-majeure conditions — we'll cancel the gathering. And if that happens, **you'll get a full refund**.
+If Bottoms Up! can't legally take place — due to public-health orders, safety directives, or other force-majeure conditions — we'll cancel the gathering. And if that happens, **you'll get a full refund**.
 
 No hidden fees. No penalties.  
 If you paid X euros, we'll return X euros. Simple.
@@ -78,7 +78,7 @@ We know this isn't perfect for every situation. If you're facing genuine hardshi
 
 ### This is a private space. That includes your camera roll.
 
-Oh Bondage! Up Yours! is a place where people come to be real — raw, soft, naked, messy, tender, fierce. That kind of openness requires deep trust.
+Bottoms Up! is a place where people come to be real — raw, soft, naked, messy, tender, fierce. That kind of openness requires deep trust.
 
 **Core Rule: No photos or videos without explicit consent. Ever.**  
 That means every person in frame — foreground or background.  
@@ -110,7 +110,7 @@ Please:
 
 ### The Space Holds Us. Let's Hold It, Too.
 
-Oh Bondage! Up Yours! takes place in a shared, welcoming space — and we want to keep it that way. That means leaving our shared space as we found it. No damage. No burden for someone else to clean up.
+Bottoms Up! takes place in a shared, welcoming space — and we want to keep it that way. That means leaving our shared space as we found it. No damage. No burden for someone else to clean up.
 
 We treat the space like we treat each other: with care, with respect, and with attention.
 

@@ -17,7 +17,7 @@ toc: true
 A ticket isn't just entry — it's commitment.  
 To show up. To co-create. To meet this intensity with presence.
 
-Securing your spot at Oh Bondage! Up Yours! is simple — but we ask that you move slowly. This isn't just about clicking "buy." It's about saying yes, with your whole self.
+Securing your spot at Bottoms Up! is simple — but we ask that you move slowly. This isn't just about clicking "buy." It's about saying yes, with your whole self.
 
 </div>
 

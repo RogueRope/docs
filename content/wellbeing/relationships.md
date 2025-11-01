@@ -98,7 +98,7 @@ And stay open to what's possible.
 ### Before You Cross the Threshold
 
 Every one of us carries stories: heartbreaks, unresolved fights, jealousy, shame, grief, burnout.
-That's human. It's also **volatile tinder** in a space like Oh Bondage! Up Yours!—where intensity, intimacy, and erotic charge run high.
+That's human. It's also **volatile tinder** in a space like Bottoms Up!—where intensity, intimacy, and erotic charge run high.
 
 Here's the truth:
 
@@ -192,4 +192,4 @@ Remember: Boundary-setting is an act of care for both yourself and the community
 
 Kindly—and courageously—leave it at the door.
 
-![Suitcase left at a doorway, with cozy lights glowing beyond.](/images/rrw26/baggage.png)
+![Suitcase left at a doorway, with cozy lights glowing beyond.](/images/rrc25/baggage.png)

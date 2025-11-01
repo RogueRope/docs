@@ -12,7 +12,7 @@ toc: true
 
 ### Arrival flows into build.
 
-Oh Bondage! Up Yours! doesn't just *appear*.  
+Bottoms Up! doesn't just *appear*.
 It's built — by hands, by hearts, by you.
 
 Our gathering now begins on **Wednesday afternoon**, with **Build Day** folded into the experience itself. No separation. No staff. Just a space, some rope, and a growing circle of people making it real.

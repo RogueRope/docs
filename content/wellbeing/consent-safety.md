@@ -122,7 +122,7 @@ Consent Crew members will be clearly identified during the opening circle. We'll
 
 ### Care is not just what we do for each other — it's what we do *with* each other.
 
-Oh Bondage! Up Yours! isn't staffed. It's shared. That means the space only holds us as well as **we** hold it.
+Bottoms Up! isn't staffed. It's shared. That means the space only holds us as well as **we** hold it.
 
 This isn't about being tidy. It's about being *conscious*.  
 Of your body. Your stuff. Your impact. The people beside you.

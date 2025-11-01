@@ -11,7 +11,7 @@ toc: true
 ## FWBs: Friends With Benefits
 *Yes, the good kind.*
 
-At Oh Bondage! Up Yours!, care isn't something the organizers provide.
+At Bottoms Up!, care isn't something the organizers provide.
 It's something **we all create** — together, moment by moment.
 
 This year, anyone can be an FWB. And we mean anyone.
@@ -64,7 +64,7 @@ Remember: FWBs are peers, not professional counselors. We offer care within our 
 
 ### Emotional Safety Matters Just as Much as Physical Safety
 
-Oh Bondage! Up Yours! can stir a lot.
+Bottoms Up! can stir a lot.
 Connection. Intensity. Joy. Tenderness.
 And sometimes — disorientation, overwhelm, or loneliness.
 
@@ -109,7 +109,7 @@ You can also always approach:
 
 ### Neurodivergence Is Welcome. So Is Self-Knowing.
 
-Oh Bondage! Up Yours! welcomes the full spectrum of how brains and bodies move through the world.
+Bottoms Up! welcomes the full spectrum of how brains and bodies move through the world.
 
 Autism, ADHD, anxiety, PTSD, sensory sensitivity, dyslexia, executive dysfunction, social burnout, panic loops, self-medication…  
 Whatever you're navigating — you're not too much, and you're not alone.

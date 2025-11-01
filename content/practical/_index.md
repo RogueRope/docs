@@ -7,57 +7,41 @@ weight: 1
 
 This is where theory meets practice. Where intention meets logistics. Where we turn "sounds amazing" into "here's exactly what you need to know."
 
-### Quick Navigation
+### Before You Arrive
 
-- [**Policies**](/practical/policies): FAQ, cancellations, photography, and respect guidelines
-- [**Logistics**](/practical/logistics): food, accommodations, and what to bring
-- [**Participation**](/practical/participation): tickets, merch, build day, and unconference
-- [**Performances**](/practical/performances): when rope meets the stage
+Are you ready to meet this intensity with care? Can you engage without burning out? Is now the right moment for this kind of dive?
+
+We'd love to have you — *if* it's a true yes.
+
+**Quick Navigation:**
+
+#### Getting In
+- [**Getting There**](/practical/getting-there) — Travel, parking, how to arrive
+- [**Participation & Tickets**](/practical/participation) — Register, pricing, payment options
+- [**FAQ**](/practical/faq) — Common questions answered
+
+#### Accommodations & Packing
+- [**Accommodations**](/practical/accommodations) — Where you'll sleep, communal living, room options
+- [**Things to Bring**](/practical/things-to-bring) — Complete packing checklist
+- [**Event Logistics**](/practical/logistics) — Food schedule, Build Day details
+- [**Leave No Trace**](/practical/leave-no-trace) — How we care for the space together
+
+#### Important Policies & Info
+- [**Photography Guidelines**](/practical/photography-guidelines) — Consent, how photos are taken, opting out
+- [**Photo Privacy & Sharing**](/practical/photo-privacy-sharing) — Storage, sharing rules, intimate imagery
+- [**Cancellation & Refund Policy**](/practical/cancellation-policy) — Refund timeline and process
+- [**Ticket Transfers & Resale**](/practical/ticket-transfers) — How to resell, defer, or handle emergencies
+- [**Merchandise**](/practical/merchandise) — Available items and how to order
+- [**Merch Details & Care**](/practical/merch-details) — Sizing, environmental impact, FAQs
+- [**Performances**](/practical/performances) — Special performances and offerings
 
 ---
 
-## Before You Say Yes
+## After the Gathering
 
-Take a breath.  
-Oh Bondage! Up Yours! isn't just a gathering — it's a full-body, full-heart experience. It can stretch you. It might stir things up. That’s part of the beauty. And also part of the reason to pause and ask:
+The experience doesn't end when you leave.
 
-Are you ready to meet this intensity with care?  
-Can you engage without burning out?  
-Is now the right moment for this kind of dive?
-
-We’d love to have you — *if* it’s a true yes.  
-If it’s not, that’s okay too. Honoring your limits is one of the most powerful forms of self-respect we know.
-
----
-
-## Build Day = Shared Beginnings
-
-The gathering opens on **Wednesday afternoon** with **Build Day**.
-This isn’t about hard labor or special skills — it’s about power in numbers.
-One of the easiest ways to meet people and start feeling the flow *before* things begin.
-
-Come hang lights. Arrange the lounge areas. Make coffee. Set up creative installations. Add your energy. Every bit helps.
-
-And trust us: the people who show up early?  
-They tend to find the magic first.
----
-
-## Explore the Essentials
-
-We’ve gathered all the practicals so you can prepare with ease:
-
-- [**FAQ**](/practical/faq): quick answers to common questions
-- [**Food**](/practical/food): what we're feeding you (and what to bring)
-- [**Tickets**](/practical/tickets): how to get in
-- [**Things to Bring**](/practical/things-to-bring): your packing guide
-- [**Respect the Space**](/practical/leave-no-trace): how we respect our shared space
-- [**Accommodations**](/practical/accommodations): warm indoor living with bunk beds
-- [**Merch**](/practical/merch): shirts, of course
-- [**Build Day**](/practical/build-day): co-creation details
-- [**Photography**](/practical/filming-and-photography): consent comes first
-- [**Cancellation**](/practical/cancellation): in case plans change
-- [**Performances**](/practical/performances): what *might* unfold
-- [**Unconference**](/practical/unconference): peer-led brilliance
+- [**After the Gathering**](/practical/after-the-gathering) — Post-event care, resources, how to stay connected, subdrop support
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Core Philosophy
-description: "Connection over performance, presence over polish - the heart of Oh Bondage! Up Yours!"
+description: "Connection over performance, presence over polish - the heart of Bottoms Up!"
 lead: "What makes this gathering different and how we create space together"
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
@@ -10,7 +10,7 @@ toc: true
 
 ## Tie Like No One Is Watching
 
-At Oh Bondage! Up Yours!, we cherish the ties that bind — not just bodies, but hearts and breath, shadow and light. "Tie like no one is watching" isn't a performance note. It's an invitation to drop the mask. To meet through rope, not just with hands, but with honesty.
+At Bottoms Up!, we cherish the ties that bind — not just bodies, but hearts and breath, shadow and light. "Tie like no one is watching" isn't a performance note. It's an invitation to drop the mask. To meet through rope, not just with hands, but with honesty.
 
 ---
 
@@ -99,7 +99,7 @@ Whether you're a helper, a dreamer, a mischief-maker, or someone who simply hold
 This is a space for many.
 But not for all.
 
-Oh Bondage! Up Yours! welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit neatly into polite society. We hold space for shadow and play, for bodies that don't match expectations, for desires that don't ask permission.
+Bottoms Up! welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit neatly into polite society. We hold space for shadow and play, for bodies that don't match expectations, for desires that don't ask permission.
 
 We want you here if you come with curiosity.
 We want you here if you long for honesty, connection, or the freedom to be as you are.
@@ -212,7 +212,7 @@ Let's name what it really is: **a longing to be met**.
 
 Most of us don't struggle with what we want. We struggle with how to begin. That first moment — the glance, the ask, the touch — can feel like the hardest one. So we build bridges. We create gentle rituals and open invitations that help people find their way to one another.
 
-At Oh Bondage! Up Yours!, you won't leave with a certificate.  
+At Bottoms Up!, you won't leave with a certificate.
 You might leave changed.
 
 ---
