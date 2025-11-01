@@ -72,9 +72,9 @@ We'll meet you where we can.
 
 If it's a yes — beautiful.  
 
-**📅 Tickets go on sale: May 5th, 2025 at 20:00**  
-**💰 Ticket price: €285** (includes accommodation, all meals, and full access)  
-**🎟️ Limited to 60 people** to maintain intimacy and connection
+**📅 Tickets go on sale: May 5th, 2025 at 20:00**
+**💰 Ticket price: €169** (includes accommodation, all meals, and full access)
+**🎟️ Limited to 42 people** to maintain intimacy and connection
 
 We use a brief application process — not to gatekeep, but to ensure everyone comes with aligned expectations and respect for the container we're creating together.
 

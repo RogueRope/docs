@@ -13,7 +13,7 @@ toc: true
 ### Logistics & Practical
 
 **What's included in my ticket?**
-Your ticket includes access to all activities, shared meals throughout the event, indoor bunk bed accommodation, and use of all facilities (showers, common areas, etc.).
+Your ticket (€169) includes access to all activities, shared meals throughout the event, indoor bunk bed accommodation, and use of all facilities (showers, common areas, etc.).
 
 **What are the sleeping arrangements like?**
 We provide indoor bunk beds in shared dormitory-style rooms. You'll have your own bed and mattress - just bring your own bedding. Room options include mixed rooms, FLINTA-only rooms, and a "snoring sanctuary" for heavy sleepers.

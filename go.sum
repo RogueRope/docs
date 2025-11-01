@@ -1,4 +1,6 @@
 github.com/imfing/hextra v0.10.2 h1:etVtBSHH3V4xYZ2uqlh7HWZitdaZLWG+sCoGtFqyAEk=
 github.com/imfing/hextra v0.10.2/go.mod h1:cEfel3lU/bSx7lTE/+uuR4GJaphyOyiwNR3PTqFTXpI=
+github.com/nixentric/Lowkey-Hugo-Theme v0.0.0-20250412073330-9ca785e6e32b h1:PFRiq1GPn/F80yNarEvlPwywZ+gD3XTguE5uIjC1BRE=
+github.com/nixentric/Lowkey-Hugo-Theme v0.0.0-20250412073330-9ca785e6e32b/go.mod h1:8AD1dXNnOhPKJZFk1cq0eBp1VdMLEvu1MdaUKZc91/o=
 github.com/onweru/compose v0.0.0-20240409191834-0a09d5b2606d h1:dmX1fsnDosd+QdKKICIXvzacrqOL8ToqAw1UMSRuzDo=
 github.com/onweru/compose v0.0.0-20240409191834-0a09d5b2606d/go.mod h1:2eSBLsKzvKf3r4/vHiKdakIBqDtWACDAqAD7tRdt00o=

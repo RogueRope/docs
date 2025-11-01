@@ -73,7 +73,7 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 
 ### What If I Can Only Come 2–3 Days?
 
-**You still pay full price** (€285).
+**You still pay full price** (€169).
 
 **Why:** Food, accommodations, and support are bundled. We can't break them apart.
 

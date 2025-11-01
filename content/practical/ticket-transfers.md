@@ -35,19 +35,19 @@ toc: true
 **You can hold your payment as credit toward 2027.**
 
 - **No refund.**
-- **Your €285 credit applies to next year's ticket** (same price, same terms)
+- **Your €169 credit applies to next year's ticket** (same price, same terms)
 - **Email [info@roguerope.be](mailto:info@roguerope.be)** with "Deferral request"
 
 ---
 
 ### Option 3: Wait List Facilitation (If We're Fully Booked)
 
-**If we've sold all 60 tickets and have a waitlist:**
+**If we've sold all 42 tickets and have a waitlist:**
 
 We can add your cancellation to the waitlist pool, and refund the first person who can attend.
 
 **This only works if:**
-- We're fully booked (60/60 tickets sold)
+- We're fully booked (42/42 tickets sold)
 - There's an active waitlist
 
 **This doesn't work if:**

@@ -2,6 +2,7 @@ baseURL = "https://docs.roguerope.be/"
 title = "Bottoms Up!"
 enableRobotsTXT = true
 enableGitInfo = true
+theme = "github.com/nixentric/Lowkey-Hugo-Theme"
 
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -23,10 +24,11 @@ defaultContentLanguage = "en"
 
 [module]
   [[module.imports]]
-    path = "github.com/imfing/hextra"
+    path = "github.com/nixentric/Lowkey-Hugo-Theme"
+  
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
 
@@ -34,125 +36,136 @@ defaultContentLanguage = "en"
   [languages.en]
     languageName = "English"
     weight = 1
-    title = "Oh Bondage! Up Yours!"
+    title = "Bottoms Up!"
 
 [params]
   description = "A sanctuary for rope as ritual, connection over performance, and consent as sacred practice."
-  
-  [params.navbar]
-    displayTitle = true
-    displayLogo = false
+  favicon = "favicons/favicon.ico"
+  avatar = "images/logo.svg"
 
-  [params.footer]
-    enable = true
-    displayCopyright = false
-    displayPoweredBy = true
+[menu]
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    url = "/"
+    weight = 1
 
-  [params.editPage]
-    enable = true
-    base = "https://github.com/RogueRope/docs/edit/winter26/content"
+  [[menu.main]]
+    name = "Concept"
+    identifier = "concept"
+    url = "/concept/"
+    weight = 10
 
-  [params.search]
-    enable = true
-    type = "flexsearch"
+  [[menu.main]]
+    name = "Practical"
+    identifier = "practical"
+    url = "/practical/"
+    weight = 20
 
-# Menu configuration - Story-driven navigation
-[[menu.main]]
-  name = "Is This For You?"
-  pageRef = "/concept/getting-started"
-  weight = 1
+  [[menu.main]]
+    name = "Wellbeing"
+    identifier = "wellbeing"
+    url = "/wellbeing/"
+    weight = 30
 
-[[menu.main]]
-  name = "The Experience"
-  pageRef = "/concept"
-  weight = 2
+  [[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 40
 
-[[menu.main]]
-  name = "Join Us"
-  pageRef = "/practical"
-  weight = 3
+  [[menu.sidebar]]
+    name = "Concept Overview"
+    identifier = "sidebar-concept"
+    url = "/concept/"
+    weight = 10
 
-[[menu.main]]
-  name = "Care & Support"
-  pageRef = "/wellbeing"
-  weight = 4
+  [[menu.sidebar]]
+    parent = "Concept Overview"
+    name = "Core Philosophy"
+    url = "/concept/philosophy/"
+    weight = 11
 
-[[menu.main]]
-  name = "Contact"
-  pageRef = "/contact"
-  weight = 5
+  [[menu.sidebar]]
+    parent = "Concept Overview"
+    name = "Is This For You?"
+    url = "/concept/is-this-for-you/"
+    weight = 12
 
-# Sidebar menu - Simplified and story-driven
-[[menu.sidebar]]
-  name = "Getting Started"
-  pageRef = "/concept/getting-started"
-  weight = 1
+  [[menu.sidebar]]
+    parent = "Concept Overview"
+    name = "Experience Flow"
+    url = "/concept/experience/"
+    weight = 13
 
-[[menu.sidebar]]
-  name = "The Experience"
-  pageRef = "/concept"
-  weight = 2
+  [[menu.sidebar]]
+    parent = "Concept Overview"
+    name = "Your First Day"
+    url = "/concept/your-first-day/"
+    weight = 14
 
-[[menu.sidebar]]
-  name = "Philosophy"
-  pageRef = "/concept/philosophy"
-  parent = "The Experience"
-  weight = 1
+  [[menu.sidebar]]
+    name = "Practical Essentials"
+    identifier = "sidebar-practical"
+    url = "/practical/"
+    weight = 20
 
-[[menu.sidebar]]
-  name = "What Happens"
-  pageRef = "/concept/experience"
-  parent = "The Experience"
-  weight = 2
+  [[menu.sidebar]]
+    parent = "Practical Essentials"
+    name = "Participation"
+    url = "/practical/participation/"
+    weight = 21
 
-[[menu.sidebar]]
-  name = "Join Us"
-  pageRef = "/practical"
-  weight = 3
+  [[menu.sidebar]]
+    parent = "Practical Essentials"
+    name = "Logistics"
+    url = "/practical/logistics/"
+    weight = 22
 
-[[menu.sidebar]]
-  name = "Participation"
-  pageRef = "/practical/participation"
-  parent = "Join Us"
-  weight = 1
+  [[menu.sidebar]]
+    parent = "Practical Essentials"
+    name = "Things To Bring"
+    url = "/practical/things-to-bring/"
+    weight = 23
 
-[[menu.sidebar]]
-  name = "Logistics"
-  pageRef = "/practical/logistics"
-  parent = "Join Us"
-  weight = 2
+  [[menu.sidebar]]
+    parent = "Practical Essentials"
+    name = "Policies"
+    url = "/practical/policies/"
+    weight = 24
 
-[[menu.sidebar]]
-  name = "Performances"
-  pageRef = "/practical/performances"
-  parent = "Join Us"
-  weight = 3
+  [[menu.sidebar]]
+    parent = "Practical Essentials"
+    name = "FAQ"
+    url = "/practical/faq/"
+    weight = 25
 
-[[menu.sidebar]]
-  name = "Policies"
-  pageRef = "/practical/policies"
-  parent = "Join Us"
-  weight = 4
+  [[menu.sidebar]]
+    name = "Wellbeing Support"
+    identifier = "sidebar-wellbeing"
+    url = "/wellbeing/"
+    weight = 30
 
-[[menu.sidebar]]
-  name = "Care & Support"
-  pageRef = "/wellbeing"
-  weight = 4
+  [[menu.sidebar]]
+    parent = "Wellbeing Support"
+    name = "Consent & Safety"
+    url = "/wellbeing/consent-safety/"
+    weight = 31
 
-[[menu.sidebar]]
-  name = "Consent & Safety"
-  pageRef = "/wellbeing/consent-safety"
-  parent = "Care & Support"
-  weight = 1
+  [[menu.sidebar]]
+    parent = "Wellbeing Support"
+    name = "Support Systems"
+    url = "/wellbeing/support/"
+    weight = 32
 
-[[menu.sidebar]]
-  name = "Relationships"
-  pageRef = "/wellbeing/relationships"
-  parent = "Care & Support"
-  weight = 2
+  [[menu.sidebar]]
+    parent = "Wellbeing Support"
+    name = "Relationships"
+    url = "/wellbeing/relationships/"
+    weight = 33
 
-[[menu.sidebar]]
-  name = "Support"
-  pageRef = "/wellbeing/support"
-  parent = "Care & Support"
-  weight = 3
+  [[menu.sidebar]]
+    name = "Connect"
+    identifier = "sidebar-connect"
+    url = "/contact/"
+    weight = 40

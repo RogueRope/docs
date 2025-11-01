@@ -16,7 +16,7 @@ A sanctuary for rope as ritual, connection over performance, and consent as sacr
 
 ## 📅 February 18-22, 2026 • Mol, Belgium
 
-**🎫 €285 • Limited to 60 people**  
+**🎫 €169 • Limited to 42 people**  
 *[Tickets available May 5th, 2025](/practical/participation)*
 
 </div>

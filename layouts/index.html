@@ -1,7 +1,27 @@
 {{- define "main" -}}
-<div class="hx-mx-auto hx-flex hx-min-h-[calc(100vh-var(--navbar-height)-var(--menu-height))] hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)]">
+<div class="hx-mx-auto hx-flex hx-min-h-[calc(100vh-var(--navbar-height)-var(--menu-height))] hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-gap-10">
+  <aside class="hx-hidden xl:hx-block xl:hx-w-72 xl:hx-flex-shrink-0 hx-pt-8">
+    <div class="hx-sticky hx-top-32 hx-space-y-3">
+      <p class="hx-text-xs hx-font-semibold hx-tracking-[0.2em] hx-uppercase hx-text-gray-500 dark:hx-text-gray-400">
+        Browse sections
+      </p>
+      {{ partial "nav-sidebar.html" . }}
+    </div>
+  </aside>
+
   <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
     <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
+      <div class="xl:hx-hidden hx-mb-8">
+        <details class="hx-bg-white dark:hx-bg-gray-900 hx-border hx-border-gray-200 dark:hx-border-gray-700 hx-rounded-lg hx-p-4">
+          <summary class="hx-cursor-pointer hx-text-sm hx-font-semibold hx-text-outer-space dark:hx-text-champagne-pink">
+            Navigation
+          </summary>
+          <div class="hx-mt-3 hx-space-y-3">
+            {{ partial "nav-sidebar.html" . }}
+          </div>
+        </details>
+      </div>
+
       {{ .Content }}
       
       <!-- Global Second-Level Navigation -->

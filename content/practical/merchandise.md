@@ -24,7 +24,7 @@ We make thoughtfully designed merchandise to help you carry the gathering with y
 - Soft, comfortable cotton blend
 - Thoughtful design celebrating the gathering
 - Multiple colors available
-- €[price TBA] — available during the event and for pre-order
+- €25 — available during the event and for pre-order
 
 **Sizing:**
 - XS, S, M, L, XL, XXL

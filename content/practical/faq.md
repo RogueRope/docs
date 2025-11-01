@@ -24,11 +24,11 @@ toc: true
 
 ## Practical Details
 
-**What's included?** €285 covers: 4 nights, all meals, spaces, support, basic equipment.
+**What's included?** €169 covers: 4 nights, all meals, spaces, support, basic equipment.
 
 **Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" — we offer discounts, payment plans, work exchange, no shame.
 
-**How many people?** 60 max. Why? Intimacy without anonymity. We know each other's names.
+**How many people?** 42 max. Why? Intimacy without anonymity. We know each other's names.
 
 **Who comes?** Mix of rope experience, queer, kinky, disabled, neurodivergent folks from across Europe. Beginners and experienced. Solo, couples, friend groups.
 
@@ -68,7 +68,7 @@ toc: true
 
 **How do I get there?** [→ Getting There page]
 
-**Tickets?** May 5, 20:00. €285. 60 slots. Brief application (alignment check).
+**Tickets?** May 5, 20:00. €169. 42 slots. Brief application (alignment check).
 
 **Cancellation?** [→ Cancellation Policy] TL;DR: 3 weeks before = full refund. After = resell or defer.
 

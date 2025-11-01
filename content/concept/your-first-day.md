@@ -46,7 +46,7 @@ toc: true
 This is the threshold. The moment we step in together.
 
 **What happens:**
-- We gather in a circle (all 60 of us)
+- We gather in a circle (all 42 of us)
 - Introduction from organizers (what we're about)
 - Consent Moment (embodied practice)
 - How the space works (agreements, support, how to find help)

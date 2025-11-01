@@ -1,0 +1,23 @@
+{{- $current := . -}}
+{{- with site.Menus.main }}
+<nav aria-label="Primary navigation">
+  <ul class="hx-flex hx-flex-wrap hx-gap-2 hx-items-center hx-text-sm hx-font-medium">
+    {{- range . }}
+      {{- $isActive := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) (eq (strings.TrimSuffix "/" $current.RelPermalink) (strings.TrimSuffix "/" .URL)) -}}
+      <li>
+        <a
+          href="{{ .URL }}"
+          class="hx-inline-flex hx-items-center hx-rounded-full hx-px-4 hx-py-2 hx-transition-colors hx-duration-150
+            {{ if $isActive }}
+              hx-bg-outer-space hx-text-white hx-shadow-sm
+            {{ else }}
+              hx-text-outer-space dark:hx-text-champagne-pink hover:hx-bg-gray-100 dark:hover:hx-bg-gray-800
+            {{ end }}"
+        >
+          {{ .Name }}
+        </a>
+      </li>
+    {{- end }}
+  </ul>
+</nav>
+{{- end }}
