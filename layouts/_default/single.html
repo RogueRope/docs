@@ -1,10 +1,16 @@
 {{- define "main" -}}
+<style>@import "/css/custom-colors.css";</style>
 <div class="hx-mx-auto hx-flex hx-min-h-[calc(100vh-var(--navbar-height)-var(--menu-height))] hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-gap-10">
   <aside class="hx-hidden xl:hx-block xl:hx-w-72 xl:hx-flex-shrink-0 hx-pt-8">
-    <div class="hx-sticky hx-top-32 hx-space-y-3">
-      <p class="hx-text-xs hx-font-semibold hx-tracking-[0.2em] hx-uppercase hx-text-gray-500 dark:hx-text-gray-400">
-        Browse sections
-      </p>
+    <div class="hx-sticky hx-top-32 hx-space-y-4 hx-p-6 hx-rounded-xl hx-border-2 hx-shadow-md" style="background: linear-gradient(to bottom right, #ffffff, #fdf9f7); border-color: #e5e3e0;">
+      <div class="hx-mb-2">
+        <p class="hx-text-xs hx-font-bold hx-tracking-widest hx-uppercase hx-mb-2" style="color: var(--cherry-blossom-pink-300, #ca2e45);">
+          Navigation
+        </p>
+        <h2 class="hx-text-lg hx-font-semibold" style="color: #2d3435;">
+          Where would you like to go?
+        </h2>
+      </div>
       {{ partial "nav-sidebar.html" . }}
     </div>
   </aside>
@@ -12,11 +18,19 @@
   <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
     <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
       <div class="xl:hx-hidden hx-mb-8">
-        <details class="hx-bg-white dark:hx-bg-gray-900 hx-border hx-border-gray-200 dark:hx-border-gray-700 hx-rounded-lg hx-p-4">
-          <summary class="hx-cursor-pointer hx-text-sm hx-font-semibold hx-text-outer-space dark:hx-text-champagne-pink">
-            Navigation
+        <details class="hx-group hx-bg-gradient-to-br hx-from-white hx-to-champagne-pink-50/30 dark:hx-from-gray-900 dark:hx-to-outer-space-900/20 hx-border-2 hx-border-gray-200 dark:hx-border-gray-700 hx-rounded-xl hx-p-5 hx-shadow-md hover:hx-shadow-lg hx-transition-shadow">
+          <summary class="hx-cursor-pointer hx-text-base hx-font-bold hx-text-outer-space dark:hx-text-champagne-pink hx-flex hx-items-center hx-justify-between">
+            <span class="hx-flex hx-items-center hx-gap-3">
+              <svg class="hx-w-5 hx-h-5 hx-text-cherry-blossom-600 dark:hx-text-cherry-blossom-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+              </svg>
+              <span>Navigation</span>
+            </span>
+            <svg class="hx-w-5 hx-h-5 group-open:hx-rotate-180 hx-transition-transform hx-duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"></path>
+            </svg>
           </summary>
-          <div class="hx-mt-3 hx-space-y-3">
+          <div class="hx-mt-5 hx-pt-5 hx-border-t-2 hx-border-gray-200 dark:hx-border-gray-700">
             {{ partial "nav-sidebar.html" . }}
           </div>
         </details>

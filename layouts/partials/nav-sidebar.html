@@ -1,48 +1,26 @@
 {{ $current := . }}
+{{ $currentSection := .Section }}
 
-<nav class="flex flex-col gap-2 text-sm">
+<!-- Map section names to menu identifiers -->
+{{ $sectionId := "" }}
+{{ if eq $currentSection "concept" }}
+  {{ $sectionId = "sidebar-concept" }}
+{{ else if eq $currentSection "practical" }}
+  {{ $sectionId = "sidebar-practical" }}
+{{ else if eq $currentSection "wellbeing" }}
+  {{ $sectionId = "sidebar-wellbeing" }}
+{{ else if eq $currentSection "contact" }}
+  {{ $sectionId = "sidebar-connect" }}
+{{ end }}
+
+<nav class="sidebar-nav" aria-label="Section navigation">
   {{ with site.Menus.sidebar }}
     {{ range . }}
       {{ if not .Parent }}
-        <!-- Top-level menu item -->
-        {{ $isCurrent := or ($current.IsMenuCurrent .Menu .) ($current.HasMenuCurrent .Menu .) }}
-        <div>
-          <a
-            href="{{ .URL }}"
-            class="block px-4 py-2 rounded-md font-semibold transition-colors
-              {{ if $isCurrent }}
-                bg-cherry-blossom-100 dark:bg-cherry-blossom-900 text-cherry-blossom-700 dark:text-cherry-blossom-300
-              {{ else }}
-                text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700
-              {{ end }}"
-          >
-            {{ .Name }}
-          </a>
-
-          <!-- Child items (if any) -->
-          {{ $parentName := .Name }}
-          {{ $children := where site.Menus.sidebar "Parent" $parentName }}
-          {{ if $children }}
-            <ul class="ml-4 mt-1 border-l border-gray-300 dark:border-gray-600 pl-4 space-y-1">
-              {{ range $children }}
-                {{ $isChildCurrent := or ($current.IsMenuCurrent .Menu .) ($current.HasMenuCurrent .Menu .) }}
-                <li>
-                  <a
-                    href="{{ .URL }}"
-                    class="block px-3 py-1 rounded text-sm transition-colors
-                      {{ if $isChildCurrent }}
-                        text-cherry-blossom-700 dark:text-cherry-blossom-300 font-semibold bg-cherry-blossom-50 dark:bg-cherry-blossom-950
-                      {{ else }}
-                        text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200
-                      {{ end }}"
-                  >
-                    {{ .Name }}
-                  </a>
-                </li>
-              {{ end }}
-            </ul>
-          {{ end }}
-        </div>
+        {{ $isCurrent := eq .Identifier $sectionId }}
+        <a href="{{ .URL }}" class="sidebar-nav-link{{ if $isCurrent }} active{{ end }}">
+          {{ .Name }}
+        </a>
       {{ end }}
     {{ end }}
   {{ end }}
