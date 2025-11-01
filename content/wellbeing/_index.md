@@ -1,6 +1,11 @@
 ---
-title : "Wellbeing"
-weight : 1
+title: "Wellbeing"
+description: "Consent, safety, care, and support resources"
+lead: "Your wellbeing matters before, during, and after"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
+weight: 1
+toc: true
 ---
 
 Consent isn’t a question; it’s the water we swim in.
