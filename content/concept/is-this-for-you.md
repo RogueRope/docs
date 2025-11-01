@@ -34,7 +34,7 @@ You just have to be curious. And kind. And willing to feel.
 
 This is a place for the real.
 
-We've built Oh Bondage! Up Yours! for the ones who want something more. Not flashier. Not sexier. But **truer**.
+We've built Bottoms Up! for the ones who want something more. Not flashier. Not sexier. But **truer**.
 
 If you're worried you won't know how to start a conversation — you're not alone. Most of us have felt that. So we've created icebreakers, gentle encounters, and open spaces that make it easier to connect. No games, no pressure. Just invitations.
 
@@ -70,7 +70,7 @@ Consent means you get to choose — every time.
 
 This isn't for everyone. That's not a judgment — it's design.
 
-Oh Bondage! Up Yours! works best when people arrive knowing what they're stepping into. So let's get honest about who thrives here and who might find what they need elsewhere.
+Bottoms Up! works best when people arrive knowing what they're stepping into. So let's get honest about who thrives here and who might find what they need elsewhere.
 
 ### Are You Craving This?
 

@@ -58,7 +58,7 @@ And it starts now.
 
 **Still exploring?** These pages might help you decide:
 
-- [Is This For You?](/concept/getting-started) — Self-reflection for newcomers
+- [Is This For You?](/concept/is-this-for-you) — Self-reflection for newcomers
 - [Core Philosophy](/concept/philosophy) — The values behind our approach  
 - [Experience Structure](/concept/experience) — What happens during the four days
 

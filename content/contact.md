@@ -11,7 +11,7 @@ toc: true
 <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
 
 <div class="hx-col-span-1">
-![QR code to contact Oh Bondage! Up Yours! on WhatsApp.](/images/whatsappqr.png)
+![QR code to contact Bottoms Up! on WhatsApp.](/images/whatsappqr.png)
 </div>
 
 <div class="hx-col-span-1">
@@ -66,7 +66,7 @@ Ready to dive deeper into what makes this gathering special?
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/concept/getting-started" class="hx-underline hover:hx-no-underline">Is This For You?</a> • <a href="/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a>
+Or explore: <a href="/concept/is-this-for-you" class="hx-underline hover:hx-no-underline">Is This For You?</a> • <a href="/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a>
 </div>
 
 </div>

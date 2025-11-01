@@ -133,7 +133,7 @@ Where play can look like fucking — or crying — or lying in intimate embrace,
 
 **Want to understand the why behind this experience?** → [Core Philosophy](/concept/philosophy) — The values that shape everything we do
 
-**Wondering if this is for you?** → [Is This For You?](/concept/getting-started) — Gentle guidance for self-reflection
+**Wondering if this is for you?** → [Is This For You?](/concept/is-this-for-you) — Gentle guidance for self-reflection
 
 **Ready to join us?** → [Join Us](/practical) — Practical details about participation and tickets
 

@@ -1,10 +1,10 @@
 ---
-title: "Oh Bondage! Up Yours!"
+title: "Bottoms Up!"
 ---
 
 <div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto">
 
-# Oh Bondage! Up Yours!
+# Bottoms Up!
 
 <p class="hx-text-xl text-outer-space hx-mb-8">
 A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.
@@ -46,12 +46,12 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 
 **Start your journey:**
 
-1. **[Is this for you?](/concept/getting-started)** — Self-reflection and gentle guidance
+1. **[Is this for you?](/concept/is-this-for-you)** — Self-reflection and gentle guidance
 2. **[The Experience](/concept)** — What makes this gathering unique
 3. **[Join Us](/practical)** — Everything you need to know
 
 <div class="hx-mt-4">
-<a href="/concept/getting-started" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
+<a href="/concept/is-this-for-you" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
   Start Here →
 </a>
 </div>

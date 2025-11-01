@@ -227,7 +227,7 @@ Come if you want to feel rope not just on your skin — but in your soul.
 
 ## Continue Your Journey
 
-**New to this philosophy?** → [Is This For You?](/concept/getting-started) — Self-reflection to see if this resonates  
+**New to this philosophy?** → [Is This For You?](/concept/is-this-for-you) — Self-reflection to see if this resonates  
 
 **Ready to understand the structure?** → [Experience Structure](/concept/experience) — How these ideals come alive over four days
 
