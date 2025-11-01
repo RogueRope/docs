@@ -1,6 +1,11 @@
 ---
-title: The Experience
+title: Philosophy
+description: "The heart of Bottoms Up! - Connection over performance, presence over polish"
+lead: "What makes this gathering different and how we create space together"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
 weight: 1
+toc: true
 ---
 
 <div class="bg-timberwolf-100 hx-p-8 hx-rounded-lg hx-mb-8">
