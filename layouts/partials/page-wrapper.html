@@ -1,47 +1,6 @@
-{{/* Simple page wrapper with sidebar and mobile nav - KISS principle */}}
+{{/* Simple content wrapper - Top nav only (KISS) */}}
 <style>@import "/css/custom-colors.css";</style>
-<div class="hx-mx-auto hx-flex hx-min-h-[calc(100vh-var(--navbar-height)-var(--menu-height))] hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-gap-10">
-
-  {{/* Desktop Sidebar */}}
-  <aside class="hx-hidden xl:hx-block xl:hx-w-72 xl:hx-flex-shrink-0 hx-pt-8">
-    <div class="sidebar-container">
-      <div class="hx-mb-2">
-        <p class="sidebar-label">Navigation</p>
-        <h2 class="sidebar-title">Where would you like to go?</h2>
-      </div>
-      {{ partial "nav-sidebar.html" . }}
-    </div>
-  </aside>
-
-  {{/* Main Content */}}
-  <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-    <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
-
-      {{/* Mobile Navigation */}}
-      <div class="xl:hx-hidden hx-mb-8">
-        <details class="mobile-nav-dropdown">
-          <summary class="mobile-nav-summary">
-            <span class="hx-flex hx-items-center hx-gap-3">
-              <svg class="hx-w-5 hx-h-5 nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-              </svg>
-              <span>Navigation</span>
-            </span>
-            <svg class="hx-w-5 hx-h-5 hx-transition-transform hx-duration-200 nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"></path>
-            </svg>
-          </summary>
-          <div class="mobile-nav-content">
-            {{ partial "nav-sidebar.html" . }}
-          </div>
-        </details>
-      </div>
-
-      {{/* Page Content */}}
-      {{ .Content }}
-
-      {{/* Footer Navigation */}}
-      {{ partial "second-level-nav.html" . }}
-    </main>
-  </article>
+<div class="hx-mx-auto hx-max-w-6xl hx-px-6 hx-py-8 md:hx-px-12">
+  {{ .Content }}
+  {{ partial "second-level-nav.html" . }}
 </div>
