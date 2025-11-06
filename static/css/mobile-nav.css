@@ -143,12 +143,24 @@
   border-color: #ca2e45;
 }
 
+/* Mobile navigation wrapper */
+.mobile-nav-wrapper {
+  position: relative;
+}
+
 /* Mobile hamburger button styles */
 .mobile-hamburger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
   color: #2d3435;
   background: transparent;
   border: none;
+  border-radius: 8px;
   cursor: pointer;
+  transition: background-color 0.2s ease;
 }
 
 .mobile-hamburger:hover {
@@ -157,6 +169,11 @@
 
 .mobile-hamburger:active {
   background: rgba(0, 0, 0, 0.1);
+}
+
+.hamburger-icon {
+  width: 24px;
+  height: 24px;
 }
 
 .mobile-hamburger.active .hamburger-line-1 {
@@ -175,6 +192,33 @@
 
 .hamburger-icon path {
   transition: all 0.3s ease;
+}
+
+/* Desktop navigation - hidden on mobile */
+.desktop-nav {
+  display: none;
+}
+
+/* Show hamburger only on mobile, hide desktop nav */
+@media (max-width: 767px) {
+  .mobile-hamburger {
+    display: flex;
+  }
+
+  .desktop-nav {
+    display: none !important;
+  }
+}
+
+/* Show desktop nav on larger screens, hide hamburger */
+@media (min-width: 768px) {
+  .mobile-hamburger {
+    display: none;
+  }
+
+  .desktop-nav {
+    display: block;
+  }
 }
 
 /* Prevent body scroll when mobile menu is open */

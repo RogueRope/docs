@@ -1,42 +1,36 @@
 {{- $current := . -}}
 
-<!-- Mobile Hamburger Button (visible on mobile only) -->
-<button
-  id="mobile-menu-button"
-  class="mobile-hamburger md:hx-hidden hx-flex hx-items-center hx-justify-center hx-w-10 hx-h-10 hx-rounded-lg hx-transition-colors"
-  aria-label="Toggle mobile menu"
-  aria-expanded="false"
->
-  <svg class="hamburger-icon hx-w-6 hx-h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-    <path class="hamburger-line-1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 6h16"></path>
-    <path class="hamburger-line-2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 12h16"></path>
-    <path class="hamburger-line-3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 18h16"></path>
-  </svg>
-</button>
+<!-- Mobile Hamburger Button -->
+<div class="mobile-nav-wrapper">
+  <button
+    id="mobile-menu-button"
+    class="mobile-hamburger"
+    aria-label="Toggle mobile menu"
+    aria-expanded="false"
+  >
+    <svg class="hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path class="hamburger-line-1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 6h16"></path>
+      <path class="hamburger-line-2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 12h16"></path>
+      <path class="hamburger-line-3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 18h16"></path>
+    </svg>
+  </button>
 
-<!-- Desktop Navigation (hidden on mobile) -->
-{{- with site.Menus.main }}
-<nav aria-label="Primary navigation" class="hx-hidden md:hx-block">
-  <ul class="hx-flex hx-flex-wrap hx-gap-2 hx-items-center hx-text-sm hx-font-medium">
-    {{- range . }}
-      {{- $isActive := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) (eq (strings.TrimSuffix "/" $current.RelPermalink) (strings.TrimSuffix "/" .URL)) -}}
+  <!-- Desktop Navigation -->
+  <nav class="desktop-nav" aria-label="Primary navigation">
+    <ul>
+      {{ $currentPage := . }}
+      {{ range site.Menus.main }}
+      {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+      {{- $page_url := $currentPage.Permalink | absLangURL }}
       <li>
-        <a
-          href="{{ .URL }}"
-          class="hx-inline-flex hx-items-center hx-rounded-full hx-px-4 hx-py-2 hx-transition-colors hx-duration-150
-            {{ if $isActive }}
-              hx-bg-outer-space hx-text-white hx-shadow-sm
-            {{ else }}
-              hx-text-outer-space dark:hx-text-champagne-pink hover:hx-bg-gray-100 dark:hover:hx-bg-gray-800
-            {{ end }}"
-        >
+        <a href="{{ .URL }}" class="{{ if eq $menu_item_url $page_url }} active {{ end }}">
           {{ .Name }}
         </a>
       </li>
-    {{- end }}
-  </ul>
-</nav>
-{{- end }}
+      {{ end }}
+    </ul>
+  </nav>
+</div>
 
 <!-- Mobile Navigation Menu -->
 {{ partial "mobile-nav.html" . }}
