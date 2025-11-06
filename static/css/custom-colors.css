@@ -1,344 +1,190 @@
-/* Custom Color Palette for Bottoms Up! */
+/* Bottoms Up! Custom Styles - KISS Principle */
 
+/* Color Variables */
 :root {
-  /* Cherry Blossom Pink */
   --cherry-blossom-pink: #edafb8;
-  --cherry-blossom-pink-100: #430f17;
-  --cherry-blossom-pink-200: #871f2e;
-  --cherry-blossom-pink-300: #ca2e45;
-  --cherry-blossom-pink-400: #de6d7e;
-  --cherry-blossom-pink-500: #edafb8;
-  --cherry-blossom-pink-600: #f1c0c7;
-  --cherry-blossom-pink-700: #f4d0d5;
-  --cherry-blossom-pink-800: #f8dfe3;
-  --cherry-blossom-pink-900: #fbeff1;
-  
-  /* Champagne Pink */
+  --cherry-blossom-pink-dark: #ca2e45;
+  --cherry-blossom-pink-light: #fbeff1;
+
   --champagne-pink: #f7e1d7;
-  --champagne-pink-100: #4e230f;
-  --champagne-pink-200: #9b461f;
-  --champagne-pink-300: #d96f3e;
-  --champagne-pink-400: #e8a98b;
-  --champagne-pink-500: #f7e1d7;
-  --champagne-pink-600: #f9e8e0;
-  --champagne-pink-700: #faeee8;
-  --champagne-pink-800: #fcf4f0;
-  --champagne-pink-900: #fdf9f7;
-  
-  /* Timberwolf */
+  --champagne-pink-light: #fdf9f7;
+
   --timberwolf: #dedbd2;
-  --timberwolf-100: #322f25;
-  --timberwolf-200: #645d4a;
-  --timberwolf-300: #958b6f;
-  --timberwolf-400: #bab4a1;
-  --timberwolf-500: #dedbd2;
-  --timberwolf-600: #e5e3dc;
-  --timberwolf-700: #ebeae5;
-  --timberwolf-800: #f2f1ed;
-  --timberwolf-900: #f8f8f6;
-  
-  /* Ash Gray */
+  --timberwolf-light: #f8f8f6;
+
   --ash-gray: #b0c4b1;
-  --ash-gray-100: #202a21;
-  --ash-gray-200: #405541;
-  --ash-gray-300: #607f62;
-  --ash-gray-400: #86a488;
-  --ash-gray-500: #b0c4b1;
-  --ash-gray-600: #c0d0c1;
-  --ash-gray-700: #d0dbd0;
-  --ash-gray-800: #e0e7e0;
-  --ash-gray-900: #eff3ef;
-  
-  /* Outer Space */
+  --ash-gray-light: #eff3ef;
+
   --outer-space: #4a5759;
-  --outer-space-100: #0f1112;
-  --outer-space-200: #1e2324;
-  --outer-space-300: #2d3435;
-  --outer-space-400: #3b4647;
-  --outer-space-500: #4a5759;
-  --outer-space-600: #6a7c7f;
-  --outer-space-700: #8e9ea0;
-  --outer-space-800: #b3bec0;
-  --outer-space-900: #d9dfdf;
+  --outer-space-dark: #2d3435;
+
+  --border-color: #e5e3e0;
 }
 
-/* Custom utility classes using the new color palette */
-.bg-cherry-blossom-pink { background-color: var(--cherry-blossom-pink) !important; }
-.bg-cherry-blossom-pink-50 { background-color: var(--cherry-blossom-pink-900) !important; }
-.bg-cherry-blossom-pink-100 { background-color: var(--cherry-blossom-pink-800) !important; }
-.bg-cherry-blossom-pink-200 { background-color: var(--cherry-blossom-pink-700) !important; }
-.bg-cherry-blossom-pink-300 { background-color: var(--cherry-blossom-pink-600) !important; }
-
-.bg-champagne-pink { background-color: var(--champagne-pink) !important; }
-.bg-champagne-pink-50 { background-color: var(--champagne-pink-900) !important; }
-.bg-champagne-pink-100 { background-color: var(--champagne-pink-800) !important; }
-.bg-champagne-pink-200 { background-color: var(--champagne-pink-700) !important; }
-.bg-champagne-pink-300 { background-color: var(--champagne-pink-600) !important; }
-
-.bg-timberwolf { background-color: var(--timberwolf) !important; }
-.bg-timberwolf-50 { background-color: var(--timberwolf-900) !important; }
-.bg-timberwolf-100 { background-color: var(--timberwolf-800) !important; }
-.bg-timberwolf-200 { background-color: var(--timberwolf-700) !important; }
-.bg-timberwolf-300 { background-color: var(--timberwolf-600) !important; }
-
-.bg-ash-gray { background-color: var(--ash-gray) !important; }
-.bg-ash-gray-50 { background-color: var(--ash-gray-900) !important; }
-.bg-ash-gray-100 { background-color: var(--ash-gray-800) !important; }
-.bg-ash-gray-200 { background-color: var(--ash-gray-700) !important; }
-.bg-ash-gray-300 { background-color: var(--ash-gray-600) !important; }
-
-.bg-outer-space { background-color: var(--outer-space) !important; }
-.bg-outer-space-50 { background-color: var(--outer-space-900) !important; }
-.bg-outer-space-100 { background-color: var(--outer-space-800) !important; }
-.bg-outer-space-200 { background-color: var(--outer-space-700) !important; }
-.bg-outer-space-300 { background-color: var(--outer-space-600) !important; }
-
-/* Gradient backgrounds using custom colors */
-.bg-gradient-cherry-champagne {
-  background: linear-gradient(to right, var(--cherry-blossom-pink-800), var(--champagne-pink-800)) !important;
+/* Homepage Components */
+.hero-section {
+  max-width: 56rem;
+  margin: 0 auto;
 }
 
-.bg-gradient-ash-timberwolf {
-  background: linear-gradient(to right, var(--ash-gray-800), var(--timberwolf-800)) !important;
+.event-banner {
+  background: linear-gradient(to right, var(--ash-gray-light), var(--timberwolf-light));
+  padding: 2rem 1.5rem;
+  border-radius: 0.5rem;
+  margin-bottom: 3rem;
 }
 
-.bg-gradient-outer-space {
-  background: linear-gradient(to right, var(--outer-space-200), var(--outer-space-300)) !important;
+.info-box {
+  background: var(--ash-gray-light);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
 }
 
-/* Dark mode variants */
-.dark .bg-cherry-blossom-pink-50 { background-color: var(--cherry-blossom-pink-200) !important; }
-.dark .bg-cherry-blossom-pink-100 { background-color: var(--cherry-blossom-pink-300) !important; }
-.dark .bg-champagne-pink-50 { background-color: var(--champagne-pink-200) !important; }
-.dark .bg-champagne-pink-100 { background-color: var(--champagne-pink-300) !important; }
-.dark .bg-timberwolf-50 { background-color: var(--timberwolf-200) !important; }
-.dark .bg-timberwolf-100 { background-color: var(--timberwolf-300) !important; }
-.dark .bg-ash-gray-50 { background-color: var(--ash-gray-200) !important; }
-.dark .bg-ash-gray-100 { background-color: var(--ash-gray-300) !important; }
-.dark .bg-outer-space-50 { background-color: var(--outer-space-100) !important; }
-
-/* Enhanced contrast for text on colored backgrounds */
-.bg-cherry-blossom-pink-100, .bg-champagne-pink-100, .bg-timberwolf-100, .bg-ash-gray-100 {
-  color: var(--outer-space-200) !important;
+.info-box-pink {
+  background: var(--cherry-blossom-pink-light);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
 }
 
-.dark .bg-cherry-blossom-pink-100, .dark .bg-champagne-pink-100, .dark .bg-timberwolf-100, .dark .bg-ash-gray-100 {
-  color: var(--outer-space-900) !important;
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: var(--ash-gray);
+  color: white;
+  border-radius: 0.375rem;
+  text-decoration: none;
+  transition: background 200ms;
 }
 
-/* Text colors */
-.text-cherry-blossom-pink { color: var(--cherry-blossom-pink) !important; }
-.text-champagne-pink { color: var(--champagne-pink) !important; }
-.text-timberwolf { color: var(--timberwolf) !important; }
-.text-ash-gray { color: var(--ash-gray) !important; }
-.text-outer-space { color: var(--outer-space) !important; }
-
-/* Border colors */
-.border-cherry-blossom-pink { border-color: var(--cherry-blossom-pink) !important; }
-.border-champagne-pink { border-color: var(--champagne-pink) !important; }
-.border-timberwolf { border-color: var(--timberwolf) !important; }
-.border-ash-gray { border-color: var(--ash-gray) !important; }
-.border-outer-space { border-color: var(--outer-space) !important; }
-
-/* Button styles using custom colors */
-.btn-cherry-blossom-pink {
-  background-color: var(--cherry-blossom-pink-300) !important;
-  color: var(--cherry-blossom-pink-100) !important;
-  border: 1px solid var(--cherry-blossom-pink-400) !important;
+.btn-primary:hover {
+  background: var(--outer-space);
 }
 
-.btn-cherry-blossom-pink:hover {
-  background-color: var(--cherry-blossom-pink-400) !important;
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: var(--cherry-blossom-pink-dark);
+  color: white;
+  border-radius: 0.375rem;
+  text-decoration: none;
+  transition: background 200ms;
 }
 
-.btn-ash-gray {
-  background-color: var(--ash-gray-300) !important;
-  color: var(--ash-gray-100) !important;
-  border: 1px solid var(--ash-gray-400) !important;
+.btn-secondary:hover {
+  background: var(--cherry-blossom-pink);
 }
 
-.btn-ash-gray:hover {
-  background-color: var(--ash-gray-400) !important;
-}
-
-.btn-outer-space {
-  background-color: var(--outer-space-300) !important;
-  color: var(--outer-space-900) !important;
-  border: 1px solid var(--outer-space-400) !important;
-}
-
-.btn-outer-space:hover {
-  background-color: var(--outer-space-400) !important;
-}
-
-/* Enhanced Navigation Typography & Accessibility */
-
-/* Navigation link typography */
-nav[aria-label="Section navigation"] a {
-  letter-spacing: -0.01em;
-  font-feature-settings: 'kern' 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-/* Improve heading hierarchy */
-h2, h3 {
-  font-feature-settings: 'kern' 1, 'liga' 1;
-  letter-spacing: -0.02em;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-/* Smooth transitions for all interactive elements */
-nav a,
-summary,
-details {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-/* Focus states for accessibility - keyboard navigation */
-nav a:focus-visible,
-summary:focus-visible {
-  outline: 3px solid var(--cherry-blossom-pink-400);
-  outline-offset: 2px;
+/* Sidebar Styles */
+.sidebar-container {
+  position: sticky;
+  top: 8rem;
+  padding: 1.5rem;
   border-radius: 0.75rem;
+  border: 2px solid var(--border-color);
+  background: linear-gradient(to bottom right, #ffffff, var(--champagne-pink-light));
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
 
-/* Enhanced active state visual feedback */
-nav a[aria-current="page"] {
-  box-shadow: 0 4px 6px -1px rgba(237, 175, 184, 0.2),
-              0 2px 4px -1px rgba(237, 175, 184, 0.1);
+.sidebar-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--cherry-blossom-pink-dark);
+  margin-bottom: 0.5rem;
 }
 
-/* Dark mode focus states */
-.dark nav a:focus-visible,
-.dark summary:focus-visible {
-  outline: 3px solid var(--cherry-blossom-pink-400);
-  outline-offset: 2px;
+.sidebar-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--outer-space-dark);
 }
 
-/* Improved link and button interaction feedback */
-a, button, summary {
-  transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
-}
-
-/* Reduce motion for users who prefer it */
-@media (prefers-reduced-motion: reduce) {
-  a, button, summary {
-    transition: none !important;
-  }
-
-  nav a:hover {
-    transform: none !important;
-  }
-}
-
-/* Ensure proper contrast on all states */
-@media (prefers-contrast: more) {
-  nav a {
-    border-width: 3px;
-    font-weight: 600;
-  }
-}
-
-/* Print styles - ensure navigation is hidden when printing */
-@media print {
-  nav,
-  aside,
-  details {
-    display: none;
-  }
-}
-
-/* Simple Navigation Styling */
 .sidebar-nav {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  margin-top: 1rem;
 }
 
 .sidebar-nav-link {
   display: block;
-  padding: 0.4rem 0.8rem;
-  border: 2px solid #e5e3e0;
+  padding: 0.5rem 0.75rem;
+  border: 2px solid var(--border-color);
   border-radius: 0.5rem;
-  background-color: #ffffff;
-  color: #4a5759;
+  background: white;
+  color: var(--outer-space);
   font-weight: 600;
   font-size: 0.9rem;
   text-decoration: none;
-  transition: all 200ms ease;
-  line-height: 1.2;
+  transition: all 200ms;
 }
 
 .sidebar-nav-link:hover {
-  background-color: #fdf9f7;
-  border-color: #faeee8;
-  color: #2d3435;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: var(--champagne-pink-light);
+  border-color: var(--champagne-pink);
+  color: var(--outer-space-dark);
 }
 
 .sidebar-nav-link.active {
-  background-color: #fbeff1;
-  color: #ca2e45;
-  border-color: #de6d7e;
-  box-shadow: 0 1px 3px rgba(202, 46, 69, 0.1);
+  background: var(--cherry-blossom-pink-light);
+  color: var(--cherry-blossom-pink-dark);
+  border-color: var(--cherry-blossom-pink);
 }
 
-/* Sidebar container styling - desktop */
-aside {
-  display: none !important;
-  padding-top: 2rem;
-}
-
-@media (min-width: 1280px) {
-  aside {
-    display: block !important;
-    width: 18rem !important;
-    flex-shrink: 0 !important;
-    padding-top: 2rem !important;
-  }
-}
-
-aside > div {
-  position: sticky;
-  top: 8rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  padding: 1.5rem;
-  border-radius: 0.75rem;
-  border: 2px solid #e5e3e0;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-  background-color: #ffffff;
-}
-
-/* Mobile navigation dropdown */
-details {
-  border: 2px solid #e5e3e0;
+/* Mobile Navigation */
+.mobile-nav-dropdown {
+  border: 2px solid var(--border-color);
   border-radius: 0.75rem;
   padding: 1.25rem;
+  background: linear-gradient(to bottom right, #ffffff, var(--champagne-pink-light));
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
-  background-color: #ffffff;
 }
 
-details summary {
+.mobile-nav-summary {
   cursor: pointer;
   font-size: 1rem;
   font-weight: 700;
+  color: var(--outer-space-dark);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  list-style: none;
 }
 
-details summary:hover {
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+.mobile-nav-summary::-webkit-details-marker {
+  display: none;
 }
 
-details > div {
+.mobile-nav-content {
   margin-top: 1.25rem;
   padding-top: 1.25rem;
-  border-top: 2px solid #e5e3e0;
+  border-top: 2px solid var(--border-color);
+}
+
+.nav-icon {
+  color: var(--cherry-blossom-pink-dark);
+}
+
+/* Section Navigation Cards */
+.section-nav-card {
+  background: white;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  display: block;
+  transition: background 200ms;
+}
+
+.section-nav-card:hover {
+  background: var(--champagne-pink-light);
+}
+
+/* Responsive */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+  }
 }
