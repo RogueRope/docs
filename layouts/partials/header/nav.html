@@ -1,6 +1,22 @@
 {{- $current := . -}}
+
+<!-- Mobile Hamburger Button (visible on mobile only) -->
+<button
+  id="mobile-menu-button"
+  class="mobile-hamburger md:hx-hidden hx-flex hx-items-center hx-justify-center hx-w-10 hx-h-10 hx-rounded-lg hx-transition-colors"
+  aria-label="Toggle mobile menu"
+  aria-expanded="false"
+>
+  <svg class="hamburger-icon hx-w-6 hx-h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path class="hamburger-line-1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 6h16"></path>
+    <path class="hamburger-line-2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 12h16"></path>
+    <path class="hamburger-line-3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 18h16"></path>
+  </svg>
+</button>
+
+<!-- Desktop Navigation (hidden on mobile) -->
 {{- with site.Menus.main }}
-<nav aria-label="Primary navigation">
+<nav aria-label="Primary navigation" class="hx-hidden md:hx-block">
   <ul class="hx-flex hx-flex-wrap hx-gap-2 hx-items-center hx-text-sm hx-font-medium">
     {{- range . }}
       {{- $isActive := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) (eq (strings.TrimSuffix "/" $current.RelPermalink) (strings.TrimSuffix "/" .URL)) -}}
@@ -21,3 +37,6 @@
   </ul>
 </nav>
 {{- end }}
+
+<!-- Mobile Navigation Menu -->
+{{ partial "mobile-nav.html" . }}

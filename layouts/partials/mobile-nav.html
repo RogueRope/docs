@@ -1,0 +1,58 @@
+{{- $current := . -}}
+{{- with site.Menus.mobile }}
+<nav class="mobile-nav-menu" aria-label="Mobile navigation">
+  <div class="mobile-nav-container">
+    {{- range . }}
+      {{- if not .Parent }}
+        {{- $isActive := or ($current.IsMenuCurrent "mobile" .) ($current.HasMenuCurrent "mobile" .) (eq (strings.TrimSuffix "/" $current.RelPermalink) (strings.TrimSuffix "/" .URL)) -}}
+
+        {{/* Check if this item has children */}}
+        {{- $parentId := .Identifier }}
+        {{- $children := where site.Menus.mobile "Parent" $parentId }}
+
+        {{- if $children }}
+          {{/* Parent with children - accordion style */}}
+          <div class="mobile-nav-section">
+            <button
+              class="mobile-nav-toggle {{ if $isActive }}active{{ end }}"
+              aria-expanded="false"
+              data-section="{{ $parentId }}"
+            >
+              <span class="mobile-nav-toggle-text">{{ .Name }}</span>
+              <svg class="mobile-nav-toggle-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+              </svg>
+            </button>
+
+            <div class="mobile-nav-submenu" data-submenu="{{ $parentId }}">
+              <a
+                href="{{ .URL }}"
+                class="mobile-nav-submenu-link mobile-nav-overview {{ if $isActive }}active{{ end }}"
+              >
+                Overview
+              </a>
+              {{- range $children }}
+                {{- $isChildActive := or ($current.IsMenuCurrent "mobile" .) ($current.HasMenuCurrent "mobile" .) (eq (strings.TrimSuffix "/" $current.RelPermalink) (strings.TrimSuffix "/" .URL)) -}}
+                <a
+                  href="{{ .URL }}"
+                  class="mobile-nav-submenu-link {{ if $isChildActive }}active{{ end }}"
+                >
+                  {{ .Name }}
+                </a>
+              {{- end }}
+            </div>
+          </div>
+        {{- else }}
+          {{/* Single link without children */}}
+          <a
+            href="{{ .URL }}"
+            class="mobile-nav-link {{ if $isActive }}active{{ end }}"
+          >
+            {{ .Name }}
+          </a>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  </div>
+</nav>
+{{- end }}

@@ -43,9 +43,243 @@ defaultContentLanguage = "en"
   favicon = "favicons/favicon.ico"
   avatar = "images/logo.svg"
 
+timeout = "120s"
+
 [menu]
+  # Main navigation (top header)
   [[menu.main]]
     name = "Home"
     identifier = "home"
     url = "/"
     weight = 1
+
+  [[menu.main]]
+    name = "The Heart"
+    identifier = "concept"
+    url = "/concept/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Join Us"
+    identifier = "practical"
+    url = "/practical/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Care"
+    identifier = "wellbeing"
+    url = "/wellbeing/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 40
+
+  # Mobile navigation with subpages
+  [[menu.mobile]]
+    name = "Home"
+    identifier = "mobile-home"
+    url = "/"
+    weight = 1
+
+  # The Heart section
+  [[menu.mobile]]
+    name = "The Heart"
+    identifier = "mobile-concept"
+    url = "/concept/"
+    weight = 10
+
+  [[menu.mobile]]
+    name = "Core Philosophy"
+    identifier = "mobile-concept-philosophy"
+    parent = "mobile-concept"
+    url = "/concept/philosophy/"
+    weight = 11
+
+  [[menu.mobile]]
+    name = "Is This For You?"
+    identifier = "mobile-concept-is-this"
+    parent = "mobile-concept"
+    url = "/concept/is-this-for-you/"
+    weight = 12
+
+  [[menu.mobile]]
+    name = "Your First Day"
+    identifier = "mobile-concept-first-day"
+    parent = "mobile-concept"
+    url = "/concept/your-first-day/"
+    weight = 13
+
+  [[menu.mobile]]
+    name = "The Experience"
+    identifier = "mobile-concept-experience"
+    parent = "mobile-concept"
+    url = "/concept/experience/"
+    weight = 14
+
+  [[menu.mobile]]
+    name = "Sex-Positive Space"
+    identifier = "mobile-concept-sex-positive"
+    parent = "mobile-concept"
+    url = "/concept/sex-positive/"
+    weight = 15
+
+  # Join Us section
+  [[menu.mobile]]
+    name = "Join Us"
+    identifier = "mobile-practical"
+    url = "/practical/"
+    weight = 20
+
+  [[menu.mobile]]
+    name = "Participation & Tickets"
+    identifier = "mobile-practical-participation"
+    parent = "mobile-practical"
+    url = "/practical/participation/"
+    weight = 21
+
+  [[menu.mobile]]
+    name = "Logistics Overview"
+    identifier = "mobile-practical-logistics"
+    parent = "mobile-practical"
+    url = "/practical/logistics/"
+    weight = 22
+
+  [[menu.mobile]]
+    name = "Getting There"
+    identifier = "mobile-practical-getting-there"
+    parent = "mobile-practical"
+    url = "/practical/getting-there/"
+    weight = 23
+
+  [[menu.mobile]]
+    name = "Accommodations"
+    identifier = "mobile-practical-accommodations"
+    parent = "mobile-practical"
+    url = "/practical/accommodations/"
+    weight = 24
+
+  [[menu.mobile]]
+    name = "Things to Bring"
+    identifier = "mobile-practical-bring"
+    parent = "mobile-practical"
+    url = "/practical/things-to-bring/"
+    weight = 25
+
+  [[menu.mobile]]
+    name = "FAQ"
+    identifier = "mobile-practical-faq"
+    parent = "mobile-practical"
+    url = "/practical/faq/"
+    weight = 26
+
+  [[menu.mobile]]
+    name = "Photography Guidelines"
+    identifier = "mobile-practical-photo"
+    parent = "mobile-practical"
+    url = "/practical/photography-guidelines/"
+    weight = 27
+
+  [[menu.mobile]]
+    name = "Photo Privacy & Sharing"
+    identifier = "mobile-practical-privacy"
+    parent = "mobile-practical"
+    url = "/practical/photo-privacy-sharing/"
+    weight = 28
+
+  [[menu.mobile]]
+    name = "Cancellation Policy"
+    identifier = "mobile-practical-cancel"
+    parent = "mobile-practical"
+    url = "/practical/cancellation-policy/"
+    weight = 29
+
+  [[menu.mobile]]
+    name = "Ticket Transfers"
+    identifier = "mobile-practical-transfers"
+    parent = "mobile-practical"
+    url = "/practical/ticket-transfers/"
+    weight = 30
+
+  [[menu.mobile]]
+    name = "After the Gathering"
+    identifier = "mobile-practical-after"
+    parent = "mobile-practical"
+    url = "/practical/after-the-gathering/"
+    weight = 31
+
+  [[menu.mobile]]
+    name = "Leave No Trace"
+    identifier = "mobile-practical-trace"
+    parent = "mobile-practical"
+    url = "/practical/leave-no-trace/"
+    weight = 32
+
+  [[menu.mobile]]
+    name = "Merchandise"
+    identifier = "mobile-practical-merch"
+    parent = "mobile-practical"
+    url = "/practical/merchandise/"
+    weight = 33
+
+  # Care section
+  [[menu.mobile]]
+    name = "Care"
+    identifier = "mobile-wellbeing"
+    url = "/wellbeing/"
+    weight = 40
+
+  [[menu.mobile]]
+    name = "Consent & Safety"
+    identifier = "mobile-wellbeing-consent"
+    parent = "mobile-wellbeing"
+    url = "/wellbeing/consent-safety/"
+    weight = 41
+
+  [[menu.mobile]]
+    name = "Support Systems"
+    identifier = "mobile-wellbeing-support"
+    parent = "mobile-wellbeing"
+    url = "/wellbeing/support/"
+    weight = 42
+
+  [[menu.mobile]]
+    name = "Relationships & Boundaries"
+    identifier = "mobile-wellbeing-relationships"
+    parent = "mobile-wellbeing"
+    url = "/wellbeing/relationships/"
+    weight = 43
+
+  # Contact
+  [[menu.mobile]]
+    name = "Contact"
+    identifier = "mobile-contact"
+    url = "/contact/"
+    weight = 50
+
+  # Sidebar navigation
+  [[menu.sidebar]]
+    name = "The Heart"
+    identifier = "sidebar-concept"
+    url = "/concept/"
+    weight = 10
+
+  [[menu.sidebar]]
+    name = "Join Us"
+    identifier = "sidebar-practical"
+    url = "/practical/"
+    weight = 20
+
+  [[menu.sidebar]]
+    name = "Care"
+    identifier = "sidebar-wellbeing"
+    url = "/wellbeing/"
+    weight = 30
+
+  [[menu.sidebar]]
+    name = "Connect"
+    identifier = "sidebar-connect"
+    url = "/contact/"
+    weight = 40
