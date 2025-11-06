@@ -19,6 +19,28 @@ module.exports = {
       fontFamily: {
         'sans': ['"Inter"', '-apple-system', 'BlinkMacSystemFont', 'avenir next', 'avenir', 'segoe ui', 'helvetica neue', 'helvetica', 'Cantarell', 'Ubuntu', 'roboto', 'noto', 'arial', 'sans-serif'],
       },
+      colors: {
+        'primary': {
+          DEFAULT: '#8B1538',
+          dark: '#6B0F2A',
+          light: '#A31D47',
+        },
+        'secondary': {
+          DEFAULT: '#D4A5A5',
+          light: '#E5C5C5',
+          dark: '#B38585',
+        },
+        'accent': {
+          DEFAULT: '#C9A961',
+          light: '#E0C78A',
+          dark: '#A58940',
+        },
+        'neutral-custom': {
+          light: '#F5F1E8',
+          dark: '#1a1a1a',
+        },
+        'warm-grey': '#8B7E74',
+      },
     },
   },
   plugins: [],

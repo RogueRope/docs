@@ -20,6 +20,7 @@ Gemfile.lock
 hugo.exe
 hugo.darwin
 hugo.linux
+hugo
 
 ### Code ###
 .vscode/*
