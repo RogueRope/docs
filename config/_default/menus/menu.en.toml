@@ -1,0 +1,23 @@
+[[main]]
+  name = "Home"
+  identifier = "home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "Concept"
+  identifier = "concept"
+  url = "/concept/"
+  weight = 2
+
+[[main]]
+  name = "Wellbeing"
+  identifier = "wellbeing"
+  url = "/wellbeing/"
+  weight = 3
+
+[[main]]
+  name = "Practical"
+  identifier = "practical"
+  url = "/practical/"
+  weight = 4

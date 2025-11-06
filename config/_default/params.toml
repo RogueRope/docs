@@ -1,0 +1,48 @@
+# SEO and Site Description
+keywords = "rope bondage, shibari, kinbaku, rope camp, intimate workshop, consent, winter 2026"
+subtitle = "A sanctuary for rope as ritual, connection over performance, and consent as sacred practice"
+description = "Oh Bondage! Up Yours! Winter 2026 — February 18-22, 2026. An intimate indoor rope retreat focused on connection, consent, and community."
+
+# Content Configuration
+contentTypeName = "post"
+jsonLD = true
+showAuthor = false
+
+# Header Configuration
+[header]
+  logo = "images/logo.svg"
+  title = "Oh Bondage! Up Yours!"
+
+# Footer Configuration
+[footer]
+  since = 2026
+  poweredby = false
+
+# Author (for metadata)
+[author]
+  name = "Rogue Rope"
+  email = "info@roguerope.be"
+
+# Comments disabled for documentation site
+[giscus]
+  enabled = false
+
+# Social Media - disabled for now
+[social_media]
+  [[social_media.items]]
+    enabled = false
+
+# PWA Configuration - Disabled for now
+[pwa]
+  enabled = false
+
+# Custom Parameters for Event
+[event]
+  name = "Oh Bondage! Up Yours!"
+  subtitle = "Winter 2026"
+  dates = "February 18-22, 2026"
+  location = "Indoor venue with bunk accommodations"
+  format = "Intimate winter retreat"
+
+# Repository link
+repo = "https://github.com/RogueRope/docs"

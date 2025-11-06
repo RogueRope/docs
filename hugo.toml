@@ -1,11 +1,12 @@
 baseURL = "https://docs.roguerope.be/"
-title = "Bottoms Up!"
+title = "Oh Bondage! Up Yours! — Winter 2026"
 enableRobotsTXT = true
 enableGitInfo = true
-theme = "github.com/nixentric/Lowkey-Hugo-Theme"
+theme = "tailwind"
 
 languageCode = "en"
 defaultContentLanguage = "en"
+enableInlineShortcodes = true
 
 [pagination]
   pagerSize = 10
@@ -22,10 +23,9 @@ defaultContentLanguage = "en"
     lineNumbersInTable = true
     tabWidth = 2
 
-[module]
-  [[module.imports]]
-    path = "github.com/nixentric/Lowkey-Hugo-Theme"
-  
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -36,16 +36,9 @@ defaultContentLanguage = "en"
   [languages.en]
     languageName = "English"
     weight = 1
-    title = "Bottoms Up!"
+    title = "Oh Bondage! Up Yours!"
 
-[params]
-  description = "A sanctuary for rope as ritual, connection over performance, and consent as sacred practice."
-  favicon = "favicons/favicon.ico"
-  avatar = "images/logo.svg"
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    identifier = "home"
-    url = "/"
-    weight = 1
+[privacy]
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
