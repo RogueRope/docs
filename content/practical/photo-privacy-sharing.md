@@ -28,8 +28,8 @@ toc: true
 ### Within Our Community
 
 **You can share photos:**
-- In the private attendee WhatsApp group
-- With other attendees you met
+- In the private participant WhatsApp group
+- With other participants you met
 - For personal memory-keeping
 
 **You should NOT:**
@@ -38,26 +38,18 @@ toc: true
 - Use photos for commercial purposes
 - Screenshot and repost elsewhere
 
-**Why?** Privacy. Respect. Safety. Some attendees need anonymity in their regular lives.
+**Why?** Privacy. Respect. Safety. Some participants need anonymity in their regular lives.
 
 ---
 
 ### With the Outside World
+We prefer to keep things low-profile. **If you do share publicly (FetLife, Instagram, blogs):**
+- Share **only** shots where **every person** consented **before** the photo **and** to **public posting**.  
+- **No bystanders.** No faces or identifiable marks without explicit consent.  
+- **Anonymize the venue.** Avoid names, wide establishing shots, signage, maps, or time/location details.  
+- Be ready to **delete** if anyone changes their mind later.
 
-**Don't post our gathering to your public social media.**
-
-Here's why:
-- Some attendees are out as kinky; some aren't
-- Privacy and safety are interconnected
-- Our space is intimate and protected
-- We're not content for your feed
-
-**Exceptions:**
-- You can share a personal photo of yourself alone
-- You can talk about your experience (in words, not images)
-- With explicit permission from others in photos, you can share
-
-**Ask first. Always.**
+**Not sure? Don’t post. Ask us first.**
 
 ---
 
@@ -139,7 +131,7 @@ Here's why:
 
 ✅ **You control your image.** Download, delete, or keep — your choice.
 
-✅ **We keep things private.** No public posting without explicit consent.
+✅ **We keep things private.** Public posting only with explicit, prior consent — no bystanders; anonymize the venue.
 
 ✅ **Community sharing is consensual.** Ask before sharing anyone's photos.
 

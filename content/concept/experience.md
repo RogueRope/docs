@@ -1,7 +1,7 @@
 ---
 title: Experience Structure
 description: "How our gathering unfolds - from arrival to departure, rituals to play"
-lead: "The rhythm of our four days together"
+lead: "The rhythm of our five days together"
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30

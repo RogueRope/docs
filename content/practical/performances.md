@@ -1,7 +1,7 @@
 ---
-title: Performances
+title: Witnessing
 images: []
-menu: 
+menu:
   docs:
     parent: "opportunities"
 weight: 2010

@@ -181,6 +181,7 @@ You don't need a chore list. Just awareness.
 
 - **Speak up** if you witness concerning behavior
 - **Support others** in maintaining their boundaries
+- **Honor pronouns: ask first, use them correctly, correct yourself with care.**
 - **Use our support systems** (Consent Crew, FWBs) when needed
 - **Take breaks** when you need them
 - **Respect the container** we've created together

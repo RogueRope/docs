@@ -1,7 +1,7 @@
 ---
 title: Event Logistics  
 description: "Everything you need to know about accommodations, food, what to bring, and build day"
-lead: "Practical details for your four-day experience"
+lead: "Practical details for your five-day experience"
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 20
@@ -49,7 +49,9 @@ It's about proximity. About choosing to be held by a space, and by each other.
 
 **🛏️ Room Options:**
 * **Mixed rooms** — for those who like variety
-* **FLINTA-only rooms** — for people who are Female, Lesbian, Intersex, Non-binary, Trans, and Agender
+* **FLINTA-only rooms** — for women (including trans women), lesbians, intersex, non-binary, trans, and agender folks. Self-defined; no gatekeeping.
+
+*Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest.*
 * **"Snoring sanctuary"** — for heavy sleepers and their companions
 
 It's simple. But it's real.
@@ -101,7 +103,7 @@ Just to give you a sense of the rhythm. Times and offerings may shift based on o
 **🤝 Have specific needs?** (gluten-free, allergies, etc.)
 **Please reach out!** We're happy to collaborate and find solutions — whether adjusting ingredients or providing kitchen space for your own prep.
 
-**👨‍🍳 Join our Kitchen Crew**
+**🧑‍🍳 Join our Kitchen Crew**
 Want to help chop, stir, and keep meals flowing? Stay tuned for sign-ups. It's a great way to contribute, connect, and maybe pick up cooking secrets along the way.
 
 ---
@@ -110,7 +112,7 @@ Want to help chop, stir, and keep meals flowing? Stay tuned for sign-ups. It's a
 
 ### Required Items ⭐
 
-These are **mandatory** for all attendees:
+These are **mandatory** for all participants:
 
 - [ ] Your ticket (with QR code) — for entry
 - [ ] **Reusable cup** (no glass) — we provide drinks, you bring the cup

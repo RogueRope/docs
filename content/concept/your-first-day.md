@@ -66,9 +66,9 @@ This is the threshold. The moment we step in together.
 
 You've slept (or listened to roommates sleep).
 
-**9:00 AM** — Consent Moment (if you missed it Wednesday)
+**9:00 AM** — Consent Moment (reinforcement)
 
-A guided, embodied practice refreshing the consent framework. Short, meaningful.
+A guided, embodied practice refreshing and deepening the consent framework from the Opening Circle. Short, meaningful.
 
 **After that:**
 - Breakfast/coffee in common area

@@ -1,9 +1,8 @@
 ---
-title: Core Philosophy
+title: "Core Philosophy"
 description: "Connection over performance, presence over polish - the heart of Bottoms Up!"
 lead: "What makes this gathering different and how we create space together"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-08-28
 weight: 10
 toc: true
 ---
@@ -229,7 +228,7 @@ Come if you want to feel rope not just on your skin — but in your soul.
 
 **New to this philosophy?** → [Is This For You?](/concept/is-this-for-you) — Self-reflection to see if this resonates  
 
-**Ready to understand the structure?** → [Experience Structure](/concept/experience) — How these ideals come alive over four days
+**Ready to understand the structure?** → [Experience Structure](/concept/experience) — How these ideals come alive over five days
 
 **Want to dive deeper?** → [Join Us](/practical) — Everything you need to know about participating
 

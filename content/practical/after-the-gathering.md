@@ -29,6 +29,7 @@ We typically organize a community debrief call in the days after. Watch for deta
 - Photos will be shared (check your email for access details)
 - Respect privacy: no public screenshots or sharing without permission
 - All shared under a private agreement
+- If you choose to share publicly later, do it **only** with prior consent from everyone visible and **anonymize the venue**; delete on request.
 
 ### Connect with People You Met
 Email [info@roguerope.be](mailto:info@roguerope.be) with names to facilitate. Reach out directly if you remember them.
@@ -59,7 +60,7 @@ We share curated resources in the WhatsApp community, including:
 - **Podcasts & Interviews** exploring kink and connection
 - **Online Rope Teachers** for ongoing learning
 - **Kink-informed Therapists** directory
-- **Local Rope Communities** and workshops
+- **Local Rope Communities** and sessions
 - **Support Groups** for processing intense experiences
 
 Ask in the community — people are always happy to recommend what helped them integrate.

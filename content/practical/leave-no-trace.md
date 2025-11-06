@@ -55,9 +55,12 @@ Care for shared space is collective. Notice what's yours. Pick it up. Clean what
 
 ## After You Leave
 
-**Don't post event photos to public social media.** Our space is intimate and protected. Share your experience in words, not images.
+**Sharing photos publicly (FetLife, Instagram, blogs):**
+Only share shots where **every person** consented **before** the photo **and** to **public posting**.
+**No bystanders.** **Anonymize the venue** (no names, wide establishing shots, signage, maps, time/location details).
+Be ready to **delete** if anyone changes their mind later.
 
-**Respect people's privacy online.** Don't out anyone. Protect the sacredness of what happened.
+**Respect people's privacy online.** Don't out anyone. Don't tag without consent. Protect the sacredness of what happened.
 
 ---
 

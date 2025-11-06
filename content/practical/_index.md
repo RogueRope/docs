@@ -32,13 +32,13 @@ We'd love to have you — *if* it's a true yes.
 - [**Leave No Trace**](/practical/leave-no-trace) — How we care for the space together
 
 #### Important Policies & Info
-- [**Photography Guidelines**](/practical/photography-guidelines) — Consent, how photos are taken, opting out
-- [**Photo Privacy & Sharing**](/practical/photo-privacy-sharing) — Storage, sharing rules, intimate imagery
+- [**Photography Guidelines**](/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance
+- [**Photo Privacy & Sharing**](/practical/photo-privacy-sharing) — Where photos live; how/when to share (venue anonymized)
 - [**Cancellation & Refund Policy**](/practical/cancellation-policy) — Refund timeline and process
 - [**Ticket Transfers & Resale**](/practical/ticket-transfers) — How to resell, defer, or handle emergencies
 - [**Merchandise**](/practical/merchandise) — Available items and how to order
 - [**Merch Details & Care**](/practical/merch-details) — Sizing, environmental impact, FAQs
-- [**Performances**](/practical/performances) — Special performances and offerings
+- [**Witnessing**](/practical/performances) — What you might see, shared without need for audience
 
 ---
 
@@ -65,7 +65,7 @@ And it starts now.
 
 - [Is This For You?](/concept/is-this-for-you) — Self-reflection for newcomers
 - [Core Philosophy](/concept/philosophy) — The values behind our approach  
-- [Experience Structure](/concept/experience) — What happens during the four days
+- [Experience Structure](/concept/experience) — What happens during the five days
 
 **Ready for support?** → [Care & Support](/wellbeing) — Consent, safety, and wellbeing resources
 

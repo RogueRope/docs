@@ -34,7 +34,7 @@ Understand the gentle rebellion that guides everything we do. Connection over pe
 
 ### 🤝 [What Happens](/concept/experience)
 
-The ceremonies, rhythms, and structures that shape our four days together.
+The ceremonies, rhythms, and structures that shape our five days together.
 
 </div>
 

@@ -10,9 +10,9 @@ toc: true
 
 ## The Gathering
 
-**Is this just 4 days?** Yes. Wed 18:00 – Sun 16:00. Why short? 4 days is the sweet spot—long enough to settle, short enough to stay present.
+**Is this just 5 days?** Yes. Wed 18:00 – Sun 16:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
 
-**Can I arrive late/leave early?** Arrive by Thursday 9 AM (Consent Moment). Leaving early is fine. But the magic compounds—Day 1 is arrival, Days 2-3 are deepening, Day 4 is goodbye. Come anyway if you can only do 2-3 days.
+**What time do I need to arrive?** **Wednesday by 21:00 for the Opening Circle — this is mandatory.** You must be present for this foundational ritual. If you can't make Wednesday evening, this gathering isn't the right fit for you this year. Leaving early is fine, but arriving on time is essential.
 
 **Do I have to do rope?** No. Watch, connect, rest, or play. All of it's welcome.
 
@@ -24,7 +24,7 @@ toc: true
 
 ## Practical Details
 
-**What's included?** €169 covers: 4 nights, all meals, spaces, support, basic equipment.
+**What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment.
 
 **Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" — we offer discounts, payment plans, work exchange, no shame.
 
@@ -36,7 +36,7 @@ toc: true
 
 **Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate.
 
-**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys. Rope available on-site if you need it.
+**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys.
 
 **Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party. Slippers for shared floors.
 
@@ -68,11 +68,12 @@ toc: true
 
 **How do I get there?** [→ Getting There page]
 
-**Tickets?** May 5, 20:00. €169. 42 slots. Brief application (alignment check).
+**Tickets?** December 1, 20:00. €169. 42 slots. Brief application (alignment check).
 
 **Cancellation?** [→ Cancellation Policy] TL;DR: 3 weeks before = full refund. After = resell or defer.
 
-**Photos?** Your consent required. Opt out anytime. No public sharing without permission. [→ Photography Policy]
+**Photos?** **Consent-only:** ask first, no bystanders, no disturbance, delete on request.
+Public posting only with prior consent from everyone **and** venue anonymized. [→ Photography Policy]
 
 **Queer/fat/disabled/neurodivergent friendly?** Yes to all. Gender-neutral bathrooms/rooms. We celebrate all bodies, minds, systems as-is.
 

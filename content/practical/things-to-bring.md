@@ -1,6 +1,6 @@
 ---
 title: Things to Bring
-description: "Your packing list for four days"
+description: "Your packing list for five days"
 lead: "What you actually need"
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
@@ -22,7 +22,7 @@ toc: true
 - Pillow
 - Earplugs
 - Sleep mask
-- Phone charger
+- Phone charger (⚡ **Phone Nook** charging station on site)
 - Power strip
 
 ---

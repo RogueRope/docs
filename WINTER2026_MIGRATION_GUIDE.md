@@ -1,12 +1,12 @@
 # Winter 2026 Migration Guide
 
 ## Project Overview
-This document outlines the complete migration process from Rogue Rope Camp Summer 2025 to "Oh Bondage! Up Yours!" Winter 2026 edition, detailing all steps, changes, and files modified.
+This document outlines the complete migration process from Rogue Rope Camp Summer 2025 to "Bottoms Up!" Winter 2026 edition, detailing all steps, changes, and files modified.
 
 ## Migration Summary
 - **Source**: Summer 2025 camping edition (master branch)
 - **Target**: Winter 2026 indoor edition (winter26 branch)  
-- **Event Name**: "Rogue Rope Camp" → "Oh Bondage! Up Yours!"
+- **Event Name**: "Rogue Rope Camp" → "Bottoms Up!"
 - **Dates**: Aug 5-10, 2025 → Feb 18-22, 2026
 - **Format**: Outdoor camping → Indoor bunk bed accommodations
 
@@ -81,7 +81,7 @@ This document outlines the complete migration process from Rogue Rope Camp Summe
 - `content/_index.md` - Complete rewrite for winter theme
 
 #### Concept Section  
-- `content/concept/_index.md` - Branding updated to "Oh Bondage! Up Yours!"
+- `content/concept/_index.md` - Branding updated to "Bottoms Up!"
 - `content/concept/new-here.md` - Updated for indoor winter setting
 - `content/concept/play.md` - Minor adjustments for indoor context
 - All concept files updated with new branding
@@ -114,7 +114,7 @@ static/images/
 
 ### Critical Validation Points
 - [ ] Homepage dates: February 18-22, 2026
-- [ ] Event name consistency: "Oh Bondage! Up Yours!"
+- [ ] Event name consistency: "Bottoms Up!"
 - [ ] Accommodations: Indoor bunk beds, not camping
 - [ ] Things to bring: Winter indoor essentials
 - [ ] Image references: All pointing to rrw26/

@@ -72,8 +72,8 @@ We'll meet you where we can.
 
 If it's a yes — beautiful.  
 
-**📅 Tickets go on sale: May 5th, 2025 at 20:00**
-**💰 Ticket price: €169** (includes accommodation, all meals, and full access)
+**📅 Tickets go on sale: December 1st, 2025 at 20:00**
+**💰 Ticket price: €169** (includes accommodation, one hot meal per day plus provisions, and full access)
 **🎟️ Limited to 42 people** to maintain intimacy and connection
 
 We use a brief application process — not to gatekeep, but to ensure everyone comes with aligned expectations and respect for the container we're creating together.
@@ -82,10 +82,10 @@ We use a brief application process — not to gatekeep, but to ensure everyone c
 
 Your ticket includes:
 - **4 nights accommodation** (bunk bed in shared room)
-- **All meals** from Wednesday dinner through Sunday breakfast
+- **One hot meal per day plus provisions** from Wednesday dinner through Sunday breakfast
 - **Access to all activities** and shared spaces
 - **Use of basic rope and play equipment** (though bring your own favorites)
-- **Support from our care team** (FWBs and Consent Crew)
+- **Peer support** from FWBs (anyone who puts on a bracelet) and **dedicated support** from our Consent Crew
 
 ### Payment Options
 
@@ -146,7 +146,7 @@ If you care about it, someone else probably does too.
 
 **Ready to join us?**
 
-Email us at [info@roguerope.be](mailto:info@roguerope.be) with any questions, or wait for ticket sales to open on **May 5th, 2025**.
+Email us at [info@roguerope.be](mailto:info@roguerope.be) with any questions, or wait for ticket sales to open on **December 1st, 2025**.
 
 </div>
 

@@ -52,17 +52,17 @@ Use your GPS/maps app with the coordinates or address above. Mol is in northern 
 
 ### Share a Ride
 
-**We have a community space where attendees coordinate rides:**
+**We have a community space where participants coordinate rides:**
 
 Join our **WhatsApp Ride-Share Chat:** [Link to WhatsApp group — shared at confirmation]
 
 **How it works:**
 1. Post your departure city and date/time
-2. Other attendees heading your way respond
+2. Other participants heading your way respond
 3. Coordinate directly (splitting gas, timing, etc.)
 4. Arrive together, meet new friends immediately
 
-**Can't arrange a ride?** Email [info@roguerope.be](mailto:info@roguerope.be) with your city. We have a list of attendees and may be able to facilitate connections.
+**Can't arrange a ride?** Email [info@roguerope.be](mailto:info@roguerope.be) with your city. We have a list of participants and may be able to facilitate connections.
 
 ---
 
@@ -85,11 +85,15 @@ Join our **WhatsApp Ride-Share Chat:** [Link to WhatsApp group — shared at con
 **21:00** — Opening Circle (mandatory, transformative)
 **21:30+** — Play begins softly
 
-### Thursday+ Arrival
+### Wednesday 21:00 is Mandatory
 
-If you can't arrive Wednesday, you *must* arrive by **Thursday morning before the Consent Moment** (roughly 9:00 AM).
+**You must arrive by Wednesday 21:00 for the Opening Circle.** This is not flexible.
 
-Late arrivals (Thursday afternoon+) miss the Opening Circle and Consent Moment, which shape how we hold the space. If you must arrive late, **contact us in advance** so we can support your integration.
+This ritual is the threshold—it shapes how we hold space together, sets our collective agreements, and creates the energetic foundation for everything that follows.
+
+If you cannot commit to being present Wednesday evening, this gathering isn't the right fit for you this year. We'd rather you honor your real capacity and join us when you can fully show up.
+
+**No late arrivals.** Plan accordingly.
 
 ---
 
@@ -97,11 +101,11 @@ Late arrivals (Thursday afternoon+) miss the Opening Circle and Consent Moment, 
 
 ### Hotels & Accommodations
 
-Search "hotels in Mol, Belgium" or nearby towns for evening accommodations before arrival. The venue is well-positioned for Wednesday night stays.
+If you're arriving from far away and want to rest before Wednesday, search "hotels in Mol, Belgium" or nearby towns for Tuesday night stays. This gives you time to settle before heading to the venue for the Wednesday 21:00 Opening Circle.
 
 ### Airbnb/Vacation Rentals
 
-Search Mol on Airbnb if you want to stay nearby Wednesday night and arrive fresh Thursday morning.
+Search Mol on Airbnb if you're traveling from far away and want to rest before Wednesday. You can stay nearby Tuesday night or early Wednesday, then arrive at the venue for the Opening Circle at 21:00.
 
 ---
 

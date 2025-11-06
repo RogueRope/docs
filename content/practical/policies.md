@@ -22,15 +22,15 @@ We provide indoor bunk beds in shared dormitory-style rooms. You'll have your ow
 Yes! We accommodate vegetarian, vegan, and most dietary restrictions. Please let us know your needs when you register so we can plan accordingly.
 
 **When do tickets go on sale and how much do they cost?**
-Tickets go on sale **May 5th at 20:00**. Can't afford the full price? We offer sliding scale options, payment plans, and work exchange. Email us at [info@roguerope.be](mailto:info@roguerope.be) - no shame, just honest conversation.
+Tickets go on sale **December 1st at 20:00**. Can't afford the full price? We offer sliding scale options, payment plans, and work exchange. Email us at [info@roguerope.be](mailto:info@roguerope.be) - no shame, just honest conversation.
 
 ### Experience & Community
 
 **Do I need rope experience to attend?**
 Not at all. We welcome people at all levels - from complete beginners to experienced practitioners. Curiosity and openness matter more than skill level.
 
-**Is this a workshop/learning event?**
-This is primarily a community gathering focused on connection and authentic experience. You'll learn through doing and sharing, but it's not structured as traditional workshops.
+**Is this a session/lab-based learning event?**
+This is primarily a community gathering focused on connection and authentic experience. You'll learn through doing and sharing, but it's not structured as traditional sessions.
 
 **What if I don't want to participate in rope?**
 That's completely fine. Rope is welcome, not required. Many people come for the community, atmosphere, and other forms of connection and play.
@@ -38,8 +38,12 @@ That's completely fine. Rope is welcome, not required. Many people come for the 
 **Can I come alone?**
 Absolutely. Many people attend solo. We create structures and spaces that make it easy to connect with others naturally and without pressure.
 
+**What’s the photo policy?**  
+**Consent-only.** Take photos only of yourself or people who agreed **before** the shot. **No bystanders. No disturbance. Delete on request.**  
+See: [Photography Guidelines](/practical/photography-guidelines) and [Photo Privacy & Sharing](/practical/photo-privacy-sharing).
+
 **What if I feel overwhelmed during the event?**
-We have quiet spaces, trained support people (FWBs and Consent Crew), and a culture that honors your right to step back, rest, or leave if needed. Self-care is encouraged, not discouraged.
+We have quiet spaces, peer support (FWBs — anyone wearing a bracelet who's available), our trained Consent Crew for boundaries and safety issues, and a culture that honors your right to step back, rest, or leave if needed. Self-care is encouraged, not discouraged.
 
 ---
 
@@ -63,14 +67,21 @@ If you paid X euros, we'll return X euros. Simple.
 We understand that life rarely goes according to plan. If you can't join us for personal reasons — illness, family needs, work changes, or simply recognizing that this isn't the right moment — here are your options:
 
 **Reselling or Gifting Your Ticket**
-You're welcome to pass your ticket on — but please check with us first. Every person goes through our gentle vetting process, so we need to connect with your replacement first. Send us an email with their **FetLife name** and **email**, and we'll reach out to both of you to make sure everyone feels comfortable with the transition.
+You're welcome to pass your ticket on — but please check with us first. Here's how it works:
+
+1. **Email us** with your replacement's FetLife name and email
+2. **We contact them** to confirm their interest and vibe-check compatibility
+3. **We flip the ticket** once they've been approved — simple as that
+
+Every person goes through our gentle vetting process to make sure everyone feels comfortable with the transition.
 
 **Refund Policy**
-- **More than 30 days before**: 80% refund
-- **15-30 days before**: 50% refund  
-- **Less than 15 days**: No refund, but you can transfer your ticket
+- **Up to 3 weeks before** (by January 25, 2026): **100% refund**
+- **Less than 3 weeks before**: **No refund**, but you can transfer/resell your ticket
 
-We know this isn't perfect for every situation. If you're facing genuine hardship, reach out to us directly. We'll work something out.
+We know life is unpredictable. If you're facing genuine hardship or a real emergency, reach out to us directly at [info@roguerope.be](mailto:info@roguerope.be). We care about you more than the money.
+
+**For full details on the cancellation process, refund method, and alternatives to cancellation, see: [Cancellation & Refund Policy](/practical/cancellation-policy)**
 
 ---
 
@@ -80,10 +91,12 @@ We know this isn't perfect for every situation. If you're facing genuine hardshi
 
 Bottoms Up! is a place where people come to be real — raw, soft, naked, messy, tender, fierce. That kind of openness requires deep trust.
 
-**Core Rule: No photos or videos without explicit consent. Ever.**  
-That means every person in frame — foreground or background.  
-Blur is not consent. Assumption is not consent.  
+**Core Rule: No photos or videos without explicit consent. Ever.**
+That means every person in frame — foreground or background.
+Blur is not consent. Assumption is not consent.
 **Ask first. Every time.**
+
+For full photography and video guidelines, see: [Photography Guidelines](/practical/photography-guidelines)
 
 ### Social Media Guidelines
 
@@ -97,12 +110,10 @@ We keep most things offline. If you share at all, do it only with explicit conse
 
 ### Venue Privacy
 
-We love this space and want to keep using it. Protecting it includes protecting its anonymity.
-
 Please:
-- Don't post identifiable photos of the venue
-- Don't share wide shots of the venue  
-- Do enjoy pictures for personal use — just don't publish them online
+- Avoid venue names and identifying wide shots when posting
+- Crop/blur signage or distinctive features
+- Never add time or precise location details
 
 ---
 

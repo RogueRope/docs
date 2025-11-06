@@ -78,8 +78,9 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 **Why:** Food, accommodations, and support are bundled. We can't break them apart.
 
 **But you can:**
-- Arrive late (Thursday instead of Wednesday): Tell us; we adjust sleep arrangements
 - Leave early (Friday instead of Sunday): Totally fine; meals adjust but price stays same
+
+**Important:** You must arrive by Wednesday 21:00 for the Opening Circle. If you cannot commit to this, this gathering may not be right for you.
 
 **Better option:** If you need partial attendance, **reach out before registering.** Maybe we can work something out. But expect to pay full price.
 

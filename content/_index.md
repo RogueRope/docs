@@ -14,10 +14,10 @@ A sanctuary for rope as ritual, connection over performance, and consent as sacr
 
 <div class="bg-gradient-ash-timberwolf hx-py-8 hx-px-6 hx-rounded-lg hx-mb-12">
 
-## 📅 February 18-22, 2026 • Mol, Belgium
+## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
 
 **🎫 €169 • Limited to 42 people**  
-*[Tickets available May 5th, 2025](/practical/participation)*
+*[Tickets available December 1st, 2025](/practical/participation)*
 
 </div>
 
@@ -30,7 +30,7 @@ If this is your first gathering — breathe deep. You're exactly where you need 
 
 This isn't a gathering for spectators. It's a sanctuary. For the curious. For the brave enough to be vulnerable. A space where desire whispers — never demands. Where rope is an invitation — never an obligation.
 
-Four days to shed the rush. To sink into something slower, softer, more essential.
+Five days to shed the rush. To sink into something slower, softer, more essential.
 
 Come to tie. Come to surrender. Come to discover what lives in the spaces between.
 

@@ -84,7 +84,7 @@ We value real conversation over rope tricks. Vulnerability over Instagram moment
 We create space for consent that's enthusiastic, ongoing, and held collectively. Emotional safety matters as much as physical safety here.
 
 **🌅 Time to slow down and feel deeply?**  
-Four days to step away from rush culture. To breathe. To be present. To let intimacy unfold naturally without agenda or timeline.
+Five days to step away from rush culture. To breathe. To be present. To let intimacy unfold naturally without agenda or timeline.
 
 ### You'll Love This If...
 
@@ -102,7 +102,7 @@ Four days to step away from rush culture. To breathe. To be present. To let inti
 
 ### This Might Not Be Right If...
 
-**You're looking for a rope workshop or skill-building event** — we're about connection, not curriculum. You'll learn plenty, but through experience rather than instruction.
+**You're looking for a rope session or skill-building event** — we're about connection, not curriculum. You'll learn plenty, but through experience rather than instruction.
 
 **You prefer anonymous encounters** — this is intimate, communal, and heart-centered. People see and remember each other here.
 
@@ -126,7 +126,7 @@ Ask yourself:
 
 💭 **Do I want to explore rope as a practice of intimacy and presence?**
 
-💭 **Can I commit to four days of authentic engagement with a community?**
+💭 **Can I commit to five days of authentic engagement with a community?**
 
 If you're feeling "YES" — even a nervous, excited, uncertain yes — then this might be exactly what you need.
 

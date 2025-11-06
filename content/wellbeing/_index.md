@@ -39,7 +39,7 @@ These resources are here for your breath, your nervous system, your sense of saf
 
 ## Ready to Explore Further?
 
-**Want to understand what you're preparing for?** → [Experience Structure](/concept/experience) — How our four days unfold
+**Want to understand what you're preparing for?** → [Experience Structure](/concept/experience) — How our five days unfold
 
 **Ready to join us?** → [Join Us](/practical) — Everything you need to know about participation
 

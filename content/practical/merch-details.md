@@ -106,7 +106,7 @@ We'll try to accommodate. No guarantees, but we listen.
 
 ### Build Your Collection
 
-**Tradition:** Many attendees collect shirts from different years.
+**Tradition:** Many participants collect shirts from different years.
 
 **Our gatherings:**
 - 2026 design: Available now
@@ -144,7 +144,7 @@ Not at this time (this is an adult event). But if you need sizes outside our ran
 
 ### Can I buy merch without attending?
 
-**Not directly.** Merch is primarily for attendees. But if you've attended before, email us — we might have extra stock.
+**Not directly.** Merch is primarily for participants. But if you've attended before, email us — we might have extra stock.
 
 ### Will there be a merch artist at the event?
 

@@ -13,7 +13,7 @@ toc: true
 **Your image is yours.** Your consent to be photographed is sacred.
 
 We take photos to:
-- Capture memories for attendees
+- Capture memories for participants
 - Document the experience
 - Create an archive of our community
 
@@ -30,13 +30,21 @@ We do NOT:
 
 ## What Happens With Photos
 
+## Consent-only photography — the rules
+
+- **Ask first, clearly.** Get consent **before** the shot. Name who’s in frame and intended use (personal archive / private share / public post).
+- **No bystanders.** No one else in foreground or background. Watch mirrors/windows/reflections.
+- **No disturbance.** Keep it brief. No flash, no lights, no tripods. Don’t interrupt scenes, rituals, or shared spaces.
+- **Consent is revocable.** A yes can become a no. If anyone asks, **delete immediately** — no debate.
+- **Phone Nook.** When you’re not using your device, leave it at the **Phone Nook (charging & storage)**.
+
 ### Who Takes Photos?
 
-**Official photographers:** 1-2 designated community members with clear cameras and consent badges
+**Official photographers:** 1–2 designated community members with clear cameras and consent badges
 
-**Personal photos:** Attendees can take photos for personal use
+**Personal photos:** Allowed under the consent-only rules above.
 
-**No phones during intimate moments:** We ask for phone-free spaces during certain activities (mentioned at opening circle)
+**No phones during intimate/ritual moments:** We’ll announce phone-free spaces/times at Opening Circle.
 
 ---
 
@@ -106,30 +114,33 @@ We'll delete them within 48 hours. No questions asked. No judgment.
 
 **During play spaces:**
 - You can bring a camera for personal use
-- But check consent before photographing
-- Some scenes are intimate — respect that
+- **Ask first** and get a **yes from everyone** in frame **before** the shot
+- **No bystanders** (mind backgrounds, mirrors, reflections)
+- **No disturbance** (brief, no flash/lights/tripods; don’t interrupt scenes/rituals)
 - If you're playing, put the camera down
 
 **During opening/closing circles:**
-- Cameras are welcome for personal memory-keeping
-- But phone-free during circle itself (put it away)
+- Be present. **Phone-free during the circle itself** (put it away)
 
 **Private moments:**
-- Some people don't want to be photographed
-- Honor that
+- Some people don't want to be photographed — **honor that**
+
+**After the shot:** Offer to show it; **delete immediately on request**.
+**Where to keep phones:** Use the **Phone Nook** when you’re not actively using your device.
 
 ---
 
 ### Videography
 
-**Personal video is not allowed** during intimate/play moments.
+**Personal video is allowed under the same consent rules as photos.**
 
-Videos create different risks:
-- Harder to control sharing
-- Easier to distribute without consent
-- Creates documentation that feels different from photos
+Get explicit consent before recording, just like you would for a photo:
+- **Ask first, clearly.** Get consent **before** the shot. Name who's in frame and intended use.
+- **No bystanders.** No one else in foreground or background. Watch mirrors/windows/reflections.
+- **No disturbance.** Keep it brief. Don't interrupt scenes, rituals, or shared spaces.
+- **Consent is revocable.** If anyone asks, **delete immediately** — no debate.
 
-**If you want to capture something, take a photo instead.**
+Videos can be shared under the same privacy guidelines as photos.
 
 ---
 
@@ -145,10 +156,7 @@ Videos create different risks:
 
 ## Summary
 
-✅ **Your consent is mandatory.** No photos without permission.
-
-✅ **You can opt out.** Just wear the indicator or tell a photographer.
-
-✅ **Photographers respect boundaries.** Personal choice first.
-
-✅ **We take violations seriously.** If you're photographed without consent, we address it immediately.
+✅ **Ask first.** Consent before the shot, for everyone in frame.  
+✅ **No bystanders.** Watch backgrounds, mirrors, reflections.  
+✅ **No disturbance.** Keep it brief; no flash/lights; don’t interrupt scenes/rituals.  
+✅ **Delete on request.** Consent is revocable — honor it immediately.  

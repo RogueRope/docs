@@ -23,7 +23,9 @@ Bring bedding that makes you feel safe and soft.
 
 **Mixed rooms** — All genders welcome
 
-**FLINTA-only rooms** — For Female, Lesbian, Intersex, Non-binary, Trans, Agender folks
+**FLINTA-only rooms** — for women (including trans women), lesbians, intersex, non-binary, trans, and agender folks. Self-defined; no gatekeeping.
+
+*Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest.*
 
 **"Snoring sanctuary"** — For heavy sleepers and their companions
 
@@ -70,7 +72,7 @@ Make your bunk feel like home. Small personal items welcome.
 
 ## First Night
 
-You'll arrive, check in, find your room, meet your roommates, arrange your bunk. That's it. Relax. You're home for 4 days.
+You'll arrive, check in, find your room, meet your roommates, arrange your bunk. That's it. Relax. You're home for 5 days.
 
 ---
 
