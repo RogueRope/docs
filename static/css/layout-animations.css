@@ -1,0 +1,237 @@
+/* Winter 2026 Layout Animations and Effects */
+
+/* Fade in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 1s ease-out;
+}
+
+/* Staggered fade in for cards */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card-hover {
+  animation: fadeInUp 0.6s ease-out;
+  animation-fill-mode: both;
+}
+
+.card-hover:nth-child(1) {
+  animation-delay: 0.1s;
+}
+
+.card-hover:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.card-hover:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+/* Smooth transitions */
+.card-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-hover:hover {
+  transform: translateY(-8px) scale(1.02);
+}
+
+/* Hero section gradient animation */
+.hero-section {
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Pulsing effect for CTAs */
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(237, 175, 184, 0.7);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(237, 175, 184, 0);
+  }
+}
+
+a[href="#getting-started"]:hover,
+a[href="#participation"]:hover {
+  animation: pulse 2s infinite;
+}
+
+/* Subtle shimmer effect */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.shimmer {
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(255, 255, 255, 0.3) 50%,
+    transparent 100%
+  );
+  background-size: 1000px 100%;
+  animation: shimmer 3s infinite;
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Enhanced shadows for depth */
+.shadow-custom {
+  box-shadow:
+    0 4px 6px -1px rgba(74, 87, 89, 0.1),
+    0 2px 4px -1px rgba(74, 87, 89, 0.06),
+    0 0 0 1px rgba(237, 175, 184, 0.1);
+}
+
+.shadow-custom-lg {
+  box-shadow:
+    0 10px 15px -3px rgba(74, 87, 89, 0.1),
+    0 4px 6px -2px rgba(74, 87, 89, 0.05),
+    0 0 0 1px rgba(237, 175, 184, 0.1);
+}
+
+/* Dark mode adjustments */
+.dark .shadow-custom {
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.3),
+    0 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0 0 0 1px rgba(237, 175, 184, 0.2);
+}
+
+.dark .shadow-custom-lg {
+  box-shadow:
+    0 10px 15px -3px rgba(0, 0, 0, 0.3),
+    0 4px 6px -2px rgba(0, 0, 0, 0.2),
+    0 0 0 1px rgba(237, 175, 184, 0.2);
+}
+
+/* Responsive typography scaling */
+@media (max-width: 640px) {
+  .hero-section h1 {
+    font-size: 3rem;
+  }
+
+  .hero-section p {
+    font-size: 1.25rem;
+  }
+}
+
+/* Link hover effects */
+a {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--timberwolf-900);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--cherry-blossom-pink-300);
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--cherry-blossom-pink-400);
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: var(--outer-space-100);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: var(--cherry-blossom-pink-200);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: var(--cherry-blossom-pink-300);
+}
+
+/* Loading state shimmer for images */
+.img-loading {
+  background: linear-gradient(
+    90deg,
+    var(--timberwolf-200) 25%,
+    var(--timberwolf-100) 50%,
+    var(--timberwolf-200) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Focus states for accessibility */
+a:focus,
+button:focus {
+  outline: 2px solid var(--cherry-blossom-pink-300);
+  outline-offset: 2px;
+}
+
+.dark a:focus,
+.dark button:focus {
+  outline-color: var(--champagne-pink);
+}
+
+/* Smooth appearance for prose content */
+.prose {
+  animation: fadeIn 0.8s ease-out;
+}
+
+/* Grid item stagger animation */
+.grid > * {
+  animation: fadeInUp 0.5s ease-out;
+  animation-fill-mode: both;
+}
+
+.grid > *:nth-child(4) {
+  animation-delay: 0.4s;
+}
+
+.grid > *:nth-child(5) {
+  animation-delay: 0.5s;
+}
+
+.grid > *:nth-child(6) {
+  animation-delay: 0.6s;
+}
