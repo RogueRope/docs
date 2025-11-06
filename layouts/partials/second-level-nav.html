@@ -1,1 +1,49 @@
-{{/* Navigation hidden for coming soon page */}}
+{{- $currentSection := .Section -}}
+{{- $currentPage := .RelPermalink -}}
+
+{{/* Only show navigation on homepage */}}
+{{ if .IsHome }}
+<div class="mt-16 pt-8 border-t border-gray-200 dark:border-gray-700">
+
+  {{/* Quick navigation section */}}
+  <div class="bg-gradient-to-r from-champagne-pink-50 via-cherry-blossom-pink-50 to-timberwolf-50 dark:from-outer-space-100 dark:via-outer-space-200 dark:to-ash-gray-200 p-8 rounded-2xl text-center shadow-lg mb-8">
+    <h3 class="text-2xl font-bold mb-6 text-outer-space dark:text-champagne-pink">
+      Ready to Dive Deeper?
+    </h3>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 max-w-5xl mx-auto">
+      <a href="#getting-started" class="block bg-white dark:bg-outer-space-100 rounded-lg p-4 shadow-md hover:shadow-xl transition-all transform hover:scale-105">
+        <div class="text-3xl mb-2">🌱</div>
+        <h4 class="font-semibold text-cherry-blossom-pink-300 mb-1">Getting Started</h4>
+        <p class="text-sm text-outer-space-300 dark:text-timberwolf">Is this for you?</p>
+      </a>
+
+      <a href="#experience" class="block bg-white dark:bg-outer-space-100 rounded-lg p-4 shadow-md hover:shadow-xl transition-all transform hover:scale-105">
+        <div class="text-3xl mb-2">✨</div>
+        <h4 class="font-semibold text-timberwolf-300 mb-1">The Experience</h4>
+        <p class="text-sm text-outer-space-300 dark:text-timberwolf">Core concepts</p>
+      </a>
+
+      <a href="#participation" class="block bg-white dark:bg-outer-space-100 rounded-lg p-4 shadow-md hover:shadow-xl transition-all transform hover:scale-105">
+        <div class="text-3xl mb-2">🎫</div>
+        <h4 class="font-semibold text-ash-gray-300 mb-1">Join Us</h4>
+        <p class="text-sm text-outer-space-300 dark:text-timberwolf">Practical details</p>
+      </a>
+
+      <a href="#wellbeing" class="block bg-white dark:bg-outer-space-100 rounded-lg p-4 shadow-md hover:shadow-xl transition-all transform hover:scale-105">
+        <div class="text-3xl mb-2">💚</div>
+        <h4 class="font-semibold text-outer-space dark:text-champagne-pink mb-1">Care & Support</h4>
+        <p class="text-sm text-outer-space-300 dark:text-timberwolf">Wellbeing resources</p>
+      </a>
+    </div>
+
+    <div class="mt-8 pt-6 border-t border-gray-200 dark:border-gray-600">
+      <p class="text-sm text-outer-space-300 dark:text-timberwolf mb-3">Need help or have questions?</p>
+      <a href="mailto:info@roguerope.be" class="inline-block bg-champagne-pink dark:bg-champagne-pink-300 text-outer-space px-6 py-3 rounded-lg font-semibold hover:bg-champagne-pink-200 dark:hover:bg-champagne-pink-400 transition-all transform hover:scale-105 shadow-md">
+        Contact Us
+      </a>
+    </div>
+  </div>
+
+</div>
+{{ end }}
