@@ -23,6 +23,7 @@ Want to run an idea past the team? Something unclear or confusing?
 Just reach out.
 
 We're here for:
+
 - Curious questions
 - Nerdy logistics
 - Weird edge cases
@@ -66,7 +67,7 @@ Ready to dive deeper into what makes this gathering special?
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/concept/is-this-for-you" class="hx-underline hover:hx-no-underline">Is This For You?</a> • <a href="/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a>
+Or explore: <a href="/concept/is-this-for-you" class="hx-underline hover:hx-no-underline">Is This For You?</a> • <a href="/docs/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a>
 </div>
 
 </div>

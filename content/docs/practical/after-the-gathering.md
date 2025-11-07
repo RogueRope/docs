@@ -1,6 +1,6 @@
 ---
 title: After the Gathering
-description: "Integration, resources, staying connected"
+description: 'Integration, resources, staying connected'
 lead: "The gathering shifts, not ends. Here's what helps."
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
@@ -23,163 +23,49 @@ Your nervous system is integrating. Expect tiredness, emotions, vivid dreams, se
 ## First Week
 
 ### Community Debrief
+
 We typically organize a community debrief call in the days after. Watch for details in the WhatsApp group and email.
 
 ### Photos & Memories
+
 - Photos will be shared (check your email for access details)
 - Respect privacy: no public screenshots or sharing without permission
 - All shared under a private agreement
 - If you choose to share publicly later, do it **only** with prior consent from everyone visible and **anonymize the venue**; delete on request.
 
 ### Connect with People You Met
+
 Email [info@roguerope.be](mailto:info@roguerope.be) with names to facilitate. Reach out directly if you remember them.
 
 ### Journal Prompts
+
 - What surprised you?
 - What do you want to carry forward?
 - How does your body feel?
 
 ---
 
-## Stay Connected
+## Explore What's Next
 
-**Join our WhatsApp community** — year-round connection, resources, next gathering updates. [→ Get the link]
+<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6 hx-mb-8">
 
-**Monthly community calls** — Details shared in WhatsApp group
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
 
-**Resources:**
-Details on recommended books, therapist referrals, and support networks shared in the community.
+### 🌱 [Integration & Support](/practical/integration)
 
----
+Resources for processing your experience and navigating what comes next.
 
-### Resources for Integration
+</div>
 
-We share curated resources in the WhatsApp community, including:
+<div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg">
 
-- **Books & Essays** on rope, consent, and intimacy
-- **Podcasts & Interviews** exploring kink and connection
-- **Online Rope Teachers** for ongoing learning
-- **Kink-informed Therapists** directory
-- **Local Rope Communities** and sessions
-- **Support Groups** for processing intense experiences
+### 🏠 [Community & Connection](/practical/community)
 
-Ask in the community — people are always happy to recommend what helped them integrate.
+Stay connected with the Bottoms Up! community.
 
----
+</div>
 
-## Specific Situations
-
-### If You're Feeling Lonely
-
-The end of an intense gathering can feel isolating. The remedy is reconnection.
-
-**What helps:**
-- Join the WhatsApp community immediately
-- RSVP for the monthly community call
-- Reach out to someone you met (even a small message)
-- Go to a local rope jam or kink community event
-- Plan to attend the next gathering NOW (tickets often sell out)
-- Get a therapist who understands rope/kink
-
-**You are not alone.** The people you met are feeling this too. Many are reaching out. Meet them.
-
----
-
-### If You're Struggling with Emotions
-
-Rope events stir up feelings — fear, joy, grief, desire, vulnerability. This is part of the work. But sometimes the feelings are overwhelming.
-
-**What helps:**
-- Talk to someone (friend, community member, therapist)
-- Move your body
-- Practice grounding (feet on earth, 5-4-3-2-1 sensory awareness)
-- Reach out to the community support channel
-- Remember: feelings pass
-
-**If you're in crisis:**
-- National crisis line: [number]
-- Text crisis support: [number]
-- Go to an ER if you're unsafe
-- Call a trusted person
-
-**Kink-competent therapists** understand rope, BDSM, power dynamics, and consent. They can help you process safely. [Referral list]
-
----
-
-### If You Experienced Harm
-
-If something happened at the gathering that crossed your boundaries or violated consent:
-
-**You are not alone. We're here.**
-
-1. **Reach out to the Consent Crew** — they're trained in support and accountability
-   - Email: [consent-crew@roguerope.be](mailto:consent-crew@roguerope.be)
-   - Phone: [number]
-   - In-person: [staff available at gatherings]
-
-2. **What happens next:**
-   - You're heard and believed
-   - We support YOU first (your safety, your healing)
-   - We work toward accountability from the person who caused harm
-   - We don't force confrontation or forgiveness
-   - We help you access additional support if needed
-
-3. **Additional support:**
-   - Trauma-informed therapists: [Referral list]
-   - Crisis counseling: [Numbers]
-   - Support groups for BDSM/kink survivors: [Links]
-
-**You deserved better. We're committed to accountability and repair.**
-
----
-
-### If You're Processing a Relationship Change
-
-Sometimes rope gatherings shift relationships — romantic partnerships, friendships, or self-understanding.
-
-**This is deep work. You might:**
-- Feel closer to your partner (or want to leave)
-- Realize something about yourself
-- Grieve a friendship or dynamic that changed
-- Experience unexpected jealousy or desire
-- Feel alone or unseen in your "regular" life
-
-**What helps:**
-- Talk to your partner or friend (honest, vulnerable conversations)
-- Journal about what's shifting
-- Get support from the community (others have navigated this)
-- See a therapist who understands polyamory/kink/relationship complexity
-- Attend the next gathering (these events create lasting transformation over time)
-
----
-
-## Next Gathering
-
-### When Is the Next One?
-
-**Bottoms Up! 2027 (tentative):**
-- [Dates TBA]
-- [Location TBA]
-
-We run annually. The dates are typically winter. Get on the mailing list to be notified as soon as 2027 dates are confirmed.
-
-[**Mailing list signup →**]
-
----
-
-### Give Feedback
-
-**Help us create even better gatherings.**
-
-[**Feedback form →**]
-
-Tell us:
-- What worked beautifully
-- What was confusing or missing
-- How we can support you better
-- Ideas for next time
-
-Your feedback shapes how we evolve.
+</div>
 
 ---
 

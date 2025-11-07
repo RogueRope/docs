@@ -1,7 +1,7 @@
 ---
 title: Photography Guidelines
-description: "How photos are taken at Bottoms Up!, who photographs, and how to opt out"
-lead: "Your image, your consent, your control"
+description: 'How photos are taken at Bottoms Up!, who photographs, and how to opt out'
+lead: 'Your image, your consent, your control'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 34
@@ -13,11 +13,13 @@ toc: true
 **Your image is yours.** Your consent to be photographed is sacred.
 
 We take photos to:
+
 - Capture memories for participants
 - Document the experience
 - Create an archive of our community
 
 We do NOT:
+
 - Post your image online without permission
 - Share photos on social media
 - Use your image for promotion or commercial purposes
@@ -51,6 +53,7 @@ We do NOT:
 ### Photo Times
 
 **We announce photo times clearly:**
+
 - Before the Opening Circle
 - During afternoon "jam spaces" (optional)
 - At the play party
@@ -59,6 +62,7 @@ We do NOT:
 **If we're photographing, we'll say so.**
 
 You can:
+
 - Step out of frame
 - Say "no photos" to photographers
 - Decline specific photos
@@ -87,6 +91,7 @@ You can:
 **Changed your mind after the event?**
 
 Email [info@roguerope.be](mailto:info@roguerope.be) with:
+
 - Your name
 - Which photos you want removed
 - Brief reason (optional)
@@ -113,6 +118,7 @@ We'll delete them within 48 hours. No questions asked. No judgment.
 **Yes, with guidelines:**
 
 **During play spaces:**
+
 - You can bring a camera for personal use
 - **Ask first** and get a **yes from everyone** in frame **before** the shot
 - **No bystanders** (mind backgrounds, mirrors, reflections)
@@ -120,9 +126,11 @@ We'll delete them within 48 hours. No questions asked. No judgment.
 - If you're playing, put the camera down
 
 **During opening/closing circles:**
+
 - Be present. **Phone-free during the circle itself** (put it away)
 
 **Private moments:**
+
 - Some people don't want to be photographed — **honor that**
 
 **After the shot:** Offer to show it; **delete immediately on request**.
@@ -135,6 +143,7 @@ We'll delete them within 48 hours. No questions asked. No judgment.
 **Personal video is allowed under the same consent rules as photos.**
 
 Get explicit consent before recording, just like you would for a photo:
+
 - **Ask first, clearly.** Get consent **before** the shot. Name who's in frame and intended use.
 - **No bystanders.** No one else in foreground or background. Watch mirrors/windows/reflections.
 - **No disturbance.** Keep it brief. Don't interrupt scenes, rituals, or shared spaces.
@@ -159,4 +168,4 @@ Videos can be shared under the same privacy guidelines as photos.
 ✅ **Ask first.** Consent before the shot, for everyone in frame.  
 ✅ **No bystanders.** Watch backgrounds, mirrors, reflections.  
 ✅ **No disturbance.** Keep it brief; no flash/lights; don’t interrupt scenes/rituals.  
-✅ **Delete on request.** Consent is revocable — honor it immediately.  
+✅ **Delete on request.** Consent is revocable — honor it immediately.

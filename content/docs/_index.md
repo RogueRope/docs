@@ -1,5 +1,5 @@
 ---
-title: "Bottoms Up!"
+title: 'Bottoms Up!'
 ---
 
 <div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto">
@@ -17,7 +17,7 @@ A sanctuary for rope as ritual, connection over performance, and consent as sacr
 ## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
 
 **🎫 €169 • Limited to 42 people**  
-*[Tickets available December 1st, 2025](/practical/participation)*
+_[Tickets available December 1st, 2025](/docs/practical/participation)_
 
 </div>
 
@@ -48,7 +48,7 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 
 1. **[Is this for you?](/concept/is-this-for-you)** — Self-reflection and gentle guidance
 2. **[The Experience](/concept)** — What makes this gathering unique
-3. **[Join Us](/practical)** — Everything you need to know
+3. **[Join Us](/docs/practical/participation)** — Everything you need to know
 
 <div class="hx-mt-4">
 <a href="/concept/is-this-for-you" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
@@ -65,11 +65,11 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 **Welcome back:**
 
 - **[What's new this year](/concept/experience)** — The ceremonies that shape our time
-- **[Get your spot](/practical/participation)** — Secure your return to the warmth
+- **[Get your spot](/docs/practical/participation)** — Secure your return to the warmth
 - **[Connect](/contact)** — Questions or just want to say hello?
 
 <div class="hx-mt-4">
-<a href="/practical/participation" class="btn-cherry-blossom-pink hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
+<a href="/docs/practical/participation" class="btn-cherry-blossom-pink hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
   Get Your Spot →
 </a>
 </div>
@@ -82,7 +82,7 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 
 <div class="hx-text-center hx-py-8">
 
-*Rope as ritual. Connection over performance. Consent as sacred practice.*
+_Rope as ritual. Connection over performance. Consent as sacred practice._
 
 **Bring your hunger. Bring your tenderness.**
 

@@ -1,7 +1,7 @@
 ---
 title: Sex Positive, Unapologetically
-description: "Why this gathering celebrates desire, sexuality, and eros as sacred"
-lead: "Desire is welcome here. So is reverence."
+description: 'Why this gathering celebrates desire, sexuality, and eros as sacred'
+lead: 'Desire is welcome here. So is reverence.'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 25
@@ -25,6 +25,7 @@ We are **explicitly, unapologetically sex-positive**. And that's rare in the shi
 **Yes:** Desire is sacred. Sexuality is part of our humanity. Eros belongs alongside rope, intimacy, and presence. People can express their sexuality—or choose not to—without apology.
 
 Sex-positive means:
+
 - Desire is normal, worthy, and beautiful
 - Sexuality is diverse (some people want sex; some want intimacy; some want neither; all valid)
 - Consent makes it ethical
@@ -50,6 +51,7 @@ If you've been told your desire is too much, too weird, too kinky, too queer, to
 ## How Sexuality Shows Up
 
 **At the gathering, you might see:**
+
 - People kissing during rope scenes
 - Sensual touching that's sexual or sacred (sometimes both)
 - Naked bodies being bound, touched, witnessed
@@ -58,12 +60,14 @@ If you've been told your desire is too much, too weird, too kinky, too queer, to
 - Intimacy that's tender, fierce, slow, urgent, playful, solemn
 
 **You won't see:**
+
 - Pressure to perform
 - Objectification
 - Spectacle for its own sake
 - Exploitation
 
 **You will feel:**
+
 - Presence
 - Consent
 - Reverence for bodies and desire
@@ -78,6 +82,7 @@ We're **not** a sex party. We're not a porn set. We're not a place where sexuali
 We're a space where people can explore sexuality **with dignity, presence, and care**. Where desire is woven into rope, into ritual, into connection.
 
 Sex can be:
+
 - A spiritual practice
 - An expression of power and vulnerability
 - A form of intimacy
@@ -108,7 +113,7 @@ If you've been told:
 
 Rope is a language of vulnerability and power. Sexuality is where vulnerability gets most real, power most potent, truth most naked.
 
-When we bind someone, we're asking: *Can you trust me with your body? With your desire? With your truth?*
+When we bind someone, we're asking: _Can you trust me with your body? With your desire? With your truth?_
 
 That trust is erotic. It's also sacred. Both things at once.
 
@@ -121,6 +126,7 @@ We don't hide. We celebrate.
 ## What This Means for You
 
 You can:
+
 - Bring your full sexuality
 - Express desire without apology
 - Explore pleasure with a partner
@@ -131,6 +137,7 @@ You can:
 - Have sex, or not have sex, or something else entirely
 
 **You cannot:**
+
 - Violate someone's consent
 - Pressure anyone into sexuality
 - Detach from presence (sex as performance is not welcome)

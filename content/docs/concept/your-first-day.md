@@ -1,6 +1,6 @@
 ---
 title: Your First Day
-description: "What happens when you arrive at Bottoms Up! - a timeline of your first hours"
+description: 'What happens when you arrive at Bottoms Up! - a timeline of your first hours'
 lead: "Here's what to expect the moment you arrive"
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
@@ -46,6 +46,7 @@ toc: true
 This is the threshold. The moment we step in together.
 
 **What happens:**
+
 - We gather in a circle (all 42 of us)
 - Introduction from organizers (what we're about)
 - Consent Moment (embodied practice)
@@ -56,6 +57,7 @@ This is the threshold. The moment we step in together.
 **Why attend:** This ritual shapes everything that follows. It's not a lecture; it's a collective breath.
 
 **After the circle:**
+
 - Play might begin softly (some rope, some hanging out)
 - You can participate or head to bed — both are fine
 - The night is open-ended
@@ -71,6 +73,7 @@ You've slept (or listened to roommates sleep).
 A guided, embodied practice refreshing and deepening the consent framework from the Opening Circle. Short, meaningful.
 
 **After that:**
+
 - Breakfast/coffee in common area
 - Jam spaces open (people tying, connecting)
 - Unconference board posted (see what peer-led sessions are happening)
@@ -91,4 +94,4 @@ Come as you are. We'll meet you there.
 👉 [Is This For You?](/concept/is-this-for-you) — Decide if Bottoms Up! is right for you
 👉 [Our Philosophy](/concept/philosophy) — What makes this gathering unique
 👉 [Practical Details](/practical) — Everything you need to know about logistics
-👉 [Get your ticket](/practical/participation) — Join us for this intimate exploration
+👉 [Get your ticket](/docs/practical/participation) — Join us for this intimate exploration

@@ -1,7 +1,7 @@
 ---
-title: "Core Philosophy"
-description: "Connection over performance, presence over polish - the heart of Bottoms Up!"
-lead: "What makes this gathering different and how we create space together"
+title: 'Core Philosophy'
+description: 'Connection over performance, presence over polish - the heart of Bottoms Up!'
+lead: 'What makes this gathering different and how we create space together'
 date: 2025-08-28
 weight: 10
 toc: true
@@ -15,7 +15,7 @@ At Bottoms Up!, we cherish the ties that bind — not just bodies, but hearts an
 
 ## The Essence of Rope
 
-Rope is a language. One of tension, stillness, surrender. It doesn't need applause. It doesn't need perfection. It needs presence. 
+Rope is a language. One of tension, stillness, surrender. It doesn't need applause. It doesn't need perfection. It needs presence.
 
 Skill helps, sure. But the real magic lives in what can't be taught — those quiet, electric moments where something shifts between you.
 
@@ -62,135 +62,35 @@ There are no celebrity teachers here. No extra fees for insight. No backstage pa
 
 ---
 
-## Being Together: Our Shared Agreements
+## Explore the Philosophy
 
-**We made a few agreements to keep this space honest, safe, and kind.**
+<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6 hx-mb-8">
 
-- **Consent comes first, always.** Get it clearly, give it freely, and tune in to words and silence. Be grateful when someone trusts you with their truth.
-- **Respect the humans around you.** Every person here carries a story. Be mindful, be curious, ask before touching, and honor pronouns.
-- **Speak what's real.** Say what you mean and hear what's said. When things feel tender, choose clarity as a form of care.
-- **Stay present.** Let the outside world wait. Be here with your body, your breath, and your attention.
-- **Own your impact.** We all fuck up; what matters is what you do next. Apologize, repair, learn, and grow.
-- **Play with awareness.** Kink, sex, and BDSM are welcome here, but never at the cost of safety or consent. Know your edges, respect others', and be gentle with power.
-- **Take care of yourself.** Eat, hydrate, rest, and ask for what you need. You're not here to push through—you're here to be whole.
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
 
-### Generosity as Love in Action
+### 🌀 [Our Shared Agreements](/concept/agreements)
 
-**Be generous.**  
-Offer what you can: your time, your skills, your mischief, your warmth.
+How we commit to keeping our space honest, safe, and kind.
 
-What counts as participation? All of it.
+</div>
 
-- Chopping onions  
-- Hanging lights  
-- Tidying the space  
-- Holding someone who needs to cry  
-- Tying rope, sharing a song, offering your favorite snack at 3am
+<div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg">
 
-There is no competition here. No one gets a gold star. Contribution looks different for everyone — and that's the point.
+### 🤝 [Who Belongs Here](/concept/belonging)
 
-Whether you're a helper, a dreamer, a mischief-maker, or someone who simply holds the energy of care in a space... you belong.
+Who this space is for, and who it is not for.
 
----
+</div>
 
-## Who Belongs Here
+<div class="bg-timberwolf-100 hx-p-6 hx-rounded-lg">
 
-This is a space for many.
-But not for all.
+### 🕊️ [Post-Rope: A Gentle Rebellion](/concept/post-rope)
 
-Bottoms Up! welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit neatly into polite society. We hold space for shadow and play, for bodies that don't match expectations, for desires that don't ask permission.
+A quiet turning away from the noise and the performance economy.
 
-We want you here if you come with curiosity.
-We want you here if you long for honesty, connection, or the freedom to be as you are.
-We want you here if you're ready to meet others with care, and to be met in return.
+</div>
 
-But let's be clear:
-
-This is not a place for entitlement, for ego, or for domination without consent.
-It's not a place for people who won't respect boundaries.
-It's not a place for those unwilling to take responsibility for their impact.
-
-If you're here to connect — for real — you're welcome.
-If you're here to control, consume, or detach, you're not.
-
-### Access Is Not the Same as Entitlement
-
-We do our best to make this space financially and physically accessible.
-**If money is the barrier, reach out.** We're ready to talk and find something that works.
-
-Maybe that's a discount.
-Maybe installments.
-Maybe a trade.
-
-We don't do shame. We do dialogue.
-
-But access is a *shared responsibility*.
-You still need to show up with presence. To tend to yourself and the people around you. To be ready for the intensity this space brings.
-
-If you're not sure you're ready — that's okay.
-Better to pause than to force it.
-
-### The Intensity Is Real
-
-This isn't a light weekend.
-It's immersive. Emotional. Sensory. Beautiful — and intense.
-
-Some people stay the whole time. Some leave early. Both are valid.
-
-We support pacing and self-care. We encourage reflection before you say yes:
-Are you in a place to give and receive in community?
-To risk being seen as you are?
-
-This space will hold you — if you also hold it.
-
----
-
-## Post-Rope: A Gentle Rebellion
-
-**Post-Rope** isn't a style, or a brand, or a club.  
-It's a feeling — a quiet turning away from the noise.  
-A refusal of the performance economy.  
-
-We've grown tired of rope as content. Of stages. Of proving.  
-We want rope that's messy, tender, human again.  
-
-### Beyond the Performance
-
-We've all seen it:  
-Who's desirable. Who's collecting glances. Who's in the cool crowd.  
-
-It's just heteronormativity replaying itself in rope — high school hierarchies nobody really enjoyed the first time.  
-
-When the game is about catching eyes or proving worth, curiosity dies. Vulnerability hides. Encounters shrink to performance.  
-
-### Breaking the Script
-
-The moment we step outside that pattern, everything changes.  
-People stop impressing. They start meeting.  
-They risk awkwardness instead of polish.  
-They reach for intimacy instead of recognition.  
-
-That's when rope gets real again — not as spectacle, but as bridge.  
-
-**Post-Rope looks like this:**  
-- The kitchen tie that becomes a midnight heart-talk  
-- The messy session that ends in laughter  
-- The hug that means more than the knots  
-- The silence where nothing "happens" but everything shifts  
-
-### Against the Algorithm
-
-In Post-Rope, we gently rebel against the scroll.  
-
-We're tired of:  
-- Rope flattened into content  
-- Intimacy cut into reels  
-- Quiet moments mined for clout  
-- The pressure to *be seen* rather than *be*  
-
-Here, no one ties for likes.  
-No followers. No brands. No filters. Just people.  
-Alive. Breathing. Together.  
+</div>
 
 ---
 
@@ -226,12 +126,12 @@ Come if you want to feel rope not just on your skin — but in your soul.
 
 ## Continue Your Journey
 
-**New to this philosophy?** → [Is This For You?](/concept/is-this-for-you) — Self-reflection to see if this resonates  
+**New to this philosophy?** → [Is This For You?](/concept/is-this-for-you) — Self-reflection to see if this resonates
 
 **Ready to understand the structure?** → [Experience Structure](/concept/experience) — How these ideals come alive over five days
 
-**Want to dive deeper?** → [Join Us](/practical) — Everything you need to know about participating
+**Want to dive deeper?** → [Join Us](/docs/practical/participation) — Everything you need to know about participating
 
-**Looking for support?** → [Care & Support](/wellbeing) — Resources to help you prepare and thrive
+**Looking for support?** → [Care & Support](/docs/wellbeing) — Resources to help you prepare and thrive
 
 </div>

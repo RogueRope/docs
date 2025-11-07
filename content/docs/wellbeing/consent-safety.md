@@ -1,7 +1,7 @@
 ---
 title: Consent & Safety
-description: "Our framework for consent, boundary support, and creating a safe container for exploration"
-lead: "How we hold space for brave, vulnerable, consensual connection"
+description: 'Our framework for consent, boundary support, and creating a safe container for exploration'
+lead: 'How we hold space for brave, vulnerable, consensual connection'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 10
@@ -17,7 +17,7 @@ If you're working too hard for a "yes," pause. Step back. Try again — or maybe
 
 A real yes doesn't need convincing.  
 Look for the "HELL YES." The "OMG YES."  
-Or better yet: the quiet, steady *yes* that lives in the body.
+Or better yet: the quiet, steady _yes_ that lives in the body.
 
 **Trust us — that kind of yes leads to better everything.**
 
@@ -50,6 +50,7 @@ It's not just a yes or no.
 It's a full-body signal. A living dialogue. A mutual, continuous agreement.
 
 Consent means:
+
 - You're both in it
 - You can change your mind at any time
 - A yes to one thing is not a yes to everything
@@ -68,6 +69,7 @@ We believe sex, kink, and rope all start from this same place: enthusiastic part
 ### Ongoing Consent
 
 Consent is not a one-time agreement. It's a continuous conversation that includes:
+
 - **Check-ins during play** — "How are you feeling?" "What do you need?"
 - **Reading non-verbal cues** — body language, breathing, muscle tension
 - **Honoring changes** — energy shifts, emotional responses, physical limits
@@ -78,6 +80,7 @@ Consent is not a one-time agreement. It's a continuous conversation that include
 Sometimes consent gets murky. Sometimes we misread signals or cross lines we didn't know existed. Sometimes we realize mid-scene that we're not as okay as we thought we were.
 
 That's human. That's normal. What matters is how we respond:
+
 - **Stop immediately** when someone says stop
 - **Check in regularly** during intense scenes
 - **Take responsibility** when you've overstepped
@@ -96,6 +99,7 @@ We are not mediators in a formal sense, but rather a compassionate first point o
 ### What We Do
 
 You can approach the Consent Crew for:
+
 - **Navigating a difficult conversation** about boundaries or consent
 - Support if you've **experienced a boundary violation**
 - Help understanding the **consent framework** of the event
@@ -120,11 +124,11 @@ Consent Crew members will be clearly identified during the opening circle. We'll
 
 ## Conscious Care of Our Space
 
-### Care is not just what we do for each other — it's what we do *with* each other.
+### Care is not just what we do for each other — it's what we do _with_ each other.
 
 Bottoms Up! isn't staffed. It's shared. That means the space only holds us as well as **we** hold it.
 
-This isn't about being tidy. It's about being *conscious*.  
+This isn't about being tidy. It's about being _conscious_.  
 Of your body. Your stuff. Your impact. The people beside you.
 
 ### The Art of Noticing
@@ -146,12 +150,14 @@ You don't need a chore list. Just awareness.
 ### Shared Responsibility
 
 **We all contribute to:**
+
 - Keeping play spaces clean and safe
 - Maintaining common areas for everyone's comfort
 - Proper disposal of all materials (especially anything bodily)
 - Creating an atmosphere of mutual care and respect
 
 **This extends to emotional and energetic care too:**
+
 - Notice when someone seems overwhelmed and needs support
 - Help create inclusive, welcoming spaces for newcomers
 - Address conflicts or tensions before they escalate

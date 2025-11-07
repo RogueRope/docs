@@ -1,9 +1,12 @@
 ---
-title: Participation
-weight: 3
+title: 'Getting Your Ticket'
+description: 'How to get your ticket for Bottoms Up!'
+lead: 'Saying yes, when you mean it.'
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
+weight: 1
+toc: true
 ---
-
-# Getting Your Ticket
 
 ## Saying Yes (When You Mean It)
 
@@ -66,6 +69,7 @@ We use a brief application process — not to gatekeep, but to ensure everyone c
 ### What's Included
 
 Your ticket includes:
+
 - **4 nights accommodation** (bunk bed in shared room)
 - **One hot meal per day plus provisions** from Wednesday dinner through Sunday breakfast
 - **Access to all activities** and shared spaces
@@ -77,39 +81,6 @@ Your ticket includes:
 - **Full payment** at time of booking
 - **Payment plans** available (contact us to arrange)
 - **Reduced payment** available (contact us to arrange)
-
----
-
-## 🤝 Unconference: Share Your Gifts
-
-### A Space for Sharing, Not Showing Off
-
-Our unconference is a lightly held container for spontaneous brilliance, shared wisdom, and weird little things you didn't know you needed to talk about.
-
-There's no set schedule. No official "teachers." Just a board, some post-its, and a collective invitation to explore together.
-
-### The Four Unconference Rules
-
-1. **Whoever shows up are the right people.**
-2. **Whatever happens is the only thing that could have.**
-3. **Whenever it starts is the right time.**
-4. **It's over when it's over.**
-
-That's it. That's the magic.
-
-### What Might You Offer?
-
-No experts. Just people bringing what's alive.
-
-**What could you bring?**
-- A conversation you're hungry to have (e.g., navigating polyamory at gatherings)?
-- A skillshare on something you love (e.g., giving a grounding massage, a specific rope technique)?
-- A quiet, shared practice (e.g., a guided meditation or an hour of journaling together)?
-- A deep dive into a tricky topic (e.g., power dynamics, aftercare, neurodivergence in play)?
-- A question or body puzzle you want to explore with others?
-
-We're here for the offbeat, the half-formed, the personal.  
-If you care about it, someone else probably does too.
 
 ---
 

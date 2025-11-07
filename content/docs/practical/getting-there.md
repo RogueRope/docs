@@ -1,7 +1,7 @@
 ---
 title: Getting There
-description: "How to travel to the venue, parking, public transit, and arrival details"
-lead: "Everything you need to know to get to Mol"
+description: 'How to travel to the venue, parking, public transit, and arrival details'
+lead: 'Everything you need to know to get to Mol'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 5
@@ -40,6 +40,7 @@ Use your GPS/maps app with the coordinates or address above. Mol is in northern 
 **Nearest train station:** [Station name] — [distance] from venue
 
 **From the station:**
+
 - **Bus:** Route [#] toward [destination], get off at [stop], [walking time] walk to venue
 - **Taxi:** ~€[cost] from station; ask driver for [venue name]
 - **Walk:** ~[time], [feasibility note]
@@ -57,6 +58,7 @@ Use your GPS/maps app with the coordinates or address above. Mol is in northern 
 Join our **WhatsApp Ride-Share Chat:** [Link to WhatsApp group — shared at confirmation]
 
 **How it works:**
+
 1. Post your departure city and date/time
 2. Other participants heading your way respond
 3. Coordinate directly (splitting gas, timing, etc.)
@@ -66,24 +68,26 @@ Join our **WhatsApp Ride-Share Chat:** [Link to WhatsApp group — shared at con
 
 ---
 
-## Early Arrival (Build Day)
+## Build Day - Wednesday Afternoon
 
-### Why Arrive Early?
+### Arrival flows into build.
 
-**Build Day is Wednesday starting around 14:00.** This is the best way to arrive because:
-- Meet people before the intensity begins
-- Help shape the space (hang lights, arrange comfort areas)
-- Soften into the energy gradually
-- Skip some of the arrival rush
-- Get your pick of rooms/bunks
+Bottoms Up! doesn't just _appear_.
+It's built — by hands, by hearts, by you.
 
-### Wednesday Arrival Flow
+Our gathering now begins on **Wednesday afternoon**, with **Build Day** folded into the experience itself. No separation. No staff. Just a space, some rope, and a growing circle of people making it real.
 
-**14:00–18:00** — Arrive, check in, unload, settle into your room
-**18:00–19:00** — Build Day work (optional but wonderful)
-**19:00–20:00** — First meal together
-**21:00** — Opening Circle (mandatory, transformative)
-**21:30+** — Play begins softly
+This is your invitation to be part of the beginning.
+
+### What to Expect
+
+You don't need to be strong. Or skilled. Or organized.  
+You just need to show up.
+
+We'll hang lights, set up suspension points, decorate the space, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
+
+Come early. Arrive Wednesday afternoon if you can.
+This is one of the best ways to meet people, soften into the vibe, and become part of the magic _before_ it officially begins.
 
 ### Wednesday 21:00 is Mandatory
 

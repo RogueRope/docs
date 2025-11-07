@@ -5,12 +5,14 @@ A sleek, modern Hugo-based documentation site for event management featuring bea
 ## 🌟 Features
 
 ✨ **Modern & Sleek Design**
+
 - Beautiful gradient-based UI with purple and orange accents
 - Smooth transitions and hover effects
 - Responsive layout for all devices
 - Dark-themed navigation with contrast
 
 📱 **Comprehensive Event Information**
+
 - Getting Started guide
 - Full event schedule with 3 days of programming
 - Speaker bios and keynotes
@@ -18,6 +20,7 @@ A sleek, modern Hugo-based documentation site for event management featuring bea
 - Extensive FAQ section
 
 🎯 **User Experience**
+
 - Fast loading with Hugo's static generation
 - Search functionality
 - Table of contents for easy navigation
@@ -48,6 +51,7 @@ event-docs/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Hugo (Extended version) - [Install Hugo](https://gohugo.io/installation/)
 - Git
 
@@ -80,9 +84,9 @@ Edit `static/custom.css` to customize colors:
 
 ```css
 :root {
-  --primary-color: #0066cc;      /* Main blue */
-  --accent-color: #ff6b35;       /* Orange accent */
-  --dark-bg: #0a0e27;           /* Dark background */
+  --primary-color: #0066cc; /* Main blue */
+  --accent-color: #ff6b35; /* Orange accent */
+  --dark-bg: #0a0e27; /* Dark background */
 }
 ```
 
@@ -131,26 +135,31 @@ The `weight` parameter determines the menu order (lower numbers appear first).
 ## 🎨 Styling Guide
 
 ### Headings
+
 - `# H1` - Large titles with accent underline
 - `## H2` - Section headers with accent border
 
 ### Tables
+
 - Formatted with gradient header
 - Hover effects for rows
 - Shadow effects for depth
 
 ### Links
+
 - Styled in primary blue color
 - Orange on hover
 - Underline effect
 
 ### Code Blocks
+
 - Dark background with syntax highlighting
 - Inline code with colored background
 
 ## 📊 Content Sections
 
 ### 1. Getting Started
+
 - Registration information
 - Accommodation options
 - Transportation details
@@ -158,18 +167,21 @@ The `weight` parameter determines the menu order (lower numbers appear first).
 - Pro tips
 
 ### 2. Schedule
+
 - 3-day event schedule
 - Multiple tracks
 - Workshop details
 - Keynote information
 
 ### 3. Speakers
+
 - Keynote speaker bios
 - Workshop leaders
 - Panel discussions
 - Networking opportunities
 
 ### 4. Venue
+
 - Location and directions
 - Transportation options
 - Parking information
@@ -177,6 +189,7 @@ The `weight` parameter determines the menu order (lower numbers appear first).
 - Floor plan
 
 ### 5. FAQ
+
 - Registration questions
 - Schedule inquiries
 - Travel & accommodation
@@ -186,6 +199,7 @@ The `weight` parameter determines the menu order (lower numbers appear first).
 ## 🔧 Deployment Options
 
 ### Netlify
+
 ```bash
 # Connect your GitHub repo
 # Select hugo as build command
@@ -193,6 +207,7 @@ The `weight` parameter determines the menu order (lower numbers appear first).
 ```
 
 ### GitHub Pages
+
 ```bash
 # Push to GitHub
 # Enable Pages in repository settings
@@ -200,6 +215,7 @@ The `weight` parameter determines the menu order (lower numbers appear first).
 ```
 
 ### Traditional Hosting
+
 ```bash
 # Build the site
 hugo
@@ -218,6 +234,7 @@ scp -r public/ user@yourhost:/var/www/html/
 ## 📱 Mobile Optimization
 
 The site is fully responsive with:
+
 - Mobile navigation drawer
 - Touch-friendly buttons
 - Optimized table display

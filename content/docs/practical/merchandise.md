@@ -1,7 +1,7 @@
 ---
 title: Merchandise
-description: "Take home a piece of Bottoms Up!"
-lead: "Wearables and memories from your gathering"
+description: 'Take home a piece of Bottoms Up!'
+lead: 'Wearables and memories from your gathering'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 37
@@ -21,17 +21,20 @@ We make thoughtfully designed merchandise to help you carry the gathering with y
 ### T-Shirts
 
 **Classic Bottoms Up! Tee**
+
 - Soft, comfortable cotton blend
 - Thoughtful design celebrating the gathering
 - Multiple colors available
 - €25 — available during the event and for pre-order
 
 **Sizing:**
+
 - XS, S, M, L, XL, XXL
 - All unisex cuts (comfortable fit)
 - True to size
 
 **Quality:**
+
 - Pre-shrunk
 - Durable printing
 - Comfortable weight fabric
@@ -51,6 +54,7 @@ Check at the event or email us to ask about previous years.
 ### Other Merch Ideas
 
 **Potentially available:**
+
 - Patches (for jackets, backpacks)
 - Stickers (waterproof for water bottles)
 - Pins or badges
@@ -69,6 +73,7 @@ Check at the event or email us to ask about previous years.
 Merchandise table will be in the main gathering space, staffed throughout the event. You can order any day Wed–Sun.
 
 **At the table, you can:**
+
 - See items in person
 - Try on sizes
 - Place orders (pay on-site or in advance)
@@ -79,6 +84,7 @@ Merchandise table will be in the main gathering space, staffed throughout the ev
 **Pre-orders:** Coming soon (watch your email for details)
 
 **Benefits:**
+
 - Guaranteed availability
 - Skip the merchandise table line
 - Items delivered to your room at check-in

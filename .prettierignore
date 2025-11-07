@@ -1,0 +1,4 @@
+themes/
+public/
+*.toml
+layouts/

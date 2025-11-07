@@ -2,9 +2,9 @@
 
 :root {
   /* Core brand */
-  --primary-color: #5b4bff;         /* Mystic violet-purple */
-  --primary-color-soft: #6f5cff;    /* Hover / soft states */
-  --accent-color: #ff6b35;          /* Warm ember accent */
+  --primary-color: #5b4bff; /* Mystic violet-purple */
+  --primary-color-soft: #6f5cff; /* Hover / soft states */
+  --accent-color: #ff6b35; /* Warm ember accent */
   --accent-soft: rgba(255, 107, 53, 0.14);
 
   /* Surface + neutrals */
@@ -23,9 +23,9 @@
   --shadow-subtle: 0 4px 14px rgba(15, 23, 42, 0.04);
 
   /* Typography */
-  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
-    -system-ui, -ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    sans-serif;
+  --font-sans:
+    system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', -system-ui,
+    -ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --font-size-base: 16px;
   --line-height-base: 1.7;
 
@@ -82,8 +82,16 @@ article span {
      - Deep indigo base
      - Lighter inner gradient for sufficient contrast with violet links */
   background:
-    radial-gradient(circle at top left, rgba(120, 117, 255, 0.20), transparent 55%),
-    radial-gradient(circle at bottom, rgba(255, 140, 90, 0.14), transparent 55%),
+    radial-gradient(
+      circle at top left,
+      rgba(120, 117, 255, 0.2),
+      transparent 55%
+    ),
+    radial-gradient(
+      circle at bottom,
+      rgba(255, 140, 90, 0.14),
+      transparent 55%
+    ),
     #0b1020;
   border-right: 1px solid rgba(148, 163, 253, 0.22);
   box-shadow: 6px 0 22px rgba(2, 6, 23, 0.86);
@@ -91,7 +99,7 @@ article span {
 
 /* Subtle vertical glow bar */
 .book-menu::before {
-  content: "";
+  content: '';
   position: absolute;
   top: 18px;
   left: 0;
@@ -99,9 +107,9 @@ article span {
   height: calc(100% - 36px);
   background: linear-gradient(
     to bottom,
-    rgba(111, 92, 255, 0.0),
+    rgba(111, 92, 255, 0),
     rgba(111, 92, 255, 0.7),
-    rgba(255, 107, 53, 0.0)
+    rgba(255, 107, 53, 0)
   );
   border-radius: 999px;
   opacity: 0.85;
@@ -184,7 +192,7 @@ article span {
 
 /* Active item subtle glyph */
 .book-menu-content nav a.active::before {
-  content: "●";
+  content: '●';
   font-size: 0.5rem;
   color: var(--accent-color);
   margin-right: 0.25rem;
@@ -204,7 +212,7 @@ article span {
 
 /* Icon-style prefix for leaf links (optional, subtle) */
 .book-menu-content nav ul ul a::before {
-  content: "⋅";
+  content: '⋅';
   display: inline-block;
   margin-right: 0.18rem;
   color: rgba(148, 163, 253, 0.82);
@@ -219,13 +227,17 @@ article span {
 
 /* Legacy sidebar hover style removed in favor of unified states above */
 
-
 /* Active state normalized above */
 
 /* Top header */
 
 .book-header {
-  background: radial-gradient(circle at top, #6f5cff 0%, #3b2fa8 55%, #18122b 100%);
+  background: radial-gradient(
+    circle at top,
+    #6f5cff 0%,
+    #3b2fa8 55%,
+    #18122b 100%
+  );
   color: #f9fafb;
   padding: 1.4rem 1.75rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.12);
@@ -265,7 +277,8 @@ table thead {
   color: white;
 }
 
-table th, table td {
+table th,
+table td {
   padding: 1rem;
   text-align: left;
   border-bottom: 1px solid var(--border-color);
@@ -329,7 +342,10 @@ h6 {
 a {
   color: var(--primary-color);
   text-decoration: none;
-  transition: color 0.22s ease, background-color 0.22s ease, box-shadow 0.22s ease,
+  transition:
+    color 0.22s ease,
+    background-color 0.22s ease,
+    box-shadow 0.22s ease,
     transform 0.18s ease;
   font-weight: 500;
 }
@@ -425,8 +441,9 @@ code {
   background: var(--surface-soft);
   border-radius: var(--radius-sm);
   padding: 0.18rem 0.42rem;
-  font-family: "JetBrains Mono", "SF Mono", Menlo, Monaco, Consolas,
-    "Liberation Mono", "Courier New", monospace;
+  font-family:
+    'JetBrains Mono', 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono',
+    'Courier New', monospace;
   color: var(--accent-color);
 }
 
@@ -456,21 +473,23 @@ pre code {
 
 /* Inputs (search / text) */
 
-input[type="search"],
-input[type="text"],
-input[type="email"],
+input[type='search'],
+input[type='text'],
+input[type='email'],
 textarea {
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
   padding: 0.7rem 0.9rem;
   font-size: 0.98rem;
-  transition: border-color 0.22s ease, box-shadow 0.22s ease,
+  transition:
+    border-color 0.22s ease,
+    box-shadow 0.22s ease,
     background-color 0.2s ease;
 }
 
-input[type="search"]:focus,
-input[type="text"]:focus,
-input[type="email"]:focus,
+input[type='search']:focus,
+input[type='text']:focus,
+input[type='email']:focus,
 textarea:focus {
   outline: none;
   border-color: var(--primary-color-soft);
@@ -494,7 +513,9 @@ button,
   border-radius: var(--radius-md);
   cursor: pointer;
   font-weight: 600;
-  transition: transform 0.18s ease, box-shadow 0.22s ease,
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.22s ease,
     background 0.22s ease;
   font-size: 0.98rem;
   display: inline-flex;

@@ -1,7 +1,7 @@
 ---
 title: Merch Details & Care
-description: "Sizing, environmental impact, payment options, and FAQs for Bottoms Up! merchandise"
-lead: "Everything you need to know before ordering"
+description: 'Sizing, environmental impact, payment options, and FAQs for Bottoms Up! merchandise'
+lead: 'Everything you need to know before ordering'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 38
@@ -15,13 +15,13 @@ toc: true
 **Measurements (approximate, laid flat):**
 
 | Size | Chest Width | Length | Sleeve Length |
-|------|-------------|--------|---------------|
-| XS | 41cm | 66cm | 20cm |
-| S | 44cm | 71cm | 20cm |
-| M | 48cm | 74cm | 21cm |
-| L | 51cm | 76cm | 21cm |
-| XL | 54cm | 79cm | 22cm |
-| XXL | 59cm | 82cm | 22cm |
+| ---- | ----------- | ------ | ------------- |
+| XS   | 41cm        | 66cm   | 20cm          |
+| S    | 44cm        | 71cm   | 20cm          |
+| M    | 48cm        | 74cm   | 21cm          |
+| L    | 51cm        | 76cm   | 21cm          |
+| XL   | 54cm        | 79cm   | 22cm          |
+| XXL  | 59cm        | 82cm   | 22cm          |
 
 **Pro tip:** Compare to a favorite shirt you already own for best fit.
 
@@ -32,6 +32,7 @@ toc: true
 We care about how we make things.
 
 **Our approach:**
+
 - **Organic or sustainable cotton** (reduced pesticide use)
 - **Ethical printing** (low-chemical, water-based inks)
 - **Small batch production** (only make what we sell)
@@ -39,6 +40,7 @@ We care about how we make things.
 - **Encouragement to wear it** (the best garment is one you wear)
 
 **We ask you to:**
+
 - Wash cold, air dry (lasts longer)
 - Repair rather than replace
 - Donate or swap when you're done (keep it in circulation)
@@ -51,6 +53,7 @@ We care about how we make things.
 ### Out in the World
 
 The Bottoms Up! shirt is:
+
 - **A conversation starter** (people will ask)
 - **A signal** (you've been here; you're part of something)
 - **Intentional fashion** (not a cheap band tee)
@@ -61,6 +64,7 @@ The Bottoms Up! shirt is:
 ### Community Recognition
 
 In the wider rope/kink community, people will:
+
 - Recognize the design
 - Know you've been to our gathering
 - Feel kinship
@@ -77,6 +81,7 @@ In the wider rope/kink community, people will:
 **Want a custom size or design?**
 
 Reach out early (before the event):
+
 - Email: [info@roguerope.be](mailto:info@roguerope.be)
 - Subject: "Custom merch request"
 - Tell us what you need
@@ -96,6 +101,7 @@ We'll try to accommodate. No guarantees, but we listen.
 ### Payment Plans
 
 **For larger orders:**
+
 - Split payment over 2-3 months
 - No interest
 - Email to arrange
@@ -109,6 +115,7 @@ We'll try to accommodate. No guarantees, but we listen.
 **Tradition:** Many participants collect shirts from different years.
 
 **Our gatherings:**
+
 - 2026 design: Available now
 - 2027 design: Coming next year
 
@@ -125,6 +132,7 @@ Join the WhatsApp community — people trade shirts all the time.
 ### Order Internationally?
 
 **Pre-orders can be shipped:**
+
 - Shipping cost and delivery time calculated at checkout
 - International options available
 

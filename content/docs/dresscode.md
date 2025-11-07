@@ -1,6 +1,6 @@
 ---
 title: Dress Code
-lead: ""
+lead: ''
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 images: []
@@ -49,7 +49,8 @@ Let your attire reflect the person within — or the one you long to become.
 
 ---
 
-### Comfort is Sacred 
+### Comfort is Sacred
+
 How much (or how little) you dress up is your call.
 The space welcomes everyone — whether you're in elegant attire, comfortable loungewear, or creative expression.
 

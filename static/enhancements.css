@@ -215,7 +215,12 @@
 hr {
   border: none;
   height: 2px;
-  background: linear-gradient(90deg, transparent, var(--accent-color), transparent);
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--accent-color),
+    transparent
+  );
   margin: 2rem 0;
 }
 

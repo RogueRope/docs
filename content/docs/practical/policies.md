@@ -1,7 +1,7 @@
 ---
 title: Policies & Guidelines
-description: "Rules, guidelines, and frequently asked questions"
-lead: "What you need to know about cancellation, photography, venue respect, and common questions"
+description: 'Rules, guidelines, and frequently asked questions'
+lead: 'What you need to know about cancellation, photography, venue respect, and common questions'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30
@@ -76,6 +76,7 @@ You're welcome to pass your ticket on — but please check with us first. Here's
 Every person goes through our gentle vetting process to make sure everyone feels comfortable with the transition.
 
 **Refund Policy**
+
 - **Up to 3 weeks before** (by January 25, 2026): **100% refund**
 - **Less than 3 weeks before**: **No refund**, but you can transfer/resell your ticket
 
@@ -100,9 +101,10 @@ For full photography and video guidelines, see: [Photography Guidelines](/practi
 
 ### Social Media Guidelines
 
-If you're posting to FetLife, Instagram, or anywhere else:  
-- Only share what someone has *clearly agreed to*
-- That includes tagging, stories, and vibes  
+If you're posting to FetLife, Instagram, or anywhere else:
+
+- Only share what someone has _clearly agreed to_
+- That includes tagging, stories, and vibes
 - Ask before you tag, ask before you post
 - Ask even if it feels obvious
 
@@ -111,6 +113,7 @@ We keep most things offline. If you share at all, do it only with explicit conse
 ### Venue Privacy
 
 Please:
+
 - Avoid venue names and identifying wide shots when posting
 - Crop/blur signage or distinctive features
 - Never add time or precise location details
@@ -130,6 +133,7 @@ We treat the space like we treat each other: with care, with respect, and with a
 While we have waste facilities available, we ask everyone to be mindful of the shared indoor environment. That means **being responsible for your own waste and respecting common areas**.
 
 Some tips to make that easy:
+
 - Pack light and leave excess packaging at home
 - Bring a small bag for your personal waste
 - Use reusable containers and tools whenever you can
@@ -138,7 +142,7 @@ Some tips to make that easy:
 ### Waste Sorting
 
 - **Compostable stuff** (food scraps, paper napkins, etc.): Designated bins on site
-- **Recyclables** (clean containers, paper, etc.): Separate collection  
+- **Recyclables** (clean containers, paper, etc.): Separate collection
 - **General waste**: Keep to minimum, use provided bins
 - **Hazardous items** (batteries, etc.): Take with you when you leave
 

@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
-description: "Common questions about Bottoms Up! and how to prepare"
-lead: "Questions you might have. Honest answers."
+description: 'Common questions about Bottoms Up! and how to prepare'
+lead: 'Questions you might have. Honest answers.'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 50

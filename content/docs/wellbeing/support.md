@@ -1,7 +1,7 @@
 ---
 title: Support Systems
-description: "How we care for each other - FWBs, emotional support, and neurodivergent inclusion"
-lead: "Peer-based care, informal support, and community wellbeing"
+description: 'How we care for each other - FWBs, emotional support, and neurodivergent inclusion'
+lead: 'Peer-based care, informal support, and community wellbeing'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 20
@@ -9,7 +9,8 @@ toc: true
 ---
 
 ## FWBs: Friends With Benefits
-*Yes, the good kind.*
+
+_Yes, the good kind._
 
 At Bottoms Up!, care isn't something the organizers provide.
 It's something **we all create** — together, moment by moment.
@@ -49,6 +50,7 @@ This bracelet system lets us flow in and out of service — with consent, clarit
 ### What FWBs Offer
 
 FWBs are available for:
+
 - **Emotional check-ins** and active listening
 - **Grounding support** during overwhelming moments
 - **Basic aftercare** — water, snacks, blankets, presence
@@ -72,11 +74,11 @@ Whether it's a hard conversation, a crash after a scene, or just missing the fam
 
 ### A Few Things That Might Help
 
-- Be gentle with yourself. Take breaks. Drink water. Cry if you need to.  
-- Listen to your body — and let it guide your pace.  
-- Set your boundaries clearly, and hold them with love.  
-- Say no when you need to. Say yes only when it's real.  
-- Focus on what feels *right* for you — not what others are doing.  
+- Be gentle with yourself. Take breaks. Drink water. Cry if you need to.
+- Listen to your body — and let it guide your pace.
+- Set your boundaries clearly, and hold them with love.
+- Say no when you need to. Say yes only when it's real.
+- Focus on what feels _right_ for you — not what others are doing.
 - Ask for help. Even if it feels awkward. Especially then.
 
 ### Common Emotional Experiences
@@ -92,6 +94,7 @@ Whether it's a hard conversation, a crash after a scene, or just missing the fam
 ### When to Seek Support
 
 Look for someone wearing a **FWB bracelet** when you need:
+
 - A check-in or grounding moment
 - Someone to listen without trying to fix
 - Help connecting with resources or other support people
@@ -99,8 +102,9 @@ Look for someone wearing a **FWB bracelet** when you need:
 - Just a friendly presence when you're feeling alone
 
 You can also always approach:
+
 - A trusted friend or fellow participant
-- A [Consent Crew member](/wellbeing/consent-safety) — they're the dedicated team for boundaries, repair, or if something feels off  
+- A [Consent Crew member](/wellbeing/consent-safety) — they're the dedicated team for boundaries, repair, or if something feels off
 - The organizing team if you need more structured support
 
 ---
@@ -138,18 +142,21 @@ Just a gathering full of people doing their best — including you.
 ### Resources We Provide
 
 **Physical Accommodations:**
+
 - Quiet, low-stimulation spaces for decompression
 - Clear signage and information about space layouts
 - Flexible participation — you can engage at your own level
 - Access to basic sensory tools (earplugs, eye masks, fidget items)
 
 **Social Accommodations:**
+
 - No pressure to participate in all activities
 - Multiple ways to connect (verbal, non-verbal, structured, unstructured)
 - Understanding that social energy is finite and needs to be managed
 - FWB support system for gentle peer assistance
 
 **Communication Support:**
+
 - Clear, direct communication about expectations and guidelines
 - Written information available for reference
 - Permission to ask questions and seek clarification
@@ -158,6 +165,7 @@ Just a gathering full of people doing their best — including you.
 ### Self-Care Strategies
 
 Bring what you need:
+
 - **Sensory regulation tools** (noise-cancelling headphones, weighted items, textures)
 - **Executive function aids** (timers, schedules, reminder systems)
 - **Emotional regulation supports** (comfort items, grounding techniques)
@@ -170,6 +178,7 @@ Remember: Taking care of your neurodivergent needs isn't selfish — it's how yo
 We understand that many neurodivergent people use various substances (prescription, over-the-counter, or otherwise) to manage symptoms and participate fully in life.
 
 We ask only that you:
+
 - Stay safe and within your known limits
 - Remain able to give and receive consent
 - Be honest about your capacity for various activities

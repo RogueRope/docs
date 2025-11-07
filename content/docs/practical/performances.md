@@ -3,7 +3,7 @@ title: Witnessing
 images: []
 menu:
   docs:
-    parent: "opportunities"
+    parent: 'opportunities'
 weight: 2010
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Practical"
-description: "Logistics, policies, and everything you need to know to attend"
-lead: "The details that make it all work"
+title: 'Practical'
+description: 'Logistics, policies, and everything you need to know to attend'
+lead: 'The details that make it all work'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 1
@@ -17,22 +17,25 @@ This is where theory meets practice. Where intention meets logistics. Where we t
 
 Are you ready to meet this intensity with care? Can you engage without burning out? Is now the right moment for this kind of dive?
 
-We'd love to have you — *if* it's a true yes.
+We'd love to have you — _if_ it's a true yes.
 
 **Quick Navigation:**
 
 #### Getting In
+
 - [**Getting There**](/practical/getting-there) — Travel, parking, how to arrive
-- [**Participation & Tickets**](/practical/participation) — Register, pricing, payment options
+- [**Participation**](/practical/participation) — Register, pricing, payment options
 - [**FAQ**](/practical/faq) — Common questions answered
 
 #### Accommodations & Packing
+
 - [**Accommodations**](/practical/accommodations) — Where you'll sleep, communal living, room options
 - [**Things to Bring**](/practical/things-to-bring) — Complete packing checklist
-- [**Event Logistics**](/practical/logistics) — Food schedule, Build Day details
+- [**Food & Meals**](/practical/food) — What to expect for meals and what to bring
 - [**Leave No Trace**](/practical/leave-no-trace) — How we care for the space together
 
 #### Important Policies & Info
+
 - [**Photography Guidelines**](/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance
 - [**Photo Privacy & Sharing**](/practical/photo-privacy-sharing) — Where photos live; how/when to share (venue anonymized)
 - [**Cancellation & Refund Policy**](/practical/cancellation-policy) — Refund timeline and process
@@ -48,6 +51,8 @@ We'd love to have you — *if* it's a true yes.
 The experience doesn't end when you leave.
 
 - [**After the Gathering**](/practical/after-the-gathering) — Post-event care, resources, how to stay connected, subdrop support
+- [**Integration & Support**](/practical/integration) — Resources for processing your experience and navigating what comes next
+- [**Community & Connection**](/practical/community) — Stay connected with the Bottoms Up! community
 
 ---
 
@@ -65,10 +70,10 @@ And it starts now.
 **Still exploring?** These pages might help you decide:
 
 - [Is This For You?](/concept/is-this-for-you) — Self-reflection for newcomers
-- [Core Philosophy](/concept/philosophy) — The values behind our approach  
+- [Core Philosophy](/concept/philosophy) — The values behind our approach
 - [Experience Structure](/concept/experience) — What happens during the five days
 
-**Ready for support?** → [Care & Support](/wellbeing) — Consent, safety, and wellbeing resources
+**Ready for support?** → [Care & Support](/docs/wellbeing) — Consent, safety, and wellbeing resources
 
 </div>
 
@@ -79,13 +84,13 @@ And it starts now.
 Now that you understand what you're stepping into, it's time to secure your spot and become part of this experience.
 
 <div class="hx-mt-6">
-<a href="/practical/participation" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-orange-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-orange-700 hx-transition-colors">
+<a href="/docs/practical/participation" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-orange-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-orange-700 hx-transition-colors">
   Get Your Ticket →
 </a>
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
+Or explore: <a href="/docs/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
 </div>
 
 </div>

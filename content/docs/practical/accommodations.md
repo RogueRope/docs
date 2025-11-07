@@ -1,94 +1,44 @@
 ---
 title: Accommodations
 description: "Where and how you'll sleep"
-lead: "Nights shape us as much as days"
+lead: 'Nights shape us as much as days'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 15
 toc: true
 ---
 
-## What You Get
+## Sleeping Close
 
-Indoor bunk beds (no tents, no weather worries). You get:
-- Your own bed and mattress
-- Hot showers, indoor toilets
-- Shared sleeping space with 3-6 others
+Nights shape us as much as days.
+The way we rest, the way we hear each other breathing, the way we wake up into shared light — it all weaves into the story of this gathering.
 
-Bring bedding that makes you feel safe and soft.
+This isn't about luxury.
+It's about proximity. About choosing to be held by a space, and by each other.
 
----
+### What You'll Find
 
-## Room Options
+**🏠 Indoor Accommodations:**
 
-**Mixed rooms** — All genders welcome
+- **Bunk beds indoors** — no tents, no weather worries. Each person gets their own bed and mattress. Bring the bedding that makes you feel safe and soft.
+- **Real facilities** — hot showers, indoor toilets, places to brush your teeth, splash water on your face, and return renewed.
 
-**FLINTA-only rooms** — for women (including trans women), lesbians, intersex, non-binary, trans, and agender folks. Self-defined; no gatekeeping.
+**🛏️ Room Options:**
 
-*Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest.*
+- **Mixed rooms** — for those who like variety
+- **FLINTA-only rooms** — for women (including trans women), lesbians, intersex, non-binary, trans, and agender folks. Self-defined; no gatekeeping.
 
-**"Snoring sanctuary"** — For heavy sleepers and their companions
+_Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest._
 
-Tell us your preference when you register.
+- **"Snoring sanctuary"** — for heavy sleepers and their companions
 
----
+It's simple. But it's real.
 
-## What to Expect
+### The Atmosphere
 
-Communal sleeping is intimate. You'll hear breathing, quiet conversations, people returning from late-night play. Some nights you'll fall asleep fast. Some nights you'll lie awake and feel grateful you're not alone.
+Don't expect hotel silence. Expect life.
+Whispers between bunks at midnight. Someone brewing tea in the morning for whoever's awake. A soft shuffle of blankets. Occasional laughter, occasional tears.
 
----
+This is what communal rest feels like. A little messy. Deeply human. Intimate in the most ordinary ways.
 
-## For Your Comfort
-
-Bring:
-- Bedding (sleeping bag, sheets, blankets)
-- Pillow
-- Small lights for your bunk
-- Earplugs & sleep mask
-- Power strip for charging
-
-Make your bunk feel like home. Small personal items welcome.
-
----
-
-## Etiquette
-
-**In bathrooms:**
-- Shower reasonably (others waiting)
-- Clean up after yourself
-
-**In sleeping spaces:**
-- Be mindful of bedtimes (not everyone sleeps when you do)
-- Keep late-night conversations quiet
-- Respect others' personal space
-
-**In common areas:**
-- Clean up after meals
-- Respect quiet spaces
-- Take your stuff with you
-
----
-
-## First Night
-
-You'll arrive, check in, find your room, meet your roommates, arrange your bunk. That's it. Relax. You're home for 5 days.
-
----
-
-## Accessibility
-
-**Tell us when you register:**
-- Ground-floor rooms available
-- Mobility aid accommodation
-- Quiet/sensory-friendly options
-- Flexible meal times
-- Volunteer support if needed
-
-Have specific needs? Email [info@roguerope.be](mailto:info@roguerope.be) early—we'll problem-solve.
-
----
-
-## Sunday Checkout
-
-Strip your bed. Collect your things. Leave your bunk clean. Return your key. Say goodbye. That's all.
+Some nights you'll fall asleep faster than you thought. Some nights you'll lie awake, listening to breath, and feel strangely grateful you're not alone.

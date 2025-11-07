@@ -1,7 +1,7 @@
 ---
-title: "Wellbeing"
-description: "Consent, safety, care, and support resources"
-lead: "Your wellbeing matters before, during, and after"
+title: 'Wellbeing'
+description: 'Consent, safety, care, and support resources'
+lead: 'Your wellbeing matters before, during, and after'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 1
@@ -17,7 +17,7 @@ So we’ve built in care. Not just as a safety net, but as a way of being.
 These pages are here to support you before, during, and after your time at Bottoms Up!.  
 Whether you're feeling overwhelmed, excited, cautious, curious — you're not alone. We've thought about you.
 
-*New to our approach?* → [Is This For You?](/concept/is-this-for-you) • [Core Philosophy](/concept/philosophy)
+_New to our approach?_ → [Is This For You?](/concept/is-this-for-you) • [Core Philosophy](/concept/philosophy)
 
 ---
 
@@ -25,14 +25,15 @@ Whether you're feeling overwhelmed, excited, cautious, curious — you're not al
 
 - Learn about our [Consent & Safety](/wellbeing/consent-safety) framework — how we create safe containers for vulnerability and exploration.
 - Discover our [Support Systems](/wellbeing/support) — FWBs, emotional care, and neurodivergent inclusion.
-- Navigate [Relationships & Boundaries](/wellbeing/relationships) — whether you're arriving solo or with partners.
+- Navigate [Arriving with Partners](/wellbeing/partners) — whether you're arriving solo or with partners.
+- Deal with [Managing Your Baggage](/wellbeing/baggage) — a loving caution to pause, scan, and sort your inner luggage before you enter the space.
 
 ---
 
 Read what you need. Leave what you don't.  
 These resources are here for your breath, your nervous system, your sense of safety — and your freedom to go deep, knowing you're held.
 
-![Two people in a supportive embrace, conveying a sense of safety and care.](/images/rrw26/wellbeing.png)
+![Two people in a supportive embrace, conveying a sense of safety and care.](/images/rrc25/wellbeing.png)
 
 ---
 
@@ -42,7 +43,7 @@ These resources are here for your breath, your nervous system, your sense of saf
 
 **Want to understand what you're preparing for?** → [Experience Structure](/concept/experience) — How our five days unfold
 
-**Ready to join us?** → [Join Us](/practical) — Everything you need to know about participation
+**Ready to join us?** → [Join Us](/docs/practical/participation) — Everything you need to know about participation
 
 </div>
 
@@ -59,7 +60,7 @@ If you have specific questions about accessibility, support needs, or just want 
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a> • <a href="/concept" class="hx-underline hover:hx-no-underline">Back to Experience</a>
+Or explore: <a href="/docs/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a> • <a href="/docs/concept" class="hx-underline hover:hx-no-underline">Back to Experience</a>
 </div>
 
 </div>

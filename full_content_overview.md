@@ -1,16 +1,266 @@
+---
+# File: content/_index.md
+---
 
+# Bottoms Up!
 
-# Bottoms Up! - Complete Content Dump
+A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.
 
-Generated: Sat  1 Nov 12:48:58 CET 2025
-Total files: 31
+<p class="hx-text-xl hx-text-gray-600 hx-mb-8">
+Rope as ritual. Connection over performance. Consent as sacred practice.
+</p>
+
+## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
+
+**🎫 €169 • Limited to 42 people**  
+_[Tickets available December 1st, 2025](/docs/participation/)_
 
 ---
 
-## FILE: concept/experience.md
-**Section:** concept | **File:** experience
+## New here? Welcome.
+
+If you've been with us before — welcome back to the warmth of connection.  
+If this is your first gathering — breathe deep. You're exactly where you need to be.
+
+This isn't a gathering for spectators. It's a sanctuary. For the curious. For the brave enough to be vulnerable. A space where desire whispers — never demands. Where rope is an invitation — never an obligation.
+
+Five days to shed the rush. To sink into something slower, softer, more essential.
+
+Come to tie. Come to surrender. Come to discover what lives in the spaces between.
 
 ---
+
+## 🚀 Quick Navigation
+
+### First Time Here?
+
+**Start your journey:**
+
+1. **[The Philosophy](/docs/concept/)** — Understanding what makes this gathering unique
+2. **[Practical Details](/docs/practical/)** — Everything you need to know to join us
+3. **[Get Your Ticket](/docs/participation/)** — Secure your spot
+
+### Returning Home?
+
+**Welcome back:**
+
+- **[What's New This Year](/docs/schedule/)** — The ceremonies that shape our time
+- **[Get Your Spot](/docs/participation/)** — Secure your return to the warmth
+- **[Questions?](/docs/wellbeing/)** — Common questions answered
+
+---
+
+## 🌟 What to Expect
+
+🌀 **Rope as Ritual**  
+Connection over performance
+
+🤝 **Consent & Safety**  
+Sacred practice at our core
+
+🛟 **Full Support**  
+Care team available throughout
+
+🎭 **Unconference**  
+Share your gifts, explore together
+
+🏠 **Communal Living**  
+Sleep, eat, and grow together
+
+💝 **Intimacy**  
+Limited to 42 people to maintain connection
+
+---
+
+## 📍 Event Details
+
+| Detail           | Information                                |
+| ---------------- | ------------------------------------------ |
+| **Date**         | Wed–Sun, 18–22 Feb 2026                    |
+| **Location**     | Mol, Belgium                               |
+| **Capacity**     | Limited to 42 people                       |
+| **Price**        | €169 (accommodation + meals + full access) |
+| **Registration** | Opens December 1st, 2025                   |
+
+---
+
+_Last updated: November 2025_
+
+---
+
+# File: content/docs/\_index.md
+
+---
+
+---
+
+## title: "Bottoms Up!"
+
+<div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto">
+
+# Bottoms Up!
+
+<p class="hx-text-xl text-outer-space hx-mb-8">
+A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.
+</p>
+
+</div>
+
+<div class="bg-gradient-ash-timberwolf hx-py-8 hx-px-6 hx-rounded-lg hx-mb-12">
+
+## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
+
+**🎫 €169 • Limited to 42 people**  
+_[Tickets available December 1st, 2025](/practical/participation)_
+
+</div>
+
+<div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto hx-mb-12">
+
+## New here? Welcome.
+
+If you've been with us before — welcome back to the warmth of connection.  
+If this is your first gathering — breathe deep. You're exactly where you need to be.
+
+This isn't a gathering for spectators. It's a sanctuary. For the curious. For the brave enough to be vulnerable. A space where desire whispers — never demands. Where rope is an invitation — never an obligation.
+
+Five days to shed the rush. To sink into something slower, softer, more essential.
+
+Come to tie. Come to surrender. Come to discover what lives in the spaces between.
+
+</div>
+
+---
+
+<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-8 hx-mb-12">
+
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
+
+### 🌱 First time here?
+
+**Start your journey:**
+
+1. **[Is this for you?](/concept/is-this-for-you)** — Self-reflection and gentle guidance
+2. **[The Experience](/concept)** — What makes this gathering unique
+3. **[Join Us](/practical)** — Everything you need to know
+
+<div class="hx-mt-4">
+<a href="/concept/is-this-for-you" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
+  Start Here →
+</a>
+</div>
+
+</div>
+
+<div class="bg-cherry-blossom-pink-100 hx-p-6 hx-rounded-lg">
+
+### 🏠 Returning home?
+
+**Welcome back:**
+
+- **[What's new this year](/concept/experience)** — The ceremonies that shape our time
+- **[Get your spot](/practical/participation)** — Secure your return to the warmth
+- **[Connect](/contact)** — Questions or just want to say hello?
+
+<div class="hx-mt-4">
+<a href="/practical/participation" class="btn-cherry-blossom-pink hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
+  Get Your Spot →
+</a>
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div class="hx-text-center hx-py-8">
+
+_Rope as ritual. Connection over performance. Consent as sacred practice._
+
+**Bring your hunger. Bring your tenderness.**
+
+</div>
+
+---
+
+# File: content/docs/concept/\_index.md
+
+---
+
+---
+
+title: Philosophy
+description: "The heart of Bottoms Up! - Connection over performance, presence over polish"
+lead: "What makes this gathering different and how we create space together"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
+weight: 1
+toc: true
+bookCollapseSection: true
+
+---
+
+<div class="bg-timberwolf-100 hx-p-8 hx-rounded-lg hx-mb-8">
+
+# The Heart of It
+
+Rope is a language. One of tension, stillness, surrender. It doesn't need applause. It doesn't need perfection. It needs presence.
+
+This gathering asks you to tie like no one is watching. To meet through rope — not just with hands, but with honesty.
+
+</div>
+
+## Explore What Makes Us Different
+
+<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6 hx-mb-8">
+
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
+
+### 🌀 [Our Philosophy](/docs/concept/philosophy)
+
+Understand the gentle rebellion that guides everything we do. Connection over performance. Ritual over technique.
+
+</div>
+
+<div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg">
+
+### 🤝 [What Happens](/concept/experience)
+
+The ceremonies, rhythms, and structures that shape our five days together.
+
+</div>
+
+</div>
+
+---
+
+<div class="bg-gradient-ash-timberwolf hx-p-8 hx-rounded-lg hx-text-center">
+
+## Ready to take the next step?
+
+Now that you understand what makes this gathering unique, let's explore the practical details.
+
+<div class="hx-mt-6">
+<a href="/practical" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-text-lg hx-rounded-lg">
+  Join Us →
+</a>
+</div>
+
+<div class="hx-mt-4 hx-text-sm text-outer-space">
+Or explore: <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
+</div>
+
+</div>
+
+---
+
+# File: content/docs/concept/experience.md
+
+---
+
+---
+
 title: Experience Structure
 description: "How our gathering unfolds - from arrival to departure, rituals to play"
 lead: "The rhythm of our five days together"
@@ -18,6 +268,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30
 toc: true
+
 ---
 
 ## The Flow of Our Days
@@ -143,7 +394,7 @@ Where play can look like fucking — or crying — or lying in intimate embrace,
 
 ## Explore Related Pages
 
-**Want to understand the why behind this experience?** → [Core Philosophy](/concept/philosophy) — The values that shape everything we do
+**Want to understand the why behind this experience?** → [Core Philosophy](/docs/concept/philosophy) — The values that shape everything we do
 
 **Wondering if this is for you?** → [Is This For You?](/concept/is-this-for-you) — Gentle guidance for self-reflection
 
@@ -155,76 +406,12 @@ Where play can look like fucking — or crying — or lying in intimate embrace,
 
 ---
 
-## FILE: concept/_index.md
-**Section:** concept | **File:** _index
-
----
-title: Philosophy
-description: "The heart of Bottoms Up! - Connection over performance, presence over polish"
-lead: "What makes this gathering different and how we create space together"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 1
-toc: true
----
-
-<div class="bg-timberwolf-100 hx-p-8 hx-rounded-lg hx-mb-8">
-
-# The Heart of It
-
-Rope is a language. One of tension, stillness, surrender. It doesn't need applause. It doesn't need perfection. It needs presence.
-
-This gathering asks you to tie like no one is watching. To meet through rope — not just with hands, but with honesty.
-
-</div>
-
-## Explore What Makes Us Different
-
-<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6 hx-mb-8">
-
-<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
-
-### 🌀 [Our Philosophy](/concept/philosophy)
-
-Understand the gentle rebellion that guides everything we do. Connection over performance. Ritual over technique.
-
-</div>
-
-<div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg">
-
-### 🤝 [What Happens](/concept/experience)
-
-The ceremonies, rhythms, and structures that shape our five days together.
-
-</div>
-
-</div>
+# File: content/docs/concept/is-this-for-you.md
 
 ---
 
-<div class="bg-gradient-ash-timberwolf hx-p-8 hx-rounded-lg hx-text-center">
-
-## Ready to take the next step?
-
-Now that you understand what makes this gathering unique, let's explore the practical details.
-
-<div class="hx-mt-6">
-<a href="/practical" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-text-lg hx-rounded-lg">
-  Join Us →
-</a>
-</div>
-
-<div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
-</div>
-
-</div>
 ---
 
-## FILE: concept/is-this-for-you.md
-**Section:** concept | **File:** is-this-for-you
-
----
 title: Is This For You?
 description: "A gentle guide for newcomers and those wondering if this gathering is right for them"
 lead: "You don't have to know. You just have to want to find out."
@@ -232,6 +419,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 20
 toc: true
+
 ---
 
 <div class="bg-gradient-cherry-champagne hx-p-8 hx-rounded-lg hx-mb-12">
@@ -268,7 +456,7 @@ If you're afraid you'll be the only one who doesn't know how it all works — yo
 
 **You belong here as you are.**
 
-*Want to understand the deeper philosophy behind this approach?* → [Core Philosophy](/concept/philosophy)
+_Want to understand the deeper philosophy behind this approach?_ → [Core Philosophy](/docs/concept/philosophy)
 
 </div>
 
@@ -310,7 +498,7 @@ We value real conversation over rope tricks. Vulnerability over Instagram moment
 We create space for consent that's enthusiastic, ongoing, and held collectively. Emotional safety matters as much as physical safety here.
 
 **🌅 Time to slow down and feel deeply?**  
-Four days to step away from rush culture. To breathe. To be present. To let intimacy unfold naturally without agenda or timeline.
+Five days to step away from rush culture. To breathe. To be present. To let intimacy unfold naturally without agenda or timeline.
 
 ### You'll Love This If...
 
@@ -356,7 +544,7 @@ Ask yourself:
 
 If you're feeling "YES" — even a nervous, excited, uncertain yes — then this might be exactly what you need.
 
-*Ready to see what this looks like in practice?* → [Experience Structure](/concept/experience)
+_Ready to see what this looks like in practice?_ → [Experience Structure](/concept/experience)
 
 If you're feeling "maybe" or "I'm not sure" — that's perfectly valid too. Trust your instincts. There are many beautiful gatherings in the world. This one might not be yours right now, and that's okay.
 
@@ -388,21 +576,23 @@ Or jump ahead: <a href="/practical/participation" class="hx-underline hover:hx-n
 
 </div>
 
-*Trust your knowing. Honor your boundaries. Follow what calls to your heart.*
+_Trust your knowing. Honor your boundaries. Follow what calls to your heart._
 
 ---
 
-## FILE: concept/philosophy.md
-**Section:** concept | **File:** philosophy
+# File: content/docs/concept/philosophy.md
 
 ---
-title: Core Philosophy
+
+---
+
+title: "Core Philosophy"
 description: "Connection over performance, presence over polish - the heart of Bottoms Up!"
 lead: "What makes this gathering different and how we create space together"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-08-28
 weight: 10
 toc: true
+
 ---
 
 ## Tie Like No One Is Watching
@@ -413,7 +603,7 @@ At Bottoms Up!, we cherish the ties that bind — not just bodies, but hearts an
 
 ## The Essence of Rope
 
-Rope is a language. One of tension, stillness, surrender. It doesn't need applause. It doesn't need perfection. It needs presence. 
+Rope is a language. One of tension, stillness, surrender. It doesn't need applause. It doesn't need perfection. It needs presence.
 
 Skill helps, sure. But the real magic lives in what can't be taught — those quiet, electric moments where something shifts between you.
 
@@ -479,10 +669,10 @@ Offer what you can: your time, your skills, your mischief, your warmth.
 
 What counts as participation? All of it.
 
-- Chopping onions  
-- Hanging lights  
-- Tidying the space  
-- Holding someone who needs to cry  
+- Chopping onions
+- Hanging lights
+- Tidying the space
+- Holding someone who needs to cry
 - Tying rope, sharing a song, offering your favorite snack at 3am
 
 There is no competition here. No one gets a gold star. Contribution looks different for everyone — and that's the point.
@@ -522,7 +712,7 @@ Maybe a trade.
 
 We don't do shame. We do dialogue.
 
-But access is a *shared responsibility*.
+But access is a _shared responsibility_.
 You still need to show up with presence. To tend to yourself and the people around you. To be ready for the intensity this space brings.
 
 If you're not sure you're ready — that's okay.
@@ -547,48 +737,50 @@ This space will hold you — if you also hold it.
 
 **Post-Rope** isn't a style, or a brand, or a club.  
 It's a feeling — a quiet turning away from the noise.  
-A refusal of the performance economy.  
+A refusal of the performance economy.
 
 We've grown tired of rope as content. Of stages. Of proving.  
-We want rope that's messy, tender, human again.  
+We want rope that's messy, tender, human again.
 
 ### Beyond the Performance
 
 We've all seen it:  
-Who's desirable. Who's collecting glances. Who's in the cool crowd.  
+Who's desirable. Who's collecting glances. Who's in the cool crowd.
 
-It's just heteronormativity replaying itself in rope — high school hierarchies nobody really enjoyed the first time.  
+It's just heteronormativity replaying itself in rope — high school hierarchies nobody really enjoyed the first time.
 
-When the game is about catching eyes or proving worth, curiosity dies. Vulnerability hides. Encounters shrink to performance.  
+When the game is about catching eyes or proving worth, curiosity dies. Vulnerability hides. Encounters shrink to performance.
 
 ### Breaking the Script
 
 The moment we step outside that pattern, everything changes.  
 People stop impressing. They start meeting.  
 They risk awkwardness instead of polish.  
-They reach for intimacy instead of recognition.  
+They reach for intimacy instead of recognition.
 
-That's when rope gets real again — not as spectacle, but as bridge.  
+That's when rope gets real again — not as spectacle, but as bridge.
 
-**Post-Rope looks like this:**  
-- The kitchen tie that becomes a midnight heart-talk  
-- The messy session that ends in laughter  
-- The hug that means more than the knots  
-- The silence where nothing "happens" but everything shifts  
+**Post-Rope looks like this:**
+
+- The kitchen tie that becomes a midnight heart-talk
+- The messy session that ends in laughter
+- The hug that means more than the knots
+- The silence where nothing "happens" but everything shifts
 
 ### Against the Algorithm
 
-In Post-Rope, we gently rebel against the scroll.  
+In Post-Rope, we gently rebel against the scroll.
 
-We're tired of:  
-- Rope flattened into content  
-- Intimacy cut into reels  
-- Quiet moments mined for clout  
-- The pressure to *be seen* rather than *be*  
+We're tired of:
+
+- Rope flattened into content
+- Intimacy cut into reels
+- Quiet moments mined for clout
+- The pressure to _be seen_ rather than _be_
 
 Here, no one ties for likes.  
 No followers. No brands. No filters. Just people.  
-Alive. Breathing. Together.  
+Alive. Breathing. Together.
 
 ---
 
@@ -624,7 +816,7 @@ Come if you want to feel rope not just on your skin — but in your soul.
 
 ## Continue Your Journey
 
-**New to this philosophy?** → [Is This For You?](/concept/is-this-for-you) — Self-reflection to see if this resonates  
+**New to this philosophy?** → [Is This For You?](/concept/is-this-for-you) — Self-reflection to see if this resonates
 
 **Ready to understand the structure?** → [Experience Structure](/concept/experience) — How these ideals come alive over five days
 
@@ -636,10 +828,12 @@ Come if you want to feel rope not just on your skin — but in your soul.
 
 ---
 
-## FILE: concept/sex-positive.md
-**Section:** concept | **File:** sex-positive
+# File: content/docs/concept/sex-positive.md
 
 ---
+
+---
+
 title: Sex Positive, Unapologetically
 description: "Why this gathering celebrates desire, sexuality, and eros as sacred"
 lead: "Desire is welcome here. So is reverence."
@@ -647,6 +841,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 25
 toc: true
+
 ---
 
 ## We Are One of the Very Few
@@ -666,6 +861,7 @@ We are **explicitly, unapologetically sex-positive**. And that's rare in the shi
 **Yes:** Desire is sacred. Sexuality is part of our humanity. Eros belongs alongside rope, intimacy, and presence. People can express their sexuality—or choose not to—without apology.
 
 Sex-positive means:
+
 - Desire is normal, worthy, and beautiful
 - Sexuality is diverse (some people want sex; some want intimacy; some want neither; all valid)
 - Consent makes it ethical
@@ -691,6 +887,7 @@ If you've been told your desire is too much, too weird, too kinky, too queer, to
 ## How Sexuality Shows Up
 
 **At the gathering, you might see:**
+
 - People kissing during rope scenes
 - Sensual touching that's sexual or sacred (sometimes both)
 - Naked bodies being bound, touched, witnessed
@@ -699,12 +896,14 @@ If you've been told your desire is too much, too weird, too kinky, too queer, to
 - Intimacy that's tender, fierce, slow, urgent, playful, solemn
 
 **You won't see:**
+
 - Pressure to perform
 - Objectification
 - Spectacle for its own sake
 - Exploitation
 
 **You will feel:**
+
 - Presence
 - Consent
 - Reverence for bodies and desire
@@ -719,6 +918,7 @@ We're **not** a sex party. We're not a porn set. We're not a place where sexuali
 We're a space where people can explore sexuality **with dignity, presence, and care**. Where desire is woven into rope, into ritual, into connection.
 
 Sex can be:
+
 - A spiritual practice
 - An expression of power and vulnerability
 - A form of intimacy
@@ -749,7 +949,7 @@ If you've been told:
 
 Rope is a language of vulnerability and power. Sexuality is where vulnerability gets most real, power most potent, truth most naked.
 
-When we bind someone, we're asking: *Can you trust me with your body? With your desire? With your truth?*
+When we bind someone, we're asking: _Can you trust me with your body? With your desire? With your truth?_
 
 That trust is erotic. It's also sacred. Both things at once.
 
@@ -762,6 +962,7 @@ We don't hide. We celebrate.
 ## What This Means for You
 
 You can:
+
 - Bring your full sexuality
 - Express desire without apology
 - Explore pleasure with a partner
@@ -772,6 +973,7 @@ You can:
 - Have sex, or not have sex, or something else entirely
 
 **You cannot:**
+
 - Violate someone's consent
 - Pressure anyone into sexuality
 - Detach from presence (sex as performance is not welcome)
@@ -803,10 +1005,12 @@ That's why you're here.
 
 ---
 
-## FILE: concept/your-first-day.md
-**Section:** concept | **File:** your-first-day
+# File: content/docs/concept/your-first-day.md
 
 ---
+
+---
+
 title: Your First Day
 description: "What happens when you arrive at Bottoms Up! - a timeline of your first hours"
 lead: "Here's what to expect the moment you arrive"
@@ -814,6 +1018,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 22
 toc: true
+
 ---
 
 ## Wednesday Afternoon – Arrival & Build
@@ -854,6 +1059,7 @@ toc: true
 This is the threshold. The moment we step in together.
 
 **What happens:**
+
 - We gather in a circle (all 42 of us)
 - Introduction from organizers (what we're about)
 - Consent Moment (embodied practice)
@@ -864,6 +1070,7 @@ This is the threshold. The moment we step in together.
 **Why attend:** This ritual shapes everything that follows. It's not a lecture; it's a collective breath.
 
 **After the circle:**
+
 - Play might begin softly (some rope, some hanging out)
 - You can participate or head to bed — both are fine
 - The night is open-ended
@@ -879,6 +1086,7 @@ You've slept (or listened to roommates sleep).
 A guided, embodied practice refreshing and deepening the consent framework from the Opening Circle. Short, meaningful.
 
 **After that:**
+
 - Breakfast/coffee in common area
 - Jam spaces open (people tying, connecting)
 - Unconference board posted (see what peer-led sessions are happening)
@@ -897,16 +1105,18 @@ Come as you are. We'll meet you there.
 ## Next Steps
 
 👉 [Is This For You?](/concept/is-this-for-you) — Decide if Bottoms Up! is right for you
-👉 [Our Philosophy](/concept/philosophy) — What makes this gathering unique
+👉 [Our Philosophy](/docs/concept/philosophy) — What makes this gathering unique
 👉 [Practical Details](/practical) — Everything you need to know about logistics
 👉 [Get your ticket](/practical/participation) — Join us for this intimate exploration
 
 ---
 
-## FILE: contact.md
-**Section:** contact.md | **File:** contact
+# File: content/docs/contact.md
 
 ---
+
+---
+
 title: Contact
 description: "Here's my number, call me!"
 lead: "Reach out. We'll meet you."
@@ -914,6 +1124,7 @@ date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 t: 150
 toc: true
+
 ---
 
 <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
@@ -931,6 +1142,7 @@ Want to run an idea past the team? Something unclear or confusing?
 Just reach out.
 
 We're here for:
+
 - Curious questions
 - Nerdy logistics
 - Weird edge cases
@@ -981,16 +1193,19 @@ Or explore: <a href="/concept/is-this-for-you" class="hx-underline hover:hx-no-u
 
 ---
 
-## FILE: dresscode.md
-**Section:** dresscode.md | **File:** dresscode
+# File: content/docs/dresscode.md
 
 ---
+
+---
+
 title: Dress Code
 lead: ""
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 images: []
 toc: true
+
 ---
 
 <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
@@ -1035,7 +1250,8 @@ Let your attire reflect the person within — or the one you long to become.
 
 ---
 
-### Comfort is Sacred 
+### Comfort is Sacred
+
 How much (or how little) you dress up is your call.
 The space welcomes everyone — whether you're in elegant attire, comfortable loungewear, or creative expression.
 
@@ -1051,104 +1267,244 @@ We can't wait to see who — or what — joins us.
 
 ---
 
-## FILE: _index.md
-**Section:** _index.md | **File:** _index
-
----
-title: "Bottoms Up!"
----
-
-<div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto">
-
-# Bottoms Up!
-
-<p class="hx-text-xl text-outer-space hx-mb-8">
-A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.
-</p>
-
-</div>
-
-<div class="bg-gradient-ash-timberwolf hx-py-8 hx-px-6 hx-rounded-lg hx-mb-12">
-
-## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
-
-**🎫 €169 • Limited to 42 people**  
-*[Tickets available December 1st, 2025](/practical/participation)*
-
-</div>
-
-<div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto hx-mb-12">
-
-## New here? Welcome.
-
-If you've been with us before — welcome back to the warmth of connection.  
-If this is your first gathering — breathe deep. You're exactly where you need to be.
-
-This isn't a gathering for spectators. It's a sanctuary. For the curious. For the brave enough to be vulnerable. A space where desire whispers — never demands. Where rope is an invitation — never an obligation.
-
-Four days to shed the rush. To sink into something slower, softer, more essential.
-
-Come to tie. Come to surrender. Come to discover what lives in the spaces between.
-
-</div>
+# File: content/docs/participation/\_index.md
 
 ---
 
-<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-8 hx-mb-12">
+---
 
-<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
+title: Participation
+weight: 3
 
-### 🌱 First time here?
+---
 
-**Start your journey:**
+# Getting Your Ticket
 
-1. **[Is this for you?](/concept/is-this-for-you)** — Self-reflection and gentle guidance
-2. **[The Experience](/concept)** — What makes this gathering unique
-3. **[Join Us](/practical)** — Everything you need to know
+## Saying Yes (When You Mean It)
 
-<div class="hx-mt-4">
-<a href="/concept/is-this-for-you" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
-  Start Here →
+A ticket isn't just entry — it's commitment.  
+To show up. To co-create. To meet this intensity with presence.
+
+Securing your spot at Bottoms Up! is simple — but we ask that you move slowly. This isn't just about clicking "buy." It's about saying yes, with your whole self.
+
+---
+
+## Step 1: Read This First
+
+If you've made it to this page, you've probably explored the rest of the site. (If not, we lovingly encourage you to pause and wander back through the other pages.)
+
+This isn't a spectator gathering. It's immersive. Real. Sometimes beautifully raw.  
+We want you to arrive with your eyes wide open — excited, ready, and fully informed about what you're stepping into.
+
+---
+
+## Step 2: Reflect Before You Commit
+
+Before you grab a ticket, take a breath.  
+Ask yourself:
+
+- Does this call to where I'm at right now?
+- Will it nourish me — or stretch me too thin?
+- Do I have the capacity (emotionally, physically, financially) to be fully present?
+
+**FOMO is not a good reason to come.**  
+You deserve more than that. And so does this space. This gathering asks for your full presence — not your anxious attendance.
+
+Come because it's a yes in your gut.  
+Not a maybe in your mind.
+
+---
+
+## Can't Afford It Right Now?
+
+If money is the only thing standing between you and this experience, please reach out.  
+We're open to real conversation — and committed to finding a solution that honors both your needs and ours.
+
+That might mean a sliding scale, a payment plan, work exchange, or creative alternatives.  
+No shame. No complicated applications. Just honest conversation and mutual care.
+
+**Email us at [info@roguerope.be](mailto:info@roguerope.be)** and let us know what's manageable.  
+We'll meet you where we can.
+
+---
+
+## Step 3: If It Still Feels Right, Request a Ticket
+
+If it's a yes — beautiful.
+
+**📅 Tickets go on sale: December 1st, 2025 at 20:00**  
+**💰 Ticket price: €169** (includes accommodation, one hot meal per day plus provisions, and full access)  
+**🎟️ Limited to 42 people** to maintain intimacy and connection
+
+We use a brief application process — not to gatekeep, but to ensure everyone comes with aligned expectations and respect for the container we're creating together.
+
+### What's Included
+
+Your ticket includes:
+
+- **4 nights accommodation** (bunk bed in shared room)
+- **One hot meal per day plus provisions** from Wednesday dinner through Sunday breakfast
+- **Access to all activities** and shared spaces
+- **Use of basic rope and play equipment** (though bring your own favorites)
+- **Peer support** from FWBs (anyone who puts on a bracelet) and **dedicated support** from our Consent Crew
+
+### Payment Options
+
+- **Full payment** at time of booking
+- **Payment plans** available (contact us to arrange)
+- **Reduced payment** available (contact us to arrange)
+
+---
+
+## 🤝 Unconference: Share Your Gifts
+
+### A Space for Sharing, Not Showing Off
+
+Our unconference is a lightly held container for spontaneous brilliance, shared wisdom, and weird little things you didn't know you needed to talk about.
+
+There's no set schedule. No official "teachers." Just a board, some post-its, and a collective invitation to explore together.
+
+### The Four Unconference Rules
+
+1. **Whoever shows up are the right people.**
+2. **Whatever happens is the only thing that could have.**
+3. **Whenever it starts is the right time.**
+4. **It's over when it's over.**
+
+That's it. That's the magic.
+
+### What Might You Offer?
+
+No experts. Just people bringing what's alive.
+
+**What could you bring?**
+
+- A conversation you're hungry to have (e.g., navigating polyamory at gatherings)?
+- A skillshare on something you love (e.g., giving a grounding massage, a specific rope technique)?
+- A quiet, shared practice (e.g., a guided meditation or an hour of journaling together)?
+- A deep dive into a tricky topic (e.g., power dynamics, aftercare, neurodivergence in play)?
+- A question or body puzzle you want to explore with others?
+
+We're here for the offbeat, the half-formed, the personal.  
+If you care about it, someone else probably does too.
+
+---
+
+## 📞 Ready to Join?
+
+Email us at [info@roguerope.be](mailto:info@roguerope.be) with any questions, or wait for ticket sales to open on **December 1st, 2025**.
+
+---
+
+# File: content/docs/practical/\_index.md
+
+---
+
+---
+
+title: "Practical"
+description: "Logistics, policies, and everything you need to know to attend"
+lead: "The details that make it all work"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
+weight: 1
+toc: true
+bookCollapseSection: true
+
+---
+
+## Getting Real About the Details
+
+This is where theory meets practice. Where intention meets logistics. Where we turn "sounds amazing" into "here's exactly what you need to know."
+
+### Before You Arrive
+
+Are you ready to meet this intensity with care? Can you engage without burning out? Is now the right moment for this kind of dive?
+
+We'd love to have you — _if_ it's a true yes.
+
+**Quick Navigation:**
+
+#### Getting In
+
+- [**Getting There**](/practical/getting-there) — Travel, parking, how to arrive
+- [**Participation & Tickets**](/practical/participation) — Register, pricing, payment options
+- [**FAQ**](/practical/faq) — Common questions answered
+
+#### Accommodations & Packing
+
+- [**Accommodations**](/practical/accommodations) — Where you'll sleep, communal living, room options
+- [**Things to Bring**](/practical/things-to-bring) — Complete packing checklist
+- [**Event Logistics**](/practical/logistics) — Food schedule, Build Day details
+- [**Leave No Trace**](/practical/leave-no-trace) — How we care for the space together
+
+#### Important Policies & Info
+
+- [**Photography Guidelines**](/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance
+- [**Photo Privacy & Sharing**](/practical/photo-privacy-sharing) — Where photos live; how/when to share (venue anonymized)
+- [**Cancellation & Refund Policy**](/practical/cancellation-policy) — Refund timeline and process
+- [**Ticket Transfers & Resale**](/practical/ticket-transfers) — How to resell, defer, or handle emergencies
+- [**Merchandise**](/practical/merchandise) — Available items and how to order
+- [**Merch Details & Care**](/practical/merch-details) — Sizing, environmental impact, FAQs
+- [**Witnessing**](/practical/performances) — What you might see, shared without need for audience
+
+---
+
+## After the Gathering
+
+The experience doesn't end when you leave.
+
+- [**After the Gathering**](/practical/after-the-gathering) — Post-event care, resources, how to stay connected, subdrop support
+
+---
+
+This isn't just something you attend.  
+It's something you help make.
+
+And it starts now.
+
+---
+
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
+
+## Before You Dive In
+
+**Still exploring?** These pages might help you decide:
+
+- [Is This For You?](/concept/is-this-for-you) — Self-reflection for newcomers
+- [Core Philosophy](/docs/concept/philosophy) — The values behind our approach
+- [Experience Structure](/concept/experience) — What happens during the five days
+
+**Ready for support?** → [Care & Support](/wellbeing) — Consent, safety, and wellbeing resources
+
+</div>
+
+<div class="hx-bg-gradient-to-r hx-from-orange-50 hx-to-red-50 dark:hx-from-orange-900/20 dark:hx-to-red-900/20 hx-p-8 hx-rounded-lg hx-text-center">
+
+## Ready to join us?
+
+Now that you understand what you're stepping into, it's time to secure your spot and become part of this experience.
+
+<div class="hx-mt-6">
+<a href="/practical/participation" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-orange-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-orange-700 hx-transition-colors">
+  Get Your Ticket →
 </a>
 </div>
 
-</div>
-
-<div class="bg-cherry-blossom-pink-100 hx-p-6 hx-rounded-lg">
-
-### 🏠 Returning home?
-
-**Welcome back:**
-
-- **[What's new this year](/concept/experience)** — The ceremonies that shape our time
-- **[Get your spot](/practical/participation)** — Secure your return to the warmth
-- **[Connect](/contact)** — Questions or just want to say hello?
-
-<div class="hx-mt-4">
-<a href="/practical/participation" class="btn-cherry-blossom-pink hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
-  Get Your Spot →
-</a>
-</div>
-
+<div class="hx-mt-4 hx-text-sm text-outer-space">
+Or explore: <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
 </div>
 
 </div>
 
 ---
 
-<div class="hx-text-center hx-py-8">
-
-*Rope as ritual. Connection over performance. Consent as sacred practice.*
-
-**Bring your hunger. Bring your tenderness.**
-
-</div>
----
-
-## FILE: practical/accommodations.md
-**Section:** practical | **File:** accommodations
+# File: content/docs/practical/accommodations.md
 
 ---
+
+---
+
 title: Accommodations
 description: "Where and how you'll sleep"
 lead: "Nights shape us as much as days"
@@ -1156,11 +1512,13 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 15
 toc: true
+
 ---
 
 ## What You Get
 
 Indoor bunk beds (no tents, no weather worries). You get:
+
 - Your own bed and mattress
 - Hot showers, indoor toilets
 - Shared sleeping space with 3-6 others
@@ -1173,7 +1531,9 @@ Bring bedding that makes you feel safe and soft.
 
 **Mixed rooms** — All genders welcome
 
-**FLINTA-only rooms** — For Female, Lesbian, Intersex, Non-binary, Trans, Agender folks
+**FLINTA-only rooms** — for women (including trans women), lesbians, intersex, non-binary, trans, and agender folks. Self-defined; no gatekeeping.
+
+_Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest._
 
 **"Snoring sanctuary"** — For heavy sleepers and their companions
 
@@ -1190,6 +1550,7 @@ Communal sleeping is intimate. You'll hear breathing, quiet conversations, peopl
 ## For Your Comfort
 
 Bring:
+
 - Bedding (sleeping bag, sheets, blankets)
 - Pillow
 - Small lights for your bunk
@@ -1203,15 +1564,18 @@ Make your bunk feel like home. Small personal items welcome.
 ## Etiquette
 
 **In bathrooms:**
+
 - Shower reasonably (others waiting)
 - Clean up after yourself
 
 **In sleeping spaces:**
+
 - Be mindful of bedtimes (not everyone sleeps when you do)
 - Keep late-night conversations quiet
 - Respect others' personal space
 
 **In common areas:**
+
 - Clean up after meals
 - Respect quiet spaces
 - Take your stuff with you
@@ -1227,6 +1591,7 @@ You'll arrive, check in, find your room, meet your roommates, arrange your bunk.
 ## Accessibility
 
 **Tell us when you register:**
+
 - Ground-floor rooms available
 - Mobility aid accommodation
 - Quiet/sensory-friendly options
@@ -1243,10 +1608,12 @@ Strip your bed. Collect your things. Leave your bunk clean. Return your key. Say
 
 ---
 
-## FILE: practical/after-the-gathering.md
-**Section:** practical | **File:** after-the-gathering
+# File: content/docs/practical/after-the-gathering.md
 
 ---
+
+---
+
 title: After the Gathering
 description: "Integration, resources, staying connected"
 lead: "The gathering shifts, not ends. Here's what helps."
@@ -1254,6 +1621,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 45
 toc: true
+
 ---
 
 ## First 48 Hours
@@ -1271,18 +1639,22 @@ Your nervous system is integrating. Expect tiredness, emotions, vivid dreams, se
 ## First Week
 
 ### Community Debrief
+
 We typically organize a community debrief call in the days after. Watch for details in the WhatsApp group and email.
 
 ### Photos & Memories
+
 - Photos will be shared (check your email for access details)
 - Respect privacy: no public screenshots or sharing without permission
 - All shared under a private agreement
 - If you choose to share publicly later, do it **only** with prior consent from everyone visible and **anonymize the venue**; delete on request.
 
 ### Connect with People You Met
+
 Email [info@roguerope.be](mailto:info@roguerope.be) with names to facilitate. Reach out directly if you remember them.
 
 ### Journal Prompts
+
 - What surprised you?
 - What do you want to carry forward?
 - How does your body feel?
@@ -1322,6 +1694,7 @@ Ask in the community — people are always happy to recommend what helped them i
 The end of an intense gathering can feel isolating. The remedy is reconnection.
 
 **What helps:**
+
 - Join the WhatsApp community immediately
 - RSVP for the monthly community call
 - Reach out to someone you met (even a small message)
@@ -1338,6 +1711,7 @@ The end of an intense gathering can feel isolating. The remedy is reconnection.
 Rope events stir up feelings — fear, joy, grief, desire, vulnerability. This is part of the work. But sometimes the feelings are overwhelming.
 
 **What helps:**
+
 - Talk to someone (friend, community member, therapist)
 - Move your body
 - Practice grounding (feet on earth, 5-4-3-2-1 sensory awareness)
@@ -1345,6 +1719,7 @@ Rope events stir up feelings — fear, joy, grief, desire, vulnerability. This i
 - Remember: feelings pass
 
 **If you're in crisis:**
+
 - National crisis line: [number]
 - Text crisis support: [number]
 - Go to an ER if you're unsafe
@@ -1386,6 +1761,7 @@ If something happened at the gathering that crossed your boundaries or violated 
 Sometimes rope gatherings shift relationships — romantic partnerships, friendships, or self-understanding.
 
 **This is deep work. You might:**
+
 - Feel closer to your partner (or want to leave)
 - Realize something about yourself
 - Grieve a friendship or dynamic that changed
@@ -1393,6 +1769,7 @@ Sometimes rope gatherings shift relationships — romantic partnerships, friends
 - Feel alone or unseen in your "regular" life
 
 **What helps:**
+
 - Talk to your partner or friend (honest, vulnerable conversations)
 - Journal about what's shifting
 - Get support from the community (others have navigated this)
@@ -1406,6 +1783,7 @@ Sometimes rope gatherings shift relationships — romantic partnerships, friends
 ### When Is the Next One?
 
 **Bottoms Up! 2027 (tentative):**
+
 - [Dates TBA]
 - [Location TBA]
 
@@ -1422,6 +1800,7 @@ We run annually. The dates are typically winter. Get on the mailing list to be n
 [**Feedback form →**]
 
 Tell us:
+
 - What worked beautifully
 - What was confusing or missing
 - How we can support you better
@@ -1459,10 +1838,12 @@ Welcome home.
 
 ---
 
-## FILE: practical/cancellation-policy.md
-**Section:** practical | **File:** cancellation-policy
+# File: content/docs/practical/cancellation-policy.md
 
 ---
+
+---
+
 title: Cancellation & Refund Policy
 description: "Clear refund timeline, policy, and process for cancellations"
 lead: "Life happens. Here's how we handle cancellations."
@@ -1470,6 +1851,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 40
 toc: true
+
 ---
 
 ## Our Approach
@@ -1487,6 +1869,7 @@ We understand life happens. Plans change. Circumstances shift. We're not here to
 **Refund:** 100% refund via our ticket vending system
 
 **How to cancel:**
+
 1. Log into your ticket vending account
 2. Request cancellation/refund
 3. Refund processes within 7 days to your original payment method
@@ -1527,6 +1910,7 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 ### Where Does Your Money Go?
 
 **Refunds (if approved) go to:**
+
 - Your original payment method (credit card, bank transfer, etc.)
 - Processing time: 7 days
 - Check your bank; sometimes it takes a few extra days to appear
@@ -1542,6 +1926,7 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 **Why:** Food, accommodations, and support are bundled. We can't break them apart.
 
 **But you can:**
+
 - Leave early (Friday instead of Sunday): Totally fine; meals adjust but price stays same
 
 **Important:** You must arrive by Wednesday 21:00 for the Opening Circle. If you cannot commit to this, this gathering may not be right for you.
@@ -1555,14 +1940,17 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 ### If You Don't Show Up
 
 **Without notice:**
+
 - You forfeit your ticket (no refund)
 - We keep your payment
 - Your spot can't be reallocated
 
 **With late notice:**
+
 - See refund timeline above
 
 **In emergency (hospitalized, accident, etc.):**
+
 - **Contact us ASAP** when you're able
 - We'll assess your situation
 - Possible deferral or resale facilitation (depending on circumstances)
@@ -1571,11 +1959,11 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 
 ## Summary
 
-| Timing | Refund | What to Do |
-|--------|--------|-----------|
-| Up to 3 weeks before | 100% (via ticket vending) | Refund, resell, or defer |
-| Less than 3 weeks | No refund | Resell, defer, or request exception |
-| After event | No refund | N/A |
+| Timing               | Refund                    | What to Do                          |
+| -------------------- | ------------------------- | ----------------------------------- |
+| Up to 3 weeks before | 100% (via ticket vending) | Refund, resell, or defer            |
+| Less than 3 weeks    | No refund                 | Resell, defer, or request exception |
+| After event          | No refund                 | N/A                                 |
 
 ---
 
@@ -1589,10 +1977,12 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 
 ---
 
-## FILE: practical/faq.md
-**Section:** practical | **File:** faq
+# File: content/docs/practical/faq.md
 
 ---
+
+---
+
 title: Frequently Asked Questions
 description: "Common questions about Bottoms Up! and how to prepare"
 lead: "Questions you might have. Honest answers."
@@ -1600,6 +1990,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 50
 toc: true
+
 ---
 
 ## The Gathering
@@ -1618,7 +2009,7 @@ toc: true
 
 ## Practical Details
 
-**What's included?** €169 covers: 4 nights, all meals, spaces, support, basic equipment.
+**What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment.
 
 **Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" — we offer discounts, payment plans, work exchange, no shame.
 
@@ -1630,7 +2021,7 @@ toc: true
 
 **Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate.
 
-**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys. Rope available on-site if you need it.
+**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys.
 
 **Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party. Slippers for shared floors.
 
@@ -1679,10 +2070,12 @@ Public posting only with prior consent from everyone **and** venue anonymized. [
 
 ---
 
-## FILE: practical/getting-there.md
-**Section:** practical | **File:** getting-there
+# File: content/docs/practical/getting-there.md
 
 ---
+
+---
+
 title: Getting There
 description: "How to travel to the venue, parking, public transit, and arrival details"
 lead: "Everything you need to know to get to Mol"
@@ -1690,6 +2083,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 5
 toc: true
+
 ---
 
 ## Location
@@ -1724,6 +2118,7 @@ Use your GPS/maps app with the coordinates or address above. Mol is in northern 
 **Nearest train station:** [Station name] — [distance] from venue
 
 **From the station:**
+
 - **Bus:** Route [#] toward [destination], get off at [stop], [walking time] walk to venue
 - **Taxi:** ~€[cost] from station; ask driver for [venue name]
 - **Walk:** ~[time], [feasibility note]
@@ -1741,6 +2136,7 @@ Use your GPS/maps app with the coordinates or address above. Mol is in northern 
 Join our **WhatsApp Ride-Share Chat:** [Link to WhatsApp group — shared at confirmation]
 
 **How it works:**
+
 1. Post your departure city and date/time
 2. Other participants heading your way respond
 3. Coordinate directly (splitting gas, timing, etc.)
@@ -1755,6 +2151,7 @@ Join our **WhatsApp Ride-Share Chat:** [Link to WhatsApp group — shared at con
 ### Why Arrive Early?
 
 **Build Day is Wednesday starting around 14:00.** This is the best way to arrive because:
+
 - Meet people before the intensity begins
 - Help shape the space (hang lights, arrange comfort areas)
 - Soften into the energy gradually
@@ -1808,106 +2205,12 @@ Come Wednesday if you can. Build the space with us. Let's create something beaut
 
 ---
 
-## FILE: practical/_index.md
-**Section:** practical | **File:** _index
-
----
-title: "Practical"
-description: "Logistics, policies, and everything you need to know to attend"
-lead: "The details that make it all work"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 1
-toc: true
----
-
-## Getting Real About the Details
-
-This is where theory meets practice. Where intention meets logistics. Where we turn "sounds amazing" into "here's exactly what you need to know."
-
-### Before You Arrive
-
-Are you ready to meet this intensity with care? Can you engage without burning out? Is now the right moment for this kind of dive?
-
-We'd love to have you — *if* it's a true yes.
-
-**Quick Navigation:**
-
-#### Getting In
-- [**Getting There**](/practical/getting-there) — Travel, parking, how to arrive
-- [**Participation & Tickets**](/practical/participation) — Register, pricing, payment options
-- [**FAQ**](/practical/faq) — Common questions answered
-
-#### Accommodations & Packing
-- [**Accommodations**](/practical/accommodations) — Where you'll sleep, communal living, room options
-- [**Things to Bring**](/practical/things-to-bring) — Complete packing checklist
-- [**Event Logistics**](/practical/logistics) — Food schedule, Build Day details
-- [**Leave No Trace**](/practical/leave-no-trace) — How we care for the space together
-
-#### Important Policies & Info
-- [**Photography Guidelines**](/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance
-- [**Photo Privacy & Sharing**](/practical/photo-privacy-sharing) — Where photos live; how/when to share (venue anonymized)
-- [**Cancellation & Refund Policy**](/practical/cancellation-policy) — Refund timeline and process
-- [**Ticket Transfers & Resale**](/practical/ticket-transfers) — How to resell, defer, or handle emergencies
-- [**Merchandise**](/practical/merchandise) — Available items and how to order
-- [**Merch Details & Care**](/practical/merch-details) — Sizing, environmental impact, FAQs
-- [**Witnessing**](/practical/performances) — What you might see, shared without need for audience
+# File: content/docs/practical/leave-no-trace.md
 
 ---
 
-## After the Gathering
-
-The experience doesn't end when you leave.
-
-- [**After the Gathering**](/practical/after-the-gathering) — Post-event care, resources, how to stay connected, subdrop support
-
 ---
 
-This isn't just something you attend.  
-It's something you help make.
-
-And it starts now.
-
----
-
-<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
-
-## Before You Dive In
-
-**Still exploring?** These pages might help you decide:
-
-- [Is This For You?](/concept/is-this-for-you) — Self-reflection for newcomers
-- [Core Philosophy](/concept/philosophy) — The values behind our approach  
-- [Experience Structure](/concept/experience) — What happens during the five days
-
-**Ready for support?** → [Care & Support](/wellbeing) — Consent, safety, and wellbeing resources
-
-</div>
-
-<div class="hx-bg-gradient-to-r hx-from-orange-50 hx-to-red-50 dark:hx-from-orange-900/20 dark:hx-to-red-900/20 hx-p-8 hx-rounded-lg hx-text-center">
-
-## Ready to join us?
-
-Now that you understand what you're stepping into, it's time to secure your spot and become part of this experience.
-
-<div class="hx-mt-6">
-<a href="/practical/participation" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-orange-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-orange-700 hx-transition-colors">
-  Get Your Ticket →
-</a>
-</div>
-
-<div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
-</div>
-
-</div>
-
----
-
-## FILE: practical/leave-no-trace.md
-**Section:** practical | **File:** leave-no-trace
-
----
 title: Leave No Trace & Space Care
 description: "How we care for the space together"
 lead: "We leave it better than we found it"
@@ -1915,6 +2218,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30
 toc: true
+
 ---
 
 ## The Basic Idea
@@ -1926,26 +2230,31 @@ Care for shared space is collective. Notice what's yours. Pick it up. Clean what
 ## During the Event
 
 **Meal areas:**
+
 - Clean up immediately after eating
 - Wipe your table
 - Don't leave food out
 
 **Play spaces:**
+
 - Wipe down equipment after use
 - Coil rope and return it
 - Return furniture to its place
 
 **Sleeping areas:**
+
 - Keep your bunk organized
 - Don't leave clothes on floors
 - Return shared items to their place
 
 **Bathrooms:**
+
 - Shower quickly
 - Wipe surfaces
 - Dispose of menstrual products in provided bins
 
 **General:**
+
 - Take trash with you
 - Put lights out when you leave rooms
 - If you see something off, fix it or report it
@@ -1976,6 +2285,7 @@ Be ready to **delete** if anyone changes their mind later.
 ## Why It Matters
 
 When we leave space better than we found it, we:
+
 - Show respect for the venue
 - Demonstrate consent (even to the building)
 - Practice caring—which is what this gathering is about
@@ -1985,10 +2295,12 @@ When we leave space better than we found it, we:
 
 ---
 
-## FILE: practical/logistics.md
-**Section:** practical | **File:** logistics
+# File: content/docs/practical/logistics.md
 
 ---
+
+---
+
 title: Event Logistics  
 description: "Everything you need to know about accommodations, food, what to bring, and build day"
 lead: "Practical details for your five-day experience"
@@ -1996,13 +2308,14 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 20
 toc: true
+
 ---
 
 ## Build Day - Wednesday Afternoon
 
 ### Arrival flows into build.
 
-Bottoms Up! doesn't just *appear*.
+Bottoms Up! doesn't just _appear_.
 It's built — by hands, by hearts, by you.
 
 Our gathering now begins on **Wednesday afternoon**, with **Build Day** folded into the experience itself. No separation. No staff. Just a space, some rope, and a growing circle of people making it real.
@@ -2017,7 +2330,7 @@ You just need to show up.
 We'll hang lights, set up suspension points, decorate the space, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
 
 Come early. Arrive Wednesday afternoon if you can.
-This is one of the best ways to meet people, soften into the vibe, and become part of the magic *before* it officially begins.
+This is one of the best ways to meet people, soften into the vibe, and become part of the magic _before_ it officially begins.
 
 ---
 
@@ -2034,13 +2347,18 @@ It's about proximity. About choosing to be held by a space, and by each other.
 ### What You'll Find
 
 **🏠 Indoor Accommodations:**
-* **Bunk beds indoors** — no tents, no weather worries. Each person gets their own bed and mattress. Bring the bedding that makes you feel safe and soft.
-* **Real facilities** — hot showers, indoor toilets, places to brush your teeth, splash water on your face, and return renewed.
+
+- **Bunk beds indoors** — no tents, no weather worries. Each person gets their own bed and mattress. Bring the bedding that makes you feel safe and soft.
+- **Real facilities** — hot showers, indoor toilets, places to brush your teeth, splash water on your face, and return renewed.
 
 **🛏️ Room Options:**
-* **Mixed rooms** — for those who like variety
-* **FLINTA-only rooms** — for people who are Female, Lesbian, Intersex, Non-binary, Trans, and Agender
-* **"Snoring sanctuary"** — for heavy sleepers and their companions
+
+- **Mixed rooms** — for those who like variety
+- **FLINTA-only rooms** — for women (including trans women), lesbians, intersex, non-binary, trans, and agender folks. Self-defined; no gatekeeping.
+
+_Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest._
+
+- **"Snoring sanctuary"** — for heavy sleepers and their companions
 
 It's simple. But it's real.
 
@@ -2060,38 +2378,40 @@ Some nights you'll fall asleep faster than you thought. Some nights you'll lie a
 ### The Food Plan
 
 **🍽️ What we provide:**
+
 - **Coffee and water** — always available
 - **Bread in the morning** — daily
-- **Snacks** — most afternoons  
+- **Snacks** — most afternoons
 - **Warm meal** — every evening
 
 **🥗 Dietary choice:**
 You'll choose **vegetarian** or **meat** when you register — and we'll ask you to stick with your choice so we can plan portions.
 
-This is *not* a gourmet weekend. But it will be tasty, filling, and made with love (and probably laughter).
+This is _not_ a gourmet weekend. But it will be tasty, filling, and made with love (and probably laughter).
 
 ### Sample Schedule — Subject to Change
 
 Just to give you a sense of the rhythm. Times and offerings may shift based on our collective needs.
 
-| _Time_ | -- | Wed | Thu | Fri | Sat | Sun |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9–12 | Brunch | --/-- | Bread | Bread | Bread | Bread |
-| 15:00 | Soup | --/-- | Soup | Soup | Soup | Leftovers |
-| 16:00 | Snacks | --/-- | Snacks | Snacks | Snacks | Leftovers |
-| 19–21 | Dinner | Dinner | Dinner | Dinner | Dinner | --/-- |
+| _Time_ | --     | Wed    | Thu    | Fri    | Sat    | Sun       |
+| :----- | :----- | :----- | :----- | :----- | :----- | :-------- |
+| 9–12   | Brunch | --/--  | Bread  | Bread  | Bread  | Bread     |
+| 15:00  | Soup   | --/--  | Soup   | Soup   | Soup   | Leftovers |
+| 16:00  | Snacks | --/--  | Snacks | Snacks | Snacks | Leftovers |
+| 19–21  | Dinner | Dinner | Dinner | Dinner | Dinner | --/--     |
 
 ### Special Diets & Dietary Needs
 
 **✅ What we can accommodate:**
+
 - **Vegetarian meals** — fully supported
-- **Meat-based meals** — fully supported  
+- **Meat-based meals** — fully supported
 - **Vegan meals** — best-effort basis
 
 **🤝 Have specific needs?** (gluten-free, allergies, etc.)
 **Please reach out!** We're happy to collaborate and find solutions — whether adjusting ingredients or providing kitchen space for your own prep.
 
-**👨‍🍳 Join our Kitchen Crew**
+**🧑‍🍳 Join our Kitchen Crew**
 Want to help chop, stir, and keep meals flowing? Stay tuned for sign-ups. It's a great way to contribute, connect, and maybe pick up cooking secrets along the way.
 
 ---
@@ -2111,7 +2431,7 @@ These are **mandatory** for all participants:
 Make your space comfortable for the duration:
 
 - [ ] **Bedding** — sleeping bag, sheets, blankets (whatever makes you cozy)
-- [ ] **Pillow** — inflatable or your favorite from home  
+- [ ] **Pillow** — inflatable or your favorite from home
 - [ ] A few lights for your bunk area
 - [ ] **Earplugs** — dormitory life can be... social
 - [ ] **Sleep mask** — shared spaces mean lights and movement
@@ -2123,7 +2443,7 @@ Make your space comfortable for the duration:
 Daily necessities for communal living:
 
 - [ ] Biodegradable soap + shampoo
-- [ ] Toothbrush + toothpaste  
+- [ ] Toothbrush + toothpaste
 - [ ] Quick-dry towel
 - [ ] Hand sanitizer
 - [ ] Any prescription medications you need
@@ -2138,7 +2458,7 @@ We provide meals, but these make the experience better:
 - [ ] Fork, knife, spoon (or spork if you're that kind of genius)
 - [ ] Water bottle or hydration container
 - [ ] Your favorite snacks or specialty food items
-- [ ] Drinks you love — with or without alcohol  
+- [ ] Drinks you love — with or without alcohol
 - [ ] Cooler bag or box (we'll provide ice)
 
 ### Clothing & Comfort 👕
@@ -2157,6 +2477,7 @@ Dress for indoor comfort and movement:
 ### Rope & Play Gear 🪢
 
 **Rope:**
+
 - [ ] **Natural fiber rope** (jute, hemp, cotton) — 6-8mm thickness recommended
 - [ ] **Synthetic rope** — if you prefer (nylon, MFP)
 - [ ] Basic kit: 4x8m lengths to start
@@ -2164,8 +2485,9 @@ Dress for indoor comfort and movement:
 - [ ] Rope bag for organization
 
 **Play Items (Optional):**
+
 - [ ] Floggers, paddles, or other impact toys
-- [ ] Blindfolds, restraints, or sensation items  
+- [ ] Blindfolds, restraints, or sensation items
 - [ ] Wax, ice, feathers — whatever inspires you
 - [ ] Massage oils or lubes (water-based preferred)
 - [ ] Gloves for rope work or intimate play
@@ -2183,120 +2505,12 @@ Remember: This is about connection, not consumption. Bring what you need, but do
 
 ---
 
-## FILE: practical/merchandise.md
-**Section:** practical | **File:** merchandise
-
----
-title: Merchandise
-description: "Take home a piece of Bottoms Up!"
-lead: "Wearables and memories from your gathering"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 37
-toc: true
----
-
-## Shirts & Wearables
-
-We make thoughtfully designed merchandise to help you carry the gathering with you.
-
-**No corporate vibes. No cheap printing.** Just well-made items that feel good and mean something.
+# File: content/docs/practical/merch-details.md
 
 ---
 
-## Available Items
-
-### T-Shirts
-
-**Classic Bottoms Up! Tee**
-- Soft, comfortable cotton blend
-- Thoughtful design celebrating the gathering
-- Multiple colors available
-- €25 — available during the event and for pre-order
-
-**Sizing:**
-- XS, S, M, L, XL, XXL
-- All unisex cuts (comfortable fit)
-- True to size
-
-**Quality:**
-- Pre-shrunk
-- Durable printing
-- Comfortable weight fabric
-
-### Limited Edition Items
-
-Special 2026 Bottoms Up! designs will be available. Details shared closer to the event.
-
-**Past Year Designs** (if stock available):
-
-Check at the event or email us to ask about previous years.
-
 ---
 
-## Beyond Shirts
-
-### Other Merch Ideas
-
-**Potentially available:**
-- Patches (for jackets, backpacks)
-- Stickers (waterproof for water bottles)
-- Pins or badges
-- Rope bags (with the design)
-- Zines or printed materials
-- Journal/notebook with design
-
-**Check at the event for what's actually available.**
-
----
-
-## How to Order
-
-### During the Event
-
-Merchandise table will be in the main gathering space, staffed throughout the event. You can order any day Wed–Sun.
-
-**At the table, you can:**
-- See items in person
-- Try on sizes
-- Place orders (pay on-site or in advance)
-- Ask about design meanings
-
-### Before the Event
-
-**Pre-orders:** Coming soon (watch your email for details)
-
-**Benefits:**
-- Guaranteed availability
-- Skip the merchandise table line
-- Items delivered to your room at check-in
-
----
-
-## Quick Links
-
-**For sizing details, payment options, and FAQs** → [Merch Details & Care](/practical/merch-details)
-
-**Questions?** Email [info@roguerope.be](mailto:info@roguerope.be)
-
----
-
-## Summary
-
-✅ **Thoughtfully designed** t-shirts and wearables
-✅ **Sustainable production** (organic cotton, ethical printing)
-✅ **Available during the event** and for pre-order
-✅ **Wearable memory** of your gathering
-✅ **Community connection** (others will recognize it)
-
-**Wear it proud. Carry the gathering with you.**
-
----
-
-## FILE: practical/merch-details.md
-**Section:** practical | **File:** merch-details
-
----
 title: Merch Details & Care
 description: "Sizing, environmental impact, payment options, and FAQs for Bottoms Up! merchandise"
 lead: "Everything you need to know before ordering"
@@ -2304,6 +2518,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 38
 toc: true
+
 ---
 
 ## Sizing Guide
@@ -2313,13 +2528,13 @@ toc: true
 **Measurements (approximate, laid flat):**
 
 | Size | Chest Width | Length | Sleeve Length |
-|------|-------------|--------|---------------|
-| XS | 41cm | 66cm | 20cm |
-| S | 44cm | 71cm | 20cm |
-| M | 48cm | 74cm | 21cm |
-| L | 51cm | 76cm | 21cm |
-| XL | 54cm | 79cm | 22cm |
-| XXL | 59cm | 82cm | 22cm |
+| ---- | ----------- | ------ | ------------- |
+| XS   | 41cm        | 66cm   | 20cm          |
+| S    | 44cm        | 71cm   | 20cm          |
+| M    | 48cm        | 74cm   | 21cm          |
+| L    | 51cm        | 76cm   | 21cm          |
+| XL   | 54cm        | 79cm   | 22cm          |
+| XXL  | 59cm        | 82cm   | 22cm          |
 
 **Pro tip:** Compare to a favorite shirt you already own for best fit.
 
@@ -2330,6 +2545,7 @@ toc: true
 We care about how we make things.
 
 **Our approach:**
+
 - **Organic or sustainable cotton** (reduced pesticide use)
 - **Ethical printing** (low-chemical, water-based inks)
 - **Small batch production** (only make what we sell)
@@ -2337,6 +2553,7 @@ We care about how we make things.
 - **Encouragement to wear it** (the best garment is one you wear)
 
 **We ask you to:**
+
 - Wash cold, air dry (lasts longer)
 - Repair rather than replace
 - Donate or swap when you're done (keep it in circulation)
@@ -2349,6 +2566,7 @@ We care about how we make things.
 ### Out in the World
 
 The Bottoms Up! shirt is:
+
 - **A conversation starter** (people will ask)
 - **A signal** (you've been here; you're part of something)
 - **Intentional fashion** (not a cheap band tee)
@@ -2359,6 +2577,7 @@ The Bottoms Up! shirt is:
 ### Community Recognition
 
 In the wider rope/kink community, people will:
+
 - Recognize the design
 - Know you've been to our gathering
 - Feel kinship
@@ -2375,6 +2594,7 @@ In the wider rope/kink community, people will:
 **Want a custom size or design?**
 
 Reach out early (before the event):
+
 - Email: [info@roguerope.be](mailto:info@roguerope.be)
 - Subject: "Custom merch request"
 - Tell us what you need
@@ -2394,6 +2614,7 @@ We'll try to accommodate. No guarantees, but we listen.
 ### Payment Plans
 
 **For larger orders:**
+
 - Split payment over 2-3 months
 - No interest
 - Email to arrange
@@ -2407,6 +2628,7 @@ We'll try to accommodate. No guarantees, but we listen.
 **Tradition:** Many participants collect shirts from different years.
 
 **Our gatherings:**
+
 - 2026 design: Available now
 - 2027 design: Coming next year
 
@@ -2423,6 +2645,7 @@ Join the WhatsApp community — people trade shirts all the time.
 ### Order Internationally?
 
 **Pre-orders can be shipped:**
+
 - Shipping cost and delivery time calculated at checkout
 - International options available
 
@@ -2462,10 +2685,131 @@ Possibly. Live design or artist collaboration TBD.
 
 ---
 
-## FILE: practical/participation.md
-**Section:** practical | **File:** participation
+# File: content/docs/practical/merchandise.md
 
 ---
+
+---
+
+title: Merchandise
+description: "Take home a piece of Bottoms Up!"
+lead: "Wearables and memories from your gathering"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
+weight: 37
+toc: true
+
+---
+
+## Shirts & Wearables
+
+We make thoughtfully designed merchandise to help you carry the gathering with you.
+
+**No corporate vibes. No cheap printing.** Just well-made items that feel good and mean something.
+
+---
+
+## Available Items
+
+### T-Shirts
+
+**Classic Bottoms Up! Tee**
+
+- Soft, comfortable cotton blend
+- Thoughtful design celebrating the gathering
+- Multiple colors available
+- €25 — available during the event and for pre-order
+
+**Sizing:**
+
+- XS, S, M, L, XL, XXL
+- All unisex cuts (comfortable fit)
+- True to size
+
+**Quality:**
+
+- Pre-shrunk
+- Durable printing
+- Comfortable weight fabric
+
+### Limited Edition Items
+
+Special 2026 Bottoms Up! designs will be available. Details shared closer to the event.
+
+**Past Year Designs** (if stock available):
+
+Check at the event or email us to ask about previous years.
+
+---
+
+## Beyond Shirts
+
+### Other Merch Ideas
+
+**Potentially available:**
+
+- Patches (for jackets, backpacks)
+- Stickers (waterproof for water bottles)
+- Pins or badges
+- Rope bags (with the design)
+- Zines or printed materials
+- Journal/notebook with design
+
+**Check at the event for what's actually available.**
+
+---
+
+## How to Order
+
+### During the Event
+
+Merchandise table will be in the main gathering space, staffed throughout the event. You can order any day Wed–Sun.
+
+**At the table, you can:**
+
+- See items in person
+- Try on sizes
+- Place orders (pay on-site or in advance)
+- Ask about design meanings
+
+### Before the Event
+
+**Pre-orders:** Coming soon (watch your email for details)
+
+**Benefits:**
+
+- Guaranteed availability
+- Skip the merchandise table line
+- Items delivered to your room at check-in
+
+---
+
+## Quick Links
+
+**For sizing details, payment options, and FAQs** → [Merch Details & Care](/practical/merch-details)
+
+**Questions?** Email [info@roguerope.be](mailto:info@roguerope.be)
+
+---
+
+## Summary
+
+✅ **Thoughtfully designed** t-shirts and wearables
+✅ **Sustainable production** (organic cotton, ethical printing)
+✅ **Available during the event** and for pre-order
+✅ **Wearable memory** of your gathering
+✅ **Community connection** (others will recognize it)
+
+**Wear it proud. Carry the gathering with you.**
+
+---
+
+# File: content/docs/practical/participation.md
+
+---
+
+---
+
 title: Join Us
 description: "How to get tickets, join the unconference, and get merchandise"
 lead: "Everything about joining, contributing, and taking home a piece of the experience"
@@ -2473,6 +2817,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 40
 toc: true
+
 ---
 
 <div class="hx-bg-gradient-to-r hx-from-amber-50 hx-to-orange-50 dark:hx-from-amber-900/20 dark:hx-to-orange-900/20 hx-p-8 hx-rounded-lg hx-mb-12">
@@ -2492,7 +2837,7 @@ Securing your spot at Bottoms Up! is simple — but we ask that you move slowly.
 
 ## Step 1: Read this first
 
-If you've made it to this page, you've probably explored the rest of the site. (If not, we lovingly encourage you to pause and wander back through the other pages.)  
+If you've made it to this page, you've probably explored the rest of the site. (If not, we lovingly encourage you to pause and wander back through the other pages.)
 
 This isn't a spectator gathering. It's immersive. Real. Sometimes beautifully raw.  
 We want you to arrive with your eyes wide open — excited, ready, and fully informed about what you're stepping into.
@@ -2537,10 +2882,10 @@ We'll meet you where we can.
 
 ## Step 3: If it still feels right, request a ticket
 
-If it's a yes — beautiful.  
+If it's a yes — beautiful.
 
 **📅 Tickets go on sale: December 1st, 2025 at 20:00**
-**💰 Ticket price: €169** (includes accommodation, all meals, and full access)
+**💰 Ticket price: €169** (includes accommodation, one hot meal per day plus provisions, and full access)
 **🎟️ Limited to 42 people** to maintain intimacy and connection
 
 We use a brief application process — not to gatekeep, but to ensure everyone comes with aligned expectations and respect for the container we're creating together.
@@ -2548,8 +2893,9 @@ We use a brief application process — not to gatekeep, but to ensure everyone c
 ### What's Included
 
 Your ticket includes:
+
 - **4 nights accommodation** (bunk bed in shared room)
-- **All meals** from Wednesday dinner through Sunday breakfast
+- **One hot meal per day plus provisions** from Wednesday dinner through Sunday breakfast
 - **Access to all activities** and shared spaces
 - **Use of basic rope and play equipment** (though bring your own favorites)
 - **Peer support** from FWBs (anyone who puts on a bracelet) and **dedicated support** from our Consent Crew
@@ -2580,9 +2926,9 @@ There's no set schedule. No official "teachers." Just a board, some post-its, an
 
 ## The Four Unconference Rules
 
-1. **Whoever shows up are the right people.**  
-2. **Whatever happens is the only thing that could have.**  
-3. **Whenever it starts is the right time.**  
+1. **Whoever shows up are the right people.**
+2. **Whatever happens is the only thing that could have.**
+3. **Whenever it starts is the right time.**
 4. **It's over when it's over.**
 
 That's it. That's the magic.
@@ -2596,6 +2942,7 @@ That's it. That's the magic.
 No experts. Just people bringing what's alive.
 
 **What could you bring?**
+
 - A conversation you're hungry to have (e.g., navigating polyamory at gatherings)?
 - A skillshare on something you love (e.g., giving a grounding massage, a specific rope technique)?
 - A quiet, shared practice (e.g., a guided meditation or an hour of journaling together)?
@@ -2639,17 +2986,20 @@ Or explore: <a href="/contact" class="hx-underline hover:hx-no-underline">Contac
 
 ---
 
-## FILE: practical/performances.md
-**Section:** practical | **File:** performances
+# File: content/docs/practical/performances.md
 
 ---
+
+---
+
 title: Witnessing
 images: []
 menu:
-  docs:
-    parent: "opportunities"
+docs:
+parent: "opportunities"
 weight: 2010
 toc: true
+
 ---
 
 At Bottoms Up!, we tie like no one is watching — because the rope isn't a show. It's a conversation. A confession. A prayer. This isn't about performance. It's about connection. You won't find a lineup, scheduled scenes, or applause cues. But that doesn't mean there's nothing to witness. You'll see beauty here, maybe even brilliance, but it will happen organically — between two people, in the hush of twilight, or the quiet chaos of morning. Ties spun in trust, not for display. Sensation shared without needing an audience.
@@ -2658,10 +3008,171 @@ At Bottoms Up!, we tie like no one is watching — because the rope isn't a show
 
 ---
 
-## FILE: practical/photography-guidelines.md
-**Section:** practical | **File:** photography-guidelines
+# File: content/docs/practical/photo-privacy-sharing.md
 
 ---
+
+---
+
+title: Photo Privacy & Sharing
+description: "What happens to photos after the event, how sharing works, and your privacy"
+lead: "After the cameras close: accessing, sharing, and managing your images"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
+weight: 35
+toc: true
+
+---
+
+## What Happens to Photos
+
+### After the Event (Within 1 Week)
+
+**Photos are uploaded to a private attendee-only portal**
+
+- You can view and download photos you're in
+- You can share photos to the community if you want
+
+**Long-term:**
+
+- Organizers keep an archive for future gatherings
+- Community members can request photo removal if they change their mind
+- Photos are never posted publicly without explicit consent
+
+---
+
+## Sharing Photos
+
+### Within Our Community
+
+**You can share photos:**
+
+- In the private participant WhatsApp group
+- With other participants you met
+- For personal memory-keeping
+
+**You should NOT:**
+
+- Post to public social media without permission from others in the photo
+- Share photos without consent from all people visible
+- Use photos for commercial purposes
+- Screenshot and repost elsewhere
+
+**Why?** Privacy. Respect. Safety. Some participants need anonymity in their regular lives.
+
+---
+
+### With the Outside World
+
+We prefer to keep things low-profile. **If you do share publicly (FetLife, Instagram, blogs):**
+
+- Share **only** shots where **every person** consented **before** the photo **and** to **public posting**.
+- **No bystanders.** No faces or identifiable marks without explicit consent.
+- **Anonymize the venue.** Avoid names, wide establishing shots, signage, maps, or time/location details.
+- Be ready to **delete** if anyone changes their mind later.
+
+**Not sure? Don’t post. Ask us first.**
+
+---
+
+### Public Announcements
+
+**Organizers will:**
+
+- Share event details in advance (marketing, info)
+- Use photos only with explicit consent from people in them
+- Never tag names or identify people in public posts
+- Represent the gathering thoughtfully, not sensationally
+
+---
+
+## Nude & Intimate Imagery
+
+### How We Handle Sensitive Photos
+
+**If photos contain nudity or intimate moments:**
+
+- Photos are kept private to attendee portal only
+- Enhanced security on these images
+- Never posted publicly by organizers
+- You have full control over who sees them
+- You can request deletion anytime
+
+**You own your image.** Organizers are just the keepers.
+
+---
+
+### Before You Get Photographed Nude
+
+**Make sure you:**
+
+- Explicitly consent to being photographed
+- Know who the photographer is
+- Know where photos will be stored
+- Know you can request removal
+- Understand photos are for community memory, not public sharing
+
+---
+
+## Technical Details
+
+### Photo Storage & Security
+
+- **Private portal:** Password-protected, attendee-only access
+- **Backup:** Organizers keep secure backups
+- **Encryption:** Files are encrypted at rest
+- **Retention:** Kept for [X years] then deleted unless requested to keep
+- **No third-party access:** Your photos aren't shared with external companies
+
+---
+
+### Downloading Your Photos
+
+**You can:**
+
+- Download any photo you're in
+- Share privately with friends
+- Use for personal memory-keeping
+- Delete your copies anytime
+
+**You can't:**
+
+- Sell them
+- Post them publicly without consent from others
+- Use them for commercial purposes
+
+---
+
+## Questions?
+
+**About photo privacy?** Email [info@roguerope.be](mailto:info@roguerope.be)
+
+**Want to discuss sharing before the event?** Let us know during registration.
+
+**Need photos removed?** Email us anytime — before, during, or after the event.
+
+---
+
+## Summary
+
+✅ **You control your image.** Download, delete, or keep — your choice.
+
+✅ **We keep things private.** Public posting only with explicit, prior consent — no bystanders; anonymize the venue.
+
+✅ **Community sharing is consensual.** Ask before sharing anyone's photos.
+
+✅ **Intimate images have extra protection.** Your vulnerability is sacred.
+
+✅ **We take violations seriously.** Photo sharing without consent has consequences.
+
+---
+
+# File: content/docs/practical/photography-guidelines.md
+
+---
+
+---
+
 title: Photography Guidelines
 description: "How photos are taken at Bottoms Up!, who photographs, and how to opt out"
 lead: "Your image, your consent, your control"
@@ -2669,6 +3180,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 34
 toc: true
+
 ---
 
 ## Our Philosophy
@@ -2676,11 +3188,13 @@ toc: true
 **Your image is yours.** Your consent to be photographed is sacred.
 
 We take photos to:
+
 - Capture memories for participants
 - Document the experience
 - Create an archive of our community
 
 We do NOT:
+
 - Post your image online without permission
 - Share photos on social media
 - Use your image for promotion or commercial purposes
@@ -2714,6 +3228,7 @@ We do NOT:
 ### Photo Times
 
 **We announce photo times clearly:**
+
 - Before the Opening Circle
 - During afternoon "jam spaces" (optional)
 - At the play party
@@ -2722,6 +3237,7 @@ We do NOT:
 **If we're photographing, we'll say so.**
 
 You can:
+
 - Step out of frame
 - Say "no photos" to photographers
 - Decline specific photos
@@ -2750,6 +3266,7 @@ You can:
 **Changed your mind after the event?**
 
 Email [info@roguerope.be](mailto:info@roguerope.be) with:
+
 - Your name
 - Which photos you want removed
 - Brief reason (optional)
@@ -2776,6 +3293,7 @@ We'll delete them within 48 hours. No questions asked. No judgment.
 **Yes, with guidelines:**
 
 **During play spaces:**
+
 - You can bring a camera for personal use
 - **Ask first** and get a **yes from everyone** in frame **before** the shot
 - **No bystanders** (mind backgrounds, mirrors, reflections)
@@ -2783,9 +3301,11 @@ We'll delete them within 48 hours. No questions asked. No judgment.
 - If you're playing, put the camera down
 
 **During opening/closing circles:**
+
 - Be present. **Phone-free during the circle itself** (put it away)
 
 **Private moments:**
+
 - Some people don't want to be photographed — **honor that**
 
 **After the shot:** Offer to show it; **delete immediately on request**.
@@ -2798,6 +3318,7 @@ We'll delete them within 48 hours. No questions asked. No judgment.
 **Personal video is allowed under the same consent rules as photos.**
 
 Get explicit consent before recording, just like you would for a photo:
+
 - **Ask first, clearly.** Get consent **before** the shot. Name who's in frame and intended use.
 - **No bystanders.** No one else in foreground or background. Watch mirrors/windows/reflections.
 - **No disturbance.** Keep it brief. Don't interrupt scenes, rituals, or shared spaces.
@@ -2822,160 +3343,16 @@ Videos can be shared under the same privacy guidelines as photos.
 ✅ **Ask first.** Consent before the shot, for everyone in frame.  
 ✅ **No bystanders.** Watch backgrounds, mirrors, reflections.  
 ✅ **No disturbance.** Keep it brief; no flash/lights; don’t interrupt scenes/rituals.  
-✅ **Delete on request.** Consent is revocable — honor it immediately.  
+✅ **Delete on request.** Consent is revocable — honor it immediately.
 
 ---
 
-## FILE: practical/photo-privacy-sharing.md
-**Section:** practical | **File:** photo-privacy-sharing
-
----
-title: Photo Privacy & Sharing
-description: "What happens to photos after the event, how sharing works, and your privacy"
-lead: "After the cameras close: accessing, sharing, and managing your images"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 35
-toc: true
----
-
-## What Happens to Photos
-
-### After the Event (Within 1 Week)
-
-**Photos are uploaded to a private attendee-only portal**
-- You can view and download photos you're in
-- You can share photos to the community if you want
-
-**Long-term:**
-- Organizers keep an archive for future gatherings
-- Community members can request photo removal if they change their mind
-- Photos are never posted publicly without explicit consent
+# File: content/docs/practical/policies.md
 
 ---
 
-## Sharing Photos
-
-### Within Our Community
-
-**You can share photos:**
-- In the private participant WhatsApp group
-- With other participants you met
-- For personal memory-keeping
-
-**You should NOT:**
-- Post to public social media without permission from others in the photo
-- Share photos without consent from all people visible
-- Use photos for commercial purposes
-- Screenshot and repost elsewhere
-
-**Why?** Privacy. Respect. Safety. Some participants need anonymity in their regular lives.
-
 ---
 
-### With the Outside World
-We prefer to keep things low-profile. **If you do share publicly (FetLife, Instagram, blogs):**
-- Share **only** shots where **every person** consented **before** the photo **and** to **public posting**.  
-- **No bystanders.** No faces or identifiable marks without explicit consent.  
-- **Anonymize the venue.** Avoid names, wide establishing shots, signage, maps, or time/location details.  
-- Be ready to **delete** if anyone changes their mind later.
-
-**Not sure? Don’t post. Ask us first.**
-
----
-
-### Public Announcements
-
-**Organizers will:**
-- Share event details in advance (marketing, info)
-- Use photos only with explicit consent from people in them
-- Never tag names or identify people in public posts
-- Represent the gathering thoughtfully, not sensationally
-
----
-
-## Nude & Intimate Imagery
-
-### How We Handle Sensitive Photos
-
-**If photos contain nudity or intimate moments:**
-
-- Photos are kept private to attendee portal only
-- Enhanced security on these images
-- Never posted publicly by organizers
-- You have full control over who sees them
-- You can request deletion anytime
-
-**You own your image.** Organizers are just the keepers.
-
----
-
-### Before You Get Photographed Nude
-
-**Make sure you:**
-- Explicitly consent to being photographed
-- Know who the photographer is
-- Know where photos will be stored
-- Know you can request removal
-- Understand photos are for community memory, not public sharing
-
----
-
-## Technical Details
-
-### Photo Storage & Security
-
-- **Private portal:** Password-protected, attendee-only access
-- **Backup:** Organizers keep secure backups
-- **Encryption:** Files are encrypted at rest
-- **Retention:** Kept for [X years] then deleted unless requested to keep
-- **No third-party access:** Your photos aren't shared with external companies
-
----
-
-### Downloading Your Photos
-
-**You can:**
-- Download any photo you're in
-- Share privately with friends
-- Use for personal memory-keeping
-- Delete your copies anytime
-
-**You can't:**
-- Sell them
-- Post them publicly without consent from others
-- Use them for commercial purposes
-
----
-
-## Questions?
-
-**About photo privacy?** Email [info@roguerope.be](mailto:info@roguerope.be)
-
-**Want to discuss sharing before the event?** Let us know during registration.
-
-**Need photos removed?** Email us anytime — before, during, or after the event.
-
----
-
-## Summary
-
-✅ **You control your image.** Download, delete, or keep — your choice.
-
-✅ **We keep things private.** Public posting only with explicit, prior consent — no bystanders; anonymize the venue.
-
-✅ **Community sharing is consensual.** Ask before sharing anyone's photos.
-
-✅ **Intimate images have extra protection.** Your vulnerability is sacred.
-
-✅ **We take violations seriously.** Photo sharing without consent has consequences.
-
----
-
-## FILE: practical/policies.md
-**Section:** practical | **File:** policies
-
----
 title: Policies & Guidelines
 description: "Rules, guidelines, and frequently asked questions"
 lead: "What you need to know about cancellation, photography, venue respect, and common questions"
@@ -2983,6 +3360,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30
 toc: true
+
 ---
 
 ## Frequently Asked Questions
@@ -3053,6 +3431,7 @@ You're welcome to pass your ticket on — but please check with us first. Here's
 Every person goes through our gentle vetting process to make sure everyone feels comfortable with the transition.
 
 **Refund Policy**
+
 - **Up to 3 weeks before** (by January 25, 2026): **100% refund**
 - **Less than 3 weeks before**: **No refund**, but you can transfer/resell your ticket
 
@@ -3077,9 +3456,10 @@ For full photography and video guidelines, see: [Photography Guidelines](/practi
 
 ### Social Media Guidelines
 
-If you're posting to FetLife, Instagram, or anywhere else:  
-- Only share what someone has *clearly agreed to*
-- That includes tagging, stories, and vibes  
+If you're posting to FetLife, Instagram, or anywhere else:
+
+- Only share what someone has _clearly agreed to_
+- That includes tagging, stories, and vibes
 - Ask before you tag, ask before you post
 - Ask even if it feels obvious
 
@@ -3088,6 +3468,7 @@ We keep most things offline. If you share at all, do it only with explicit conse
 ### Venue Privacy
 
 Please:
+
 - Avoid venue names and identifying wide shots when posting
 - Crop/blur signage or distinctive features
 - Never add time or precise location details
@@ -3107,6 +3488,7 @@ We treat the space like we treat each other: with care, with respect, and with a
 While we have waste facilities available, we ask everyone to be mindful of the shared indoor environment. That means **being responsible for your own waste and respecting common areas**.
 
 Some tips to make that easy:
+
 - Pack light and leave excess packaging at home
 - Bring a small bag for your personal waste
 - Use reusable containers and tools whenever you can
@@ -3115,7 +3497,7 @@ Some tips to make that easy:
 ### Waste Sorting
 
 - **Compostable stuff** (food scraps, paper napkins, etc.): Designated bins on site
-- **Recyclables** (clean containers, paper, etc.): Separate collection  
+- **Recyclables** (clean containers, paper, etc.): Separate collection
 - **General waste**: Keep to minimum, use provided bins
 - **Hazardous items** (batteries, etc.): Take with you when you leave
 
@@ -3161,10 +3543,12 @@ Remember: This isn't just about physical safety, but emotional and energetic wel
 
 ---
 
-## FILE: practical/things-to-bring.md
-**Section:** practical | **File:** things-to-bring
+# File: content/docs/practical/things-to-bring.md
 
 ---
+
+---
+
 title: Things to Bring
 description: "Your packing list for five days"
 lead: "What you actually need"
@@ -3172,6 +3556,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 12
 toc: true
+
 ---
 
 ## Required
@@ -3225,11 +3610,13 @@ toc: true
 ## Rope & Play
 
 **Rope:**
+
 - 4x8m natural fiber (jute/hemp/cotton) OR synthetic
 - Rope scissors or safety shears
 - Rope bag
 
 **Play items (optional):**
+
 - Floggers, blindfolds, toys
 - Massage oils/lubes (water-based)
 - Aftercare items (blankets, snacks, water)
@@ -3267,10 +3654,12 @@ Pack a week before. Use this checklist. Leave room for things you'll return with
 
 ---
 
-## FILE: practical/ticket-transfers.md
-**Section:** practical | **File:** ticket-transfers
+# File: content/docs/practical/ticket-transfers.md
 
 ---
+
+---
+
 title: Ticket Transfers & Resale
 description: "How to resell your ticket, defer payment, or request exceptions"
 lead: "Can't attend? Here are your options."
@@ -3278,6 +3667,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 41
 toc: true
+
 ---
 
 ## Your Options If You Can't Attend
@@ -3287,6 +3677,7 @@ toc: true
 **You can resell your ticket to someone else.** This way, your money doesn't disappear — it goes to the new buyer.
 
 **How it works:**
+
 1. **Find a buyer** (friend, community group, WhatsApp community, etc.)
 2. **Email us** at [info@roguerope.be](mailto:info@roguerope.be) with:
    - Your name and order number
@@ -3319,10 +3710,12 @@ toc: true
 We can add your cancellation to the waitlist pool, and refund the first person who can attend.
 
 **This only works if:**
+
 - We're fully booked (42/42 tickets sold)
 - There's an active waitlist
 
 **This doesn't work if:**
+
 - We're not fully booked (your refund just reduces event revenue)
 - Your cancellation is within 2 weeks (not enough time to notify waitlist)
 
@@ -3360,6 +3753,7 @@ We understand priorities shift. We'll work with you on what's possible.
 **You can transfer your ticket to another person.**
 
 **How:**
+
 1. **You find the buyer** (friend, community member, etc.)
 2. **Email [info@roguerope.be](mailto:info@roguerope.be)** with:
    - Subject: "Ticket transfer request"
@@ -3371,6 +3765,7 @@ We understand priorities shift. We'll work with you on what's possible.
 5. **Buyer makes payment to you** (outside our system)
 
 **Vetting process:**
+
 - We check they understand the event is consent-focused, intimate, and community-based
 - We ask 1-2 questions to ensure alignment
 - Takes 2-3 days
@@ -3402,214 +3797,243 @@ See [Cancellation & Refund Policy](/practical/cancellation-policy) for the core 
 
 ---
 
-## FILE: search.md
-**Section:** search.md | **File:** search
+# File: content/docs/schedule/\_index.md
 
 ---
+
+---
+
+title: Schedule
+weight: 2
+
+---
+
+# Event Schedule
+
+## 📅 Wednesday–Sunday, 18–22 February 2026
+
+**5 Days of Connection, Ritual & Intimacy**
+
+---
+
+## Overview: The Rhythm of Our Time
+
+This isn't a traditional conference with fixed schedules. Our five days have a **gentle, held structure** that allows for spontaneity, presence, and deep connection.
+
+Each day has:
+
+- A **morning rhythm** (optional practices, early communal time)
+- **Unconference sessions** (peer-led, self-organized)
+- **Shared meals** and informal connection time
+- **Evening offerings** (ceremonies, experiences, or rest)
+
+---
+
+## 🔄 The Five-Day Arc
+
+### **Wednesday Evening: Arrival & Opening**
+
+- Check-in and settle into communal living
+- Dinner together as we arrive
+- Opening ceremony to set intention
+- Early bedtimes encouraged (it's a long weekend!)
+
+### **Thursday: Finding Our Footing**
+
+- Morning practices (meditation, grounding, gentle movement)
+- First unconference sessions begin
+- Skill-shares and conversations
+- Group dinner
+- Evening activities (talks, workshops, or quiet time)
+
+### **Friday: Building Connection**
+
+- Deeper unconference sessions
+- Workshops on rope, consent, dynamics, and embodiment
+- Afternoon break and informal play
+- Evening gathering (ceremonies or performances)
+
+### **Saturday: The Heart of It**
+
+- Morning practices
+- Unconference sessions continue
+- Varied workshops and circles
+- Communal dinner
+- Evening social time and informal connections
+
+### **Sunday: Integration & Closing**
+
+- Gentle morning practices
+- Light unconference sessions
+- Closing circle
+- Departures through Sunday afternoon
+
+---
+
+## 🎓 What Happens During the Days
+
+### Unconference Sessions (Peer-Led)
+
+**When:** Throughout Thursday–Sunday (approx. 10 AM–5 PM)  
+**Format:** Lightly facilitated, participant-driven  
+**What You'll Find:**
+
+- Rope technique shares and deep dives
+- Conversations about dynamics, consent, and power
+- Embodiment practices and body work
+- Creative projects and artistic expressions
+- Philosophical discussions about desire, connection, ritual
+- Quiet practices (meditation, journaling, yoga)
+
+### Skill-Shares & Workshops
+
+**Led by community members, covering topics like:**
+
+- Advanced rope techniques
+- Tying for different bodies
+- Consent negotiation frameworks
+- Nervous system regulation and somatic work
+- Aftercare and emotional processing
+- Photography and documentation ethics
+- Relationships and polyamory navigation
+
+### Group Meals & Communal Time
+
+**Meals Included:**
+
+- Thursday dinner through Sunday breakfast
+- One hot meal per day
+- Additional provisions (snacks, tea, coffee available)
+
+**Eating Together:**
+
+- Long communal tables
+- Informal conversation and connection
+- Time to rest and be present
+
+---
+
+## 💤 Accommodation & Bedding
+
+- **4 nights** in shared dormitory-style rooms
+- **Bunk beds** (sheets provided, bring your own pillow if you like)
+- **Bathroom facilities** shared with care for cleanliness
+- **Quiet hours** after 11 PM
+- **Communal spaces** for rest and reflection
+
+---
+
+## 🎭 Evening Offerings (Examples)
+
+What happens after dinner varies based on energy and consent:
+
+- **Rope Demonstrations** — watching others tie with intention
+- **Ceremonies** — rituals created by and for the community
+- **Social Time** — informal play, conversation, connection
+- **Quiet Time** — reading, journaling, early sleep
+- **Performances** — consensual sharing and witnessing
+
+_All activities are optional. Consent is always in effect._
+
+---
+
+## 🏥 Support & Care Throughout
+
+Our Consent Crew is present to:
+
+- Answer questions about consent, negotiation, and boundaries
+- Provide emotional support if needed
+- Help navigate tricky situations with care
+- Ensure everyone feels held and safe
+
+**FWB Bracelets** — Anyone can put one on to signal they're available for peer support. It's a lovely way to identify allies in the space.
+
+---
+
+## ⏰ Daily Rhythm (Flexible)
+
+| Time             | What's Happening                   |
+| ---------------- | ---------------------------------- |
+| 7:00-8:30 AM     | Optional morning practices         |
+| 8:30-9:30 AM     | Breakfast together                 |
+| 10:00 AM-1:00 PM | Unconference sessions begin        |
+| 1:00-2:30 PM     | Lunch & rest                       |
+| 2:30-5:00 PM     | Afternoon sessions & informal play |
+| 6:00 PM          | Dinner together                    |
+| 7:30 PM+         | Evening offerings & social time    |
+| 11:00 PM         | Quiet hours begin                  |
+
+_Times are gentle guides, not rigid rules. The energy of the group takes precedence._
+
+---
+
+## 🚪 Before You Arrive
+
+**Pre-gathering homework:**
+
+- Read through [Wellbeing & Support](/docs/wellbeing/) pages
+- Think about what you want to explore or share
+- Come with an open heart and curious mind
+- Prepare any rope, toys, or materials you'd like to bring
+
+---
+
+## 📋 What to Bring
+
+**Essentials:**
+
+- Comfortable clothes (layers!)
+- Toiletries and medications
+- Any rope or play equipment you love
+- A journal for reflection
+- An open mind and tender heart
+
+**Optional:**
+
+- Photos or art to share
+- Music you'd like to listen to together
+- A favorite tea or snack to share
+- Comfortable shoes for walking
+
+---
+
+## ❓ Questions About the Schedule?
+
+The schedule is **intentionally flexible** to honor:
+
+- The energy of the group
+- The needs of the moment
+- Spontaneous brilliance
+- Collective wisdom
+
+If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/docs/wellbeing/)** — we're here to help.
+
+---
+
+_See you there. We're ready to meet you in the ritual._
+
+---
+
+# File: content/docs/search.md
+
+---
+
+---
+
 title : "Search"
 searchPage : true
 type : "search"
----
----
-
-## FILE: wellbeing/consent-safety.md
-**Section:** wellbeing | **File:** consent-safety
-
----
-title: Consent & Safety
-description: "Our framework for consent, boundary support, and creating a safe container for exploration"
-lead: "How we hold space for brave, vulnerable, consensual connection"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 10
-toc: true
----
-
-## Understanding Consent
-
-### The Short Version?
-
-If it feels like you're selling something — stop.  
-If you're working too hard for a "yes," pause. Step back. Try again — or maybe, don't.
-
-A real yes doesn't need convincing.  
-Look for the "HELL YES." The "OMG YES."  
-Or better yet: the quiet, steady *yes* that lives in the body.
-
-**Trust us — that kind of yes leads to better everything.**
-
-### Celebrate the No
-
-Someone says no?  
-Good. That means they trust you enough to be honest.
-
-Say thank you. Mean it.
-
-A "no" is not a rejection — it's a reveal.  
-It shows you something real: that this person feels safe enough to voice their boundary.  
-That's not a failure of connection — that's the foundation of it.
-
-When someone says no, it proves they're present.  
-It proves they're paying attention to what they want — and what they don't.  
-And when we receive that no with grace, we show we're worthy of trust.
-
-Every healthy dynamic — sexual, sensual, kinky, or otherwise — is built on the ability to **hear no, hold it, and stay open**.
-
-So don't rush past it. Don't shrink from it. Celebrate it.
-
-Because if someone can say no, it means that when they say yes… they really mean it.
-
-And that's the kind of yes worth waiting for.
-
-### Consent Is a Whole-Body Experience
-
-It's not just a yes or no.  
-It's a full-body signal. A living dialogue. A mutual, continuous agreement.
-
-Consent means:
-- You're both in it
-- You can change your mind at any time
-- A yes to one thing is not a yes to everything
-- You pay attention — not just to words, but to tone, tension, and body language
-
-### Enthusiastic Consent = Real Consent
-
-> "Consent isn't a question. It's a state.  
-> If, instead of lovers, the two of you were synchronized swimmers, consent would be the water.  
-> It's not enough to jump in, get wet and climb out —  
-> if you want to swim, you have to be in the water continually."  
-> — [Yes Means Yes](https://www.yesmeansyes.com/consent/)
-
-We believe sex, kink, and rope all start from this same place: enthusiastic participation where everyone involved genuinely wants to be there.
-
-### Ongoing Consent
-
-Consent is not a one-time agreement. It's a continuous conversation that includes:
-- **Check-ins during play** — "How are you feeling?" "What do you need?"
-- **Reading non-verbal cues** — body language, breathing, muscle tension
-- **Honoring changes** — energy shifts, emotional responses, physical limits
-- **Aftercare discussions** — processing what happened, how it felt
-
-### When Things Get Complicated
-
-Sometimes consent gets murky. Sometimes we misread signals or cross lines we didn't know existed. Sometimes we realize mid-scene that we're not as okay as we thought we were.
-
-That's human. That's normal. What matters is how we respond:
-- **Stop immediately** when someone says stop
-- **Check in regularly** during intense scenes
-- **Take responsibility** when you've overstepped
-- **Seek support** when you need help processing
 
 ---
 
-## Consent Crew: Your Support Team
+---
 
-### Who We Are
-
-The Consent Crew is a small, dedicated group of individuals trusted by the organization. We are here to serve as a resource for any issues related to consent, boundaries, and conflict resolution. Our role is to listen, offer support, and help facilitate repair when things get difficult.
-
-We are not mediators in a formal sense, but rather a compassionate first point of contact to help you feel heard and find a path forward.
-
-### What We Do
-
-You can approach the Consent Crew for:
-- **Navigating a difficult conversation** about boundaries or consent
-- Support if you've **experienced a boundary violation**
-- Help understanding the **consent framework** of the event
-- A **confidential listening ear** if something feels off and you're not sure what to do next
-- Follow-up on any reported issues to ensure they are handled with care
-
-### How We're Different from FWBs
-
-**Consent Crew** focuses on consent violations, boundary issues, and conflict resolution. We're here when something has gone wrong or feels unsafe.
-
-**FWBs (Friendly, Welcoming, Buddies)** focus on peer support, emotional wellbeing, and general care. They're here for the everyday navigation of community and connection.
-
-Both are essential parts of our care network, and you can approach whichever feels right for your situation.
-
-### How to Find Us
-
-Consent Crew members will be clearly identified during the opening circle. We'll also have a contact method available (usually a phone number) for anyone who needs to reach us quickly or discretely.
-
-**Remember: You don't need to handle difficult situations alone.** We're here specifically to support you.
+# File: content/docs/wellbeing/\_index.md
 
 ---
 
-## Conscious Care of Our Space
-
-### Care is not just what we do for each other — it's what we do *with* each other.
-
-Bottoms Up! isn't staffed. It's shared. That means the space only holds us as well as **we** hold it.
-
-This isn't about being tidy. It's about being *conscious*.  
-Of your body. Your stuff. Your impact. The people beside you.
-
-### The Art of Noticing
-
-You don't need a chore list. Just awareness.
-
-- **Notice what's yours.**  
-  If you brought it — take it home. If you used it — clean it. If you dropped it — pick it up.
-
-- **Notice what's off.**  
-  If something looks forgotten, lost, or misplaced, take initiative. Straighten it. Stash it. Set it aside safely. You don't need permission to help.
-
-- **Notice the little things.**  
-  Wipe a surface. Carry a cup. Return a chair to its place. Small actions ripple.
-
-- **Notice each other.**  
-  If someone leaves a trace behind — a cup, a shirt, a tool — offer a gentle reminder. Not judgment. Just care.
-
-### Shared Responsibility
-
-**We all contribute to:**
-- Keeping play spaces clean and safe
-- Maintaining common areas for everyone's comfort
-- Proper disposal of all materials (especially anything bodily)
-- Creating an atmosphere of mutual care and respect
-
-**This extends to emotional and energetic care too:**
-- Notice when someone seems overwhelmed and needs support
-- Help create inclusive, welcoming spaces for newcomers
-- Address conflicts or tensions before they escalate
-- Hold space for the full range of human emotions and experiences
-
 ---
 
-## Safety Guidelines
-
-### Physical Safety
-
-- **Know your limits** and communicate them clearly
-- **Start slowly** with new partners or new activities
-- **Use safety tools** (rope shears, safety signals, etc.)
-- **Stay sober enough** to give and receive consent
-- **Stop immediately** if someone says stop or uses a safeword
-
-### Emotional Safety
-
-- **Check in regularly** during and after intense experiences
-- **Respect privacy** — not everyone wants their experience shared
-- **Hold space** for emotions without trying to fix or minimize them
-- **Ask before giving advice** or feedback
-- **Honor different processing styles** — some need talk, some need quiet
-
-### Community Safety
-
-- **Speak up** if you witness concerning behavior
-- **Support others** in maintaining their boundaries
-- **Use our support systems** (Consent Crew, FWBs) when needed
-- **Take breaks** when you need them
-- **Respect the container** we've created together
-
-Remember: Safety isn't about avoiding all risk — it's about taking conscious, consensual risks with people who care about your wellbeing as much as their own.
-
----
-
-## FILE: wellbeing/_index.md
-**Section:** wellbeing | **File:** _index
-
----
 title: "Wellbeing"
 description: "Consent, safety, care, and support resources"
 lead: "Your wellbeing matters before, during, and after"
@@ -3617,6 +4041,8 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 1
 toc: true
+bookCollapseSection: true
+
 ---
 
 Consent isn’t a question; it’s the water we swim in.
@@ -3627,7 +4053,7 @@ So we’ve built in care. Not just as a safety net, but as a way of being.
 These pages are here to support you before, during, and after your time at Bottoms Up!.  
 Whether you're feeling overwhelmed, excited, cautious, curious — you're not alone. We've thought about you.
 
-*New to our approach?* → [Is This For You?](/concept/is-this-for-you) • [Core Philosophy](/concept/philosophy)
+_New to our approach?_ → [Is This For You?](/docs/concept/is-this-for-you) • [Core Philosophy](/docs/concept/philosophy)
 
 ---
 
@@ -3676,10 +4102,216 @@ Or explore: <a href="/practical/participation" class="hx-underline hover:hx-no-u
 
 ---
 
-## FILE: wellbeing/relationships.md
-**Section:** wellbeing | **File:** relationships
+# File: content/docs/wellbeing/consent-safety.md
 
 ---
+
+---
+
+title: Consent & Safety
+description: "Our framework for consent, boundary support, and creating a safe container for exploration"
+lead: "How we hold space for brave, vulnerable, consensual connection"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
+weight: 10
+toc: true
+
+---
+
+## Understanding Consent
+
+### The Short Version?
+
+If it feels like you're selling something — stop.  
+If you're working too hard for a "yes," pause. Step back. Try again — or maybe, don't.
+
+A real yes doesn't need convincing.  
+Look for the "HELL YES." The "OMG YES."  
+Or better yet: the quiet, steady _yes_ that lives in the body.
+
+**Trust us — that kind of yes leads to better everything.**
+
+### Celebrate the No
+
+Someone says no?  
+Good. That means they trust you enough to be honest.
+
+Say thank you. Mean it.
+
+A "no" is not a rejection — it's a reveal.  
+It shows you something real: that this person feels safe enough to voice their boundary.  
+That's not a failure of connection — that's the foundation of it.
+
+When someone says no, it proves they're present.  
+It proves they're paying attention to what they want — and what they don't.  
+And when we receive that no with grace, we show we're worthy of trust.
+
+Every healthy dynamic — sexual, sensual, kinky, or otherwise — is built on the ability to **hear no, hold it, and stay open**.
+
+So don't rush past it. Don't shrink from it. Celebrate it.
+
+Because if someone can say no, it means that when they say yes… they really mean it.
+
+And that's the kind of yes worth waiting for.
+
+### Consent Is a Whole-Body Experience
+
+It's not just a yes or no.  
+It's a full-body signal. A living dialogue. A mutual, continuous agreement.
+
+Consent means:
+
+- You're both in it
+- You can change your mind at any time
+- A yes to one thing is not a yes to everything
+- You pay attention — not just to words, but to tone, tension, and body language
+
+### Enthusiastic Consent = Real Consent
+
+> "Consent isn't a question. It's a state.  
+> If, instead of lovers, the two of you were synchronized swimmers, consent would be the water.  
+> It's not enough to jump in, get wet and climb out —  
+> if you want to swim, you have to be in the water continually."  
+> — [Yes Means Yes](https://www.yesmeansyes.com/consent/)
+
+We believe sex, kink, and rope all start from this same place: enthusiastic participation where everyone involved genuinely wants to be there.
+
+### Ongoing Consent
+
+Consent is not a one-time agreement. It's a continuous conversation that includes:
+
+- **Check-ins during play** — "How are you feeling?" "What do you need?"
+- **Reading non-verbal cues** — body language, breathing, muscle tension
+- **Honoring changes** — energy shifts, emotional responses, physical limits
+- **Aftercare discussions** — processing what happened, how it felt
+
+### When Things Get Complicated
+
+Sometimes consent gets murky. Sometimes we misread signals or cross lines we didn't know existed. Sometimes we realize mid-scene that we're not as okay as we thought we were.
+
+That's human. That's normal. What matters is how we respond:
+
+- **Stop immediately** when someone says stop
+- **Check in regularly** during intense scenes
+- **Take responsibility** when you've overstepped
+- **Seek support** when you need help processing
+
+---
+
+## Consent Crew: Your Support Team
+
+### Who We Are
+
+The Consent Crew is a small, dedicated group of individuals trusted by the organization. We are here to serve as a resource for any issues related to consent, boundaries, and conflict resolution. Our role is to listen, offer support, and help facilitate repair when things get difficult.
+
+We are not mediators in a formal sense, but rather a compassionate first point of contact to help you feel heard and find a path forward.
+
+### What We Do
+
+You can approach the Consent Crew for:
+
+- **Navigating a difficult conversation** about boundaries or consent
+- Support if you've **experienced a boundary violation**
+- Help understanding the **consent framework** of the event
+- A **confidential listening ear** if something feels off and you're not sure what to do next
+- Follow-up on any reported issues to ensure they are handled with care
+
+### How We're Different from FWBs
+
+**Consent Crew** focuses on consent violations, boundary issues, and conflict resolution. We're here when something has gone wrong or feels unsafe.
+
+**FWBs (Friendly, Welcoming, Buddies)** focus on peer support, emotional wellbeing, and general care. They're here for the everyday navigation of community and connection.
+
+Both are essential parts of our care network, and you can approach whichever feels right for your situation.
+
+### How to Find Us
+
+Consent Crew members will be clearly identified during the opening circle. We'll also have a contact method available (usually a phone number) for anyone who needs to reach us quickly or discretely.
+
+**Remember: You don't need to handle difficult situations alone.** We're here specifically to support you.
+
+---
+
+## Conscious Care of Our Space
+
+### Care is not just what we do for each other — it's what we do _with_ each other.
+
+Bottoms Up! isn't staffed. It's shared. That means the space only holds us as well as **we** hold it.
+
+This isn't about being tidy. It's about being _conscious_.  
+Of your body. Your stuff. Your impact. The people beside you.
+
+### The Art of Noticing
+
+You don't need a chore list. Just awareness.
+
+- **Notice what's yours.**  
+  If you brought it — take it home. If you used it — clean it. If you dropped it — pick it up.
+
+- **Notice what's off.**  
+  If something looks forgotten, lost, or misplaced, take initiative. Straighten it. Stash it. Set it aside safely. You don't need permission to help.
+
+- **Notice the little things.**  
+  Wipe a surface. Carry a cup. Return a chair to its place. Small actions ripple.
+
+- **Notice each other.**  
+  If someone leaves a trace behind — a cup, a shirt, a tool — offer a gentle reminder. Not judgment. Just care.
+
+### Shared Responsibility
+
+**We all contribute to:**
+
+- Keeping play spaces clean and safe
+- Maintaining common areas for everyone's comfort
+- Proper disposal of all materials (especially anything bodily)
+- Creating an atmosphere of mutual care and respect
+
+**This extends to emotional and energetic care too:**
+
+- Notice when someone seems overwhelmed and needs support
+- Help create inclusive, welcoming spaces for newcomers
+- Address conflicts or tensions before they escalate
+- Hold space for the full range of human emotions and experiences
+
+---
+
+## Safety Guidelines
+
+### Physical Safety
+
+- **Know your limits** and communicate them clearly
+- **Start slowly** with new partners or new activities
+- **Use safety tools** (rope shears, safety signals, etc.)
+- **Stay sober enough** to give and receive consent
+- **Stop immediately** if someone says stop or uses a safeword
+
+### Emotional Safety
+
+- **Check in regularly** during and after intense experiences
+- **Respect privacy** — not everyone wants their experience shared
+- **Hold space** for emotions without trying to fix or minimize them
+- **Ask before giving advice** or feedback
+- **Honor different processing styles** — some need talk, some need quiet
+
+### Community Safety
+
+- **Speak up** if you witness concerning behavior
+- **Support others** in maintaining their boundaries
+- **Honor pronouns: ask first, use them correctly, correct yourself with care.**
+- **Use our support systems** (Consent Crew, FWBs) when needed
+- **Take breaks** when you need them
+- **Respect the container** we've created together
+
+Remember: Safety isn't about avoiding all risk — it's about taking conscious, consensual risks with people who care about your wellbeing as much as their own.
+
+---
+
+# File: content/docs/wellbeing/relationships.md
+
+---
+
+---
+
 title: Relationships & Boundaries
 description: "Navigating partnerships, baggage, and connection at the gathering"
 lead: "How to honor existing relationships while staying open to new connections"
@@ -3687,6 +4319,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30
 toc: true
+
 ---
 
 ## Arriving with Partners
@@ -3735,6 +4368,7 @@ Some of you arrive with **non-monogamous agreements**, or **independent playstyl
 We celebrate that.
 
 Some suggestions:
+
 - **Have the awkward conversations early.** Agreements, boundaries, intentions — get clear before you get hot.
 - **Don't assume symmetry.** One of you might explore more than the other. That's okay. Move at your own paces with care.
 - **Plan for reconnection.** Not just physically. Emotionally, too. Even a 5-minute cuddle check-in can shift everything.
@@ -3744,6 +4378,7 @@ Some suggestions:
 They might. That's not failure — that's reality.
 
 Event energy is raw. Beautiful, but activating. You might feel:
+
 - Protective
 - Left out
 - Jealous
@@ -3791,21 +4426,21 @@ This page is a loving caution. A reminder to **pause, scan, and sort** your inne
 
 ### Name It, Tame It, or Leave It
 
-1. **Name It**  
-   - Say it out loud (to yourself, a friend, a journal): *"I'm still angry at X."*  
+1. **Name It**
+   - Say it out loud (to yourself, a friend, a journal): _"I'm still angry at X."_
    - Hidden baggage loves the dark; naming switches on the light.
 
-2. **Tame It**  
-   - Do the pre‑work: therapy session, hard conversation, breathwork, long run—whatever helps you find steadiness.  
+2. **Tame It**
+   - Do the pre‑work: therapy session, hard conversation, breathwork, long run—whatever helps you find steadiness.
    - If it can't be fully solved, at least give it a safe container.
 
-3. **Leave It**  
+3. **Leave It**
    - Some loads are too fresh, too sharp. That doesn't make you weak—just honest. If the weight feels un‑carry‑able, it might be kinder to sit this gathering out (or arrive later, in a different year).
 
 ### Relationship Storms & Drama Triangles
 
-- **Arriving with tension?** Name it together first. Decide: *Pause it, resolve it, or postpone the gathering.*
-- **Love triangles & undefined connections?** Get explicit now. Vagueness becomes violence when the energy spikes.  
+- **Arriving with tension?** Name it together first. Decide: _Pause it, resolve it, or postpone the gathering._
+- **Love triangles & undefined connections?** Get explicit now. Vagueness becomes violence when the energy spikes.
 - **Recent break‑ups?** If seeing this person tie someone else might rip you apart, love yourself enough to wait.
 
 This gathering isn't therapy. It's not neutral ground. It's a **magnifier**.
@@ -3815,8 +4450,8 @@ This gathering isn't therapy. It's not neutral ground. It's a **magnifier**.
 This space holds many bodies, many hearts.
 Personal storms can swirl into collective weather.
 
-- **Don't process loudly in public zones.** Find a quiet corner or schedule time off‑site.  
-- **Consent to unload.** Ask before dumping heavy feelings on someone who may be tapped out.  
+- **Don't process loudly in public zones.** Find a quiet corner or schedule time off‑site.
+- **Consent to unload.** Ask before dumping heavy feelings on someone who may be tapped out.
 - **Use the support web wisely.** FWBs, Consent Crew, quiet spaces—they're resources, not emotional dumpsters.
 
 ### Common Baggage Types
@@ -3854,17 +4489,20 @@ This isn't rejection — it's wisdom. The gathering will exist again, and you ca
 ### Creating Boundaries
 
 **Before arriving:**
+
 - Identify your emotional, physical, and energetic limits
 - Communicate clearly with partners about expectations and agreements
 - Make plans for self-care and support during the gathering
 
 **During the gathering:**
+
 - Check in with yourself regularly about your capacity and comfort
 - Communicate boundaries clearly and kindly to others
 - Ask for what you need without apology or over-explanation
 - Say no when something doesn't feel right
 
 **After the gathering:**
+
 - Process the experience with trusted friends or partners
 - Notice what came up that might need attention in your regular life
 - Integrate insights slowly rather than making major changes immediately
@@ -3877,10 +4515,12 @@ Kindly—and courageously—leave it at the door.
 
 ---
 
-## FILE: wellbeing/support.md
-**Section:** wellbeing | **File:** support
+# File: content/docs/wellbeing/support.md
 
 ---
+
+---
+
 title: Support Systems
 description: "How we care for each other - FWBs, emotional support, and neurodivergent inclusion"
 lead: "Peer-based care, informal support, and community wellbeing"
@@ -3888,10 +4528,12 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 20
 toc: true
+
 ---
 
 ## FWBs: Friends With Benefits
-*Yes, the good kind.*
+
+_Yes, the good kind._
 
 At Bottoms Up!, care isn't something the organizers provide.
 It's something **we all create** — together, moment by moment.
@@ -3931,6 +4573,7 @@ This bracelet system lets us flow in and out of service — with consent, clarit
 ### What FWBs Offer
 
 FWBs are available for:
+
 - **Emotional check-ins** and active listening
 - **Grounding support** during overwhelming moments
 - **Basic aftercare** — water, snacks, blankets, presence
@@ -3954,11 +4597,11 @@ Whether it's a hard conversation, a crash after a scene, or just missing the fam
 
 ### A Few Things That Might Help
 
-- Be gentle with yourself. Take breaks. Drink water. Cry if you need to.  
-- Listen to your body — and let it guide your pace.  
-- Set your boundaries clearly, and hold them with love.  
-- Say no when you need to. Say yes only when it's real.  
-- Focus on what feels *right* for you — not what others are doing.  
+- Be gentle with yourself. Take breaks. Drink water. Cry if you need to.
+- Listen to your body — and let it guide your pace.
+- Set your boundaries clearly, and hold them with love.
+- Say no when you need to. Say yes only when it's real.
+- Focus on what feels _right_ for you — not what others are doing.
 - Ask for help. Even if it feels awkward. Especially then.
 
 ### Common Emotional Experiences
@@ -3974,6 +4617,7 @@ Whether it's a hard conversation, a crash after a scene, or just missing the fam
 ### When to Seek Support
 
 Look for someone wearing a **FWB bracelet** when you need:
+
 - A check-in or grounding moment
 - Someone to listen without trying to fix
 - Help connecting with resources or other support people
@@ -3981,8 +4625,9 @@ Look for someone wearing a **FWB bracelet** when you need:
 - Just a friendly presence when you're feeling alone
 
 You can also always approach:
+
 - A trusted friend or fellow participant
-- A [Consent Crew member](/wellbeing/consent-safety) — they're the dedicated team for boundaries, repair, or if something feels off  
+- A [Consent Crew member](/wellbeing/consent-safety) — they're the dedicated team for boundaries, repair, or if something feels off
 - The organizing team if you need more structured support
 
 ---
@@ -4020,18 +4665,21 @@ Just a gathering full of people doing their best — including you.
 ### Resources We Provide
 
 **Physical Accommodations:**
+
 - Quiet, low-stimulation spaces for decompression
 - Clear signage and information about space layouts
 - Flexible participation — you can engage at your own level
 - Access to basic sensory tools (earplugs, eye masks, fidget items)
 
 **Social Accommodations:**
+
 - No pressure to participate in all activities
 - Multiple ways to connect (verbal, non-verbal, structured, unstructured)
 - Understanding that social energy is finite and needs to be managed
 - FWB support system for gentle peer assistance
 
 **Communication Support:**
+
 - Clear, direct communication about expectations and guidelines
 - Written information available for reference
 - Permission to ask questions and seek clarification
@@ -4040,6 +4688,7 @@ Just a gathering full of people doing their best — including you.
 ### Self-Care Strategies
 
 Bring what you need:
+
 - **Sensory regulation tools** (noise-cancelling headphones, weighted items, textures)
 - **Executive function aids** (timers, schedules, reminder systems)
 - **Emotional regulation supports** (comfort items, grounding techniques)
@@ -4052,22 +4701,10 @@ Remember: Taking care of your neurodivergent needs isn't selfish — it's how yo
 We understand that many neurodivergent people use various substances (prescription, over-the-counter, or otherwise) to manage symptoms and participate fully in life.
 
 We ask only that you:
+
 - Stay safe and within your known limits
 - Remain able to give and receive consent
 - Be honest about your capacity for various activities
 - Ask for support if your regulation strategies aren't working
 
 We don't police or judge how you manage your neurodivergence. We just want everyone to be able to participate safely and consensually.
-
----
-
-
----
-
-# End of Content Dump
-
-**Total sections found:**
-
-- **concept**: 6 files
-- **practical**: 17 files
-- **wellbeing**: 4 files

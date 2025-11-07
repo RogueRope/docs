@@ -1,7 +1,7 @@
 ---
 title: Leave No Trace & Space Care
-description: "How we care for the space together"
-lead: "We leave it better than we found it"
+description: 'How we care for the space together'
+lead: 'We leave it better than we found it'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30
@@ -17,26 +17,31 @@ Care for shared space is collective. Notice what's yours. Pick it up. Clean what
 ## During the Event
 
 **Meal areas:**
+
 - Clean up immediately after eating
 - Wipe your table
 - Don't leave food out
 
 **Play spaces:**
+
 - Wipe down equipment after use
 - Coil rope and return it
 - Return furniture to its place
 
 **Sleeping areas:**
+
 - Keep your bunk organized
 - Don't leave clothes on floors
 - Return shared items to their place
 
 **Bathrooms:**
+
 - Shower quickly
 - Wipe surfaces
 - Dispose of menstrual products in provided bins
 
 **General:**
+
 - Take trash with you
 - Put lights out when you leave rooms
 - If you see something off, fix it or report it
@@ -67,6 +72,7 @@ Be ready to **delete** if anyone changes their mind later.
 ## Why It Matters
 
 When we leave space better than we found it, we:
+
 - Show respect for the venue
 - Demonstrate consent (even to the building)
 - Practice caring—which is what this gathering is about

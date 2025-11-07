@@ -1,6 +1,6 @@
 ---
 title: Is This For You?
-description: "A gentle guide for newcomers and those wondering if this gathering is right for them"
+description: 'A gentle guide for newcomers and those wondering if this gathering is right for them'
 lead: "You don't have to know. You just have to want to find out."
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
@@ -42,7 +42,7 @@ If you're afraid you'll be the only one who doesn't know how it all works — yo
 
 **You belong here as you are.**
 
-*Want to understand the deeper philosophy behind this approach?* → [Core Philosophy](/concept/philosophy)
+_Want to understand the deeper philosophy behind this approach?_ → [Core Philosophy](/concept/philosophy)
 
 </div>
 
@@ -130,13 +130,13 @@ Ask yourself:
 
 If you're feeling "YES" — even a nervous, excited, uncertain yes — then this might be exactly what you need.
 
-*Ready to see what this looks like in practice?* → [Experience Structure](/concept/experience)
+_Ready to see what this looks like in practice?_ → [Experience Structure](/concept/experience)
 
 If you're feeling "maybe" or "I'm not sure" — that's perfectly valid too. Trust your instincts. There are many beautiful gatherings in the world. This one might not be yours right now, and that's okay.
 
 ---
 
-![A small group of queer adults sitting in a cozy circle indoors. No rope, just closeness. One person tells a story while another leans into them. A newcomer sits quietly at the edge, wrapped in comfort, soft smile forming.](/images/rrw26/new-here.png)
+![A small group of queer adults sitting in a cozy circle indoors. No rope, just closeness. One person tells a story while another leans into them. A newcomer sits quietly at the edge, wrapped in comfort, soft smile forming.](/images/rrc25/new-here.png)
 
 You don't need to be ready. You just need to be here.
 
@@ -157,9 +157,9 @@ Come as you are. We'll meet you there.
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or jump ahead: <a href="/practical/participation" class="hx-underline hover:hx-no-underline">Join Us</a> • <a href="/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact</a>
+Or jump ahead: <a href="/docs/practical/participation" class="hx-underline hover:hx-no-underline">Join Us</a> • <a href="/docs/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact</a>
 </div>
 
 </div>
 
-*Trust your knowing. Honor your boundaries. Follow what calls to your heart.*
+_Trust your knowing. Honor your boundaries. Follow what calls to your heart._

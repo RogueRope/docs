@@ -1,7 +1,7 @@
 ---
 title: Experience Structure
-description: "How our gathering unfolds - from arrival to departure, rituals to play"
-lead: "The rhythm of our five days together"
+description: 'How our gathering unfolds - from arrival to departure, rituals to play'
+lead: 'The rhythm of our five days together'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 30
@@ -135,8 +135,8 @@ Where play can look like fucking — or crying — or lying in intimate embrace,
 
 **Wondering if this is for you?** → [Is This For You?](/concept/is-this-for-you) — Gentle guidance for self-reflection
 
-**Ready to join us?** → [Join Us](/practical) — Practical details about participation and tickets
+**Ready to join us?** → [Join Us](/docs/practical/participation) — Practical details about participation and tickets
 
-**Need support preparing?** → [Care & Support](/wellbeing) — Resources for consent, safety, and wellbeing
+**Need support preparing?** → [Care & Support](/docs/wellbeing) — Resources for consent, safety, and wellbeing
 
 </div>

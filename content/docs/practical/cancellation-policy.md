@@ -1,6 +1,6 @@
 ---
 title: Cancellation & Refund Policy
-description: "Clear refund timeline, policy, and process for cancellations"
+description: 'Clear refund timeline, policy, and process for cancellations'
 lead: "Life happens. Here's how we handle cancellations."
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
@@ -23,6 +23,7 @@ We understand life happens. Plans change. Circumstances shift. We're not here to
 **Refund:** 100% refund via our ticket vending system
 
 **How to cancel:**
+
 1. Log into your ticket vending account
 2. Request cancellation/refund
 3. Refund processes within 7 days to your original payment method
@@ -63,6 +64,7 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 ### Where Does Your Money Go?
 
 **Refunds (if approved) go to:**
+
 - Your original payment method (credit card, bank transfer, etc.)
 - Processing time: 7 days
 - Check your bank; sometimes it takes a few extra days to appear
@@ -78,6 +80,7 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 **Why:** Food, accommodations, and support are bundled. We can't break them apart.
 
 **But you can:**
+
 - Leave early (Friday instead of Sunday): Totally fine; meals adjust but price stays same
 
 **Important:** You must arrive by Wednesday 21:00 for the Opening Circle. If you cannot commit to this, this gathering may not be right for you.
@@ -91,14 +94,17 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 ### If You Don't Show Up
 
 **Without notice:**
+
 - You forfeit your ticket (no refund)
 - We keep your payment
 - Your spot can't be reallocated
 
 **With late notice:**
+
 - See refund timeline above
 
 **In emergency (hospitalized, accident, etc.):**
+
 - **Contact us ASAP** when you're able
 - We'll assess your situation
 - Possible deferral or resale facilitation (depending on circumstances)
@@ -107,11 +113,11 @@ See [Ticket Transfers & Resale](/practical/ticket-transfers) for how to resell, 
 
 ## Summary
 
-| Timing | Refund | What to Do |
-|--------|--------|-----------|
-| Up to 3 weeks before | 100% (via ticket vending) | Refund, resell, or defer |
-| Less than 3 weeks | No refund | Resell, defer, or request exception |
-| After event | No refund | N/A |
+| Timing               | Refund                    | What to Do                          |
+| -------------------- | ------------------------- | ----------------------------------- |
+| Up to 3 weeks before | 100% (via ticket vending) | Refund, resell, or defer            |
+| Less than 3 weeks    | No refund                 | Resell, defer, or request exception |
+| After event          | No refund                 | N/A                                 |
 
 ---
 

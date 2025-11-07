@@ -9,7 +9,7 @@ Rope as ritual. Connection over performance. Consent as sacred practice.
 ## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
 
 **🎫 €169 • Limited to 42 people**  
-*[Tickets available December 1st, 2025](/docs/participation/)*
+_[Tickets available December 1st, 2025](/docs/practical/participation)_
 
 ---
 
@@ -34,14 +34,14 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 
 1. **[The Philosophy](/docs/concept/)** — Understanding what makes this gathering unique
 2. **[Practical Details](/docs/practical/)** — Everything you need to know to join us
-3. **[Get Your Ticket](/docs/participation/)** — Secure your spot
+3. **[Get Your Ticket](/docs/practical/participation)** — Secure your spot
 
 ### Returning Home?
 
 **Welcome back:**
 
 - **[What's New This Year](/docs/schedule/)** — The ceremonies that shape our time
-- **[Get Your Spot](/docs/participation/)** — Secure your return to the warmth
+- **[Get Your Spot](/docs/practical/participation)** — Secure your return to the warmth
 - **[Questions?](/docs/wellbeing/)** — Common questions answered
 
 ---
@@ -49,19 +49,19 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 ## 🌟 What to Expect
 
 🌀 **Rope as Ritual**  
-Connection over performance  
+Connection over performance
 
 🤝 **Consent & Safety**  
-Sacred practice at our core  
+Sacred practice at our core
 
 🛟 **Full Support**  
-Care team available throughout  
+Care team available throughout
 
 🎭 **Unconference**  
-Share your gifts, explore together  
+Share your gifts, explore together
 
 🏠 **Communal Living**  
-Sleep, eat, and grow together  
+Sleep, eat, and grow together
 
 💝 **Intimacy**  
 Limited to 42 people to maintain connection
@@ -70,14 +70,14 @@ Limited to 42 people to maintain connection
 
 ## 📍 Event Details
 
-| Detail | Information |
-|--------|-------------|
-| **Date** | Wed–Sun, 18–22 Feb 2026 |
-| **Location** | Mol, Belgium |
-| **Capacity** | Limited to 42 people |
-| **Price** | €169 (accommodation + meals + full access) |
-| **Registration** | Opens December 1st, 2025 |
+| Detail           | Information                                |
+| ---------------- | ------------------------------------------ |
+| **Date**         | Wed–Sun, 18–22 Feb 2026                    |
+| **Location**     | Mol, Belgium                               |
+| **Capacity**     | Limited to 42 people                       |
+| **Price**        | €169 (accommodation + meals + full access) |
+| **Registration** | Opens December 1st, 2025                   |
 
 ---
 
-*Last updated: November 2025*
+_Last updated: November 2025_

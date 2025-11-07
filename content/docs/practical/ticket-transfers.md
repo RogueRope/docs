@@ -1,6 +1,6 @@
 ---
 title: Ticket Transfers & Resale
-description: "How to resell your ticket, defer payment, or request exceptions"
+description: 'How to resell your ticket, defer payment, or request exceptions'
 lead: "Can't attend? Here are your options."
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
@@ -15,6 +15,7 @@ toc: true
 **You can resell your ticket to someone else.** This way, your money doesn't disappear — it goes to the new buyer.
 
 **How it works:**
+
 1. **Find a buyer** (friend, community group, WhatsApp community, etc.)
 2. **Email us** at [info@roguerope.be](mailto:info@roguerope.be) with:
    - Your name and order number
@@ -47,10 +48,12 @@ toc: true
 We can add your cancellation to the waitlist pool, and refund the first person who can attend.
 
 **This only works if:**
+
 - We're fully booked (42/42 tickets sold)
 - There's an active waitlist
 
 **This doesn't work if:**
+
 - We're not fully booked (your refund just reduces event revenue)
 - Your cancellation is within 2 weeks (not enough time to notify waitlist)
 
@@ -88,6 +91,7 @@ We understand priorities shift. We'll work with you on what's possible.
 **You can transfer your ticket to another person.**
 
 **How:**
+
 1. **You find the buyer** (friend, community member, etc.)
 2. **Email [info@roguerope.be](mailto:info@roguerope.be)** with:
    - Subject: "Ticket transfer request"
@@ -99,6 +103,7 @@ We understand priorities shift. We'll work with you on what's possible.
 5. **Buyer makes payment to you** (outside our system)
 
 **Vetting process:**
+
 - We check they understand the event is consent-focused, intimate, and community-based
 - We ask 1-2 questions to ensure alignment
 - Takes 2-3 days
