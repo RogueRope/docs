@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Bottoms Up!'
 theme = 'hugo-book'
+ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
 
 [params]
   BookTheme = "auto"
@@ -26,9 +27,12 @@ theme = 'hugo-book'
   weight = 1
 
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 3
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
