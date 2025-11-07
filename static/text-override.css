@@ -1,66 +1,78 @@
-/* Force dark text color throughout the site */
-/* This overrides the theme's light text color */
+/* Text & color overrides tuned to new design system */
 
-* {
+/*
+  Goal:
+  - Avoid global * and heavy !important that fight the theme.
+  - Let static/custom.css drive the system using design tokens.
+  - Only ensure key readability and navigation contrasts.
+*/
+
+/* Body baseline (leans on tokens from custom.css if present) */
+body {
   color: inherit;
 }
 
-body {
-  color: #1a1a1a !important;
+/* Ensure documentation content never drops to low-contrast grays */
+.markdown p,
+.markdown li,
+.markdown span,
+article p,
+article li,
+article span,
+.book-post p,
+.book-post li,
+.book-post span {
+  color: inherit;
 }
 
-body * {
-  color: #2d3748 !important;
+/* Headings: trust custom.css; only guard against accidental low contrast */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: inherit;
 }
 
-/* Specific overrides for content */
-.markdown *,
-article *,
-.book-post * {
-  color: #2d3748 !important;
-}
-
-/* Headers should be darker */
-h1, h2, h3, h4, h5, h6,
-h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
-  color: #0a0e27 !important;
-}
-
-/* Links need to be visible */
-a {
-  color: #0066cc !important;
-}
-
+/* Links:
+   Let primary colors be set in custom.css.
+   Only ensure hover state stays visibly distinct. */
 a:hover {
-  color: #ff6b35 !important;
+  text-decoration: underline;
 }
 
-/* Navigation text should be white on purple */
+/* Sidebar navigation: keep high contrast on gradient background */
+.book-menu,
 .book-menu *,
-.book-menu a,
-.book-menu nav * {
-  color: white !important;
+.book-menu nav *,
+.book-menu a {
+  color: #f9fafb !important;
 }
 
-.book-menu a:hover {
-  color: #ff6b35 !important;
-}
+/* Active / hover colors are defined in custom.css; do not override here */
 
-/* Table headers white on gradient */
+/* Table headers on gradient backgrounds should stay readable */
 table thead,
 table thead * {
-  color: white !important;
+  color: #ffffff !important;
 }
 
-/* Dark mode support */
+/* Dark mode:
+   Respect prefers-color-scheme and the tokens defined in custom.css.
+   Only avoid accidental black-on-black or white-on-white. */
 @media (prefers-color-scheme: dark) {
-  body,
-  body * {
-    color: #e2e8f0 !important;
+  .markdown,
+  .markdown *,
+  article,
+  article * {
+    color: inherit;
   }
-  
-  h1, h2, h3, h4, h5, h6,
-  h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
-    color: #f7fafc !important;
+
+  .book-menu,
+  .book-menu *,
+  .book-menu nav *,
+  .book-menu a {
+    color: #e5e7ff !important;
   }
 }
