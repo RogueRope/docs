@@ -1,0 +1,313 @@
+/* Custom Theme Overrides - Event Documentation Site */
+
+:root {
+  --primary-color: #0066cc;
+  --accent-color: #ff6b35;
+  --dark-bg: #0a0e27;
+  --light-bg: #f8f9fa;
+  --border-color: #e0e0e0;
+}
+
+/* Modern Hero-like homepage styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #1a1a1a !important; /* Dark text for good contrast */
+  line-height: 1.7;
+}
+
+/* Main content text - more specific selector */
+.book-page,
+.markdown,
+article {
+  color: #2d3748 !important; /* Dark gray for main content */
+}
+
+/* Paragraph text - force dark color */
+p {
+  color: #2d3748 !important;
+  line-height: 1.8;
+  margin: 1rem 0;
+}
+
+/* All text elements in articles */
+article p,
+article li,
+article div,
+article span {
+  color: #2d3748 !important;
+}
+
+/* Navigation Enhancement */
+.book-menu {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-right: 3px solid var(--accent-color);
+}
+
+.book-menu a {
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.book-menu a:hover {
+  background-color: rgba(255, 107, 53, 0.2);
+  padding-left: 1.5rem;
+  color: var(--accent-color);
+}
+
+.book-menu-content nav > ul > li.active > a {
+  background: rgba(255, 255, 255, 0.1);
+  border-left: 4px solid var(--accent-color);
+  color: var(--accent-color);
+}
+
+/* Header styling */
+.book-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-bottom: 3px solid var(--accent-color);
+}
+
+.book-header-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* Main content area */
+.book-page {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+table thead {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+table th, table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+table tbody tr {
+  transition: background-color 0.3s ease;
+}
+
+table tbody tr:hover {
+  background-color: var(--light-bg);
+}
+
+table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #0a0e27;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  color: var(--primary-color);
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1rem;
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+  margin: 1.5rem 0;
+  padding-left: 2rem;
+}
+
+li {
+  margin: 0.5rem 0;
+  line-height: 1.8;
+  color: #2d3748 !important; /* Dark gray for readability */
+}
+
+/* Strong/bold text */
+strong, b {
+  color: #1a1a1a !important;
+  font-weight: 700;
+}
+
+/* Dark mode overrides - ensure light text on dark backgrounds */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #e2e8f0 !important;
+  }
+  
+  .book-page,
+  .markdown,
+  article,
+  p,
+  li {
+    color: #e2e8f0 !important;
+  }
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1rem;
+  margin-left: 0;
+  color: #666;
+  font-style: italic;
+  background-color: var(--light-bg);
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+/* Code blocks */
+code {
+  background: var(--light-bg);
+  border-radius: 4px;
+  padding: 0.2rem 0.4rem;
+  font-family: 'Courier New', monospace;
+  color: var(--accent-color);
+}
+
+pre {
+  background: #2d2d2d;
+  color: #f8f8f2;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+/* Cards/sections */
+.book-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+/* Search box */
+input[type="search"] {
+  border: 2px solid var(--primary-color);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+input[type="search"]:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 8px rgba(255, 107, 53, 0.3);
+}
+
+/* Button styling */
+button, .button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  font-size: 1rem;
+}
+
+button:hover, .button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+/* Footer */
+.book-footer {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  border-top: 3px solid var(--accent-color);
+  margin-top: 3rem;
+}
+
+.book-footer a {
+  color: var(--accent-color);
+}
+
+.book-footer a:hover {
+  color: white;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .book-menu {
+    position: fixed;
+    left: -250px;
+    width: 250px;
+    height: 100vh;
+    z-index: 1000;
+  }
+
+  .book-page {
+    margin-left: 0;
+  }
+}
+
+/* Print-friendly */
+@media print {
+  .book-menu,
+  .book-header,
+  .book-footer {
+    display: none;
+  }
+
+  a {
+    color: inherit;
+  }
+}

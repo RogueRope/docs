@@ -1,0 +1,66 @@
+/* Force dark text color throughout the site */
+/* This overrides the theme's light text color */
+
+* {
+  color: inherit;
+}
+
+body {
+  color: #1a1a1a !important;
+}
+
+body * {
+  color: #2d3748 !important;
+}
+
+/* Specific overrides for content */
+.markdown *,
+article *,
+.book-post * {
+  color: #2d3748 !important;
+}
+
+/* Headers should be darker */
+h1, h2, h3, h4, h5, h6,
+h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
+  color: #0a0e27 !important;
+}
+
+/* Links need to be visible */
+a {
+  color: #0066cc !important;
+}
+
+a:hover {
+  color: #ff6b35 !important;
+}
+
+/* Navigation text should be white on purple */
+.book-menu *,
+.book-menu a,
+.book-menu nav * {
+  color: white !important;
+}
+
+.book-menu a:hover {
+  color: #ff6b35 !important;
+}
+
+/* Table headers white on gradient */
+table thead,
+table thead * {
+  color: white !important;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  body,
+  body * {
+    color: #e2e8f0 !important;
+  }
+  
+  h1, h2, h3, h4, h5, h6,
+  h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
+    color: #f7fafc !important;
+  }
+}

@@ -1,6 +1,3 @@
-[submodule "themes/compose"]
-	path = themes/compose
-	url = https://github.com/onweru/compose
 [submodule "themes/hugo-book"]
 	path = themes/hugo-book
-	url = https://github.com/alex-shpak/hugo-book
+	url = https://github.com/alex-shpak/hugo-book.git
