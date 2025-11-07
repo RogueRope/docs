@@ -6,6 +6,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 1
 toc: true
+bookCollapseSection: true
 ---
 
 <div class="bg-timberwolf-100 hx-p-8 hx-rounded-lg hx-mb-8">

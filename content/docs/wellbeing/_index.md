@@ -6,6 +6,7 @@ date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 1
 toc: true
+bookCollapseSection: true
 ---
 
 Consent isn’t a question; it’s the water we swim in.
