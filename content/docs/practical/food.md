@@ -46,3 +46,5 @@ Just to give you a sense of the rhythm. Times and offerings may shift based on o
 
 **🧑‍🍳 Join our Kitchen Crew**
 Want to help chop, stir, and keep meals flowing? Stay tuned for sign-ups. It's a great way to contribute, connect, and maybe pick up cooking secrets along the way.
+
+![Diverse people gathering around a communal meal, celebrating connection through shared food](/images/food-gathering.png)
