@@ -149,13 +149,12 @@ Come as you are. We'll meet you there.
 **If this feels like a YES**, your next step is to understand what makes this gathering unique.
 
 <div class="hx-mt-6">
-<a href="/concept" class="btn-cherry-blossom-pink hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-text-lg hx-rounded-lg hx-mr-4">
-  Explore The Experience →
-</a>
+[Explore The Experience →](/concept)
+{.btn-cherry-blossom-pink.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-text-lg.hx-rounded-lg.hx-mr-4}
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or jump ahead: <a href="/docs/practical/participation" class="hx-underline hover:hx-no-underline">Join Us</a> • <a href="/docs/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact</a>
+Or jump ahead: [Join Us](/docs/practical/participation) • [Care & Support](/docs/wellbeing) • [Contact](/contact)
 </div>
 
 </div>

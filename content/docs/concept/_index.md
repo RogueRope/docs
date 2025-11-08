@@ -58,13 +58,12 @@ How we commit to keeping our space honest, safe, and kind.
 Now that you understand what makes this gathering unique, let's explore the practical details.
 
 <div class="hx-mt-6">
-<a href="/docs/practical/participation" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-text-lg hx-rounded-lg">
-  Join Us →
-</a>
+[Join Us →](/docs/practical/participation)
+{.btn-ash-gray.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-text-lg.hx-rounded-lg}
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/docs/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
+Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/contact)
 </div>
 
 </div>

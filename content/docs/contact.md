@@ -61,13 +61,12 @@ We check it often — especially as the event approaches.
 Ready to dive deeper into what makes this gathering special?
 
 <div class="hx-mt-6">
-<a href="/" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-gray-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-gray-700 hx-transition-colors">
-  Back to Home →
-</a>
+[Back to Home →](/)
+{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-gray-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-gray-700.hx-transition-colors}
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/concept/is-this-for-you" class="hx-underline hover:hx-no-underline">Is This For You?</a> • <a href="/docs/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a>
+Or explore: [Is This For You?](/concept/is-this-for-you) • [Get Your Ticket](/docs/practical/participation)
 </div>
 
 </div>

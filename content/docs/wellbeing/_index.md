@@ -52,13 +52,12 @@ These resources are here for your breath, your nervous system, your sense of saf
 If you have specific questions about accessibility, support needs, or just want to say hello before the gathering.
 
 <div class="hx-mt-6">
-<a href="/contact" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-emerald-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-emerald-700 hx-transition-colors">
-  Contact Us →
-</a>
+[Contact Us →](/contact)
+{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-emerald-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-emerald-700.hx-transition-colors}
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/docs/practical/participation" class="hx-underline hover:hx-no-underline">Get Your Ticket</a> • <a href="/docs/concept" class="hx-underline hover:hx-no-underline">Back to Experience</a>
+Or explore: [Get Your Ticket](/docs/practical/participation) • [Back to Experience](/docs/concept)
 </div>
 
 </div>

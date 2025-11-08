@@ -84,13 +84,12 @@ And it starts now.
 Now that you understand what you're stepping into, it's time to secure your spot and become part of this experience.
 
 <div class="hx-mt-6">
-<a href="/docs/practical/participation" class="hx-inline-flex hx-items-center hx-px-6 hx-py-3 hx-bg-orange-600 hx-text-white hx-text-lg hx-rounded-lg hover:hx-bg-orange-700 hx-transition-colors">
-  Get Your Ticket →
-</a>
+[Get Your Ticket →](/docs/practical/participation)
+{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-orange-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-orange-700.hx-transition-colors}
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: <a href="/docs/wellbeing" class="hx-underline hover:hx-no-underline">Care & Support</a> • <a href="/contact" class="hx-underline hover:hx-no-underline">Contact Us</a>
+Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/contact)
 </div>
 
 </div>

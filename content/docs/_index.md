@@ -51,9 +51,8 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 3. **[Join Us](/docs/practical/participation)** — Everything you need to know
 
 <div class="hx-mt-4">
-<a href="/concept/is-this-for-you" class="btn-ash-gray hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
-  Start Here →
-</a>
+[Start Here →](/concept/is-this-for-you)
+{.btn-ash-gray.hx-inline-flex.hx-items-center.hx-px-4.hx-py-2.hx-rounded-md.hx-transition-colors}
 </div>
 
 </div>
@@ -69,9 +68,8 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 - **[Connect](/contact)** — Questions or just want to say hello?
 
 <div class="hx-mt-4">
-<a href="/docs/practical/participation" class="btn-cherry-blossom-pink hx-inline-flex hx-items-center hx-px-4 hx-py-2 hx-rounded-md hx-transition-colors">
-  Get Your Spot →
-</a>
+[Get Your Spot →](/docs/practical/participation)
+{.btn-cherry-blossom-pink.hx-inline-flex.hx-items-center.hx-px-4.hx-py-2.hx-rounded-md.hx-transition-colors}
 </div>
 
 </div>
