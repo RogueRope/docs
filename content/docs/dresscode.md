@@ -11,12 +11,6 @@ toc: true
 
 <div class="hx-col-span-1">
 
-![A person dressed in creative, mystical attire, embodying the 'Urban Mystics & Enchanted Souls' theme.](/images/dresscode.webp)
-
-</div>
-
-<div class="hx-col-span-1">
-
 ### Dress Code: Urban Mystics & Enchanted Souls
 
 This year, we invite you to **step into the space** and emerge as your truest, most authentic self — a being of intimate connection, of soft lights and shared stories.

@@ -42,7 +42,7 @@ If you're afraid you'll be the only one who doesn't know how it all works — yo
 
 **You belong here as you are.**
 
-_Want to understand the deeper philosophy behind this approach?_ → [Core Philosophy](/concept/philosophy)
+_Want to understand the deeper philosophy behind this approach?_ → [Core Philosophy](philosophy)
 
 </div>
 
@@ -130,13 +130,11 @@ Ask yourself:
 
 If you're feeling "YES" — even a nervous, excited, uncertain yes — then this might be exactly what you need.
 
-_Ready to see what this looks like in practice?_ → [Experience Structure](/concept/experience)
+_Ready to see what this looks like in practice?_ → [Experience Structure](experience)
 
 If you're feeling "maybe" or "I'm not sure" — that's perfectly valid too. Trust your instincts. There are many beautiful gatherings in the world. This one might not be yours right now, and that's okay.
 
 ---
-
-![A small group of queer adults sitting in a cozy circle indoors. No rope, just closeness. One person tells a story while another leans into them. A newcomer sits quietly at the edge, wrapped in comfort, soft smile forming.](/images/rrc25/new-here.png)
 
 You don't need to be ready. You just need to be here.
 

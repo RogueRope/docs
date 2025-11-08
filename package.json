@@ -178,6 +178,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "markdownlint \"content/**/*.md\"",
+    "build:ci": "hugo --gc --minify --cleanDestinationDir --printPathWarnings --panicOnWarning",
     "lint:html": "/home/hans/.local/share/gem/ruby/3.4.0/bin/htmlproofer ./public --ignore-urls \"/^http:\\/\\/localhost:/, /livereload.js/\"",
     "lint:html:ci": "hugo -d /tmp/hugo_build && /home/hans/.local/share/gem/ruby/3.4.0/bin/htmlproofer /tmp/hugo_build --ignore-urls '/^http:\\/\\/localhost:/, /livereload.js/, /example.org/, /dresscode.webp/' --assume-extension '' && rm -rf /tmp/hugo_build",
     "format": "prettier --write \"**/*.{js,json,md,html,css,scss,yaml,toml}\""

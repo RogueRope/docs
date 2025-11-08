@@ -17,23 +17,21 @@ So we’ve built in care. Not just as a safety net, but as a way of being.
 These pages are here to support you before, during, and after your time at Bottoms Up!.  
 Whether you're feeling overwhelmed, excited, cautious, curious — you're not alone. We've thought about you.
 
-_New to our approach?_ → [Is This For You?](/concept/is-this-for-you) • [Core Philosophy](/concept/philosophy)
+_New to our approach?_ → [Is This For You?](../concept/is-this-for-you) • [Core Philosophy](../concept/philosophy)
 
 ---
 
 ### Things You Might Want to Read
 
-- Learn about our [Consent & Safety](/wellbeing/consent-safety) framework — how we create safe containers for vulnerability and exploration.
-- Discover our [Support Systems](/wellbeing/support) — FWBs, emotional care, and neurodivergent inclusion.
-- Navigate [Arriving with Partners](/wellbeing/partners) — whether you're arriving solo or with partners.
-- Deal with [Managing Your Baggage](/wellbeing/baggage) — a loving caution to pause, scan, and sort your inner luggage before you enter the space.
+- Learn about our [Consent & Safety](consent-safety) framework — how we create safe containers for vulnerability and exploration.
+- Discover our [Support Systems](support) — FWBs, emotional care, and neurodivergent inclusion.
+- Navigate [Arriving with Partners](partners) — whether you're arriving solo or with partners.
+- Deal with [Managing Your Baggage](baggage) — a loving caution to pause, scan, and sort your inner luggage before you enter the space.
 
 ---
 
 Read what you need. Leave what you don't.  
 These resources are here for your breath, your nervous system, your sense of safety — and your freedom to go deep, knowing you're held.
-
-![Two people in a supportive embrace, conveying a sense of safety and care.](/images/rrc25/wellbeing.png)
 
 ---
 
@@ -41,9 +39,9 @@ These resources are here for your breath, your nervous system, your sense of saf
 
 ## Ready to Explore Further?
 
-**Want to understand what you're preparing for?** → [Experience Structure](/concept/experience) — How our five days unfold
+**Want to understand what you're preparing for?** → [Experience Structure](../concept/experience) — How our five days unfold
 
-**Ready to join us?** → [Join Us](/docs/practical/participation) — Everything you need to know about participation
+**Ready to join us?** → [Join Us](../practical/participation) — Everything you need to know about participation
 
 </div>
 

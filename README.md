@@ -76,6 +76,16 @@ hugo
 # Output will be in the 'public/' directory
 ```
 
+### CI Build Without Broken Links
+
+Use Hugo's built-in warning detection to fail the pipeline on unresolved `ref`/`relref` links or other build warnings:
+
+```bash
+npm run build:ci
+```
+
+This runs `hugo --gc --minify --cleanDestinationDir --printPathWarnings --panicOnWarning`, so any warning emitted by Hugo (including broken internal links) will stop the build and the output folder is cleaned before each run.
+
 ## 📝 Customization
 
 ### Colors & Theme
