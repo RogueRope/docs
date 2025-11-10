@@ -129,31 +129,6 @@ We understand life happens. Plans change. Circumstances shift. We're not here to
 
 ---
 
-### Process for Cancellation
-
-#### Up to 3 Weeks Before (Refund Eligible)
-
-1. Log into your ticket vending account
-2. Click "Request cancellation"
-3. Confirm request
-4. Refund processes in 7 days
-
-#### After 3 Weeks (No Refund, But Options Available)
-
-See **Ticket Transfers & Resale** section below for how to resell, defer, or request exceptions.
-
----
-
-### Refund Method
-
-**Refunds (if approved) go to:**
-
-- Your original payment method (credit card, bank transfer, etc.)
-- Processing time: 7 days
-- Check your bank; sometimes it takes a few extra days to appear
-
----
-
 ### Partial Attendance
 
 #### What If I Can Only Come 2–3 Days?
@@ -198,8 +173,8 @@ See **Ticket Transfers & Resale** section below for how to resell, defer, or req
 
 | Timing               | Refund                    | What to Do                          |
 | -------------------- | ------------------------- | ----------------------------------- |
-| Up to 3 weeks before | 100% (via ticket vending) | Refund, resell, or defer            |
-| Less than 3 weeks    | No refund                 | Resell, defer, or request exception |
+| Up to 3 weeks before | 100% (via ticket vending) | Refund, resell, or request exception            |
+| Less than 3 weeks    | No refund                 | Resell or request exception |
 | After event          | No refund                 | N/A                                 |
 
 ---
@@ -229,17 +204,7 @@ See **Ticket Transfers & Resale** section below for how to resell, defer, or req
 
 ---
 
-#### Option 2: Defer to Next Year
-
-**You can hold your payment as credit toward 2027.**
-
-- **No refund.**
-- **Your €169 credit applies to next year's ticket** (same price, same terms)
-- **Email [info@roguerope.be](mailto:info@roguerope.be)** with "Deferral request"
-
----
-
-#### Option 3: Wait List Facilitation (If We're Fully Booked)
+#### Option 2: Wait List Facilitation (If We're Fully Booked)
 
 **If we've sold all 42 tickets and have a waitlist:**
 
@@ -254,31 +219,6 @@ We can add your cancellation to the waitlist pool, and refund the first person w
 
 - We're not fully booked (your refund just reduces event revenue)
 - Your cancellation is within 2 weeks (not enough time to notify waitlist)
-
----
-
-### Special Circumstances
-
-#### Medical or Mental Health Emergency
-
-**Genuine crisis cancellations get compassion:**
-
-1. **Email [info@roguerope.be](mailto:info@roguerope.be)** with "Medical emergency cancellation"
-2. **Briefly explain** (you don't need to share all details)
-3. **We'll discuss:**
-   - If we can still facilitate a resale or waitlist refund
-   - Deferral to next year (keep your money as credit)
-   - Case-by-case exception (rare, but possible)
-
-**We believe in care first.** We won't leave you hanging, but we also can't absorb losses if we're not fully booked.
-
----
-
-#### Family Emergency
-
-Same process as medical emergency.
-
-We understand priorities shift. We'll work with you on what's possible.
 
 ---
 
