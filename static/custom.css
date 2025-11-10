@@ -421,6 +421,15 @@ b {
     background-color: #020817;
     color: #e5e7ff;
   }
+
+  /* Fix TOC contrast - use lighter link color for better readability */
+  .book-toc a {
+    color: #84b2ff; /* Light blue with good contrast on dark bg */
+  }
+
+  .book-toc a:hover {
+    color: #a8c7ff; /* Even lighter on hover */
+  }
 }
 
 /* Blockquotes */
