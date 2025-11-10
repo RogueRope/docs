@@ -4,7 +4,7 @@ description: 'Consent, safety, care, and support resources'
 lead: 'Your wellbeing matters before, during, and after'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
-weight: 1
+weight: 3
 toc: true
 bookCollapseSection: true
 ---
@@ -47,7 +47,7 @@ These resources are here for your breath, your nervous system, your sense of saf
 
 - [Core Philosophy](/concept/philosophy) — The values behind our approach
 - [Experience Structure](/concept/experience) — How our five days unfold
-- [Schedule](/docs/schedule) — The rhythm of our time together
+- [Schedule](/docs/practical/schedule) — The rhythm of our time together
 
 **Have specific questions?** → [Contact Us](/contact) — We're here to help with accessibility, support needs, or anything else
 

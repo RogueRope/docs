@@ -1,0 +1,7 @@
+{
+  "name": "hugo-documentation-editor-scripts",
+  "version": "1.0.0",
+  "description": "Analysis scripts for Hugo documentation editorial review",
+  "type": "module",
+  "private": true
+}

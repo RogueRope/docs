@@ -37,7 +37,7 @@ As night falls we move into Opening Circle — a threshold ritual rather than a 
 
 We ask you to begin with us. But you don't have to stay until the end.
 
-Need the hour-by-hour? → [Schedule](/docs/schedule)
+Need the hour-by-hour? → [Schedule](/docs/practical/schedule)
 
 If you find yourself overwhelmed, exhausted, complete — **it's okay to leave early**.  
 We honor your limits. We celebrate your self-awareness.  

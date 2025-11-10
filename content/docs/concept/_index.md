@@ -41,7 +41,7 @@ In the pages below you'll find what makes Bottoms Up! different: the philosophy,
 
 - [Practical Details](/docs/practical) — Logistics, tickets, accommodations, and what to bring
 - [Care & Support](/docs/wellbeing) — Consent, safety, and wellbeing resources
-- [Schedule](/docs/schedule) — The rhythm and flow of our five days together
+- [Schedule](/docs/practical/schedule) — The rhythm and flow of our five days together
 
 **Have questions?** → [Contact Us](/docs/contact) — We're here to help
 
@@ -59,7 +59,7 @@ Now that you understand what makes this gathering unique, secure your spot and b
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Care & Support](/docs/wellbeing) • [Schedule](/docs/schedule)
+Or explore: [Care & Support](/docs/wellbeing) • [Schedule](/docs/practical/schedule)
 </div>
 
 </div>

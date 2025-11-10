@@ -4,7 +4,7 @@ description: 'Logistics, policies, and everything you need to know to attend'
 lead: 'The details that make it all work'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
-weight: 1
+weight: 2
 toc: true
 bookCollapseSection: true
 ---
@@ -21,10 +21,14 @@ We'd love to have you — _if_ it's a true yes.
 
 **Quick Navigation:**
 
+#### Schedule & Structure
+
+- [**Schedule**](/practical/schedule) — Five-day rhythm, unconference sessions, and daily flow
+
 #### Getting In
 
 - [**Getting There**](/practical/getting-there) — Travel, parking, how to arrive
-- [**Tickets**](/practical/cancellation-and-transfers) — Get your ticket, understand pricing, payment plans, refunds & transfers
+- [**Tickets**](/practical/participation) — Get your ticket, understand pricing, payment plans, refunds & transfers
 - [**FAQ**](/practical/faq) — Common questions answered
 
 #### Accommodations & Packing
