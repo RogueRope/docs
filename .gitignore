@@ -32,3 +32,4 @@ yarn.lock
 *.tmp
 *.bak
 *.orig
+.claude/settings.local.json
