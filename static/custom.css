@@ -422,13 +422,15 @@ b {
     color: #e5e7ff;
   }
 
-  /* Fix TOC contrast - use lighter link color for better readability */
+  /* Fix TOC contrast - use very light color for readability on both dark bg and purple gradient */
   .book-toc a {
-    color: #84b2ff; /* Light blue with good contrast on dark bg */
+    color: #e5f0ff; /* Very light blue-white for contrast on dark and purple backgrounds */
+    font-weight: 500; /* Slightly bolder for better visibility */
   }
 
   .book-toc a:hover {
-    color: #a8c7ff; /* Even lighter on hover */
+    color: #ffffff; /* Pure white on hover */
+    text-decoration: underline;
   }
 }
 
