@@ -1,6 +1,14 @@
 {
   "permissions": {
-    "allow": ["Bash(git merge:*)", "Bash(*)"],
+    "allow": [
+      "Bash(git checkout:*)",
+      "Bash(find:*)",
+      "Bash(npm install:*)",
+      "Bash(./node_modules/.bin/markdownlint:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
+    ],
     "deny": [],
     "ask": []
   }

@@ -14,6 +14,7 @@
 Thumbs.db
 .DS_Store
 .env.local
+.mcp.json
 
 # Build artifacts
 *.o
