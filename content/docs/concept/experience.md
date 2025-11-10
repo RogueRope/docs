@@ -31,18 +31,13 @@ No skills required. Just hands. Just heart. Just presence.
 
 ## Wednesday – We Land
 
-This is arrival day.
-**Everyone is expected to arrive by Wednesday evening.**
-Get settled in your space. Shake off the outside world. Step in slowly.
+Arrival day is shared. **Everyone is expected to arrive by Wednesday evening.** Settle in, let your body catch up, let the outside world fall away.
 
-And then, as night falls:  
-**The Opening Circle begins at 21:00.**  
-This is a sacred threshold — a moment of collective breath, of shared arrival.  
-Your presence matters. Be on time. Be all in.
-
-Play begins after the circle, softly.
+As night falls we move into Opening Circle — a threshold ritual rather than a lecture. We breathe together, ground in consent, and agree on the texture of the days ahead. From there, play begins softly and organically.
 
 We ask you to begin with us. But you don't have to stay until the end.
+
+Need the hour-by-hour? → [Schedule](/docs/schedule)
 
 If you find yourself overwhelmed, exhausted, complete — **it's okay to leave early**.  
 We honor your limits. We celebrate your self-awareness.  
@@ -125,18 +120,20 @@ This is a place where kink lives beside care.
 Where sex is sacred and messy and not up for anyone else's consumption.  
 Where play can look like fucking — or crying — or lying in intimate embrace, wrapped in rope and connection, with someone watching over you.
 
+Curious how we tend sex-positive space in detail? → [Sex Positive, Unapologetically](sex-positive)
+
 ---
 
 <div class="bg-cherry-blossom-pink-100 hx-p-6 hx-rounded-lg">
 
 ## Explore Related Pages
 
-**Want to understand the why behind this experience?** → [Core Philosophy](/concept/philosophy) — The values that shape everything we do
+**Want to understand the why behind this experience?** → [Core Philosophy](philosophy) — The values that shape everything we do
 
-**Wondering if this is for you?** → [Is This For You?](/concept/is-this-for-you) — Gentle guidance for self-reflection
+**Wondering if this is for you?** → [Is This For You?](is-this-for-you) — Gentle guidance for self-reflection
 
-**Ready to join us?** → [Join Us](/docs/practical/participation) — Practical details about participation and tickets
+**Ready to join us?** → [Join Us](../practical/participation) — Practical details about participation and tickets
 
-**Need support preparing?** → [Care & Support](/docs/wellbeing) — Resources for consent, safety, and wellbeing
+**Need support preparing?** → [Care & Support](../wellbeing) — Resources for consent, safety, and wellbeing
 
 </div>

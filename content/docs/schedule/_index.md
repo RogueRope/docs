@@ -1,6 +1,12 @@
 ---
-title: Schedule
+title: "Schedule"
+description: "Five days of connection, ritual, and intimacy"
+lead: "The rhythm and flow of our time together"
+date: 2025-08-28T00:00:00+00:00
+lastmod: 2025-08-28T00:00:00+00:00
 weight: 2
+toc: true
+bookCollapseSection: true
 ---
 
 # Event Schedule
@@ -18,7 +24,7 @@ This isn't a traditional conference with fixed schedules. Our five days have a *
 Each day has:
 
 - A **morning rhythm** (optional practices, early communal time)
-- **[Unconference sessions](/schedule/unconference)** (peer-led, self-organized)
+- **[Unconference sessions](unconference)** (peer-led, self-organized)
 - **Shared meals** and informal connection time
 - **Evening offerings** (ceremonies, experiences, or rest)
 
@@ -91,8 +97,37 @@ The schedule is **intentionally flexible** to honor:
 - Spontaneous brilliance
 - Collective wisdom
 
-If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/docs/contact)** — we're here to help.
+If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/contact)** — we're here to help.
 
 ---
 
-_See you there. We're ready to meet you in the ritual._
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
+
+## Before You Arrive
+
+**Want to understand the philosophy behind our time together?**
+
+- [Core Philosophy](/concept/philosophy) — The values that shape our gathering
+- [What Happens](/concept/experience) — The ceremonies and structures that guide our days
+- [Our Agreements](/concept/agreements) — How we commit to the container
+
+**Need to prepare?** → [Practical Details](/docs/practical) — Everything you need to know to attend
+
+</div>
+
+<div class="hx-bg-gradient-to-r hx-from-orange-50 hx-to-red-50 dark:hx-from-orange-900/20 dark:hx-to-red-900/20 hx-p-8 hx-rounded-lg hx-text-center">
+
+## Ready to join us?
+
+Now that you see the rhythm of our time together, secure your spot for this five-day journey.
+
+<div class="hx-mt-6">
+[Get Your Ticket →](/docs/practical/participation)
+{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-orange-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-orange-700.hx-transition-colors}
+</div>
+
+<div class="hx-mt-4 hx-text-sm text-outer-space">
+Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/contact)
+</div>
+
+</div>

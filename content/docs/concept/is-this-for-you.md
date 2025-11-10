@@ -88,6 +88,8 @@ Five days to step away from rush culture. To breathe. To be present. To let inti
 
 ### You'll Love This If...
 
+**You're craving connection over curriculum** — If you want a lineup of technical classes and certificates, this isn’t that. We learn here through play, presence, and community, not through a workshop schedule. Curious how that works over five days? → [Experience Structure](experience)
+
 **You're curious about rope** — whether you've never touched it or you've been tying for years. Experience level doesn't matter. Openness does.
 
 **You value consent as an ongoing practice** — not just a checkbox, but a living dialogue that deepens intimacy and trust.
@@ -102,17 +104,13 @@ Five days to step away from rush culture. To breathe. To be present. To let inti
 
 ### This Might Not Be Right If...
 
-**You're looking for a rope session or skill-building event** — we're about connection, not curriculum. You'll learn plenty, but through experience rather than instruction.
+**You want a technical curriculum** — there’s no class schedule or certification path here.
 
-**You prefer anonymous encounters** — this is intimate, communal, and heart-centered. People see and remember each other here.
+**You prefer anonymity or a party vibe** — this space is intimate, communal, and people will remember you.
 
-**You need privacy and solitude** — we sleep in shared rooms, eat together, and spend most of our time in community.
+**Witnessing eros feels unsafe** — consented sexual expression happens in shared spaces, even if participation is never required.
 
-**You're not ready to engage with emotions** — rope brings up feelings. Ours, others', unexpected ones. We hold that tenderly, but it happens.
-
-**You're uncomfortable witnessing sexual expression** — while no one is required to participate sexually, intimate and sexual interactions will happen around you. If seeing others kiss, touch, or engage sexually makes you uncomfortable or triggers you, this gathering may not be right for you.
-
-**You're seeking a party atmosphere** — this is contemplative, intentional, and sometimes quiet. Fun, yes. Wild party, no.
+For a clearer sense of who thrives here (and who doesn’t), read [Who Belongs Here](belonging).
 
 ---
 

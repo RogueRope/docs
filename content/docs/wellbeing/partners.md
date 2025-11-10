@@ -4,6 +4,11 @@ description: 'Navigating the gathering with your partner(s)'
 lead: 'How to honor existing relationships while staying open to new connections'
 date: 2025-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
+aliases:
+  - /wellbeing/partners
+menu:
+  docs:
+    parent: wellbeing
 weight: 30
 toc: true
 ---
@@ -79,6 +84,17 @@ Event energy is raw. Beautiful, but activating. You might feel:
 - **Remember your agreements.** Return to what you decided together before arriving
 - **Be gentle with each other.** This intensity can bring up old wounds or new insights
 
+### When You Need Backup
+
+You don't have to hold wobbles alone.
+
+- Look for someone wearing an [FWB](support-care) bracelet if you need grounding or a compassionate witness
+- Reach out to the [Consent Crew](consent-framework) for boundary repair, mediation, or if something feels off
+- Use the quiet spaces, go for a walk, or find a soft corner where you can land together
+- Ask trusted friends or constellation members for support if you already have shared agreements
+
+Let the community catch you when you need it. That's why we're all here.
+
 ### Relationship Configurations
 
 **Monogamous couples:** You're welcome here whether you play only with each other or not at all. The gathering offers many forms of connection beyond physical play.
@@ -92,3 +108,16 @@ Event energy is raw. Beautiful, but activating. You might feel:
 **Relationship anarchists:** We love your approach to connection, just be clear about what you're offering and seeking.
 
 And stay open to what's possible.
+
+### Helpful Practices
+
+- **Name your needs.** Out loud. Early. Kindly.
+- **Check in daily.** Morning coffee or end-of-day recaps work wonders.
+- **Make room for both togetherness and spaciousness.** Trust that you can stretch without breaking.
+
+### Let Your Bond Be a Root — Not a Wall
+
+You don’t have to fit a model. You don’t have to explain your dynamic. But you are invited to arrive with presence and openness.
+
+Protect what’s sacred.  
+And stay open to what’s possible.

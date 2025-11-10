@@ -9,7 +9,7 @@ Rope as ritual. Connection over performance. Consent as sacred practice.
 ## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
 
 **🎫 €169 • Limited to 42 people**  
-_[Tickets available December 1st, 2025](/docs/practical/participation)_
+_[Tickets available December 1st, 2025](docs/practical/participation)_
 
 ---
 
@@ -32,17 +32,17 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 
 **Start your journey:**
 
-1. **[The Philosophy](/docs/concept/)** — Understanding what makes this gathering unique
-2. **[Practical Details](/docs/practical/)** — Everything you need to know to join us
-3. **[Get Your Ticket](/docs/practical/participation)** — Secure your spot
+1. **[The Philosophy](docs/concept/)** — Understanding what makes this gathering unique
+2. **[Practical Details](docs/practical/)** — Everything you need to know to join us
+3. **[Get Your Ticket](docs/practical/participation)** — Secure your spot
 
 ### Returning Home?
 
 **Welcome back:**
 
-- **[What's New This Year](/docs/schedule/)** — The ceremonies that shape our time
-- **[Get Your Spot](/docs/practical/participation)** — Secure your return to the warmth
-- **[Questions?](/docs/wellbeing/)** — Common questions answered
+- **[What's New This Year](docs/schedule/)** — The ceremonies that shape our time
+- **[Get Your Spot](docs/practical/participation)** — Secure your return to the warmth
+- **[Questions?](docs/wellbeing/)** — Common questions answered
 
 ---
 

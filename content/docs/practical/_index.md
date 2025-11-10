@@ -24,7 +24,7 @@ We'd love to have you — _if_ it's a true yes.
 #### Getting In
 
 - [**Getting There**](/practical/getting-there) — Travel, parking, how to arrive
-- [**Participation**](/practical/participation) — Register, pricing, payment options
+- [**Tickets**](/practical/cancellation-and-transfers) — Get your ticket, understand pricing, payment plans, refunds & transfers
 - [**FAQ**](/practical/faq) — Common questions answered
 
 #### Accommodations & Packing
@@ -36,23 +36,16 @@ We'd love to have you — _if_ it's a true yes.
 
 #### Important Policies & Info
 
-- [**Photography Guidelines**](/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance
-- [**Photo Privacy & Sharing**](/practical/photo-privacy-sharing) — Where photos live; how/when to share (venue anonymized)
-- [**Cancellation & Refund Policy**](/practical/cancellation-policy) — Refund timeline and process
-- [**Ticket Transfers & Resale**](/practical/ticket-transfers) — How to resell, defer, or handle emergencies
-- [**Merchandise**](/practical/merchandise) — Available items and how to order
-- [**Merch Details & Care**](/practical/merch-details) — Sizing, environmental impact, FAQs
-- [**Witnessing**](/practical/performances) — What you might see, shared without need for audience
+- [**Photography Guidelines**](/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance (on-site & after)
 
 ---
 
 ## After the Gathering
 
-The experience doesn't end when you leave.
+Looking for integration support once you're back home?
+Those resources now live in [Wellbeing](/docs/wellbeing):
 
-- [**After the Gathering**](/practical/after-the-gathering) — Post-event care, resources, how to stay connected, subdrop support
-- [**Integration & Support**](/practical/integration) — Resources for processing your experience and navigating what comes next
-- [**Community & Connection**](/practical/community) — Stay connected with the Bottoms Up! community
+- [**After the Gathering**](/wellbeing/after-integration) — Post-event care, integration support, staying connected, and processing what comes next
 
 ---
 

@@ -9,55 +9,63 @@ toc: true
 bookCollapseSection: true
 ---
 
-Consent isn’t a question; it’s the water we swim in.
+## Care as a Way of Being
 
-This gathering asks a lot of you — emotionally, energetically, relationally.
-So we’ve built in care. Not just as a safety net, but as a way of being.
+Consent isn't a question; it's the water we swim in.
 
-These pages are here to support you before, during, and after your time at Bottoms Up!.  
-Whether you're feeling overwhelmed, excited, cautious, curious — you're not alone. We've thought about you.
+This gathering asks a lot of you — emotionally, energetically, relationally. So we've built in care. Not just as a safety net, but as a way of being.
 
-_New to our approach?_ → [Is This For You?](../concept/is-this-for-you) • [Core Philosophy](../concept/philosophy)
+These pages are here to support you before, during, and after your time at Bottoms Up!. Whether you're feeling overwhelmed, excited, cautious, curious — you're not alone. We've thought about you.
+
+### Consent & Support
+
+- [**Consent & Safety**](consent-framework) — Celebrate the no, practice ongoing consent, and meet the Consent Crew
+- [**Support & Care Systems**](support-care) — FWBs, bracelets, conscious care of space, and how we hold each other
+- [**Neurodivergent Support**](neuro) — How we make space for different brains and bodies
+
+### Emotional Preparation
+
+- [**Emotional Wellbeing**](emotional-wellbeing) — Managing baggage before arrival and caring for yourself during the gathering
+- [**Arriving with Partners**](partners) — Honoring existing bonds while staying open to emergence
+
+### After the Gathering
+
+- [**After the Gathering**](after-integration) — Immediate care, integration support, and staying connected
 
 ---
 
-### Things You Might Want to Read
-
-- Learn about our [Consent & Safety](consent-safety) framework — how we create safe containers for vulnerability and exploration.
-- Discover our [Support Systems](support) — FWBs, emotional care, and neurodivergent inclusion.
-- Navigate [Arriving with Partners](partners) — whether you're arriving solo or with partners.
-- Deal with [Managing Your Baggage](baggage) — a loving caution to pause, scan, and sort your inner luggage before you enter the space.
-
----
-
-Read what you need. Leave what you don't.  
+Read what you need. Leave what you don't.
 These resources are here for your breath, your nervous system, your sense of safety — and your freedom to go deep, knowing you're held.
 
 ---
 
-<div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg hx-mb-8">
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
 
 ## Ready to Explore Further?
 
-**Want to understand what you're preparing for?** → [Experience Structure](../concept/experience) — How our five days unfold
+**Want to understand what you're preparing for?**
 
-**Ready to join us?** → [Join Us](../practical/participation) — Everything you need to know about participation
+- [Core Philosophy](/concept/philosophy) — The values behind our approach
+- [Experience Structure](/concept/experience) — How our five days unfold
+- [Schedule](/docs/schedule) — The rhythm of our time together
+
+**Have specific questions?** → [Contact Us](/contact) — We're here to help with accessibility, support needs, or anything else
 
 </div>
 
-<div class="hx-bg-gradient-to-r hx-from-emerald-50 hx-to-green-50 dark:hx-from-emerald-900/20 dark:hx-to-green-900/20 hx-p-8 hx-rounded-lg hx-text-center">
+<div class="hx-bg-gradient-to-r hx-from-orange-50 hx-to-red-50 dark:hx-from-orange-900/20 dark:hx-to-red-900/20 hx-p-8 hx-rounded-lg hx-text-center">
 
-## Questions? Ready to connect?
+## Ready to join us?
 
-If you have specific questions about accessibility, support needs, or just want to say hello before the gathering.
+Now that you understand our approach to care and support, secure your spot and become part of this experience.
 
 <div class="hx-mt-6">
-[Contact Us →](/contact)
-{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-emerald-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-emerald-700.hx-transition-colors}
+[Get Your Ticket →](/docs/practical/participation)
+{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-orange-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-orange-700.hx-transition-colors}
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Get Your Ticket](/docs/practical/participation) • [Back to Experience](/docs/concept)
+Or explore: [Practical Details](/docs/practical) • [Back to Philosophy](/docs/concept)
 </div>
 
 </div>

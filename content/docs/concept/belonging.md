@@ -46,13 +46,4 @@ Better to pause than to force it.
 
 ### The Intensity Is Real
 
-This isn't a light weekend.
-It's immersive. Emotional. Sensory. Beautiful — and intense.
-
-Some people stay the whole time. Some leave early. Both are valid.
-
-We support pacing and self-care. We encourage reflection before you say yes:
-Are you in a place to give and receive in community?
-To risk being seen as you are?
-
-This space will hold you — if you also hold it.
+This isn’t a light weekend. It’s immersive, emotional, and sensory. We support pacing and self-care: you’re encouraged to be honest about what you can hold in community right now.

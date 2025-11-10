@@ -12,7 +12,7 @@ toc: true
 
 **Is this just 5 days?** Yes. Wed 18:00 – Sun 16:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
 
-**What time do I need to arrive?** **Wednesday by 21:00 for the Opening Circle — this is mandatory.** You must be present for this foundational ritual. If you can't make Wednesday evening, this gathering isn't the right fit for you this year. Leaving early is fine, but arriving on time is essential.
+**What time do I need to arrive?** **Wednesday by 21:00 for the Opening Circle — this is mandatory.** You must be present for this foundational ritual. If you can't make Wednesday evening, this gathering isn't the right fit for you this year. Leaving early is fine, but arriving on time is essential. → Travel tips & Build Day details live in [Getting There](getting-there).
 
 **Do I have to do rope?** No. Watch, connect, rest, or play. All of it's welcome.
 
@@ -24,7 +24,7 @@ toc: true
 
 ## Practical Details
 
-**What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment.
+**What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment. → Need the full breakdown? See [Participation Details](participation).
 
 **Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" — we offer discounts, payment plans, work exchange, no shame.
 
@@ -32,11 +32,11 @@ toc: true
 
 **Who comes?** Mix of rope experience, queer, kinky, disabled, neurodivergent folks from across Europe. Beginners and experienced. Solo, couples, friend groups.
 
-**Accessibility/disabilities?** Tell us when you register. We offer indoor rooms, ground-floor options, quiet spaces, flexible meals, volunteer support. Have specific needs? Email us early—we'll problem-solve.
+**Accessibility/disabilities?** Tell us when you register. We offer indoor rooms, ground-floor options, quiet spaces, flexible meals, volunteer support. Have specific needs? Email us early—we'll problem-solve. → For room layouts and vibes, see [Accommodations](accommodations).
 
-**Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate.
+**Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate. → Menu rhythm and kitchen info live in [Food & Meals](food).
 
-**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys.
+**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys. → Full packing list in [Things to Bring](things-to-bring).
 
 **Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party. Slippers for shared floors.
 
@@ -72,8 +72,8 @@ toc: true
 
 **Cancellation?** [→ Cancellation Policy] TL;DR: 3 weeks before = full refund. After = resell or defer.
 
-**Photos?** **Consent-only:** ask first, no bystanders, no disturbance, delete on request.
-Public posting only with prior consent from everyone **and** venue anonymized. [→ Photography Policy]
+**Photos?** **Consent-only:** ask first, no bystanders, no disturbance, delete on request. When the gathering ends, re-confirm consent **and** anonymize the venue before posting anywhere.  
+→ Full rules (including post-event sharing): [Photography Guidelines](photography-guidelines)
 
 **Queer/fat/disabled/neurodivergent friendly?** Yes to all. Gender-neutral bathrooms/rooms. We celebrate all bodies, minds, systems as-is.
 

@@ -38,15 +38,11 @@ We don't chase productivity. We don't sell certainty. What we're building is a c
 
 ## Embracing Eros
 
-We don't shy away from it. We invite it.
+We don't shy away from desire. We invite it.
 
-Let's speak plainly: this is a sex-positive space. Not performative. Not expected. But deeply, unapologetically present. Desire is welcome here. So is reverence.
+Bottoms Up! is a sex-positive space: sexuality is neither hidden nor required, and eros sits alongside rope, intimacy, and care. Bodies, hunger, and reverence all belong here.
 
-We honor the body as a site of play, of prayer, of power. For some, rope is foreplay. For others, it's sacred ritual. For many, it's both.
-
-We don't separate the sensual from the spiritual. We light candles. We laugh mid-orgasm. We cry during aftercare. We create space for sex to be slow, strange, tender, filthy, or holy — and we let each person find their own rhythm.
-
-Nothing is mandatory. Nothing is off-limits except violating consent.
+Want the full picture of what “sex-positive” means in practice? → [Sex Positive, Unapologetically](sex-positive)
 
 ---
 
@@ -68,7 +64,7 @@ There are no celebrity teachers here. No extra fees for insight. No backstage pa
 
 <div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
 
-### 🌀 [Our Shared Agreements](/concept/agreements)
+### 🌀 [Our Shared Agreements](agreements)
 
 How we commit to keeping our space honest, safe, and kind.
 
@@ -76,7 +72,7 @@ How we commit to keeping our space honest, safe, and kind.
 
 <div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg">
 
-### 🤝 [Who Belongs Here](/concept/belonging)
+### 🤝 [Who Belongs Here](belonging)
 
 Who this space is for, and who it is not for.
 
@@ -84,7 +80,7 @@ Who this space is for, and who it is not for.
 
 <div class="bg-timberwolf-100 hx-p-6 hx-rounded-lg">
 
-### 🕊️ [Post-Rope: A Gentle Rebellion](/concept/post-rope)
+### 🕊️ [Post-Rope: A Gentle Rebellion](post-rope)
 
 A quiet turning away from the noise and the performance economy.
 
@@ -126,12 +122,12 @@ Come if you want to feel rope not just on your skin — but in your soul.
 
 ## Continue Your Journey
 
-**New to this philosophy?** → [Is This For You?](/concept/is-this-for-you) — Self-reflection to see if this resonates
+**New to this philosophy?** → [Is This For You?](is-this-for-you) — Self-reflection to see if this resonates
 
-**Ready to understand the structure?** → [Experience Structure](/concept/experience) — How these ideals come alive over five days
+**Ready to understand the structure?** → [Experience Structure](experience) — How these ideals come alive over five days
 
-**Want to dive deeper?** → [Join Us](/docs/practical/participation) — Everything you need to know about participating
+**Want to dive deeper?** → [Join Us](../practical/participation) — Everything you need to know about participating
 
-**Looking for support?** → [Care & Support](/docs/wellbeing) — Resources to help you prepare and thrive
+**Looking for support?** → [Care & Support](../wellbeing) — Resources to help you prepare and thrive
 
 </div>

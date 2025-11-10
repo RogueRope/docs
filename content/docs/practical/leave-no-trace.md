@@ -16,35 +16,17 @@ Care for shared space is collective. Notice what's yours. Pick it up. Clean what
 
 ## During the Event
 
-**Meal areas:**
+We share these rooms like we share scenes: with care, attention, and a sense that someone else will arrive after us. Notice what needs doing and do it if you can.
 
-- Clean up immediately after eating
-- Wipe your table
-- Don't leave food out
+**Meal areas** stay inviting when we clear plates, wipe tables, and tuck leftovers away before they wander off on their own. If you see dishes waiting for a wash, give them a quick rinse or run them to the dish station.
 
-**Play spaces:**
+**Play spaces** breathe easier when equipment gets a wipe-down, ropes are coiled, and furniture finds its home again. Think of it as resetting the stage for whoever comes next.
 
-- Wipe down equipment after use
-- Coil rope and return it
-- Return furniture to its place
+**Sleeping areas** feel restful when bunks stay loosely organized, clothes live in bags instead of on floors, and shared items boomerang back to where everyone expects them.
 
-**Sleeping areas:**
+**Bathrooms** move faster when showers stay short, surfaces get a quick swoosh, and anything disposable lands in the bins provided (menstrual products included).
 
-- Keep your bunk organized
-- Don't leave clothes on floors
-- Return shared items to their place
-
-**Bathrooms:**
-
-- Shower quickly
-- Wipe surfaces
-- Dispose of menstrual products in provided bins
-
-**General:**
-
-- Take trash with you
-- Put lights out when you leave rooms
-- If you see something off, fix it or report it
+**General vibe:** carry your trash with you, flip lights off if you’re the last one out, and if something looks off, either tend to it or tap an organizer. Shared responsibility is the kink here.
 
 ---
 
@@ -60,12 +42,7 @@ Care for shared space is collective. Notice what's yours. Pick it up. Clean what
 
 ## After You Leave
 
-**Sharing photos publicly (FetLife, Instagram, blogs):**
-Only share shots where **every person** consented **before** the photo **and** to **public posting**.
-**No bystanders.** **Anonymize the venue** (no names, wide establishing shots, signage, maps, time/location details).
-Be ready to **delete** if anyone changes their mind later.
-
-**Respect people's privacy online.** Don't out anyone. Don't tag without consent. Protect the sacredness of what happened.
+If you plan to share photos or memories beyond our private channels, read the “After the Gathering” section of [Photography Guidelines]({{< ref "/docs/practical/photography-guidelines" >}} "Photography Guidelines") for consent refreshers, venue anonymity, and deletion requests. Protect the people and the place the same way you did on site.
 
 ---
 
@@ -79,3 +56,7 @@ When we leave space better than we found it, we:
 - Make the next gathering possible
 
 **It becomes a practice you carry into your life.**
+
+---
+
+![Diverse hands of all kinds caring for a shared space together—human hands wiping, organizing, tidying alongside a glowing magical non-human hand, celebrating collective care and joy](/images/leave-no-trace-hands.png)
