@@ -1,0 +1,78 @@
+/* Text & color overrides tuned to new design system */
+
+/*
+  Goal:
+  - Avoid global * and heavy !important that fight the theme.
+  - Let static/custom.css drive the system using design tokens.
+  - Only ensure key readability and navigation contrasts.
+*/
+
+/* Body baseline (leans on tokens from custom.css if present) */
+body {
+  color: inherit;
+}
+
+/* Ensure documentation content never drops to low-contrast grays */
+.markdown p,
+.markdown li,
+.markdown span,
+article p,
+article li,
+article span,
+.book-post p,
+.book-post li,
+.book-post span {
+  color: inherit;
+}
+
+/* Headings: trust custom.css; only guard against accidental low contrast */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: inherit;
+}
+
+/* Links:
+   Let primary colors be set in custom.css.
+   Only ensure hover state stays visibly distinct. */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Sidebar navigation: keep high contrast on gradient background */
+.book-menu,
+.book-menu *,
+.book-menu nav *,
+.book-menu a {
+  color: #f9fafb !important;
+}
+
+/* Active / hover colors are defined in custom.css; do not override here */
+
+/* Table headers on gradient backgrounds should stay readable */
+table thead,
+table thead * {
+  color: #ffffff !important;
+}
+
+/* Dark mode:
+   Respect prefers-color-scheme and the tokens defined in custom.css.
+   Only avoid accidental black-on-black or white-on-white. */
+@media (prefers-color-scheme: dark) {
+  .markdown,
+  .markdown *,
+  article,
+  article * {
+    color: inherit;
+  }
+
+  .book-menu,
+  .book-menu *,
+  .book-menu nav *,
+  .book-menu a {
+    color: #e5e7ff !important;
+  }
+}

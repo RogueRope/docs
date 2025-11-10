@@ -1,0 +1,7 @@
+---
+ignore_urls:
+  - /^http:\/\/localhost:/
+  - /livereload.js/
+  - /example.org/
+ignore_files:
+  - /dresscode.webp/
