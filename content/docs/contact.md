@@ -6,6 +6,7 @@ date: 2024-04-06T13:37:00+00:00
 lastmod: 2025-04-11T13:37:00+00:00
 t: 150
 toc: true
+BookHidden: true
 ---
 
 <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
