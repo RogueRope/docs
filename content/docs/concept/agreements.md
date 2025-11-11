@@ -3,8 +3,17 @@ title: 'Our Shared Agreements'
 description: 'How we commit to keeping our space honest, safe, and kind'
 lead: 'The commitments we make to ourselves and each other'
 date: 2025-08-28
+lastmod: 2025-11-11T00:00:00+00:00
 weight: 12
 toc: true
+---
+
+<div class="bg-ash-gray-100 dark:bg-ash-gray-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
+
+_These are the commitments that hold our space. They flow from our [Core Philosophy](philosophy) and shape how we show up together. For the full picture of what this means in practice, see [Experience Structure](experience)._
+
+</div>
+
 ---
 
 ## Being Together: Our Shared Agreements
@@ -35,3 +44,19 @@ What counts as participation? All of it.
 There is no competition here. No one gets a gold star. Contribution looks different for everyone — and that's the point.
 
 Whether you're a helper, a dreamer, a mischief-maker, or someone who simply holds the energy of care in a space... you belong.
+
+---
+
+<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
+
+## Explore Related Pages
+
+**See these agreements in action** → [Experience Structure](experience) — How these commitments shape our five days together
+
+**Understand the foundation** → [Core Philosophy](philosophy) — The values behind these agreements
+
+**Wondering if this is for you?** → [Is This For You?](is-this-for-you) — Self-assessment for newcomers
+
+**See who thrives here** → [Who Belongs Here](belonging) — Radical inclusivity and clear boundaries
+
+</div>

@@ -3,9 +3,17 @@ title: Is This For You?
 description: 'A gentle guide for newcomers and those wondering if this gathering is right for them'
 lead: "You don't have to know. You just have to want to find out."
 date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 20
+lastmod: 2025-11-11T00:00:00+00:00
+weight: 5
 toc: true
+---
+
+<div class="bg-timberwolf-100 dark:bg-timberwolf-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
+
+_New to Bottoms Up!? Start here. This page will help you decide if this gathering is right for you. Once you understand the fit, explore [Core Philosophy](philosophy) to understand the values that shape everything we do._
+
+</div>
+
 ---
 
 <div class="bg-gradient-cherry-champagne hx-p-8 hx-rounded-lg hx-mb-12">
@@ -108,9 +116,9 @@ Five days to step away from rush culture. To breathe. To be present. To let inti
 
 **You prefer anonymity or a party vibe** — this space is intimate, communal, and people will remember you.
 
-**Witnessing eros feels unsafe** — consented sexual expression happens in shared spaces, even if participation is never required.
+**Witnessing eros feels unsafe** — consented sexual expression happens in shared spaces, even if participation is never required. Read more about this in [Sex-Positive Space](sex-positive).
 
-For a clearer sense of who thrives here (and who doesn’t), read [Who Belongs Here](belonging).
+For a clearer sense of who thrives here (and who doesn't), read [Who Belongs Here](belonging). This page goes deeper into radical inclusivity alongside clear boundaries.
 
 ---
 

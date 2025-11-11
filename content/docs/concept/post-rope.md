@@ -3,8 +3,17 @@ title: 'Post-Rope: A Gentle Rebellion'
 description: 'A quiet turning away from the noise and the performance economy.'
 lead: "We want rope that's messy, tender, human again."
 date: 2025-08-28
-weight: 16
+lastmod: 2025-11-11T00:00:00+00:00
+weight: 25
 toc: true
+---
+
+<div class="bg-timberwolf-100 dark:bg-timberwolf-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
+
+_This is the philosophical rebellion at the heart of Bottoms Up! It explains why we reject performance culture and choose connection instead. This concept underpins everything in our [Core Philosophy](philosophy)._
+
+</div>
+
 ---
 
 ## Post-Rope: A Gentle Rebellion
@@ -52,6 +61,24 @@ We're tired of:
 - Quiet moments mined for clout
 - The pressure to _be seen_ rather than _be_
 
-Here, no one ties for likes.  
-No followers. No brands. No filters. Just people.  
+Here, no one ties for likes.
+No followers. No brands. No filters. Just people.
 Alive. Breathing. Together.
+
+---
+
+<div class="bg-timberwolf-100 hx-p-6 hx-rounded-lg">
+
+## Explore Related Ideas
+
+This rebellion against performance culture is at the heart of everything we do:
+
+**See it in action** → [Experience Structure](experience) — How we create space for connection over performance
+
+**Understand the foundation** → [Core Philosophy](philosophy) — The values that guide this gentle rebellion
+
+**See another rebellion** → [Sex-Positive Space](sex-positive) — How we reject shame and celebrate desire
+
+**Ready to join?** → [Is This For You?](is-this-for-you) — Self-assessment for those called to this approach
+
+</div>

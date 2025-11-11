@@ -3,9 +3,17 @@ title: Experience Structure
 description: 'How our gathering unfolds - from arrival to departure, rituals to play'
 lead: 'The rhythm of our five days together'
 date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 30
+lastmod: 2025-11-11T00:00:00+00:00
+weight: 15
 toc: true
+---
+
+<div class="bg-champagne-pink-100 dark:bg-champagne-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
+
+_This is how our philosophy comes alive over five days. To understand the values behind this structure, read [Core Philosophy](philosophy). To understand who this experience is for, see [Is This For You?](is-this-for-you)._
+
+</div>
+
 ---
 
 ## The Flow of Our Days
