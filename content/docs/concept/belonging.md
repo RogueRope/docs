@@ -16,6 +16,8 @@ _This page explores who thrives in this space. It's rooted in our [Core Philosop
 
 ---
 
+![Circle of diverse silhouettes holding hands together, celebrating belonging and inclusive community](/images/belonging-diversity.png)
+
 ## Who Belongs Here
 
 This is a space for many.

@@ -62,6 +62,8 @@ they really mean it.
 
 And that's the kind of yes worth waiting for.
 
+![Two people in caring dialogue, body language showing attentive listening and celebrating boundaries as gifts](/images/consent-dialogue.png)
+
 ---
 
 ### Consent Is a Whole-Body Experience

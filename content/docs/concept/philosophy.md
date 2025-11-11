@@ -26,6 +26,8 @@ Most of us don't struggle with what we want. We struggle with how to begin. That
 At Bottoms Up!, you won't leave with a certificate.
 You might leave changed.
 
+![Flowing rope forming organic connection shapes, symbolizing presence and authentic human meeting over performance](/images/philosophy-connection.png)
+
 ---
 
 ## Tie Like No One Is Watching
