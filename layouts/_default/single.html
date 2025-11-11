@@ -24,6 +24,9 @@
 
       {{ .Content }}
 
+      <!-- Page navigation (previous/next) -->
+      {{ partial "doc-nav.html" . }}
+
       <!-- Global Second-Level Navigation -->
       {{ partial "second-level-nav.html" . }}
     </main>
