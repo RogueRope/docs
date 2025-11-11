@@ -45,11 +45,11 @@ These resources are here for your breath, your nervous system, your sense of saf
 
 **Want to understand what you're preparing for?**
 
-- [Core Philosophy](/concept/philosophy) — The values behind our approach
-- [Experience Structure](/concept/experience) — How our five days unfold
+- [Core Philosophy](/docs/concept/philosophy) — The values behind our approach
+- [Experience Structure](/docs/concept/experience) — How our five days unfold
 - [Schedule](/docs/practical/schedule) — The rhythm of our time together
 
-**Have specific questions?** → [Contact Us](/contact) — We're here to help with accessibility, support needs, or anything else
+**Have specific questions?** → [Contact Us](/docs/contact) — We're here to help with accessibility, support needs, or anything else
 
 </div>
 

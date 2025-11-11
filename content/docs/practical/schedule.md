@@ -149,7 +149,7 @@ The schedule is **intentionally flexible** to honor:
 - Spontaneous brilliance
 - Collective wisdom
 
-If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/contact)** — we're here to help.
+If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/docs/contact)** — we're here to help.
 
 ---
 
@@ -159,9 +159,9 @@ If you have specific questions about timing, accessibility needs, or how somethi
 
 **Want to understand the philosophy behind our time together?**
 
-- [Core Philosophy](/concept/philosophy) — The values that shape our gathering
-- [What Happens](/concept/experience) — The ceremonies and structures that guide our days
-- [Our Agreements](/concept/agreements) — How we commit to the container
+- [Core Philosophy](/docs/concept/philosophy) — The values that shape our gathering
+- [What Happens](/docs/concept/experience) — The ceremonies and structures that guide our days
+- [Our Agreements](/docs/concept/agreements) — How we commit to the container
 
 **Need to prepare?** → [Practical Details](/docs/practical) — Everything you need to know to attend
 
@@ -179,7 +179,7 @@ Now that you see the rhythm of our time together, secure your spot for this five
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/contact)
+Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/docs/contact)
 </div>
 
 </div>

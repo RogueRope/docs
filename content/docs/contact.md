@@ -67,7 +67,7 @@ Ready to dive deeper into what makes this gathering special?
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Is This For You?](/concept/is-this-for-you) • [Get Your Ticket](/docs/practical/participation)
+Or explore: [Is This For You?](/docs/concept/is-this-for-you) • [Get Your Ticket](/docs/practical/participation)
 </div>
 
 </div>

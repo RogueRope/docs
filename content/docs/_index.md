@@ -47,12 +47,12 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 
 **Start your journey:**
 
-1. **[Is this for you?](/concept/is-this-for-you)** — Self-reflection and gentle guidance
-2. **[The Experience](/concept)** — What makes this gathering unique
+1. **[Is this for you?](/docs/concept/is-this-for-you)** — Self-reflection and gentle guidance
+2. **[The Experience](/docs/concept)** — What makes this gathering unique
 3. **[Join Us](/docs/practical/participation)** — Everything you need to know
 
 <div class="hx-mt-4">
-[Start Here →](/concept/is-this-for-you)
+[Start Here →](/docs/concept/is-this-for-you)
 {.btn-ash-gray.hx-inline-flex.hx-items-center.hx-px-4.hx-py-2.hx-rounded-md.hx-transition-colors}
 </div>
 
@@ -64,9 +64,9 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 
 **Welcome back:**
 
-- **[What's new this year](/concept/experience)** — The ceremonies that shape our time
+- **[What's new this year](/docs/concept/experience)** — The ceremonies that shape our time
 - **[Get your spot](/docs/practical/participation)** — Secure your return to the warmth
-- **[Connect](/contact)** — Questions or just want to say hello?
+- **[Connect](/docs/contact)** — Questions or just want to say hello?
 
 <div class="hx-mt-4">
 [Get Your Spot →](/docs/practical/participation)

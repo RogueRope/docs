@@ -3,9 +3,17 @@ title: Experience Structure
 description: 'How our gathering unfolds - from arrival to departure, rituals to play'
 lead: 'The rhythm of our five days together'
 date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 30
+lastmod: 2025-11-11T00:00:00+00:00
+weight: 15
 toc: true
+---
+
+<div class="bg-champagne-pink-100 dark:bg-champagne-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
+
+_This is how our philosophy comes alive over five days. To understand the values behind this structure, read [Core Philosophy](/docs/concept/philosophy). To understand who this experience is for, see [Is This For You?](/docs/concept/is-this-for-you)._
+
+</div>
+
 ---
 
 ## The Flow of Our Days
@@ -120,7 +128,7 @@ This is a place where kink lives beside care.
 Where sex is sacred and messy and not up for anyone else's consumption.  
 Where play can look like fucking — or crying — or lying in intimate embrace, wrapped in rope and connection, with someone watching over you.
 
-Curious how we tend sex-positive space in detail? → [Sex Positive, Unapologetically](sex-positive)
+Curious how we tend sex-positive space in detail? → [Sex Positive, Unapologetically](/docs/concept/sex-positive)
 
 ---
 
@@ -128,9 +136,9 @@ Curious how we tend sex-positive space in detail? → [Sex Positive, Unapologeti
 
 ## Explore Related Pages
 
-**Want to understand the why behind this experience?** → [Core Philosophy](philosophy) — The values that shape everything we do
+**Want to understand the why behind this experience?** → [Core Philosophy](/docs/concept/philosophy) — The values that shape everything we do
 
-**Wondering if this is for you?** → [Is This For You?](is-this-for-you) — Gentle guidance for self-reflection
+**Wondering if this is for you?** → [Is This For You?](/docs/concept/is-this-for-you) — Gentle guidance for self-reflection
 
 **Ready to join us?** → [Join Us](../practical/participation) — Practical details about participation and tickets
 
