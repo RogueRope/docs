@@ -36,8 +36,8 @@ Once activated, your terminal prompt will show `(venv)` at the beginning. All su
 - `dall-e-2` - faster, good for quick iterations
 
 **Available Styles (predefined style blocks):**
-- `queer-collage-no-text` **(DEFAULT QUEER COLLAGE)** - vintage storybook silhouettes, punk poster collage, neon colors (acid green, laser pink, safety orange), riso grain, photocopy texture, torn paper, rope strands; NO text or letters—use this by default for visual-only compositions
-- `queer-collage` - same as above but WITH ransom-note text elements; use when text/lettering is part of the design
+- `queer-collage-no-text` **(DEFAULT - RECOMMENDED)** - Mythic queer creature rave aesthetic with vintage storybook silhouettes, punk poster collage, neon colors (acid green, laser pink, safety orange), riso grain, photocopy texture. Features non-human/post-human bodies (trolls, goblins, faeries, demons, aliens with horns, tails, wings). NO text or letters—use this by default for visual-only compositions.
+- `queer-collage` - Same mythic creature aesthetic WITH ransom-note text elements; use when text/lettering is part of the design
 - `none` - no style block (raw prompt only)
 
 **Size Options:**
@@ -56,19 +56,23 @@ Once activated, your terminal prompt will show `(venv)` at the beginning. All su
 We have two variants of the queer-collage aesthetic:
 
 **`queer-collage-no-text` (RECOMMENDED DEFAULT)**
-- Same punk poster, vintage storybook, neon colors, riso grain aesthetic
+- Punk poster collage, vintage Dutch storybook silhouettes, neon colors, riso grain aesthetic
+- **Mythic queer creature rave aesthetic**: Features non-human and post-human bodies (trolls, goblins, faeries, demons, aliens, creatures with horns, tails, wings, extra eyes, extra arms)
+- Androgynous creatures with ambiguous gender, no obvious male/female couples
+- **Weird joyful intimate gatherings of creatures** instead of normal humans
 - NO ransom-note text or letters in the image
 - Best for clean visual compositions that don't need text overlays
-- Cleaner look for gallery walls, website headers, print designs
 - Use this ~90% of the time
 
 **`queer-collage` (WITH TEXT)**
-- Full aesthetic including ransom-note letter elements
+- Same mythic creature aesthetic with ransom-note letter elements
 - Text/letters are part of the visual design
 - Use only when text layering is intentional and desired
 - Example: posters where words are visual elements
 
 **Decision rule:** Unless you specifically want text as a visual element in the image, use `queer-collage-no-text`.
+
+**Aesthetic Philosophy:** These styles intentionally tilt away from "two pretty humans cuddling" towards "mythic queer creature rave." Think strange and wonderful beings celebrating connection, not typical heterosexual human couples. If your generated images drift towards "too human, too straight," revise your prompt to emphasize non-human bodies and ambiguous gender presentation.
 
 #### Basic Usage
 
@@ -300,9 +304,9 @@ Once user has selected content & placement, ask about:
    - Audience: people interested in being part of a community
 
 2. **Suggest options**:
-   - **Content Option A**: A diverse gathering of people together, intimate and connected, celebrating togetherness
-   - **Content Option B**: Abstract symbolic elements (hearts, hands, circles) representing community bonds and connection
-   - **Content Option C**: Silhouettes of people in various joyful poses, feeling movement and energy in community
+   - **Content Option A**: A gathering of mythic creatures celebrating together - trolls, faeries, demons with horns and tails, intimate and joyful
+   - **Content Option B**: Abstract symbolic elements (hearts, hands, circles) formed by rope and creature silhouettes
+   - **Content Option C**: Non-human beings in various celebratory poses, ambiguous gender, weird and wonderful
 
    - **Placement Option 1**: At top (sets visual tone for the page)
    - **Placement Option 2**: After "Give Feedback" section (visual conclusion/call-to-action)
@@ -311,14 +315,14 @@ Once user has selected content & placement, ask about:
 3. **User selects**: "Content A, Placement 3"
 
 4. **Clarify intent**:
-   - Style: `queer-collage-no-text` (punk collage, neon, joyful)
+   - Style: `queer-collage-no-text` (punk collage, neon, mythic creatures)
    - Size: `1536x1024` (landscape for visual impact)
-   - Vibe: "strange and wonderful creatures celebrating together"
+   - Vibe: "strange and wonderful creatures celebrating together, no typical humans"
 
 5. **Generate**:
    ```bash
    source venv/bin/activate && python scripts/generate_image.py \
-     "a gathering of strange wonderful creatures celebrating together, diverse and joyful, intimate collective moment" \
+     "gathering of strange wonderful creatures celebrating community, trolls goblins faeries with horns tails wings, joyful intimate collective moment, non-human post-human bodies, ambiguous gender" \
      --style queer-collage-no-text \
      --size 1536x1024 \
      --quality high \
@@ -327,7 +331,7 @@ Once user has selected content & placement, ask about:
 
 6. **Insert** into markdown at bottom:
    ```markdown
-   ![A gathering of strange creatures celebrating community](/images/community-gathering.png)
+   ![A gathering of strange mythic creatures celebrating community together](/images/community-gathering.png)
    ```
 
 ## Example 2: Creating a Social Media Card
@@ -344,7 +348,7 @@ Once user has selected content & placement, ask about:
 3. **Generate**:
    ```bash
    python scripts/generate_image.py \
-     "celebration gathering with diverse people, joyful intimate community moment, neon accents, punk poster energy" \
+     "celebration gathering with mythic creatures, trolls faeries demons celebrating, joyful intimate community moment, non-human bodies, neon accents, punk poster energy, ambiguous gender" \
      --style queer-collage-no-text \
      --size 1024x1024 \
      --quality high \
@@ -370,12 +374,30 @@ Once user has selected content & placement, ask about:
 - Mood/atmosphere (intimate, energetic, calm)
 - Color palette (if important)
 - Style reference (the style blocks handle this)
-- What to exclude ("no text", "no people", etc.)
+- What to exclude ("no text", "no typical humans", "no male/female couples", etc.)
 
-**Example strong prompt:**
+**For queer-collage styles, emphasize:**
+- Non-human and post-human bodies (trolls, goblins, faeries, demons, aliens)
+- Physical features (horns, tails, wings, extra eyes, extra arms)
+- Ambiguous gender presentation
+- "Strange and wonderful creatures" rather than "people" or "humans"
+- Avoid language that implies typical human bodies or heterosexual couples
+
+**Example strong prompts:**
+
+**Creature-focused (for queer-collage styles):**
+```
+Wide gathering of mythic creatures celebrating together,
+trolls goblins faeries with horns tails wings,
+intimate joyful collective moment,
+non-human post-human bodies, ambiguous gender,
+no typical heterosexual couples, weird and wonderful
+```
+
+**Scene-focused (for other styles):**
 ```
 Wide shot of a cozy reading nook with afternoon light,
-intimate and warm, person curled up with a book,
+intimate and warm, figure curled up with a book,
 soft textures visible (blankets, wood),
 golden hour lighting, no faces visible,
 bohemian aesthetic
