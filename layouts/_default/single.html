@@ -1,16 +1,12 @@
-{{- define "main" -}}
-<div class="hx-mx-auto hx-flex hx-min-h-[calc(100vh-var(--navbar-height)-var(--menu-height))] hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-gap-10">
-  <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-    <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
-
-      {{ .Content }}
-
-      <!-- Page navigation (previous/next) -->
-      {{ partial "doc-nav.html" . }}
-
-      <!-- Global Second-Level Navigation -->
-      {{ partial "second-level-nav.html" . }}
-    </main>
-  </article>
-</div>
-{{- end -}}
+{{ define "main" }}
+<article class="markdown book-post">
+  <h1>
+    {{ partial "docs/title.html" . }}
+  </h1>
+  <div class="book-post-content">
+    {{- .Content -}}
+  </div>
+  <!-- Page navigation (previous/next) -->
+  {{ partial "doc-nav.html" . }}
+</article>
+{{ end }}
