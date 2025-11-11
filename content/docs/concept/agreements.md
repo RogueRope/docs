@@ -10,7 +10,7 @@ toc: true
 
 <div class="bg-ash-gray-100 dark:bg-ash-gray-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_These are the commitments that hold our space. They flow from our [Core Philosophy](philosophy) and shape how we show up together. For the full picture of what this means in practice, see [Experience Structure](experience)._
+_These are the commitments that hold our space. They flow from our [Core Philosophy](/docs/concept/philosophy) and shape how we show up together. For the full picture of what this means in practice, see [Experience Structure](/docs/concept/experience)._
 
 </div>
 
@@ -51,12 +51,12 @@ Whether you're a helper, a dreamer, a mischief-maker, or someone who simply hold
 
 ## Explore Related Pages
 
-**See these agreements in action** → [Experience Structure](experience) — How these commitments shape our five days together
+**See these agreements in action** → [Experience Structure](/docs/concept/experience) — How these commitments shape our five days together
 
-**Understand the foundation** → [Core Philosophy](philosophy) — The values behind these agreements
+**Understand the foundation** → [Core Philosophy](/docs/concept/philosophy) — The values behind these agreements
 
-**Wondering if this is for you?** → [Is This For You?](is-this-for-you) — Self-assessment for newcomers
+**Wondering if this is for you?** → [Is This For You?](/docs/concept/is-this-for-you) — Self-assessment for newcomers
 
-**See who thrives here** → [Who Belongs Here](belonging) — Radical inclusivity and clear boundaries
+**See who thrives here** → [Who Belongs Here](/docs/concept/belonging) — Radical inclusivity and clear boundaries
 
 </div>

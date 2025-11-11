@@ -10,7 +10,7 @@ toc: true
 
 <div class="bg-champagne-pink-100 dark:bg-champagne-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_This is the philosophical foundation of Bottoms Up! If you're wondering whether this gathering is right for you, you might want to start with [Is This For You?](is-this-for-you) first._
+_This is the philosophical foundation of Bottoms Up! If you're wondering whether this gathering is right for you, you might want to start with [Is This For You?](/docs/concept/is-this-for-you) first._
 
 </div>
 
@@ -77,9 +77,9 @@ This is a space for all bodies, all backgrounds, all orientations. We honor the 
 
 Rope isn't a hierarchy. It's a dance of trust, in whatever form it takes.
 
-_Want the full picture of what "sex-positive" means in practice?_ → [Sex Positive, Unapologetically](sex-positive)
+_Want the full picture of what "sex-positive" means in practice?_ → [Sex Positive, Unapologetically](/docs/concept/sex-positive)
 
-_Wondering who belongs here?_ → [Who Belongs Here](belonging)
+_Wondering who belongs here?_ → [Who Belongs Here](/docs/concept/belonging)
 
 ---
 
@@ -95,7 +95,7 @@ Come if you want to feel rope not just on your skin — but in your soul.
 
 <div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
 
-### 🌀 [Our Shared Agreements](agreements)
+### 🌀 [Our Shared Agreements](/docs/concept/agreements)
 
 How we commit to keeping our space honest, safe, and kind.
 
@@ -103,7 +103,7 @@ How we commit to keeping our space honest, safe, and kind.
 
 <div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg">
 
-### 🤝 [Who Belongs Here](belonging)
+### 🤝 [Who Belongs Here](/docs/concept/belonging)
 
 Who this space is for, and who it is not for.
 
@@ -111,7 +111,7 @@ Who this space is for, and who it is not for.
 
 <div class="bg-timberwolf-100 hx-p-6 hx-rounded-lg">
 
-### 🕊️ [Post-Rope: A Gentle Rebellion](post-rope)
+### 🕊️ [Post-Rope: A Gentle Rebellion](/docs/concept/post-rope)
 
 A quiet turning away from the noise and the performance economy.
 
@@ -125,9 +125,9 @@ A quiet turning away from the noise and the performance economy.
 
 ## Continue Your Journey
 
-**New to this philosophy?** → [Is This For You?](is-this-for-you) — Self-reflection to see if this resonates
+**New to this philosophy?** → [Is This For You?](/docs/concept/is-this-for-you) — Self-reflection to see if this resonates
 
-**Ready to understand the structure?** → [Experience Structure](experience) — How these ideals come alive over five days
+**Ready to understand the structure?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over five days
 
 **Want to dive deeper?** → [Join Us](../practical/participation) — Everything you need to know about participating
 

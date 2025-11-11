@@ -10,7 +10,7 @@ toc: true
 
 <div class="bg-cherry-blossom-pink-100 dark:bg-cherry-blossom-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_This page dives deep into what "sex-positive" means at Bottoms Up! It expands on themes introduced in [Core Philosophy](philosophy) and explains how sexuality shows up in [Experience Structure](experience). Read this if you need clarity on our stance toward desire and eros._
+_This page dives deep into what "sex-positive" means at Bottoms Up! It expands on themes introduced in [Core Philosophy](/docs/concept/philosophy) and explains how sexuality shows up in [Experience Structure](/docs/concept/experience). Read this if you need clarity on our stance toward desire and eros._
 
 </div>
 
@@ -181,12 +181,12 @@ That's why you're here.
 
 ## Explore Related Pages
 
-**See how this shows up** → [Experience Structure](experience) — What sexuality looks like in practice at the gathering
+**See how this shows up** → [Experience Structure](/docs/concept/experience) — What sexuality looks like in practice at the gathering
 
-**Understand the foundation** → [Core Philosophy](philosophy) — Why eros is sacred in our approach to rope
+**Understand the foundation** → [Core Philosophy](/docs/concept/philosophy) — Why eros is sacred in our approach to rope
 
-**Another rebellion** → [Post-Rope](post-rope) — How we reject performance culture alongside shame
+**Another rebellion** → [Post-Rope](/docs/concept/post-rope) — How we reject performance culture alongside shame
 
-**Wondering if this is for you?** → [Is This For You?](is-this-for-you) — Self-assessment that addresses sexuality openly
+**Wondering if this is for you?** → [Is This For You?](/docs/concept/is-this-for-you) — Self-assessment that addresses sexuality openly
 
 </div>

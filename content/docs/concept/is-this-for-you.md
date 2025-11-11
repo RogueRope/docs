@@ -10,7 +10,7 @@ toc: true
 
 <div class="bg-timberwolf-100 dark:bg-timberwolf-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_New to Bottoms Up!? Start here. This page will help you decide if this gathering is right for you. Once you understand the fit, explore [Core Philosophy](philosophy) to understand the values that shape everything we do._
+_New to Bottoms Up!? Start here. This page will help you decide if this gathering is right for you. Once you understand the fit, explore [Core Philosophy](/docs/concept/philosophy) to understand the values that shape everything we do._
 
 </div>
 
@@ -50,7 +50,7 @@ If you're afraid you'll be the only one who doesn't know how it all works — yo
 
 **You belong here as you are.**
 
-_Want to understand the deeper philosophy behind this approach?_ → [Core Philosophy](philosophy)
+_Want to understand the deeper philosophy behind this approach?_ → [Core Philosophy](/docs/concept/philosophy)
 
 </div>
 
@@ -96,7 +96,7 @@ Five days to step away from rush culture. To breathe. To be present. To let inti
 
 ### You'll Love This If...
 
-**You're craving connection over curriculum** — If you want a lineup of technical classes and certificates, this isn’t that. We learn here through play, presence, and community, not through a workshop schedule. Curious how that works over five days? → [Experience Structure](experience)
+**You're craving connection over curriculum** — If you want a lineup of technical classes and certificates, this isn’t that. We learn here through play, presence, and community, not through a workshop schedule. Curious how that works over five days? → [Experience Structure](/docs/concept/experience)
 
 **You're curious about rope** — whether you've never touched it or you've been tying for years. Experience level doesn't matter. Openness does.
 
@@ -116,9 +116,9 @@ Five days to step away from rush culture. To breathe. To be present. To let inti
 
 **You prefer anonymity or a party vibe** — this space is intimate, communal, and people will remember you.
 
-**Witnessing eros feels unsafe** — consented sexual expression happens in shared spaces, even if participation is never required. Read more about this in [Sex-Positive Space](sex-positive).
+**Witnessing eros feels unsafe** — consented sexual expression happens in shared spaces, even if participation is never required. Read more about this in [Sex-Positive Space](/docs/concept/sex-positive).
 
-For a clearer sense of who thrives here (and who doesn't), read [Who Belongs Here](belonging). This page goes deeper into radical inclusivity alongside clear boundaries.
+For a clearer sense of who thrives here (and who doesn't), read [Who Belongs Here](/docs/concept/belonging). This page goes deeper into radical inclusivity alongside clear boundaries.
 
 ---
 
@@ -136,7 +136,7 @@ Ask yourself:
 
 If you're feeling "YES" — even a nervous, excited, uncertain yes — then this might be exactly what you need.
 
-_Ready to see what this looks like in practice?_ → [Experience Structure](experience)
+_Ready to see what this looks like in practice?_ → [Experience Structure](/docs/concept/experience)
 
 If you're feeling "maybe" or "I'm not sure" — that's perfectly valid too. Trust your instincts. There are many beautiful gatherings in the world. This one might not be yours right now, and that's okay.
 
@@ -155,12 +155,12 @@ Come as you are. We'll meet you there.
 **If this feels like a YES**, your next step is to understand what makes this gathering unique.
 
 <div class="hx-mt-6">
-[Explore The Experience →](/concept)
+[Explore The Experience →](/docs/concept)
 {.btn-cherry-blossom-pink.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-text-lg.hx-rounded-lg.hx-mr-4}
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or jump ahead: [Join Us](/docs/practical/participation) • [Care & Support](/docs/wellbeing) • [Contact](/contact)
+Or jump ahead: [Join Us](/docs/practical/participation) • [Care & Support](/docs/wellbeing) • [Contact](/docs/contact)
 </div>
 
 </div>

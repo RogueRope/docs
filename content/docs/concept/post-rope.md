@@ -10,7 +10,7 @@ toc: true
 
 <div class="bg-timberwolf-100 dark:bg-timberwolf-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_This is the philosophical rebellion at the heart of Bottoms Up! It explains why we reject performance culture and choose connection instead. This concept underpins everything in our [Core Philosophy](philosophy)._
+_This is the philosophical rebellion at the heart of Bottoms Up! It explains why we reject performance culture and choose connection instead. This concept underpins everything in our [Core Philosophy](/docs/concept/philosophy)._
 
 </div>
 
@@ -73,12 +73,12 @@ Alive. Breathing. Together.
 
 This rebellion against performance culture is at the heart of everything we do:
 
-**See it in action** → [Experience Structure](experience) — How we create space for connection over performance
+**See it in action** → [Experience Structure](/docs/concept/experience) — How we create space for connection over performance
 
-**Understand the foundation** → [Core Philosophy](philosophy) — The values that guide this gentle rebellion
+**Understand the foundation** → [Core Philosophy](/docs/concept/philosophy) — The values that guide this gentle rebellion
 
-**See another rebellion** → [Sex-Positive Space](sex-positive) — How we reject shame and celebrate desire
+**See another rebellion** → [Sex-Positive Space](/docs/concept/sex-positive) — How we reject shame and celebrate desire
 
-**Ready to join?** → [Is This For You?](is-this-for-you) — Self-assessment for those called to this approach
+**Ready to join?** → [Is This For You?](/docs/concept/is-this-for-you) — Self-assessment for those called to this approach
 
 </div>

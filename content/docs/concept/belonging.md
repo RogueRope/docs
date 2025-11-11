@@ -10,7 +10,7 @@ toc: true
 
 <div class="bg-champagne-pink-100 dark:bg-champagne-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_This page explores who thrives in this space. It's rooted in our [Core Philosophy](philosophy) of radical inclusivity alongside clear boundaries. If you're wondering if this gathering is for you, start with [Is This For You?](is-this-for-you) first._
+_This page explores who thrives in this space. It's rooted in our [Core Philosophy](/docs/concept/philosophy) of radical inclusivity alongside clear boundaries. If you're wondering if this gathering is for you, start with [Is This For You?](/docs/concept/is-this-for-you) first._
 
 </div>
 
@@ -63,12 +63,12 @@ This isn't a light weekend. It's immersive, emotional, and sensory. We support p
 
 ## Explore Related Pages
 
-**Wondering if this is for you?** → [Is This For You?](is-this-for-you) — Self-assessment guide for newcomers
+**Wondering if this is for you?** → [Is This For You?](/docs/concept/is-this-for-you) — Self-assessment guide for newcomers
 
-**Want to understand the philosophy?** → [Core Philosophy](philosophy) — The values behind this radical inclusivity
+**Want to understand the philosophy?** → [Core Philosophy](/docs/concept/philosophy) — The values behind this radical inclusivity
 
-**Ready to understand what happens?** → [Experience Structure](experience) — How these ideals come alive over five days
+**Ready to understand what happens?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over five days
 
-**See our commitments** → [Our Shared Agreements](agreements) — How we hold this space together
+**See our commitments** → [Our Shared Agreements](/docs/concept/agreements) — How we hold this space together
 
 </div>
