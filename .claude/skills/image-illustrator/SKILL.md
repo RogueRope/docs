@@ -36,12 +36,6 @@ Once activated, your terminal prompt will show `(venv)` at the beginning. All su
 - `dall-e-2` - faster, good for quick iterations
 
 **Available Styles (predefined style blocks):**
-- `brand` - high-contrast, intimate, sensual, cinematic
-- `minimal` - clean, flat illustration, soft gradients, muted
-- `icon` - bold, flat design, solid colors, modern
-- `social` - vibrant, bold, eye-catching, high contrast
-- `realistic` - photorealistic, professional photography
-- `illustration` - beautiful, detailed, artistic, hand-drawn
 - `queer-collage-no-text` **(DEFAULT QUEER COLLAGE)** - vintage storybook silhouettes, punk poster collage, neon colors (acid green, laser pink, safety orange), riso grain, photocopy texture, torn paper, rope strands; NO text or letters—use this by default for visual-only compositions
 - `queer-collage` - same as above but WITH ransom-note text elements; use when text/lettering is part of the design
 - `none` - no style block (raw prompt only)
