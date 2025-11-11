@@ -36,36 +36,36 @@ Each day has:
 - Check-in and settle into communal living
 - Dinner together as we arrive
 - Opening ceremony to set intention
-- Early bedtimes encouraged (it's a long weekend!)
 
 ### **Thursday: Finding Our Footing**
 
-- Morning practices (meditation, grounding, gentle movement)
+- Morning practices 
 - First unconference sessions begin
-- Skill-shares and conversations
+- Experiences and conversations
 - Group dinner
-- Evening activities (talks, workshops, or quiet time)
+- TDB: Orga Event
+
 
 ### **Friday: Building Connection**
 
 - Deeper unconference sessions
 - Workshops on rope, consent, dynamics, and embodiment
 - Afternoon break and informal play
-- Evening gathering (ceremonies or performances)
-
+- TDB: Orga Event
+- 
 ### **Saturday: The Heart of It**
 
 - Morning practices
 - Unconference sessions continue
 - Varied workshops and circles
 - Communal dinner
-- Evening social time and informal connections
+- TDB: Orga Event
 
 ### **Sunday: Integration & Closing**
 
 - Gentle morning practices
 - Light unconference sessions
-- Closing circle
+- Closing circle around noon
 - Departures through Sunday afternoon
 
 ---
@@ -91,6 +91,8 @@ _Times are gentle guides, not rigid rules. The energy of the group takes precede
 
 **When:** Throughout Thursday–Sunday (approx. 10 AM–5 PM)
 **Format:** Lightly facilitated, participant-driven
+**Philosophy:** Less about formal training, more about shared experiences
+
 **What You'll Find:**
 
 - Rope technique shares and deep dives
