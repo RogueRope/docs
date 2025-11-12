@@ -57,6 +57,8 @@ We'll meet you where we can.
 
 ## Ready? Here's How to Get Your Ticket
 
+![A mythic creature with antlers reaching toward a glowing invitation floating in space, surrounded by rope strands like constellations](/images/ticket-creature-invitation.png)
+
 **📅 Tickets go on sale:** December 1st, 2025 at 20:00
 **💰 Ticket price:** €169 (includes accommodation, one hot meal per day plus provisions, and full access)
 **🎟️ Limited to:** 42 people to maintain intimacy and connection
