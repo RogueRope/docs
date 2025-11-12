@@ -870,6 +870,13 @@
       background: rgba(91, 75, 255, 0.08);
     }
 
+    /* Hide Hugo theme's built-in page navigation since we have our own */
+    .modal-body > nav,
+    .modal-body nav[class*="flex"],
+    .modal-body .book-nav-label {
+      display: none !important;
+    }
+
     .modal-footer {
       margin-top: 2rem;
       padding-top: 1rem;
