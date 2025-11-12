@@ -1,1 +1,43 @@
-{{/* Navigation hidden for coming soon page */}}
+{{/* Previous/Next Navigation within Section */}}
+
+{{ if or .PrevInSection .NextInSection }}
+<nav class="hx-mt-16 hx-pt-8 hx-border-t hx-border-gray-200 dark:hx-border-gray-700" aria-label="Page navigation">
+  <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-4">
+    {{ with .PrevInSection }}
+    <div class="hx-text-left">
+      <a
+        href="{{ .RelPermalink }}"
+        class="hx-group hx-block hx-p-4 hx-rounded-lg hx-border hx-border-gray-200 dark:hx-border-gray-700 hx-bg-white dark:hx-bg-gray-900 hover:hx-border-cherry-blossom-pink dark:hover:hx-border-cherry-blossom-pink hx-transition-colors"
+        rel="prev"
+      >
+        <div class="hx-text-xs hx-font-semibold hx-uppercase hx-tracking-wider hx-text-gray-500 dark:hx-text-gray-400 hx-mb-2">
+          ← Previous
+        </div>
+        <div class="hx-text-base hx-font-medium hx-text-outer-space dark:hx-text-champagne-pink group-hover:hx-text-cherry-blossom-pink dark:group-hover:hx-text-cherry-blossom-pink hx-transition-colors">
+          {{ .Title }}
+        </div>
+      </a>
+    </div>
+    {{ else }}
+    <div></div>
+    {{ end }}
+
+    {{ with .NextInSection }}
+    <div class="hx-text-right">
+      <a
+        href="{{ .RelPermalink }}"
+        class="hx-group hx-block hx-p-4 hx-rounded-lg hx-border hx-border-gray-200 dark:hx-border-gray-700 hx-bg-white dark:hx-bg-gray-900 hover:hx-border-cherry-blossom-pink dark:hover:hx-border-cherry-blossom-pink hx-transition-colors"
+        rel="next"
+      >
+        <div class="hx-text-xs hx-font-semibold hx-uppercase hx-tracking-wider hx-text-gray-500 dark:hx-text-gray-400 hx-mb-2">
+          Next →
+        </div>
+        <div class="hx-text-base hx-font-medium hx-text-outer-space dark:hx-text-champagne-pink group-hover:hx-text-cherry-blossom-pink dark:group-hover:hx-text-cherry-blossom-pink hx-transition-colors">
+          {{ .Title }}
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</nav>
+{{ end }}
