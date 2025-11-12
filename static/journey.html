@@ -877,6 +877,18 @@
       display: none !important;
     }
 
+    /* Hide anchor links on headings */
+    .modal-body a.anchor,
+    .modal-body .anchor-link,
+    .modal-body h1 a[href^="#"],
+    .modal-body h2 a[href^="#"],
+    .modal-body h3 a[href^="#"],
+    .modal-body h4 a[href^="#"],
+    .modal-body h5 a[href^="#"],
+    .modal-body h6 a[href^="#"] {
+      display: none !important;
+    }
+
     .modal-footer {
       margin-top: 2rem;
       padding-top: 1rem;
