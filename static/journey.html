@@ -1346,11 +1346,20 @@
 
   <script>
     // Configuration
-    const CONTENT_BASE = '/content/docs/';
+    let CONTENT_BASE = '/content/docs/'; // Will auto-detect correct path
     const XP_PER_PAGE = 50;
     const LEVEL_UP_XP = 100;
     const BONUS_XP_STREAK = 25;
     const COMBO_BONUS = 10;
+
+    // Possible content base paths to try
+    const POSSIBLE_PATHS = [
+      '/docs/',                   // Hugo rendered pages (absolute)
+      '../docs/',                 // Relative from static/
+      'docs/',                    // Without leading slash
+      '/content/docs/',           // Hugo server dev mode (absolute)
+      '../content/docs/',         // Relative from static/ (dev)
+    ];
 
     // State Management
     const state = {
@@ -1490,21 +1499,92 @@
       return minutes;
     }
 
-    // Fetch and parse a markdown file
-    async function fetchPage(path) {
+    // Auto-detect the correct content base path
+    async function detectContentBase() {
+      // Try a test file from each section
+      const testFiles = [
+        'concept/philosophy/',        // Try HTML first
+        'concept/philosophy.md',      // Fallback to markdown (dev mode)
+      ];
+
+      for (const basePath of POSSIBLE_PATHS) {
+        for (const testFile of testFiles) {
+          try {
+            // Try to fetch a test file
+            const testPath = basePath + testFile;
+            const response = await fetch(testPath);
+            if (response.ok) {
+              const isMarkdown = testFile.endsWith('.md');
+              console.log(`✅ Content base path detected: ${basePath} (${isMarkdown ? 'Markdown' : 'HTML'} mode)`);
+              return { basePath, isMarkdown };
+            }
+          } catch (error) {
+            // Continue to next path
+          }
+        }
+      }
+
+      // If none worked, show error
+      console.error('❌ Could not detect content base path');
+      return null;
+    }
+
+    // Parse HTML content from Hugo-rendered pages
+    function parseHtmlContent(html) {
+      // Create a temporary DOM element to parse HTML
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+
+      // Extract title
+      const titleEl = doc.querySelector('h1') || doc.querySelector('title');
+      const title = titleEl ? titleEl.textContent.trim() : 'Untitled';
+
+      // Extract description/lead
+      const leadEl = doc.querySelector('.lead') || doc.querySelector('meta[name="description"]');
+      const description = leadEl ? (leadEl.content || leadEl.textContent).trim() : '';
+
+      // Extract main content - preserve HTML structure
+      const articleEl = doc.querySelector('article') || doc.querySelector('main') || doc.querySelector('.content');
+      const bodyHtml = articleEl ? articleEl.innerHTML : doc.body.innerHTML;
+      const bodyText = articleEl ? articleEl.textContent.trim() : doc.body.textContent.trim();
+
+      return { title, description, bodyHtml, bodyText };
+    }
+
+    // Fetch and parse a page (markdown or HTML)
+    async function fetchPage(path, isMarkdown = false) {
       try {
         const response = await fetch(path);
         if (!response.ok) throw new Error(`Failed to fetch ${path}`);
         const content = await response.text();
-        const { frontmatter, body } = parseFrontmatter(content);
+
+        let title, description, body, bodyHtml;
+
+        if (isMarkdown) {
+          // Parse markdown with frontmatter
+          const { frontmatter, body: mdBody } = parseFrontmatter(content);
+          title = frontmatter.title || 'Untitled';
+          description = frontmatter.description || frontmatter.lead || '';
+          body = mdBody;
+          bodyHtml = null; // Will be rendered with marked.js
+        } else {
+          // Parse HTML content
+          const parsed = parseHtmlContent(content);
+          title = parsed.title;
+          description = parsed.description;
+          body = parsed.bodyText; // For reading time calculation
+          bodyHtml = parsed.bodyHtml; // For display in modal
+        }
 
         return {
           path,
           section: getSection(path),
-          title: frontmatter.title || 'Untitled',
-          description: frontmatter.description || frontmatter.lead || '',
-          body: body,
-          weight: frontmatter.weight || 0,
+          title,
+          description,
+          body,
+          bodyHtml, // HTML content (only for HTML mode)
+          isMarkdown, // Flag to know how to render
+          weight: 0,
           readingTime: estimateReadingTime(body)
         };
       } catch (error) {
@@ -1514,19 +1594,24 @@
     }
 
     // Discover all content pages
-    async function discoverPages() {
+    async function discoverPages(isMarkdown = false) {
+      // Define page slugs (without extension)
       const sections = [
-        { path: 'concept/', pages: ['is-this-for-you.md', 'philosophy.md', 'post-rope.md', 'sex-positive.md', 'experience.md', 'agreements.md', 'belonging.md'] },
-        { path: 'practical/', pages: ['participation.md', 'schedule.md', 'getting-there.md', 'accommodations.md', 'things-to-bring.md', 'food.md', 'photography-guidelines.md', 'leave-no-trace.md', 'faq.md', 'policies.md'] },
-        { path: 'wellbeing/', pages: ['consent-framework.md', 'support-care.md', 'neuro.md', 'emotional-wellbeing.md', 'partners.md', 'after-integration.md'] }
+        { path: 'concept/', pages: ['is-this-for-you', 'philosophy', 'post-rope', 'sex-positive', 'experience', 'agreements', 'belonging'] },
+        { path: 'practical/', pages: ['participation', 'schedule', 'getting-there', 'accommodations', 'things-to-bring', 'food', 'photography-guidelines', 'leave-no-trace', 'faq', 'policies'] },
+        { path: 'wellbeing/', pages: ['consent-framework', 'support-care', 'neuro', 'emotional-wellbeing', 'partners', 'after-integration'] }
       ];
 
       const pages = [];
 
       for (const section of sections) {
-        for (const pageName of section.pages) {
-          const path = CONTENT_BASE + section.path + pageName;
-          const page = await fetchPage(path);
+        for (const pageSlug of section.pages) {
+          // Build path based on mode (HTML or Markdown)
+          const path = isMarkdown
+            ? CONTENT_BASE + section.path + pageSlug + '.md'
+            : CONTENT_BASE + section.path + pageSlug + '/';
+
+          const page = await fetchPage(path, isMarkdown);
           if (page) pages.push(page);
         }
       }
@@ -1592,7 +1677,15 @@
       modalSection.textContent = page.section;
       modalTitle.textContent = page.title;
       modalLead.textContent = page.description;
-      modalBody.innerHTML = marked.parse(page.body);
+
+      // Render content based on mode
+      if (page.isMarkdown) {
+        // Markdown mode - parse and render
+        modalBody.innerHTML = marked.parse(page.body);
+      } else {
+        // HTML mode - use pre-rendered HTML
+        modalBody.innerHTML = page.bodyHtml || page.body;
+      }
 
       // Update current page index for navigation
       state.currentPageIndex = state.pages.findIndex(p => p.path === page.path);
@@ -2017,8 +2110,32 @@
         document.getElementById('darkModeToggle').textContent = '☀️';
       }
 
-      // Discover and load pages
-      state.pages = await discoverPages();
+      // Auto-detect correct content base path
+      const detected = await detectContentBase();
+      if (detected) {
+        CONTENT_BASE = detected.basePath;
+        const isMarkdown = detected.isMarkdown;
+        console.log(`📚 Loading pages from: ${CONTENT_BASE} (${isMarkdown ? 'Markdown' : 'HTML'} mode)`);
+
+        // Discover and load pages
+        state.pages = await discoverPages(isMarkdown);
+      } else {
+        // Show helpful error message
+        document.getElementById('loading').innerHTML = `
+          <div style="max-width: 600px; margin: 0 auto; text-align: center;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">⚠️</div>
+            <h2 style="margin-bottom: 1rem;">Content Not Found</h2>
+            <p style="margin-bottom: 1rem;">Could not load content files. Please make sure you're accessing this webapp through:</p>
+            <ul style="text-align: left; display: inline-block; margin-bottom: 1rem;">
+              <li><strong>Hugo Server (Dev):</strong> Run <code>hugo server</code> and access via http://localhost:1313/journey.html</li>
+              <li><strong>Production Site:</strong> Deploy and access the built site (HTML mode)</li>
+              <li><strong>Web Server:</strong> Serve the entire docs directory (not just static/)</li>
+            </ul>
+            <p style="opacity: 0.8; font-size: 0.9rem;">The webapp dynamically fetches rendered HTML pages from /docs/</p>
+          </div>
+        `;
+        return; // Stop initialization
+      }
 
       document.getElementById('loading').style.display = 'none';
       document.getElementById('contentGrid').style.display = 'grid';
