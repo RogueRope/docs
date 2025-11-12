@@ -759,12 +759,14 @@
       margin-top: 2rem;
       margin-bottom: 1rem;
       color: var(--outer-space);
+      font-size: 1.5rem;
     }
 
     .modal-body h3 {
       margin-top: 1.5rem;
       margin-bottom: 0.75rem;
       color: var(--outer-space);
+      font-size: 1.2rem;
     }
 
     .modal-body p {
@@ -776,21 +778,96 @@
       margin-bottom: 1rem;
     }
 
+    .modal-body li {
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-body img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(91, 75, 255, 0.15);
+      border: 1px solid rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-body a {
+      color: var(--primary-color);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(91, 75, 255, 0.3);
+      transition: all 0.2s;
+    }
+
+    .modal-body a:hover {
+      color: var(--primary-soft);
+      border-bottom-color: var(--primary-color);
+      background: rgba(91, 75, 255, 0.05);
+      padding: 0 2px;
+    }
+
+    .modal-body code {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-family: 'Monaco', 'Courier New', monospace;
+      font-size: 0.9em;
+      border: 1px solid rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-body pre {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      padding: 1rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      margin: 1rem 0;
+      border: 1px solid rgba(91, 75, 255, 0.15);
+    }
+
+    .modal-body pre code {
+      background: none;
+      padding: 0;
+      border: none;
+    }
+
+    .modal-body blockquote {
+      border-left: 4px solid var(--primary-color);
+      padding-left: 1.5rem;
+      margin: 1.5rem 0;
+      font-style: italic;
+      opacity: 0.9;
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.05) 0%, rgba(102, 126, 234, 0.05) 100%);
+      padding: 1rem 1rem 1rem 1.5rem;
+      border-radius: 0 8px 8px 0;
+    }
+
     .modal-body table {
       width: 100%;
       border-collapse: collapse;
-      margin: 1rem 0;
+      margin: 1.5rem 0;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.1);
     }
 
     .modal-body th, .modal-body td {
       padding: 0.75rem;
-      border: 1px solid var(--timberwolf);
+      border: 1px solid rgba(91, 75, 255, 0.15);
       text-align: left;
     }
 
     .modal-body th {
-      background: var(--champagne-pink);
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.12) 0%, rgba(102, 126, 234, 0.12) 100%);
       font-weight: 600;
+      color: var(--primary-color);
+    }
+
+    .modal-body tr:nth-child(even) {
+      background: rgba(91, 75, 255, 0.03);
+    }
+
+    .modal-body tr:hover {
+      background: rgba(91, 75, 255, 0.08);
     }
 
     .modal-footer {
