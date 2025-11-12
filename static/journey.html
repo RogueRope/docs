@@ -1,0 +1,1132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bottoms Up! - Interactive Journey</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --champagne-pink: #F4DED4;
+      --cherry-blossom: #FFB7C5;
+      --ash-gray: #B4BEC9;
+      --timberwolf: #DBD5D1;
+      --outer-space: #444B53;
+      --concept-color: #FFB7C5;
+      --practical-color: #B4BEC9;
+      --wellbeing-color: #A8D5BA;
+      --gold: #FFD700;
+      --shadow: rgba(0,0,0,0.1);
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: linear-gradient(135deg, #F4DED4 0%, #DBD5D1 100%);
+      color: #444B53;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    /* Header & Gamification UI */
+    .header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      padding: 1rem 2rem;
+      box-shadow: 0 2px 20px var(--shadow);
+      z-index: 1000;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: var(--outer-space);
+    }
+
+    .stats-panel {
+      display: flex;
+      gap: 2rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .stat-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      opacity: 0.7;
+      font-weight: 600;
+    }
+
+    .stat-value {
+      font-size: 1.25rem;
+      font-weight: bold;
+      color: var(--cherry-blossom);
+    }
+
+    .xp-bar {
+      width: 200px;
+      height: 8px;
+      background: rgba(0,0,0,0.1);
+      border-radius: 10px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .xp-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--cherry-blossom), var(--gold));
+      transition: width 0.5s ease;
+      border-radius: 10px;
+    }
+
+    .level-badge {
+      background: linear-gradient(135deg, var(--gold), var(--cherry-blossom));
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 20px;
+      font-weight: bold;
+      box-shadow: 0 4px 10px rgba(255, 215, 0, 0.3);
+    }
+
+    /* Main Container */
+    .container {
+      margin-top: 120px;
+      padding: 2rem;
+      max-width: 1400px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    /* Search Bar */
+    .search-container {
+      margin-bottom: 2rem;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 1rem 3rem 1rem 1rem;
+      border: 2px solid var(--timberwolf);
+      border-radius: 50px;
+      font-size: 1rem;
+      outline: none;
+      transition: all 0.3s;
+      background: white;
+    }
+
+    .search-input:focus {
+      border-color: var(--cherry-blossom);
+      box-shadow: 0 4px 20px rgba(255, 183, 197, 0.2);
+    }
+
+    .search-icon {
+      position: absolute;
+      right: 1.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.25rem;
+      opacity: 0.5;
+    }
+
+    /* Journey Path Selector */
+    .journey-selector {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .journey-card {
+      background: white;
+      border-radius: 20px;
+      padding: 2rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 4px 20px var(--shadow);
+      border: 3px solid transparent;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .journey-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 5px;
+      background: var(--concept-color);
+      transform: scaleX(0);
+      transition: transform 0.3s;
+    }
+
+    .journey-card:hover::before {
+      transform: scaleX(1);
+    }
+
+    .journey-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 30px var(--shadow);
+    }
+
+    .journey-card.active {
+      border-color: var(--cherry-blossom);
+    }
+
+    .journey-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .journey-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .journey-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    .journey-progress {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      color: var(--cherry-blossom);
+      font-weight: 600;
+    }
+
+    /* Content Grid */
+    .content-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .content-card {
+      background: white;
+      border-radius: 15px;
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 4px 15px var(--shadow);
+      border-left: 5px solid var(--concept-color);
+      position: relative;
+      opacity: 0;
+      animation: fadeInUp 0.5s forwards;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+    }
+
+    .content-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 25px var(--shadow);
+    }
+
+    .content-card.read {
+      opacity: 0.7;
+    }
+
+    .content-card.read::after {
+      content: '✓';
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: var(--gold);
+      color: white;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+    }
+
+    .content-card.concept {
+      border-left-color: var(--concept-color);
+    }
+
+    .content-card.practical {
+      border-left-color: var(--practical-color);
+    }
+
+    .content-card.wellbeing {
+      border-left-color: var(--wellbeing-color);
+    }
+
+    .card-section {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      opacity: 0.6;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+      line-height: 1.5;
+    }
+
+    .card-xp {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      color: var(--gold);
+      font-weight: 600;
+    }
+
+    /* Modal/Content Viewer */
+    .modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 2000;
+      padding: 2rem;
+      overflow-y: auto;
+    }
+
+    .modal.active {
+      display: flex;
+    }
+
+    .modal-content {
+      background: white;
+      border-radius: 20px;
+      padding: 3rem;
+      max-width: 800px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+      animation: slideIn 0.3s;
+    }
+
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: scale(0.9);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 1.5rem;
+      right: 1.5rem;
+      font-size: 2rem;
+      cursor: pointer;
+      background: none;
+      border: none;
+      color: var(--outer-space);
+      opacity: 0.6;
+      transition: opacity 0.3s;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+    }
+
+    .modal-close:hover {
+      opacity: 1;
+      background: rgba(0,0,0,0.05);
+    }
+
+    .modal-header {
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 2px solid var(--timberwolf);
+    }
+
+    .modal-section {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      color: var(--cherry-blossom);
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-lead {
+      font-size: 1.1rem;
+      opacity: 0.8;
+      font-style: italic;
+    }
+
+    .modal-body {
+      line-height: 1.8;
+    }
+
+    .modal-body h2 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      color: var(--outer-space);
+    }
+
+    .modal-body h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.75rem;
+      color: var(--outer-space);
+    }
+
+    .modal-body p {
+      margin-bottom: 1rem;
+    }
+
+    .modal-body ul, .modal-body ol {
+      margin-left: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .modal-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+    }
+
+    .modal-body th, .modal-body td {
+      padding: 0.75rem;
+      border: 1px solid var(--timberwolf);
+      text-align: left;
+    }
+
+    .modal-body th {
+      background: var(--champagne-pink);
+      font-weight: 600;
+    }
+
+    /* Achievement Toast */
+    .achievement-toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: linear-gradient(135deg, var(--gold), var(--cherry-blossom));
+      color: white;
+      padding: 1.5rem;
+      border-radius: 15px;
+      box-shadow: 0 8px 30px rgba(255, 215, 0, 0.4);
+      display: none;
+      align-items: center;
+      gap: 1rem;
+      animation: slideInRight 0.5s;
+      z-index: 3000;
+      max-width: 350px;
+    }
+
+    @keyframes slideInRight {
+      from {
+        transform: translateX(400px);
+      }
+      to {
+        transform: translateX(0);
+      }
+    }
+
+    .achievement-toast.show {
+      display: flex;
+    }
+
+    .achievement-icon {
+      font-size: 2.5rem;
+    }
+
+    .achievement-text {
+      flex: 1;
+    }
+
+    .achievement-title {
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .achievement-desc {
+      font-size: 0.9rem;
+      opacity: 0.9;
+    }
+
+    /* Achievements Panel */
+    .achievements-btn {
+      position: fixed;
+      bottom: 2rem;
+      left: 2rem;
+      background: var(--cherry-blossom);
+      color: white;
+      padding: 1rem 1.5rem;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 4px 20px rgba(255, 183, 197, 0.4);
+      font-weight: 600;
+      border: none;
+      font-size: 1rem;
+      transition: all 0.3s;
+      z-index: 1500;
+    }
+
+    .achievements-btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 30px rgba(255, 183, 197, 0.6);
+    }
+
+    .achievements-panel {
+      position: fixed;
+      left: -400px;
+      top: 0;
+      bottom: 0;
+      width: 400px;
+      background: white;
+      box-shadow: 4px 0 30px var(--shadow);
+      transition: left 0.3s;
+      z-index: 2500;
+      overflow-y: auto;
+      padding: 2rem;
+    }
+
+    .achievements-panel.open {
+      left: 0;
+    }
+
+    .achievements-header {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .achievements-close {
+      cursor: pointer;
+      font-size: 1.5rem;
+      opacity: 0.6;
+    }
+
+    .achievement-item {
+      background: linear-gradient(135deg, rgba(255, 183, 197, 0.1), rgba(255, 215, 0, 0.1));
+      padding: 1rem;
+      border-radius: 10px;
+      margin-bottom: 1rem;
+      border-left: 4px solid var(--gold);
+    }
+
+    .achievement-item.locked {
+      opacity: 0.4;
+      border-left-color: var(--ash-gray);
+    }
+
+    .achievement-item-title {
+      font-weight: bold;
+      margin-bottom: 0.25rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .achievement-item-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header {
+        padding: 1rem;
+      }
+
+      .stats-panel {
+        gap: 1rem;
+      }
+
+      .xp-bar {
+        width: 150px;
+      }
+
+      .container {
+        margin-top: 180px;
+        padding: 1rem;
+      }
+
+      .content-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .modal-content {
+        padding: 2rem;
+        margin: 1rem;
+      }
+
+      .achievements-panel {
+        width: 90%;
+      }
+
+      .achievements-panel.open {
+        left: 0;
+      }
+
+      .achievements-btn {
+        bottom: 1rem;
+        left: 1rem;
+        padding: 0.75rem 1rem;
+      }
+
+      .achievement-toast {
+        bottom: 5rem;
+        right: 1rem;
+        left: 1rem;
+        max-width: none;
+      }
+    }
+
+    /* Loading State */
+    .loading {
+      text-align: center;
+      padding: 4rem;
+      font-size: 1.5rem;
+      color: var(--cherry-blossom);
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      border: 5px solid rgba(255, 183, 197, 0.3);
+      border-top-color: var(--cherry-blossom);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header with Gamification Stats -->
+  <div class="header">
+    <div class="logo">🪢 Bottoms Up!</div>
+    <div class="stats-panel">
+      <div class="level-badge">
+        <span>Level <span id="level">1</span></span>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">XP</div>
+        <div class="stat-value"><span id="xp">0</span> / <span id="nextLevelXp">100</span></div>
+      </div>
+      <div class="xp-bar">
+        <div class="xp-fill" id="xpBar" style="width: 0%"></div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Progress</div>
+        <div class="stat-value"><span id="progress">0</span>%</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Pages Read</div>
+        <div class="stat-value"><span id="pagesRead">0</span> / <span id="totalPages">31</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Container -->
+  <div class="container">
+    <!-- Search -->
+    <div class="search-container">
+      <input type="text" class="search-input" id="searchInput" placeholder="Search all content... (try 'consent', 'tickets', 'what to bring')">
+      <span class="search-icon">🔍</span>
+    </div>
+
+    <!-- Journey Path Selector -->
+    <div class="journey-selector" id="journeySelector">
+      <div class="journey-card" data-path="all">
+        <div class="journey-icon">🗺️</div>
+        <div class="journey-title">Complete Journey</div>
+        <div class="journey-desc">Explore all content at your own pace</div>
+        <div class="journey-progress">View all 31 pages</div>
+      </div>
+      <div class="journey-card" data-path="concept">
+        <div class="journey-icon">💭</div>
+        <div class="journey-title">The Philosophy</div>
+        <div class="journey-desc">Understand the values and vision</div>
+        <div class="journey-progress"><span id="conceptProgress">0</span>% complete</div>
+      </div>
+      <div class="journey-card" data-path="practical">
+        <div class="journey-icon">🎫</div>
+        <div class="journey-title">Practical Info</div>
+        <div class="journey-desc">Logistics, tickets, what to bring</div>
+        <div class="journey-progress"><span id="practicalProgress">0</span>% complete</div>
+      </div>
+      <div class="journey-card" data-path="wellbeing">
+        <div class="journey-icon">💚</div>
+        <div class="journey-title">Care & Support</div>
+        <div class="journey-desc">Consent, safety, and wellbeing</div>
+        <div class="journey-progress"><span id="wellbeingProgress">0</span>% complete</div>
+      </div>
+    </div>
+
+    <!-- Loading State -->
+    <div class="loading" id="loading">
+      <div class="spinner"></div>
+      <div style="margin-top: 1rem;">Loading your journey...</div>
+    </div>
+
+    <!-- Content Grid -->
+    <div class="content-grid" id="contentGrid" style="display: none;"></div>
+  </div>
+
+  <!-- Content Modal -->
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <button class="modal-close" id="modalClose">×</button>
+      <div class="modal-header">
+        <div class="modal-section" id="modalSection"></div>
+        <h1 class="modal-title" id="modalTitle"></h1>
+        <p class="modal-lead" id="modalLead"></p>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- Achievement Toast -->
+  <div class="achievement-toast" id="achievementToast">
+    <div class="achievement-icon">🏆</div>
+    <div class="achievement-text">
+      <div class="achievement-title" id="achievementTitle"></div>
+      <div class="achievement-desc" id="achievementDesc"></div>
+    </div>
+  </div>
+
+  <!-- Achievements Button -->
+  <button class="achievements-btn" id="achievementsBtn">
+    🏆 Achievements
+  </button>
+
+  <!-- Achievements Panel -->
+  <div class="achievements-panel" id="achievementsPanel">
+    <div class="achievements-header">
+      <span>Your Achievements</span>
+      <span class="achievements-close" id="achievementsClose">×</span>
+    </div>
+    <div id="achievementsList"></div>
+  </div>
+
+  <script>
+    // Configuration
+    const CONTENT_BASE = '/content/docs/';
+    const XP_PER_PAGE = 50;
+    const LEVEL_UP_XP = 100;
+
+    // State Management
+    const state = {
+      pages: [],
+      readPages: new Set(),
+      xp: 0,
+      level: 1,
+      achievements: new Set(),
+      currentPath: 'all',
+      searchTerm: ''
+    };
+
+    // Achievement Definitions
+    const achievements = [
+      { id: 'first_read', icon: '📖', title: 'First Steps', desc: 'Read your first page', condition: () => state.readPages.size >= 1 },
+      { id: 'explorer', icon: '🧭', title: 'Explorer', desc: 'Read 5 pages', condition: () => state.readPages.size >= 5 },
+      { id: 'scholar', icon: '🎓', title: 'Scholar', desc: 'Read 15 pages', condition: () => state.readPages.size >= 15 },
+      { id: 'completionist', icon: '💯', title: 'Completionist', desc: 'Read all pages', condition: () => state.readPages.size >= state.pages.length },
+      { id: 'philosopher', icon: '💭', title: 'Philosopher', desc: 'Read all Concept pages', condition: () => state.pages.filter(p => p.section === 'concept').every(p => state.readPages.has(p.path)) },
+      { id: 'prepared', icon: '🎒', title: 'Prepared', desc: 'Read all Practical pages', condition: () => state.pages.filter(p => p.section === 'practical').every(p => state.readPages.has(p.path)) },
+      { id: 'cared_for', icon: '💚', title: 'Cared For', desc: 'Read all Wellbeing pages', condition: () => state.pages.filter(p => p.section === 'wellbeing').every(p => state.readPages.has(p.path)) },
+      { id: 'level_5', icon: '⭐', title: 'Rising Star', desc: 'Reach level 5', condition: () => state.level >= 5 },
+      { id: 'searcher', icon: '🔍', title: 'Searcher', desc: 'Use the search feature', condition: () => false }
+    ];
+
+    // Load state from localStorage
+    function loadState() {
+      const saved = localStorage.getItem('bottomsUpState');
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        state.readPages = new Set(parsed.readPages || []);
+        state.xp = parsed.xp || 0;
+        state.level = parsed.level || 1;
+        state.achievements = new Set(parsed.achievements || []);
+      }
+    }
+
+    // Save state to localStorage
+    function saveState() {
+      localStorage.setItem('bottomsUpState', JSON.stringify({
+        readPages: Array.from(state.readPages),
+        xp: state.xp,
+        level: state.level,
+        achievements: Array.from(state.achievements)
+      }));
+    }
+
+    // Parse frontmatter from markdown
+    function parseFrontmatter(content) {
+      const fmRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/;
+      const match = content.match(fmRegex);
+
+      if (match) {
+        try {
+          const frontmatter = jsyaml.load(match[1]);
+          const body = match[2];
+          return { frontmatter, body };
+        } catch (e) {
+          console.error('Error parsing frontmatter:', e);
+          return { frontmatter: {}, body: content };
+        }
+      }
+
+      return { frontmatter: {}, body: content };
+    }
+
+    // Determine section from path
+    function getSection(path) {
+      if (path.includes('/concept/')) return 'concept';
+      if (path.includes('/practical/')) return 'practical';
+      if (path.includes('/wellbeing/')) return 'wellbeing';
+      return 'other';
+    }
+
+    // Fetch and parse a markdown file
+    async function fetchPage(path) {
+      try {
+        const response = await fetch(path);
+        if (!response.ok) throw new Error(`Failed to fetch ${path}`);
+        const content = await response.text();
+        const { frontmatter, body } = parseFrontmatter(content);
+
+        return {
+          path,
+          section: getSection(path),
+          title: frontmatter.title || 'Untitled',
+          description: frontmatter.description || frontmatter.lead || '',
+          body: body,
+          weight: frontmatter.weight || 0
+        };
+      } catch (error) {
+        console.error(`Error fetching ${path}:`, error);
+        return null;
+      }
+    }
+
+    // Discover all content pages
+    async function discoverPages() {
+      const sections = [
+        { path: 'concept/', pages: ['is-this-for-you.md', 'philosophy.md', 'post-rope.md', 'sex-positive.md', 'experience.md', 'agreements.md', 'belonging.md'] },
+        { path: 'practical/', pages: ['participation.md', 'schedule.md', 'getting-there.md', 'accommodations.md', 'things-to-bring.md', 'food.md', 'photography-guidelines.md', 'leave-no-trace.md', 'faq.md', 'policies.md'] },
+        { path: 'wellbeing/', pages: ['consent-framework.md', 'support-care.md', 'neuro.md', 'emotional-wellbeing.md', 'partners.md', 'after-integration.md'] }
+      ];
+
+      const pages = [];
+
+      for (const section of sections) {
+        for (const pageName of section.pages) {
+          const path = CONTENT_BASE + section.path + pageName;
+          const page = await fetchPage(path);
+          if (page) pages.push(page);
+        }
+      }
+
+      return pages;
+    }
+
+    // Render content cards
+    function renderCards(pages) {
+      const grid = document.getElementById('contentGrid');
+      grid.innerHTML = '';
+
+      pages.forEach((page, index) => {
+        const card = document.createElement('div');
+        card.className = `content-card ${page.section}`;
+        if (state.readPages.has(page.path)) {
+          card.classList.add('read');
+        }
+        card.style.animationDelay = `${index * 0.05}s`;
+
+        card.innerHTML = `
+          <div class="card-section">${page.section}</div>
+          <div class="card-title">${page.title}</div>
+          <div class="card-desc">${page.description}</div>
+          <div class="card-xp">+${XP_PER_PAGE} XP</div>
+        `;
+
+        card.addEventListener('click', () => openPage(page));
+        grid.appendChild(card);
+      });
+    }
+
+    // Open page in modal
+    async function openPage(page) {
+      const modal = document.getElementById('modal');
+      const modalSection = document.getElementById('modalSection');
+      const modalTitle = document.getElementById('modalTitle');
+      const modalLead = document.getElementById('modalLead');
+      const modalBody = document.getElementById('modalBody');
+
+      modalSection.textContent = page.section;
+      modalTitle.textContent = page.title;
+      modalLead.textContent = page.description;
+      modalBody.innerHTML = marked.parse(page.body);
+
+      modal.classList.add('active');
+
+      // Mark as read and award XP
+      if (!state.readPages.has(page.path)) {
+        state.readPages.add(page.path);
+        addXP(XP_PER_PAGE);
+        checkAchievements();
+        updateUI();
+        saveState();
+      }
+    }
+
+    // Close modal
+    function closeModal() {
+      document.getElementById('modal').classList.remove('active');
+    }
+
+    // Add XP and handle level up
+    function addXP(amount) {
+      state.xp += amount;
+
+      const xpForNextLevel = state.level * LEVEL_UP_XP;
+      while (state.xp >= xpForNextLevel) {
+        state.xp -= xpForNextLevel;
+        state.level++;
+        showAchievement('🎉', 'Level Up!', `You've reached level ${state.level}!`);
+      }
+    }
+
+    // Check and unlock achievements
+    function checkAchievements() {
+      achievements.forEach(achievement => {
+        if (!state.achievements.has(achievement.id) && achievement.condition()) {
+          state.achievements.add(achievement.id);
+          showAchievement(achievement.icon, achievement.title, achievement.desc);
+        }
+      });
+    }
+
+    // Show achievement toast
+    function showAchievement(icon, title, desc) {
+      const toast = document.getElementById('achievementToast');
+      document.getElementById('achievementTitle').textContent = title;
+      document.getElementById('achievementDesc').textContent = desc;
+      document.querySelector('.achievement-icon').textContent = icon;
+
+      toast.classList.add('show');
+
+      setTimeout(() => {
+        toast.classList.remove('show');
+      }, 4000);
+    }
+
+    // Update UI elements
+    function updateUI() {
+      // Update stats
+      document.getElementById('level').textContent = state.level;
+      document.getElementById('xp').textContent = state.xp;
+      const xpForNextLevel = state.level * LEVEL_UP_XP;
+      document.getElementById('nextLevelXp').textContent = xpForNextLevel;
+
+      const xpPercent = (state.xp / xpForNextLevel) * 100;
+      document.getElementById('xpBar').style.width = `${xpPercent}%`;
+
+      const totalPages = state.pages.length;
+      const pagesRead = state.readPages.size;
+      document.getElementById('pagesRead').textContent = pagesRead;
+      document.getElementById('totalPages').textContent = totalPages;
+
+      const progress = totalPages > 0 ? Math.round((pagesRead / totalPages) * 100) : 0;
+      document.getElementById('progress').textContent = progress;
+
+      // Update section progress
+      updateSectionProgress();
+
+      // Update cards
+      document.querySelectorAll('.content-card').forEach(card => {
+        const path = state.pages.find(p => p.title === card.querySelector('.card-title').textContent)?.path;
+        if (path && state.readPages.has(path)) {
+          card.classList.add('read');
+        }
+      });
+    }
+
+    // Update section progress
+    function updateSectionProgress() {
+      const sections = ['concept', 'practical', 'wellbeing'];
+
+      sections.forEach(section => {
+        const sectionPages = state.pages.filter(p => p.section === section);
+        const readCount = sectionPages.filter(p => state.readPages.has(p.path)).length;
+        const percent = sectionPages.length > 0 ? Math.round((readCount / sectionPages.length) * 100) : 0;
+
+        const elem = document.getElementById(`${section}Progress`);
+        if (elem) elem.textContent = percent;
+      });
+    }
+
+    // Render achievements panel
+    function renderAchievements() {
+      const list = document.getElementById('achievementsList');
+      list.innerHTML = '';
+
+      achievements.forEach(achievement => {
+        const item = document.createElement('div');
+        item.className = 'achievement-item';
+        const unlocked = state.achievements.has(achievement.id);
+        if (!unlocked) item.classList.add('locked');
+
+        item.innerHTML = `
+          <div class="achievement-item-title">
+            <span>${achievement.icon}</span>
+            <span>${achievement.title}</span>
+          </div>
+          <div class="achievement-item-desc">${achievement.desc}</div>
+        `;
+
+        list.appendChild(item);
+      });
+    }
+
+    // Filter and display pages
+    function filterPages() {
+      let filtered = state.pages;
+
+      // Filter by path
+      if (state.currentPath !== 'all') {
+        filtered = filtered.filter(p => p.section === state.currentPath);
+      }
+
+      // Filter by search
+      if (state.searchTerm) {
+        const term = state.searchTerm.toLowerCase();
+        filtered = filtered.filter(p =>
+          p.title.toLowerCase().includes(term) ||
+          p.description.toLowerCase().includes(term) ||
+          p.body.toLowerCase().includes(term)
+        );
+
+        // Unlock searcher achievement
+        if (!state.achievements.has('searcher')) {
+          state.achievements.add('searcher');
+          showAchievement('🔍', 'Searcher', 'Used the search feature');
+          saveState();
+        }
+      }
+
+      renderCards(filtered);
+    }
+
+    // Initialize app
+    async function init() {
+      loadState();
+
+      // Discover and load pages
+      state.pages = await discoverPages();
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('contentGrid').style.display = 'grid';
+
+      filterPages();
+      updateUI();
+      renderAchievements();
+
+      // Event listeners
+      document.getElementById('modalClose').addEventListener('click', closeModal);
+      document.getElementById('modal').addEventListener('click', (e) => {
+        if (e.target.id === 'modal') closeModal();
+      });
+
+      document.querySelectorAll('.journey-card').forEach(card => {
+        card.addEventListener('click', () => {
+          document.querySelectorAll('.journey-card').forEach(c => c.classList.remove('active'));
+          card.classList.add('active');
+          state.currentPath = card.dataset.path;
+          filterPages();
+        });
+      });
+
+      document.getElementById('searchInput').addEventListener('input', (e) => {
+        state.searchTerm = e.target.value;
+        filterPages();
+      });
+
+      document.getElementById('achievementsBtn').addEventListener('click', () => {
+        document.getElementById('achievementsPanel').classList.add('open');
+      });
+
+      document.getElementById('achievementsClose').addEventListener('click', () => {
+        document.getElementById('achievementsPanel').classList.remove('open');
+      });
+
+      // Keyboard shortcuts
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          closeModal();
+          document.getElementById('achievementsPanel').classList.remove('open');
+        }
+      });
+    }
+
+    // Start the app
+    init();
+  </script>
+
+</body>
+</html>
