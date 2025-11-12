@@ -6,6 +6,7 @@
   <title>Bottoms Up! - Interactive Journey</title>
   <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
   <style>
     * {
       margin: 0;
@@ -23,6 +24,8 @@
       --practical-color: #B4BEC9;
       --wellbeing-color: #A8D5BA;
       --gold: #FFD700;
+      --silver: #C0C0C0;
+      --bronze: #CD7F32;
       --shadow: rgba(0,0,0,0.1);
     }
 
@@ -32,6 +35,28 @@
       color: #444B53;
       line-height: 1.6;
       overflow-x: hidden;
+    }
+
+    body.dark-mode {
+      background: linear-gradient(135deg, #2d2d2d 0%, #1a1a1a 100%);
+      color: #e0e0e0;
+    }
+
+    body.dark-mode .header,
+    body.dark-mode .modal-content,
+    body.dark-mode .content-card,
+    body.dark-mode .journey-card,
+    body.dark-mode .achievements-panel,
+    body.dark-mode .stats-dashboard,
+    body.dark-mode .onboarding-modal-content {
+      background: #2d2d2d;
+      color: #e0e0e0;
+    }
+
+    body.dark-mode .search-input {
+      background: #3d3d3d;
+      color: #e0e0e0;
+      border-color: #555;
     }
 
     /* Header & Gamification UI */
@@ -56,6 +81,29 @@
       font-size: 1.5rem;
       font-weight: bold;
       color: var(--outer-space);
+      cursor: pointer;
+    }
+
+    .header-actions {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .icon-btn {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      opacity: 0.7;
+      transition: all 0.3s;
+      padding: 0.5rem;
+      border-radius: 10px;
+    }
+
+    .icon-btn:hover {
+      opacity: 1;
+      background: rgba(0,0,0,0.05);
     }
 
     .stats-panel {
@@ -70,6 +118,7 @@
       flex-direction: column;
       align-items: center;
       gap: 0.25rem;
+      position: relative;
     }
 
     .stat-label {
@@ -83,6 +132,19 @@
       font-size: 1.25rem;
       font-weight: bold;
       color: var(--cherry-blossom);
+    }
+
+    .streak-flame {
+      position: absolute;
+      top: -5px;
+      right: -5px;
+      font-size: 1rem;
+      animation: flicker 2s infinite;
+    }
+
+    @keyframes flicker {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.8; transform: scale(1.1); }
     }
 
     .xp-bar {
@@ -108,6 +170,15 @@
       border-radius: 20px;
       font-weight: bold;
       box-shadow: 0 4px 10px rgba(255, 215, 0, 0.3);
+      position: relative;
+    }
+
+    .level-badge::after {
+      content: '⭐';
+      position: absolute;
+      top: -5px;
+      right: -5px;
+      font-size: 1rem;
     }
 
     /* Main Container */
@@ -218,6 +289,22 @@
       font-weight: 600;
     }
 
+    .journey-progress-bar {
+      width: 100%;
+      height: 6px;
+      background: rgba(0,0,0,0.1);
+      border-radius: 10px;
+      margin-top: 0.5rem;
+      overflow: hidden;
+    }
+
+    .journey-progress-fill {
+      height: 100%;
+      background: var(--cherry-blossom);
+      transition: width 0.5s ease;
+      border-radius: 10px;
+    }
+
     /* Content Grid */
     .content-grid {
       display: grid;
@@ -307,11 +394,22 @@
       line-height: 1.5;
     }
 
-    .card-xp {
+    .card-meta {
       margin-top: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .card-xp {
       font-size: 0.85rem;
       color: var(--gold);
       font-weight: 600;
+    }
+
+    .card-time {
+      font-size: 0.8rem;
+      opacity: 0.6;
     }
 
     /* Modal/Content Viewer */
@@ -357,6 +455,36 @@
       }
     }
 
+    .modal-nav {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      gap: 1rem;
+    }
+
+    .modal-nav-btn {
+      background: var(--cherry-blossom);
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s;
+      font-size: 0.9rem;
+    }
+
+    .modal-nav-btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 15px rgba(255, 183, 197, 0.4);
+    }
+
+    .modal-nav-btn:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+      transform: none;
+    }
+
     .modal-close {
       position: absolute;
       top: 1.5rem;
@@ -374,6 +502,7 @@
       align-items: center;
       justify-content: center;
       border-radius: 50%;
+      z-index: 10;
     }
 
     .modal-close:hover {
@@ -447,6 +576,37 @@
     .modal-body th {
       background: var(--champagne-pink);
       font-weight: 600;
+    }
+
+    .modal-footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 2px solid var(--timberwolf);
+    }
+
+    .recommended-next {
+      margin-top: 1rem;
+    }
+
+    .recommended-title {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      opacity: 0.8;
+    }
+
+    .recommended-item {
+      background: rgba(255, 183, 197, 0.1);
+      padding: 0.75rem;
+      border-radius: 10px;
+      margin-bottom: 0.5rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      border-left: 3px solid var(--cherry-blossom);
+    }
+
+    .recommended-item:hover {
+      background: rgba(255, 183, 197, 0.2);
+      transform: translateX(5px);
     }
 
     /* Achievement Toast */
@@ -524,10 +684,10 @@
 
     .achievements-panel {
       position: fixed;
-      left: -400px;
+      left: -450px;
       top: 0;
       bottom: 0;
-      width: 400px;
+      width: 450px;
       background: white;
       box-shadow: 4px 0 30px var(--shadow);
       transition: left 0.3s;
@@ -561,6 +721,7 @@
       border-radius: 10px;
       margin-bottom: 1rem;
       border-left: 4px solid var(--gold);
+      position: relative;
     }
 
     .achievement-item.locked {
@@ -581,6 +742,285 @@
       opacity: 0.8;
     }
 
+    .achievement-xp {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: var(--gold);
+      color: white;
+      padding: 0.25rem 0.5rem;
+      border-radius: 10px;
+      font-size: 0.75rem;
+      font-weight: bold;
+    }
+
+    /* Stats Dashboard */
+    .stats-btn {
+      position: fixed;
+      bottom: 5.5rem;
+      left: 2rem;
+      background: var(--practical-color);
+      color: white;
+      padding: 1rem 1.5rem;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 4px 20px rgba(180, 190, 201, 0.4);
+      font-weight: 600;
+      border: none;
+      font-size: 1rem;
+      transition: all 0.3s;
+      z-index: 1500;
+    }
+
+    .stats-btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 30px rgba(180, 190, 201, 0.6);
+    }
+
+    .stats-dashboard {
+      position: fixed;
+      left: -500px;
+      top: 0;
+      bottom: 0;
+      width: 500px;
+      background: white;
+      box-shadow: 4px 0 30px var(--shadow);
+      transition: left 0.3s;
+      z-index: 2500;
+      overflow-y: auto;
+      padding: 2rem;
+    }
+
+    .stats-dashboard.open {
+      left: 0;
+    }
+
+    .stats-header {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .stats-close {
+      cursor: pointer;
+      font-size: 1.5rem;
+      opacity: 0.6;
+    }
+
+    .stats-section {
+      margin-bottom: 2rem;
+    }
+
+    .stats-section-title {
+      font-weight: bold;
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
+
+    .stat-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.75rem;
+      background: rgba(0,0,0,0.03);
+      border-radius: 10px;
+      margin-bottom: 0.5rem;
+    }
+
+    .stat-row-label {
+      opacity: 0.8;
+    }
+
+    .stat-row-value {
+      font-weight: bold;
+      color: var(--cherry-blossom);
+    }
+
+    .chart-container {
+      margin-top: 1rem;
+      height: 200px;
+    }
+
+    /* Onboarding Modal */
+    .onboarding-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.9);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 5000;
+      padding: 2rem;
+    }
+
+    .onboarding-modal.active {
+      display: flex;
+    }
+
+    .onboarding-modal-content {
+      background: white;
+      border-radius: 20px;
+      padding: 3rem;
+      max-width: 600px;
+      width: 100%;
+      text-align: center;
+      animation: slideIn 0.3s;
+    }
+
+    .onboarding-icon {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+    }
+
+    .onboarding-title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    .onboarding-desc {
+      font-size: 1.1rem;
+      opacity: 0.8;
+      margin-bottom: 2rem;
+      line-height: 1.6;
+    }
+
+    .onboarding-features {
+      text-align: left;
+      margin-bottom: 2rem;
+    }
+
+    .onboarding-feature {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      background: rgba(255, 183, 197, 0.1);
+      border-radius: 10px;
+    }
+
+    .onboarding-feature-icon {
+      font-size: 2rem;
+    }
+
+    .onboarding-feature-text {
+      flex: 1;
+    }
+
+    .onboarding-feature-title {
+      font-weight: bold;
+      margin-bottom: 0.25rem;
+    }
+
+    .onboarding-feature-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    .onboarding-btn {
+      background: linear-gradient(135deg, var(--cherry-blossom), var(--gold));
+      color: white;
+      border: none;
+      padding: 1rem 3rem;
+      border-radius: 50px;
+      font-size: 1.1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 4px 20px rgba(255, 183, 197, 0.4);
+    }
+
+    .onboarding-btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 30px rgba(255, 183, 197, 0.6);
+    }
+
+    /* Share Modal */
+    .share-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 3000;
+      padding: 2rem;
+    }
+
+    .share-modal.active {
+      display: flex;
+    }
+
+    .share-modal-content {
+      background: white;
+      border-radius: 20px;
+      padding: 2rem;
+      max-width: 500px;
+      width: 100%;
+      animation: slideIn 0.3s;
+    }
+
+    .share-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    .share-stats {
+      background: linear-gradient(135deg, var(--cherry-blossom), var(--gold));
+      color: white;
+      padding: 2rem;
+      border-radius: 15px;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+
+    .share-stat-item {
+      margin-bottom: 0.5rem;
+    }
+
+    .share-stat-label {
+      opacity: 0.9;
+      font-size: 0.9rem;
+    }
+
+    .share-stat-value {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    .share-actions {
+      display: flex;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .share-btn {
+      flex: 1;
+      background: var(--cherry-blossom);
+      color: white;
+      border: none;
+      padding: 1rem;
+      border-radius: 10px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .share-btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 15px rgba(255, 183, 197, 0.4);
+    }
+
     /* Responsive */
     @media (max-width: 768px) {
       .header {
@@ -596,7 +1036,7 @@
       }
 
       .container {
-        margin-top: 180px;
+        margin-top: 200px;
         padding: 1rem;
       }
 
@@ -609,11 +1049,11 @@
         margin: 1rem;
       }
 
-      .achievements-panel {
+      .achievements-panel, .stats-dashboard {
         width: 90%;
       }
 
-      .achievements-panel.open {
+      .achievements-panel.open, .stats-dashboard.open {
         left: 0;
       }
 
@@ -623,8 +1063,14 @@
         padding: 0.75rem 1rem;
       }
 
+      .stats-btn {
+        bottom: 4.5rem;
+        left: 1rem;
+        padding: 0.75rem 1rem;
+      }
+
       .achievement-toast {
-        bottom: 5rem;
+        bottom: 8rem;
         right: 1rem;
         left: 1rem;
         max-width: none;
@@ -652,13 +1098,31 @@
     @keyframes spin {
       to { transform: rotate(360deg); }
     }
+
+    /* Confetti Animation */
+    .confetti {
+      position: fixed;
+      width: 10px;
+      height: 10px;
+      background: var(--gold);
+      position: absolute;
+      animation: confetti-fall 3s linear;
+      z-index: 10000;
+    }
+
+    @keyframes confetti-fall {
+      to {
+        transform: translateY(100vh) rotate(360deg);
+        opacity: 0;
+      }
+    }
   </style>
 </head>
 <body>
 
   <!-- Header with Gamification Stats -->
   <div class="header">
-    <div class="logo">🪢 Bottoms Up!</div>
+    <div class="logo" onclick="window.location.reload()">🪢 Bottoms Up!</div>
     <div class="stats-panel">
       <div class="level-badge">
         <span>Level <span id="level">1</span></span>
@@ -671,13 +1135,23 @@
         <div class="xp-fill" id="xpBar" style="width: 0%"></div>
       </div>
       <div class="stat-item">
+        <div class="stat-label">Streak</div>
+        <div class="stat-value">
+          <span id="streak">0</span> 🔥
+        </div>
+      </div>
+      <div class="stat-item">
         <div class="stat-label">Progress</div>
         <div class="stat-value"><span id="progress">0</span>%</div>
       </div>
       <div class="stat-item">
-        <div class="stat-label">Pages Read</div>
-        <div class="stat-value"><span id="pagesRead">0</span> / <span id="totalPages">31</span></div>
+        <div class="stat-label">Pages</div>
+        <div class="stat-value"><span id="pagesRead">0</span>/<span id="totalPages">23</span></div>
       </div>
+    </div>
+    <div class="header-actions">
+      <button class="icon-btn" id="darkModeToggle" title="Toggle Dark Mode">🌙</button>
+      <button class="icon-btn" id="shareBtn" title="Share Progress">📤</button>
     </div>
   </div>
 
@@ -691,29 +1165,49 @@
 
     <!-- Journey Path Selector -->
     <div class="journey-selector" id="journeySelector">
-      <div class="journey-card" data-path="all">
+      <div class="journey-card active" data-path="all">
         <div class="journey-icon">🗺️</div>
         <div class="journey-title">Complete Journey</div>
         <div class="journey-desc">Explore all content at your own pace</div>
-        <div class="journey-progress">View all 31 pages</div>
+        <div class="journey-progress">
+          <span id="allProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="allProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
       </div>
       <div class="journey-card" data-path="concept">
         <div class="journey-icon">💭</div>
         <div class="journey-title">The Philosophy</div>
         <div class="journey-desc">Understand the values and vision</div>
-        <div class="journey-progress"><span id="conceptProgress">0</span>% complete</div>
+        <div class="journey-progress">
+          <span id="conceptProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="conceptProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
       </div>
       <div class="journey-card" data-path="practical">
         <div class="journey-icon">🎫</div>
         <div class="journey-title">Practical Info</div>
         <div class="journey-desc">Logistics, tickets, what to bring</div>
-        <div class="journey-progress"><span id="practicalProgress">0</span>% complete</div>
+        <div class="journey-progress">
+          <span id="practicalProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="practicalProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
       </div>
       <div class="journey-card" data-path="wellbeing">
         <div class="journey-icon">💚</div>
         <div class="journey-title">Care & Support</div>
         <div class="journey-desc">Consent, safety, and wellbeing</div>
-        <div class="journey-progress"><span id="wellbeingProgress">0</span>% complete</div>
+        <div class="journey-progress">
+          <span id="wellbeingProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="wellbeingProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -731,12 +1225,19 @@
   <div class="modal" id="modal">
     <div class="modal-content">
       <button class="modal-close" id="modalClose">×</button>
+      <div class="modal-nav">
+        <button class="modal-nav-btn" id="prevPageBtn">← Previous</button>
+        <button class="modal-nav-btn" id="nextPageBtn">Next →</button>
+      </div>
       <div class="modal-header">
         <div class="modal-section" id="modalSection"></div>
         <h1 class="modal-title" id="modalTitle"></h1>
         <p class="modal-lead" id="modalLead"></p>
       </div>
       <div class="modal-body" id="modalBody"></div>
+      <div class="modal-footer">
+        <div class="recommended-next" id="recommendedNext"></div>
+      </div>
     </div>
   </div>
 
@@ -749,12 +1250,11 @@
     </div>
   </div>
 
-  <!-- Achievements Button -->
+  <!-- Achievements Button & Panel -->
   <button class="achievements-btn" id="achievementsBtn">
-    🏆 Achievements
+    🏆 Achievements <span id="achievementCount">(0/0)</span>
   </button>
 
-  <!-- Achievements Panel -->
   <div class="achievements-panel" id="achievementsPanel">
     <div class="achievements-header">
       <span>Your Achievements</span>
@@ -763,11 +1263,94 @@
     <div id="achievementsList"></div>
   </div>
 
+  <!-- Stats Button & Dashboard -->
+  <button class="stats-btn" id="statsBtn">
+    📊 Stats
+  </button>
+
+  <div class="stats-dashboard" id="statsDashboard">
+    <div class="stats-header">
+      <span>Your Journey Stats</span>
+      <span class="stats-close" id="statsClose">×</span>
+    </div>
+    <div id="statsContent"></div>
+  </div>
+
+  <!-- Onboarding Modal -->
+  <div class="onboarding-modal" id="onboardingModal">
+    <div class="onboarding-modal-content">
+      <div class="onboarding-icon">🪢</div>
+      <h1 class="onboarding-title">Welcome to Your Journey!</h1>
+      <p class="onboarding-desc">
+        Explore the Bottoms Up! gathering through an interactive, gamified experience.
+        Read content, earn XP, unlock achievements, and track your progress!
+      </p>
+      <div class="onboarding-features">
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">⭐</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">Level Up System</div>
+            <div class="onboarding-feature-desc">Earn 50 XP for each page you read</div>
+          </div>
+        </div>
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">🏆</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">20+ Achievements</div>
+            <div class="onboarding-feature-desc">Unlock badges as you explore</div>
+          </div>
+        </div>
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">🔥</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">Daily Streaks</div>
+            <div class="onboarding-feature-desc">Build momentum by reading daily</div>
+          </div>
+        </div>
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">📊</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">Progress Tracking</div>
+            <div class="onboarding-feature-desc">See your journey visualized</div>
+          </div>
+        </div>
+      </div>
+      <button class="onboarding-btn" id="startJourneyBtn">Start Your Journey 🚀</button>
+    </div>
+  </div>
+
+  <!-- Share Modal -->
+  <div class="share-modal" id="shareModal">
+    <div class="share-modal-content">
+      <h2 class="share-title">Share Your Progress</h2>
+      <div class="share-stats">
+        <div class="share-stat-item">
+          <div class="share-stat-label">Level</div>
+          <div class="share-stat-value" id="shareLevelValue">1</div>
+        </div>
+        <div class="share-stat-item">
+          <div class="share-stat-label">Pages Read</div>
+          <div class="share-stat-value" id="sharePagesValue">0/23</div>
+        </div>
+        <div class="share-stat-item">
+          <div class="share-stat-label">Achievements</div>
+          <div class="share-stat-value" id="shareAchievementsValue">0</div>
+        </div>
+      </div>
+      <div class="share-actions">
+        <button class="share-btn" id="copyProgressBtn">📋 Copy Text</button>
+        <button class="share-btn" id="closeShareBtn">Close</button>
+      </div>
+    </div>
+  </div>
+
   <script>
     // Configuration
     const CONTENT_BASE = '/content/docs/';
     const XP_PER_PAGE = 50;
     const LEVEL_UP_XP = 100;
+    const BONUS_XP_STREAK = 25;
+    const COMBO_BONUS = 10;
 
     // State Management
     const state = {
@@ -777,20 +1360,42 @@
       level: 1,
       achievements: new Set(),
       currentPath: 'all',
-      searchTerm: ''
+      searchTerm: '',
+      streak: 0,
+      lastVisit: null,
+      readingHistory: [],
+      currentPageIndex: -1,
+      totalReadingTime: 0,
+      sessionStart: Date.now()
     };
 
-    // Achievement Definitions
+    // Achievement Definitions with XP bonuses
     const achievements = [
-      { id: 'first_read', icon: '📖', title: 'First Steps', desc: 'Read your first page', condition: () => state.readPages.size >= 1 },
-      { id: 'explorer', icon: '🧭', title: 'Explorer', desc: 'Read 5 pages', condition: () => state.readPages.size >= 5 },
-      { id: 'scholar', icon: '🎓', title: 'Scholar', desc: 'Read 15 pages', condition: () => state.readPages.size >= 15 },
-      { id: 'completionist', icon: '💯', title: 'Completionist', desc: 'Read all pages', condition: () => state.readPages.size >= state.pages.length },
-      { id: 'philosopher', icon: '💭', title: 'Philosopher', desc: 'Read all Concept pages', condition: () => state.pages.filter(p => p.section === 'concept').every(p => state.readPages.has(p.path)) },
-      { id: 'prepared', icon: '🎒', title: 'Prepared', desc: 'Read all Practical pages', condition: () => state.pages.filter(p => p.section === 'practical').every(p => state.readPages.has(p.path)) },
-      { id: 'cared_for', icon: '💚', title: 'Cared For', desc: 'Read all Wellbeing pages', condition: () => state.pages.filter(p => p.section === 'wellbeing').every(p => state.readPages.has(p.path)) },
-      { id: 'level_5', icon: '⭐', title: 'Rising Star', desc: 'Reach level 5', condition: () => state.level >= 5 },
-      { id: 'searcher', icon: '🔍', title: 'Searcher', desc: 'Use the search feature', condition: () => false }
+      { id: 'first_read', icon: '📖', title: 'First Steps', desc: 'Read your first page', xp: 25, condition: () => state.readPages.size >= 1 },
+      { id: 'explorer', icon: '🧭', title: 'Explorer', desc: 'Read 5 pages', xp: 50, condition: () => state.readPages.size >= 5 },
+      { id: 'scholar', icon: '🎓', title: 'Scholar', desc: 'Read 15 pages', xp: 100, condition: () => state.readPages.size >= 15 },
+      { id: 'completionist', icon: '💯', title: 'Completionist', desc: 'Read all pages', xp: 500, condition: () => state.readPages.size >= state.pages.length && state.pages.length > 0 },
+      { id: 'philosopher', icon: '💭', title: 'Philosopher', desc: 'Complete Concept section', xp: 150, condition: () => state.pages.filter(p => p.section === 'concept').length > 0 && state.pages.filter(p => p.section === 'concept').every(p => state.readPages.has(p.path)) },
+      { id: 'prepared', icon: '🎒', title: 'Prepared', desc: 'Complete Practical section', xp: 150, condition: () => state.pages.filter(p => p.section === 'practical').length > 0 && state.pages.filter(p => p.section === 'practical').every(p => state.readPages.has(p.path)) },
+      { id: 'cared_for', icon: '💚', title: 'Cared For', desc: 'Complete Wellbeing section', xp: 150, condition: () => state.pages.filter(p => p.section === 'wellbeing').length > 0 && state.pages.filter(p => p.section === 'wellbeing').every(p => state.readPages.has(p.path)) },
+      { id: 'level_5', icon: '⭐', title: 'Rising Star', desc: 'Reach level 5', xp: 100, condition: () => state.level >= 5 },
+      { id: 'level_10', icon: '🌟', title: 'Shining Bright', desc: 'Reach level 10', xp: 200, condition: () => state.level >= 10 },
+      { id: 'searcher', icon: '🔍', title: 'Searcher', desc: 'Use the search feature', xp: 25, condition: () => false },
+      { id: 'speed_reader', icon: '⚡', title: 'Speed Reader', desc: 'Read 3 pages in one session', xp: 75, condition: () => state.readingHistory.filter(h => h.session === state.sessionStart).length >= 3 },
+      { id: 'night_owl', icon: '🦉', title: 'Night Owl', desc: 'Read after 10 PM', xp: 50, condition: () => new Date().getHours() >= 22 || new Date().getHours() < 6 },
+      { id: 'early_bird', icon: '🌅', title: 'Early Bird', desc: 'Read before 8 AM', xp: 50, condition: () => new Date().getHours() >= 5 && new Date().getHours() < 8 },
+      { id: 'streak_3', icon: '🔥', title: 'On Fire', desc: '3-day reading streak', xp: 75, condition: () => state.streak >= 3 },
+      { id: 'streak_7', icon: '🔥🔥', title: 'Burning Bright', desc: '7-day reading streak', xp: 150, condition: () => state.streak >= 7 },
+      { id: 'streak_30', icon: '🔥🔥🔥', title: 'Unstoppable', desc: '30-day reading streak', xp: 500, condition: () => state.streak >= 30 },
+      { id: 'well_rounded', icon: '🎯', title: 'Well-Rounded', desc: 'Read at least one page from each section', xp: 100, condition: () => {
+        const sections = ['concept', 'practical', 'wellbeing'];
+        return sections.every(section =>
+          state.pages.filter(p => p.section === section).some(p => state.readPages.has(p.path))
+        );
+      }},
+      { id: 'curious', icon: '🤔', title: 'Curious Mind', desc: 'Read 50% of all content', xp: 200, condition: () => state.pages.length > 0 && state.readPages.size >= Math.floor(state.pages.length * 0.5) },
+      { id: 'dedicated', icon: '💪', title: 'Dedicated Learner', desc: 'Read 75% of all content', xp: 300, condition: () => state.pages.length > 0 && state.readPages.size >= Math.floor(state.pages.length * 0.75) },
+      { id: 'dark_mode', icon: '🌙', title: 'Dark Side', desc: 'Enable dark mode', xp: 10, condition: () => false }
     ];
 
     // Load state from localStorage
@@ -802,6 +1407,13 @@
         state.xp = parsed.xp || 0;
         state.level = parsed.level || 1;
         state.achievements = new Set(parsed.achievements || []);
+        state.streak = parsed.streak || 0;
+        state.lastVisit = parsed.lastVisit || null;
+        state.readingHistory = parsed.readingHistory || [];
+        state.totalReadingTime = parsed.totalReadingTime || 0;
+
+        // Update streak
+        updateStreak();
       }
     }
 
@@ -811,8 +1423,36 @@
         readPages: Array.from(state.readPages),
         xp: state.xp,
         level: state.level,
-        achievements: Array.from(state.achievements)
+        achievements: Array.from(state.achievements),
+        streak: state.streak,
+        lastVisit: new Date().toISOString(),
+        readingHistory: state.readingHistory,
+        totalReadingTime: state.totalReadingTime
       }));
+    }
+
+    // Update streak based on last visit
+    function updateStreak() {
+      if (!state.lastVisit) {
+        state.streak = 0;
+        return;
+      }
+
+      const lastVisitDate = new Date(state.lastVisit);
+      const today = new Date();
+      const daysDiff = Math.floor((today - lastVisitDate) / (1000 * 60 * 60 * 24));
+
+      if (daysDiff === 0) {
+        // Same day, keep streak
+      } else if (daysDiff === 1) {
+        // Next day, increment streak
+        state.streak++;
+        addXP(BONUS_XP_STREAK);
+        showAchievement('🔥', 'Streak Bonus!', `+${BONUS_XP_STREAK} XP for daily streak!`);
+      } else {
+        // Streak broken
+        state.streak = 0;
+      }
     }
 
     // Parse frontmatter from markdown
@@ -842,6 +1482,14 @@
       return 'other';
     }
 
+    // Estimate reading time (words per minute)
+    function estimateReadingTime(text) {
+      const wordsPerMinute = 200;
+      const wordCount = text.split(/\s+/).length;
+      const minutes = Math.ceil(wordCount / wordsPerMinute);
+      return minutes;
+    }
+
     // Fetch and parse a markdown file
     async function fetchPage(path) {
       try {
@@ -856,7 +1504,8 @@
           title: frontmatter.title || 'Untitled',
           description: frontmatter.description || frontmatter.lead || '',
           body: body,
-          weight: frontmatter.weight || 0
+          weight: frontmatter.weight || 0,
+          readingTime: estimateReadingTime(body)
         };
       } catch (error) {
         console.error(`Error fetching ${path}:`, error);
@@ -902,12 +1551,33 @@
           <div class="card-section">${page.section}</div>
           <div class="card-title">${page.title}</div>
           <div class="card-desc">${page.description}</div>
-          <div class="card-xp">+${XP_PER_PAGE} XP</div>
+          <div class="card-meta">
+            <div class="card-xp">+${XP_PER_PAGE} XP</div>
+            <div class="card-time">📖 ${page.readingTime} min</div>
+          </div>
         `;
 
         card.addEventListener('click', () => openPage(page));
         grid.appendChild(card);
       });
+    }
+
+    // Get recommended next pages
+    function getRecommendedPages(currentPage) {
+      // Recommend unread pages from the same section first
+      const sameSectionUnread = state.pages.filter(p =>
+        p.section === currentPage.section &&
+        !state.readPages.has(p.path) &&
+        p.path !== currentPage.path
+      );
+
+      // Then recommend unread pages from other sections
+      const otherSectionUnread = state.pages.filter(p =>
+        p.section !== currentPage.section &&
+        !state.readPages.has(p.path)
+      );
+
+      return [...sameSectionUnread.slice(0, 2), ...otherSectionUnread.slice(0, 1)];
     }
 
     // Open page in modal
@@ -917,22 +1587,95 @@
       const modalTitle = document.getElementById('modalTitle');
       const modalLead = document.getElementById('modalLead');
       const modalBody = document.getElementById('modalBody');
+      const recommendedNext = document.getElementById('recommendedNext');
 
       modalSection.textContent = page.section;
       modalTitle.textContent = page.title;
       modalLead.textContent = page.description;
       modalBody.innerHTML = marked.parse(page.body);
 
+      // Update current page index for navigation
+      state.currentPageIndex = state.pages.findIndex(p => p.path === page.path);
+      updateModalNavigation();
+
+      // Show recommended pages
+      const recommended = getRecommendedPages(page);
+      if (recommended.length > 0) {
+        recommendedNext.innerHTML = `
+          <div class="recommended-title">📚 Recommended Next:</div>
+          ${recommended.map(p => `
+            <div class="recommended-item" onclick="openPageByPath('${p.path}')">
+              <strong>${p.title}</strong><br>
+              <small>${p.description}</small>
+            </div>
+          `).join('')}
+        `;
+      } else {
+        recommendedNext.innerHTML = '';
+      }
+
       modal.classList.add('active');
 
       // Mark as read and award XP
       if (!state.readPages.has(page.path)) {
         state.readPages.add(page.path);
-        addXP(XP_PER_PAGE);
+        state.readingHistory.push({
+          path: page.path,
+          timestamp: Date.now(),
+          session: state.sessionStart
+        });
+
+        // Calculate combo bonus
+        const recentReads = state.readingHistory.filter(h =>
+          Date.now() - h.timestamp < 300000 // 5 minutes
+        ).length;
+
+        let xpGained = XP_PER_PAGE;
+        if (recentReads >= 3) {
+          xpGained += COMBO_BONUS;
+          showAchievement('⚡', 'Combo!', `+${COMBO_BONUS} bonus XP for reading streak!`);
+        }
+
+        addXP(xpGained);
         checkAchievements();
         updateUI();
         saveState();
       }
+    }
+
+    // Open page by path
+    function openPageByPath(path) {
+      const page = state.pages.find(p => p.path === path);
+      if (page) openPage(page);
+    }
+
+    // Update modal navigation buttons
+    function updateModalNavigation() {
+      const prevBtn = document.getElementById('prevPageBtn');
+      const nextBtn = document.getElementById('nextPageBtn');
+
+      // Filter based on current path filter
+      let filteredPages = state.pages;
+      if (state.currentPath !== 'all') {
+        filteredPages = filteredPages.filter(p => p.section === state.currentPath);
+      }
+
+      const currentIndex = filteredPages.findIndex(p => p === state.pages[state.currentPageIndex]);
+
+      prevBtn.disabled = currentIndex <= 0;
+      nextBtn.disabled = currentIndex >= filteredPages.length - 1;
+
+      prevBtn.onclick = () => {
+        if (currentIndex > 0) {
+          openPage(filteredPages[currentIndex - 1]);
+        }
+      };
+
+      nextBtn.onclick = () => {
+        if (currentIndex < filteredPages.length - 1) {
+          openPage(filteredPages[currentIndex + 1]);
+        }
+      };
     }
 
     // Close modal
@@ -949,6 +1692,8 @@
         state.xp -= xpForNextLevel;
         state.level++;
         showAchievement('🎉', 'Level Up!', `You've reached level ${state.level}!`);
+        createConfetti();
+        checkAchievements();
       }
     }
 
@@ -957,7 +1702,12 @@
       achievements.forEach(achievement => {
         if (!state.achievements.has(achievement.id) && achievement.condition()) {
           state.achievements.add(achievement.id);
+          if (achievement.xp) {
+            addXP(achievement.xp);
+          }
           showAchievement(achievement.icon, achievement.title, achievement.desc);
+          renderAchievements();
+          updateAchievementCount();
         }
       });
     }
@@ -976,6 +1726,23 @@
       }, 4000);
     }
 
+    // Create confetti effect
+    function createConfetti() {
+      const colors = ['#FFD700', '#FFB7C5', '#A8D5BA', '#B4BEC9'];
+      for (let i = 0; i < 50; i++) {
+        setTimeout(() => {
+          const confetti = document.createElement('div');
+          confetti.className = 'confetti';
+          confetti.style.left = Math.random() * 100 + 'vw';
+          confetti.style.background = colors[Math.floor(Math.random() * colors.length)];
+          confetti.style.animationDuration = (Math.random() * 2 + 2) + 's';
+          document.body.appendChild(confetti);
+
+          setTimeout(() => confetti.remove(), 3000);
+        }, i * 30);
+      }
+    }
+
     // Update UI elements
     function updateUI() {
       // Update stats
@@ -987,6 +1754,8 @@
       const xpPercent = (state.xp / xpForNextLevel) * 100;
       document.getElementById('xpBar').style.width = `${xpPercent}%`;
 
+      document.getElementById('streak').textContent = state.streak;
+
       const totalPages = state.pages.length;
       const pagesRead = state.readPages.size;
       document.getElementById('pagesRead').textContent = pagesRead;
@@ -994,14 +1763,17 @@
 
       const progress = totalPages > 0 ? Math.round((pagesRead / totalPages) * 100) : 0;
       document.getElementById('progress').textContent = progress;
+      document.getElementById('allProgress').textContent = progress;
+      document.getElementById('allProgressBar').style.width = `${progress}%`;
 
       // Update section progress
       updateSectionProgress();
 
       // Update cards
       document.querySelectorAll('.content-card').forEach(card => {
-        const path = state.pages.find(p => p.title === card.querySelector('.card-title').textContent)?.path;
-        if (path && state.readPages.has(path)) {
+        const title = card.querySelector('.card-title').textContent;
+        const page = state.pages.find(p => p.title === title);
+        if (page && state.readPages.has(page.path)) {
           card.classList.add('read');
         }
       });
@@ -1018,7 +1790,17 @@
 
         const elem = document.getElementById(`${section}Progress`);
         if (elem) elem.textContent = percent;
+
+        const barElem = document.getElementById(`${section}ProgressBar`);
+        if (barElem) barElem.style.width = `${percent}%`;
       });
+    }
+
+    // Update achievement count
+    function updateAchievementCount() {
+      const count = state.achievements.size;
+      const total = achievements.length;
+      document.getElementById('achievementCount').textContent = `(${count}/${total})`;
     }
 
     // Render achievements panel
@@ -1038,10 +1820,112 @@
             <span>${achievement.title}</span>
           </div>
           <div class="achievement-item-desc">${achievement.desc}</div>
+          ${achievement.xp ? `<div class="achievement-xp">+${achievement.xp} XP</div>` : ''}
         `;
 
         list.appendChild(item);
       });
+    }
+
+    // Render stats dashboard
+    function renderStats() {
+      const statsContent = document.getElementById('statsContent');
+
+      const totalPages = state.pages.length;
+      const pagesRead = state.readPages.size;
+      const progress = totalPages > 0 ? Math.round((pagesRead / totalPages) * 100) : 0;
+
+      const totalReadingTime = state.pages
+        .filter(p => state.readPages.has(p.path))
+        .reduce((sum, p) => sum + p.readingTime, 0);
+
+      const sectionStats = ['concept', 'practical', 'wellbeing'].map(section => {
+        const sectionPages = state.pages.filter(p => p.section === section);
+        const readCount = sectionPages.filter(p => state.readPages.has(p.path)).length;
+        const percent = sectionPages.length > 0 ? Math.round((readCount / sectionPages.length) * 100) : 0;
+        return { section, total: sectionPages.length, read: readCount, percent };
+      });
+
+      statsContent.innerHTML = `
+        <div class="stats-section">
+          <div class="stats-section-title">📊 Overview</div>
+          <div class="stat-row">
+            <span class="stat-row-label">Overall Progress</span>
+            <span class="stat-row-value">${progress}%</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Pages Read</span>
+            <span class="stat-row-value">${pagesRead} / ${totalPages}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Current Level</span>
+            <span class="stat-row-value">Level ${state.level}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Total XP</span>
+            <span class="stat-row-value">${state.level * LEVEL_UP_XP + state.xp} XP</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Current Streak</span>
+            <span class="stat-row-value">${state.streak} days 🔥</span>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-section-title">📚 Reading Stats</div>
+          <div class="stat-row">
+            <span class="stat-row-label">Estimated Time Spent</span>
+            <span class="stat-row-value">${totalReadingTime} min</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Achievements Unlocked</span>
+            <span class="stat-row-value">${state.achievements.size} / ${achievements.length}</span>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-section-title">🎯 Section Progress</div>
+          ${sectionStats.map(s => `
+            <div class="stat-row">
+              <span class="stat-row-label">${s.section}</span>
+              <span class="stat-row-value">${s.read}/${s.total} (${s.percent}%)</span>
+            </div>
+          `).join('')}
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-section-title">📈 Progress Chart</div>
+          <div class="chart-container">
+            <canvas id="progressChart"></canvas>
+          </div>
+        </div>
+      `;
+
+      // Render chart
+      setTimeout(() => {
+        const ctx = document.getElementById('progressChart');
+        if (ctx) {
+          new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+              labels: ['Read', 'Unread'],
+              datasets: [{
+                data: [pagesRead, totalPages - pagesRead],
+                backgroundColor: ['#FFB7C5', '#E0E0E0']
+              }]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              plugins: {
+                legend: {
+                  position: 'bottom'
+                }
+              }
+            }
+          });
+        }
+      }, 100);
     }
 
     // Filter and display pages
@@ -1065,6 +1949,8 @@
         // Unlock searcher achievement
         if (!state.achievements.has('searcher')) {
           state.achievements.add('searcher');
+          const achievement = achievements.find(a => a.id === 'searcher');
+          if (achievement && achievement.xp) addXP(achievement.xp);
           showAchievement('🔍', 'Searcher', 'Used the search feature');
           saveState();
         }
@@ -1073,9 +1959,63 @@
       renderCards(filtered);
     }
 
+    // Dark mode toggle
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark-mode');
+      const isDark = document.body.classList.contains('dark-mode');
+      document.getElementById('darkModeToggle').textContent = isDark ? '☀️' : '🌙';
+      localStorage.setItem('darkMode', isDark);
+
+      // Unlock dark mode achievement
+      if (isDark && !state.achievements.has('dark_mode')) {
+        state.achievements.add('dark_mode');
+        const achievement = achievements.find(a => a.id === 'dark_mode');
+        if (achievement && achievement.xp) addXP(achievement.xp);
+        showAchievement('🌙', 'Dark Side', 'Enabled dark mode');
+        renderAchievements();
+        updateAchievementCount();
+        saveState();
+      }
+    }
+
+    // Share progress
+    function shareProgress() {
+      document.getElementById('shareLevelValue').textContent = state.level;
+      document.getElementById('sharePagesValue').textContent = `${state.readPages.size}/${state.pages.length}`;
+      document.getElementById('shareAchievementsValue').textContent = state.achievements.size;
+      document.getElementById('shareModal').classList.add('active');
+    }
+
+    // Copy progress to clipboard
+    function copyProgress() {
+      const text = `🪢 My Bottoms Up! Journey Progress:\n\n` +
+        `Level: ${state.level}\n` +
+        `Pages Read: ${state.readPages.size}/${state.pages.length}\n` +
+        `Achievements: ${state.achievements.size}/${achievements.length}\n` +
+        `Streak: ${state.streak} days 🔥\n\n` +
+        `Join me at Bottoms Up!`;
+
+      navigator.clipboard.writeText(text).then(() => {
+        alert('Progress copied to clipboard!');
+      });
+    }
+
     // Initialize app
     async function init() {
       loadState();
+
+      // Check if first visit
+      const hasVisited = localStorage.getItem('hasVisited');
+      if (!hasVisited) {
+        document.getElementById('onboardingModal').classList.add('active');
+      }
+
+      // Load dark mode preference
+      const darkMode = localStorage.getItem('darkMode') === 'true';
+      if (darkMode) {
+        document.body.classList.add('dark-mode');
+        document.getElementById('darkModeToggle').textContent = '☀️';
+      }
 
       // Discover and load pages
       state.pages = await discoverPages();
@@ -1086,6 +2026,7 @@
       filterPages();
       updateUI();
       renderAchievements();
+      updateAchievementCount();
 
       // Event listeners
       document.getElementById('modalClose').addEventListener('click', closeModal);
@@ -1115,13 +2056,47 @@
         document.getElementById('achievementsPanel').classList.remove('open');
       });
 
+      document.getElementById('statsBtn').addEventListener('click', () => {
+        renderStats();
+        document.getElementById('statsDashboard').classList.add('open');
+      });
+
+      document.getElementById('statsClose').addEventListener('click', () => {
+        document.getElementById('statsDashboard').classList.remove('open');
+      });
+
+      document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
+
+      document.getElementById('shareBtn').addEventListener('click', shareProgress);
+
+      document.getElementById('copyProgressBtn').addEventListener('click', copyProgress);
+
+      document.getElementById('closeShareBtn').addEventListener('click', () => {
+        document.getElementById('shareModal').classList.remove('active');
+      });
+
+      document.getElementById('startJourneyBtn').addEventListener('click', () => {
+        localStorage.setItem('hasVisited', 'true');
+        document.getElementById('onboardingModal').classList.remove('active');
+        showAchievement('🚀', 'Journey Started!', 'Welcome to Bottoms Up!');
+      });
+
       // Keyboard shortcuts
       document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') {
           closeModal();
           document.getElementById('achievementsPanel').classList.remove('open');
+          document.getElementById('statsDashboard').classList.remove('open');
+          document.getElementById('shareModal').classList.remove('active');
+        }
+        if (e.key === 'd' && e.ctrlKey) {
+          e.preventDefault();
+          toggleDarkMode();
         }
       });
+
+      // Save state periodically
+      setInterval(saveState, 30000); // Every 30 seconds
     }
 
     // Start the app
