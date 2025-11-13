@@ -1445,12 +1445,14 @@
 
     .share-actions {
       display: flex;
-      gap: 1rem;
+      gap: 0.75rem;
       margin-top: 1rem;
+      flex-wrap: wrap;
     }
 
     .share-btn {
       flex: 1;
+      min-width: 140px;
       background: var(--gradient-purple);
       color: white;
       border: 2px solid rgba(255, 255, 255, 0.2);
@@ -1809,6 +1811,7 @@
         </div>
       </div>
       <div class="share-actions">
+        <button class="share-btn" id="copyLinkBtn">🔗 Copy Link</button>
         <button class="share-btn" id="copyProgressBtn">📋 Copy Text</button>
         <button class="share-btn" id="closeShareBtn">Close</button>
       </div>
@@ -1878,8 +1881,90 @@
       { id: 'dark_mode', icon: '🌙', title: 'Dark Side', desc: 'Enable dark mode', xp: 10, condition: () => false }
     ];
 
-    // Load state from localStorage
+    // Encode state to URL-safe string
+    function encodeStateToUrl() {
+      const stateData = {
+        r: Array.from(state.readPages), // read pages
+        x: state.xp, // xp
+        l: state.level, // level
+        a: Array.from(state.achievements), // achievements
+        s: state.streak, // streak
+        h: state.readingHistory.slice(-10), // last 10 history items
+        t: state.totalReadingTime // total reading time
+      };
+
+      try {
+        const json = JSON.stringify(stateData);
+        const base64 = btoa(json);
+        const urlSafe = base64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+        return urlSafe;
+      } catch (error) {
+        console.error('Error encoding state:', error);
+        return null;
+      }
+    }
+
+    // Decode state from URL-safe string
+    function decodeStateFromUrl(encoded) {
+      try {
+        const base64 = encoded.replace(/-/g, '+').replace(/_/g, '/');
+        const padding = '='.repeat((4 - (base64.length % 4)) % 4);
+        const json = atob(base64 + padding);
+        const stateData = JSON.parse(json);
+
+        return {
+          readPages: new Set(stateData.r || []),
+          xp: stateData.x || 0,
+          level: stateData.l || 1,
+          achievements: new Set(stateData.a || []),
+          streak: stateData.s || 0,
+          readingHistory: stateData.h || [],
+          totalReadingTime: stateData.t || 0
+        };
+      } catch (error) {
+        console.error('Error decoding state:', error);
+        return null;
+      }
+    }
+
+    // Get shareable URL with current state
+    function getShareableUrl() {
+      const encoded = encodeStateToUrl();
+      if (!encoded) return window.location.href;
+
+      const url = new URL(window.location.href);
+      url.hash = `state=${encoded}`;
+      return url.toString();
+    }
+
+    // Load state from URL, localStorage, or default
     function loadState() {
+      // First, try to load from URL hash
+      const hash = window.location.hash;
+      if (hash && hash.startsWith('#state=')) {
+        const encoded = hash.substring(7); // Remove '#state='
+        const decoded = decodeStateFromUrl(encoded);
+
+        if (decoded) {
+          state.readPages = decoded.readPages;
+          state.xp = decoded.xp;
+          state.level = decoded.level;
+          state.achievements = decoded.achievements;
+          state.streak = decoded.streak;
+          state.readingHistory = decoded.readingHistory;
+          state.totalReadingTime = decoded.totalReadingTime;
+          state.lastVisit = new Date().toISOString();
+
+          // Save to localStorage for future visits
+          saveState();
+
+          console.log('✅ State loaded from URL');
+          showAchievement('🔗', 'Progress Restored!', 'Your journey continues from where you left off');
+          return;
+        }
+      }
+
+      // Fallback to localStorage
       const saved = localStorage.getItem('bottomsUpState');
       if (saved) {
         const parsed = JSON.parse(saved);
@@ -2629,17 +2714,34 @@
       document.getElementById('shareModal').classList.add('active');
     }
 
+    // Copy shareable link to clipboard
+    function copyLink() {
+      const shareUrl = getShareableUrl();
+
+      navigator.clipboard.writeText(shareUrl).then(() => {
+        showAchievement('✅', 'Link Copied!', 'Share this link to continue on another device');
+      }).catch(err => {
+        console.error('Failed to copy link:', err);
+        // Fallback: show the link in an alert
+        prompt('Copy this link to continue on another device:', shareUrl);
+      });
+    }
+
     // Copy progress to clipboard
     function copyProgress() {
+      const shareUrl = getShareableUrl();
       const text = `🪢 My Bottoms Up! Journey Progress:\n\n` +
         `Level: ${state.level}\n` +
         `Pages Read: ${state.readPages.size}/${state.pages.length}\n` +
         `Achievements: ${state.achievements.size}/${achievements.length}\n` +
         `Streak: ${state.streak} days 🔥\n\n` +
-        `Join me at Bottoms Up!`;
+        `Continue your journey:\n${shareUrl}`;
 
       navigator.clipboard.writeText(text).then(() => {
-        alert('Progress copied to clipboard!');
+        showAchievement('✅', 'Text Copied!', 'Progress and link copied to clipboard');
+      }).catch(err => {
+        console.error('Failed to copy:', err);
+        alert('Failed to copy to clipboard');
       });
     }
 
@@ -2735,6 +2837,8 @@
       document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
 
       document.getElementById('shareBtn').addEventListener('click', shareProgress);
+
+      document.getElementById('copyLinkBtn').addEventListener('click', copyLink);
 
       document.getElementById('copyProgressBtn').addEventListener('click', copyProgress);
 
