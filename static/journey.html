@@ -806,6 +806,39 @@
       padding: 0 2px;
     }
 
+    /* Style call-to-action links (containing arrows) as buttons */
+    .modal-body a[href*="ticket" i],
+    .modal-body a[href*="participation" i],
+    .modal-body a[href*="join" i],
+    .modal-body p > a:only-child {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      margin: 1rem 0;
+      background: var(--gradient-warm);
+      color: white !important;
+      border: none;
+      border-radius: 12px;
+      font-weight: 600;
+      font-size: 1.05rem;
+      box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
+      transition: all 0.3s;
+      text-decoration: none;
+      border-bottom: none !important;
+    }
+
+    .modal-body a[href*="ticket" i]:hover,
+    .modal-body a[href*="participation" i]:hover,
+    .modal-body a[href*="join" i]:hover,
+    .modal-body p > a:only-child:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 25px rgba(255, 107, 53, 0.4);
+      filter: brightness(1.1);
+      background: var(--gradient-warm);
+      padding: 0.75rem 1.5rem;
+    }
+
     .modal-body code {
       background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
       padding: 0.2rem 0.4rem;
@@ -2130,7 +2163,9 @@
       // Render content based on mode
       if (page.isMarkdown) {
         // Markdown mode - parse and render
-        modalBody.innerHTML = marked.parse(page.body);
+        // Clean up Hugo-specific attribute syntax before parsing
+        const cleanedMarkdown = page.body.replace(/\s*\{[^}]+\}\s*/g, ' ');
+        modalBody.innerHTML = marked.parse(cleanedMarkdown);
       } else {
         // HTML mode - use pre-rendered HTML
         modalBody.innerHTML = page.bodyHtml || page.body;
