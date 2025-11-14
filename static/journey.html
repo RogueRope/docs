@@ -15,6 +15,11 @@
     }
 
     :root {
+      /* Font Size Variables */
+      --base-font-size: 16px;
+      --content-font-size: 1rem;
+      --heading-scale: 1;
+
       /* Hugo Theme Colors - Primary Palette */
       --primary-color: #5b4bff;
       --primary-soft: #6f5cff;
@@ -159,6 +164,27 @@
       display: flex;
       gap: 1rem;
       align-items: center;
+    }
+
+    .font-size-controls {
+      display: flex;
+      gap: 0.25rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(246, 245, 251, 0.95) 100%);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+      border-radius: 12px;
+      padding: 0.25rem;
+    }
+
+    .font-size-btn {
+      padding: 0.4rem 0.6rem !important;
+      font-size: 0.9rem !important;
+      font-weight: 600;
+      min-width: 36px;
+    }
+
+    .font-size-btn.active {
+      background: var(--gradient-purple) !important;
+      color: white !important;
     }
 
     .icon-btn {
@@ -330,6 +356,124 @@
       transform: translateY(-50%);
       font-size: 1.25rem;
       opacity: 0.5;
+    }
+
+    .search-results-count {
+      margin-top: 0.75rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: var(--primary-color);
+      font-weight: 600;
+    }
+
+    /* Advanced Search Filters */
+    .search-filters {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 20px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: var(--shadow-soft);
+      animation: slideDown 0.3s ease-out;
+    }
+
+    @keyframes slideDown {
+      from {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-group:last-of-type {
+      margin-bottom: 0;
+    }
+
+    .filter-label {
+      font-weight: 600;
+      color: var(--primary-color);
+      min-width: 80px;
+      font-size: 0.9rem;
+    }
+
+    .filter-btn {
+      padding: 0.5rem 1rem;
+      border: 2px solid rgba(91, 75, 255, 0.2);
+      border-radius: 20px;
+      background: white;
+      color: var(--text-color);
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      font-size: 0.875rem;
+      font-weight: 500;
+    }
+
+    .filter-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(91, 75, 255, 0.2);
+      border-color: var(--primary-color);
+    }
+
+    .filter-btn.active {
+      background: var(--gradient-purple);
+      color: white;
+      border-color: transparent;
+      box-shadow: 0 4px 12px rgba(91, 75, 255, 0.3);
+    }
+
+    .filter-actions {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid rgba(91, 75, 255, 0.1);
+    }
+
+    .filter-clear-btn {
+      padding: 0.5rem 1.25rem;
+      border: none;
+      border-radius: 12px;
+      background: rgba(239, 68, 68, 0.1);
+      color: #dc2626;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-size: 0.875rem;
+      font-weight: 600;
+    }
+
+    .filter-clear-btn:hover {
+      background: rgba(239, 68, 68, 0.2);
+      transform: translateY(-2px);
+    }
+
+    body.dark-mode .search-filters {
+      background: rgba(30, 30, 40, 0.98);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .filter-btn {
+      background: rgba(40, 40, 50, 0.8);
+      color: var(--text-light);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .filter-btn:hover {
+      background: rgba(50, 50, 60, 0.9);
+    }
+
+    body.dark-mode .filter-clear-btn {
+      background: rgba(239, 68, 68, 0.2);
     }
 
     /* Journey Path Selector */
@@ -593,6 +737,7 @@
       z-index: 2000;
       padding: 2rem;
       overflow-y: auto;
+      transition: transform 0.2s ease-out;
     }
 
     .modal.active {
@@ -622,6 +767,38 @@
         opacity: 1;
         transform: scale(1);
       }
+    }
+
+    /* Reading Progress Indicator */
+    .reading-progress-bar {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: rgba(91, 75, 255, 0.1);
+      border-radius: 24px 24px 0 0;
+      overflow: hidden;
+      z-index: 10;
+    }
+
+    .reading-progress-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--gradient-purple);
+      transition: width 0.1s ease-out;
+      box-shadow: 0 0 10px rgba(102, 126, 234, 0.5);
+      position: relative;
+    }
+
+    .reading-progress-fill::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4));
     }
 
     .modal-nav {
@@ -753,20 +930,32 @@
 
     .modal-body {
       line-height: 1.8;
+      font-size: var(--content-font-size);
     }
 
     .modal-body h2 {
       margin-top: 2rem;
       margin-bottom: 1rem;
       color: var(--outer-space);
-      font-size: 1.5rem;
+      font-size: calc(1.5rem * var(--heading-scale));
     }
 
     .modal-body h3 {
       margin-top: 1.5rem;
       margin-bottom: 0.75rem;
       color: var(--outer-space);
-      font-size: 1.2rem;
+      font-size: calc(1.2rem * var(--heading-scale));
+    }
+
+    /* Font Size Presets */
+    body.font-size-small {
+      --content-font-size: 0.875rem;
+      --heading-scale: 0.9;
+    }
+
+    body.font-size-large {
+      --content-font-size: 1.125rem;
+      --heading-scale: 1.1;
     }
 
     .modal-body p {
@@ -901,6 +1090,21 @@
 
     .modal-body tr:hover {
       background: rgba(91, 75, 255, 0.08);
+    }
+
+    /* Search result highlighting */
+    .modal-body mark {
+      background: linear-gradient(135deg, rgba(251, 191, 36, 0.4) 0%, rgba(245, 158, 11, 0.4) 100%);
+      color: inherit;
+      padding: 0.1rem 0.25rem;
+      border-radius: 3px;
+      font-weight: 600;
+      box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.2);
+    }
+
+    body.dark-mode .modal-body mark {
+      background: linear-gradient(135deg, rgba(251, 191, 36, 0.3) 0%, rgba(245, 158, 11, 0.3) 100%);
+      box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.15);
     }
 
     /* Hide Hugo theme's built-in page navigation since we have our own */
@@ -1617,6 +1821,11 @@
       </div>
     </div>
     <div class="header-actions">
+      <div class="font-size-controls">
+        <button class="icon-btn font-size-btn" id="fontSizeDecrease" title="Decrease Font Size">A-</button>
+        <button class="icon-btn font-size-btn" id="fontSizeNormal" title="Normal Font Size">A</button>
+        <button class="icon-btn font-size-btn" id="fontSizeIncrease" title="Increase Font Size">A+</button>
+      </div>
       <button class="icon-btn" id="darkModeToggle" title="Toggle Dark Mode">🌙</button>
       <button class="icon-btn" id="shareBtn" title="Share Progress">📤</button>
     </div>
@@ -1628,6 +1837,27 @@
     <div class="search-container">
       <input type="text" class="search-input" id="searchInput" placeholder="Search all content... (try 'consent', 'tickets', 'what to bring')">
       <span class="search-icon">🔍</span>
+      <div class="search-results-count" id="searchResultsCount" style="display: none;"></div>
+    </div>
+
+    <!-- Advanced Filters -->
+    <div class="search-filters" id="searchFilters" style="display: none;">
+      <div class="filter-group">
+        <label class="filter-label">Status:</label>
+        <button class="filter-btn active" data-filter="status" data-value="all">All</button>
+        <button class="filter-btn" data-filter="status" data-value="unread">Unread</button>
+        <button class="filter-btn" data-filter="status" data-value="read">Read</button>
+      </div>
+      <div class="filter-group">
+        <label class="filter-label">Length:</label>
+        <button class="filter-btn active" data-filter="length" data-value="all">All</button>
+        <button class="filter-btn" data-filter="length" data-value="short">Short</button>
+        <button class="filter-btn" data-filter="length" data-value="medium">Medium</button>
+        <button class="filter-btn" data-filter="length" data-value="long">Long</button>
+      </div>
+      <div class="filter-actions">
+        <button class="filter-clear-btn" id="clearFiltersBtn">Clear All</button>
+      </div>
     </div>
 
     <!-- Journey Path Selector -->
@@ -1691,6 +1921,9 @@
   <!-- Content Modal -->
   <div class="modal" id="modal">
     <div class="modal-content">
+      <div class="reading-progress-bar">
+        <div class="reading-progress-fill" id="readingProgressFill"></div>
+      </div>
       <button class="modal-close" id="modalClose">×</button>
       <div class="modal-nav">
         <button class="modal-nav-btn" id="prevPageBtn">
@@ -1849,7 +2082,10 @@
       readingHistory: [],
       currentPageIndex: -1,
       totalReadingTime: 0,
-      sessionStart: Date.now()
+      sessionStart: Date.now(),
+      // Advanced search filters
+      filterStatus: 'all', // all, read, unread
+      filterLength: 'all'  // all, short, medium, long
     };
 
     // Achievement Definitions with XP bonuses
@@ -2246,15 +2482,23 @@
       modalLead.textContent = page.description;
 
       // Render content based on mode
+      let renderedContent;
       if (page.isMarkdown) {
         // Markdown mode - parse and render
         // Clean up Hugo-specific attribute syntax before parsing
         const cleanedMarkdown = page.body.replace(/\s*\{[^}]+\}\s*/g, ' ');
-        modalBody.innerHTML = marked.parse(cleanedMarkdown);
+        renderedContent = marked.parse(cleanedMarkdown);
       } else {
         // HTML mode - use pre-rendered HTML
-        modalBody.innerHTML = page.bodyHtml || page.body;
+        renderedContent = page.bodyHtml || page.body;
       }
+
+      // Apply search term highlighting if there's an active search
+      if (state.searchTerm) {
+        renderedContent = highlightSearchTerms(renderedContent, state.searchTerm);
+      }
+
+      modalBody.innerHTML = renderedContent;
 
       // Update current page index for navigation
       state.currentPageIndex = state.pages.findIndex(p => p.path === page.path);
@@ -2290,23 +2534,34 @@
         // Reset scroll position
         modalContent.scrollTop = 0;
 
-        // Set up scroll tracking
+        // Set up scroll tracking and progress indicator
+        const progressFill = document.getElementById('readingProgressFill');
         const scrollHandler = () => {
-          if (!currentPageTracking || currentPageTracking.completed) return;
-
           const scrollTop = modalContent.scrollTop;
           const scrollHeight = modalContent.scrollHeight;
           const clientHeight = modalContent.clientHeight;
           const scrollPercentage = (scrollTop + clientHeight) / scrollHeight;
 
-          // Check if scrolled at least 95% through content
-          if (scrollPercentage >= 0.95) {
-            currentPageTracking.hasScrolledToBottom = true;
-            checkReadingCompletion();
+          // Update reading progress indicator
+          progressFill.style.width = `${Math.min(scrollPercentage * 100, 100)}%`;
+
+          // Check completion tracking if active
+          if (currentPageTracking && !currentPageTracking.completed) {
+            // Check if scrolled at least 95% through content
+            if (scrollPercentage >= 0.95) {
+              currentPageTracking.hasScrolledToBottom = true;
+              checkReadingCompletion();
+            }
           }
         };
 
         modalContent.addEventListener('scroll', scrollHandler);
+
+        // Initialize progress bar at 0
+        progressFill.style.width = '0%';
+
+        // Trigger initial scroll to set progress (for short pages)
+        setTimeout(() => scrollHandler(), 100);
 
         // Check reading completion periodically
         const checkInterval = setInterval(() => {
@@ -2674,6 +2929,9 @@
           p.body.toLowerCase().includes(term)
         );
 
+        // Show advanced filters when searching
+        document.getElementById('searchFilters').style.display = 'block';
+
         // Unlock searcher achievement
         if (!state.achievements.has('searcher')) {
           state.achievements.add('searcher');
@@ -2682,9 +2940,86 @@
           showAchievement('🔍', 'Searcher', 'Used the search feature');
           saveState();
         }
+      } else {
+        // Hide filters when not searching
+        document.getElementById('searchFilters').style.display = 'none';
+      }
+
+      // Filter by read status
+      if (state.filterStatus === 'read') {
+        filtered = filtered.filter(p => state.readPages.has(p.path));
+      } else if (state.filterStatus === 'unread') {
+        filtered = filtered.filter(p => !state.readPages.has(p.path));
+      }
+
+      // Filter by length (word count estimate)
+      if (state.filterLength !== 'all') {
+        filtered = filtered.filter(p => {
+          const wordCount = p.body.split(/\s+/).length;
+          if (state.filterLength === 'short') return wordCount < 500;
+          if (state.filterLength === 'medium') return wordCount >= 500 && wordCount <= 1500;
+          if (state.filterLength === 'long') return wordCount > 1500;
+          return true;
+        });
+      }
+
+      // Show results count
+      const resultsCount = document.getElementById('searchResultsCount');
+      if (state.searchTerm || state.filterStatus !== 'all' || state.filterLength !== 'all') {
+        resultsCount.style.display = 'block';
+        resultsCount.textContent = `${filtered.length} result${filtered.length !== 1 ? 's' : ''} found`;
+      } else {
+        resultsCount.style.display = 'none';
       }
 
       renderCards(filtered);
+    }
+
+    // Handle filter button clicks
+    function setFilter(filterType, value) {
+      if (filterType === 'status') {
+        state.filterStatus = value;
+        // Update button states
+        document.querySelectorAll('[data-filter="status"]').forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.value === value);
+        });
+      } else if (filterType === 'length') {
+        state.filterLength = value;
+        // Update button states
+        document.querySelectorAll('[data-filter="length"]').forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.value === value);
+        });
+      }
+      filterPages();
+    }
+
+    // Clear all filters
+    function clearFilters() {
+      state.filterStatus = 'all';
+      state.filterLength = 'all';
+      state.searchTerm = '';
+      document.getElementById('searchInput').value = '';
+
+      // Reset all filter button states
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.value === 'all');
+      });
+
+      filterPages();
+    }
+
+    // Highlight search terms in content
+    function highlightSearchTerms(content, searchTerm) {
+      if (!searchTerm) return content;
+
+      const term = searchTerm.trim();
+      if (term.length < 2) return content;
+
+      // Create a regex that matches whole words and partial matches
+      const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+
+      // Wrap matches in <mark> tags
+      return content.replace(regex, '<mark>$1</mark>');
     }
 
     // Dark mode toggle
@@ -2704,6 +3039,29 @@
         updateAchievementCount();
         saveState();
       }
+    }
+
+    // Font size controls
+    function setFontSize(size) {
+      // Remove all font size classes
+      document.body.classList.remove('font-size-small', 'font-size-large');
+
+      // Remove active class from all buttons
+      document.querySelectorAll('.font-size-btn').forEach(btn => btn.classList.remove('active'));
+
+      // Apply new size class and set active button
+      if (size === 'small') {
+        document.body.classList.add('font-size-small');
+        document.getElementById('fontSizeDecrease').classList.add('active');
+      } else if (size === 'large') {
+        document.body.classList.add('font-size-large');
+        document.getElementById('fontSizeIncrease').classList.add('active');
+      } else {
+        document.getElementById('fontSizeNormal').classList.add('active');
+      }
+
+      // Save preference
+      localStorage.setItem('fontSize', size);
     }
 
     // Share progress
@@ -2761,6 +3119,10 @@
         document.body.classList.add('dark-mode');
         document.getElementById('darkModeToggle').textContent = '☀️';
       }
+
+      // Load font size preference
+      const savedFontSize = localStorage.getItem('fontSize') || 'normal';
+      setFontSize(savedFontSize);
 
       // Auto-detect correct content base path
       const detected = await detectContentBase();
@@ -2836,6 +3198,22 @@
 
       document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
 
+      // Font size controls
+      document.getElementById('fontSizeDecrease').addEventListener('click', () => setFontSize('small'));
+      document.getElementById('fontSizeNormal').addEventListener('click', () => setFontSize('normal'));
+      document.getElementById('fontSizeIncrease').addEventListener('click', () => setFontSize('large'));
+
+      // Advanced search filter controls
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const filterType = btn.dataset.filter;
+          const filterValue = btn.dataset.value;
+          setFilter(filterType, filterValue);
+        });
+      });
+
+      document.getElementById('clearFiltersBtn').addEventListener('click', clearFilters);
+
       document.getElementById('shareBtn').addEventListener('click', shareProgress);
 
       document.getElementById('copyLinkBtn').addEventListener('click', copyLink);
@@ -2854,17 +3232,127 @@
 
       // Keyboard shortcuts
       document.addEventListener('keydown', (e) => {
+        // Don't trigger shortcuts when typing in inputs
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+        // ESC - Close all modals and panels
         if (e.key === 'Escape') {
           closeModal();
           document.getElementById('achievementsPanel').classList.remove('open');
           document.getElementById('statsDashboard').classList.remove('open');
           document.getElementById('shareModal').classList.remove('active');
+          document.getElementById('onboardingModal').classList.remove('active');
         }
-        if (e.key === 'd' && e.ctrlKey) {
+
+        // Arrow keys for page navigation (when modal is open)
+        if (document.getElementById('modal').classList.contains('active')) {
+          if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            const prevBtn = document.getElementById('prevPageBtn');
+            if (!prevBtn.disabled) prevBtn.click();
+          }
+          if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            const nextBtn = document.getElementById('nextPageBtn');
+            if (!nextBtn.disabled) nextBtn.click();
+          }
+        }
+
+        // 's' - Focus search
+        if (e.key === 's' && !e.ctrlKey && !e.metaKey) {
+          e.preventDefault();
+          document.getElementById('searchInput').focus();
+        }
+
+        // 'a' - Toggle achievements panel
+        if (e.key === 'a' && !e.ctrlKey && !e.metaKey) {
+          e.preventDefault();
+          const panel = document.getElementById('achievementsPanel');
+          if (panel.classList.contains('open')) {
+            panel.classList.remove('open');
+          } else {
+            renderAchievements();
+            panel.classList.add('open');
+            // Close stats if open
+            document.getElementById('statsDashboard').classList.remove('open');
+          }
+        }
+
+        // 't' - Toggle stats dashboard
+        if (e.key === 't' && !e.ctrlKey && !e.metaKey) {
+          e.preventDefault();
+          const dashboard = document.getElementById('statsDashboard');
+          if (dashboard.classList.contains('open')) {
+            dashboard.classList.remove('open');
+          } else {
+            renderStats();
+            dashboard.classList.add('open');
+            // Close achievements if open
+            document.getElementById('achievementsPanel').classList.remove('open');
+          }
+        }
+
+        // 'd' - Toggle dark mode
+        if (e.key === 'd' && !e.ctrlKey && !e.metaKey) {
           e.preventDefault();
           toggleDarkMode();
         }
+
+        // '?' - Show keyboard shortcuts help
+        if (e.key === '?') {
+          e.preventDefault();
+          showAchievement('⌨️', 'Keyboard Shortcuts',
+            '← → Navigate pages • S Search • A Achievements • T Stats • D Dark mode • ESC Close');
+        }
       });
+
+      // Touch gestures for mobile navigation
+      let touchStartX = 0;
+      let touchEndX = 0;
+      const modalElement = document.getElementById('modal');
+
+      modalElement.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+      }, { passive: true });
+
+      modalElement.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+      }, { passive: true });
+
+      function handleSwipe() {
+        // Only handle swipes if modal is open
+        if (!modalElement.classList.contains('active')) return;
+
+        const swipeThreshold = 50; // minimum distance for swipe
+        const swipeDistance = touchEndX - touchStartX;
+
+        // Swipe right (go to previous page)
+        if (swipeDistance > swipeThreshold) {
+          const prevBtn = document.getElementById('prevPageBtn');
+          if (!prevBtn.disabled) {
+            prevBtn.click();
+            // Visual feedback
+            modalElement.style.transform = 'translateX(10px)';
+            setTimeout(() => {
+              modalElement.style.transform = '';
+            }, 200);
+          }
+        }
+
+        // Swipe left (go to next page)
+        if (swipeDistance < -swipeThreshold) {
+          const nextBtn = document.getElementById('nextPageBtn');
+          if (!nextBtn.disabled) {
+            nextBtn.click();
+            // Visual feedback
+            modalElement.style.transform = 'translateX(-10px)';
+            setTimeout(() => {
+              modalElement.style.transform = '';
+            }, 200);
+          }
+        }
+      }
 
       // Save state periodically
       setInterval(saveState, 30000); // Every 30 seconds
