@@ -476,6 +476,503 @@
       background: rgba(239, 68, 68, 0.2);
     }
 
+    /* Phase 2: Quick Actions Bar */
+    .quick-actions {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .quick-action-btn {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1.25rem 1.5rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 16px;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.08);
+      text-align: left;
+    }
+
+    .quick-action-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(91, 75, 255, 0.2);
+      border-color: var(--primary-color);
+    }
+
+    .quick-action-icon {
+      font-size: 2rem;
+      flex-shrink: 0;
+    }
+
+    .quick-action-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .quick-action-title {
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--primary-color);
+      margin-bottom: 0.25rem;
+    }
+
+    .quick-action-desc {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.8;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .resume-reading-btn {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      border-color: rgba(91, 75, 255, 0.25);
+    }
+
+    .resume-reading-btn:hover {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.12) 0%, rgba(102, 126, 234, 0.12) 100%);
+    }
+
+    body.dark-mode .quick-action-btn {
+      background: rgba(30, 30, 40, 0.95);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .resume-reading-btn {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.15) 0%, rgba(102, 126, 234, 0.15) 100%);
+    }
+
+    /* Content Tags */
+    .content-tags {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 16px;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.08);
+    }
+
+    .tags-label {
+      font-weight: 600;
+      color: var(--primary-color);
+      margin-bottom: 0.75rem;
+      font-size: 0.9rem;
+    }
+
+    .tags-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .tag-btn {
+      padding: 0.5rem 1rem;
+      border: 2px solid;
+      border-radius: 20px;
+      background: white;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-size: 0.875rem;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .tag-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .tag-btn.active {
+      color: white !important;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    body.dark-mode .content-tags {
+      background: rgba(30, 30, 40, 0.95);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .tag-btn {
+      background: rgba(40, 40, 50, 0.8);
+    }
+
+    /* Modal Bookmark Button */
+    .modal-bookmark {
+      position: absolute;
+      top: 1.5rem;
+      right: 5rem;
+      width: 3rem;
+      height: 3rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(246, 245, 251, 0.95) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.2);
+      border-radius: 50%;
+      font-size: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.1);
+      z-index: 1001;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-bookmark:hover {
+      transform: scale(1.1) rotate(10deg);
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.25);
+    }
+
+    .modal-bookmark.bookmarked {
+      background: var(--gradient-purple);
+      border-color: transparent;
+    }
+
+    /* Learning Paths Modal */
+    .learning-paths-modal, .bookmarks-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(8px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 10000;
+      padding: 2rem;
+    }
+
+    .learning-paths-modal.active, .bookmarks-modal.active {
+      display: flex;
+    }
+
+    .learning-paths-content, .bookmarks-content {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border-radius: 24px;
+      padding: 2.5rem;
+      max-width: 900px;
+      width: 100%;
+      max-height: 85vh;
+      overflow-y: auto;
+      box-shadow: 0 20px 60px rgba(91, 75, 255, 0.3);
+      animation: modalSlideIn 0.3s ease-out;
+    }
+
+    .modal-header-simple {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-header-simple h2 {
+      margin: 0;
+      color: var(--primary-color);
+      font-size: 1.75rem;
+    }
+
+    .modal-close-simple {
+      font-size: 2.5rem;
+      cursor: pointer;
+      color: var(--text-color);
+      opacity: 0.6;
+      transition: all 0.3s;
+      line-height: 1;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+    }
+
+    .modal-close-simple:hover {
+      opacity: 1;
+      background: rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-subtitle {
+      color: var(--text-color);
+      opacity: 0.8;
+      margin-bottom: 2rem;
+      font-size: 1rem;
+    }
+
+    .learning-paths-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .learning-path-card {
+      background: white;
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 16px;
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .learning-path-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--gradient-purple);
+      opacity: 0;
+      transition: opacity 0.3s;
+      z-index: 0;
+    }
+
+    .learning-path-card:hover::before {
+      opacity: 0.05;
+    }
+
+    .learning-path-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 24px rgba(91, 75, 255, 0.2);
+      border-color: var(--primary-color);
+    }
+
+    .learning-path-card.active {
+      border-color: var(--primary-color);
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.2);
+    }
+
+    .learning-path-card > * {
+      position: relative;
+      z-index: 1;
+    }
+
+    .path-icon {
+      font-size: 2.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .path-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      margin-bottom: 0.5rem;
+    }
+
+    .path-description {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.8;
+      margin-bottom: 0.75rem;
+      line-height: 1.5;
+    }
+
+    .path-progress {
+      font-size: 0.8rem;
+      color: var(--primary-color);
+      font-weight: 600;
+    }
+
+    .modal-actions-simple {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+
+    .secondary-btn {
+      padding: 0.875rem 2rem;
+      border: 2px solid rgba(91, 75, 255, 0.3);
+      border-radius: 12px;
+      background: transparent;
+      color: var(--primary-color);
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .secondary-btn:hover {
+      background: rgba(91, 75, 255, 0.1);
+      transform: translateY(-2px);
+    }
+
+    /* Bookmarks List */
+    .bookmarks-list {
+      min-height: 200px;
+    }
+
+    .bookmark-item {
+      background: white;
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .bookmark-item:hover {
+      transform: translateX(8px);
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.15);
+      border-color: var(--primary-color);
+    }
+
+    .bookmark-icon {
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+
+    .bookmark-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .bookmark-title {
+      font-weight: 700;
+      color: var(--primary-color);
+      margin-bottom: 0.25rem;
+    }
+
+    .bookmark-desc {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.8;
+    }
+
+    .bookmark-remove {
+      padding: 0.5rem 0.75rem;
+      background: rgba(239, 68, 68, 0.1);
+      color: #dc2626;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.875rem;
+      font-weight: 600;
+      transition: all 0.3s;
+      flex-shrink: 0;
+    }
+
+    .bookmark-remove:hover {
+      background: rgba(239, 68, 68, 0.2);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 3rem 2rem;
+    }
+
+    .empty-state-icon {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+      opacity: 0.3;
+    }
+
+    .empty-state-text {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: var(--text-color);
+      margin-bottom: 0.5rem;
+      opacity: 0.6;
+    }
+
+    .empty-state-hint {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.5;
+    }
+
+    body.dark-mode .learning-paths-content,
+    body.dark-mode .bookmarks-content {
+      background: linear-gradient(135deg, rgba(20, 20, 30, 0.98) 0%, rgba(30, 30, 40, 0.98) 100%);
+    }
+
+    body.dark-mode .learning-path-card,
+    body.dark-mode .bookmark-item {
+      background: rgba(30, 30, 40, 0.8);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    /* High Contrast Mode */
+    body.high-contrast {
+      --primary-color: #0000ff;
+      --secondary-color: #ff6600;
+      --text-color: #000000;
+      --text-light: #000000;
+      --background: #ffffff;
+      --gold: #ffd700;
+    }
+
+    body.high-contrast * {
+      border-color: #000000 !important;
+    }
+
+    body.high-contrast .header,
+    body.high-contrast .quick-action-btn,
+    body.high-contrast .search-filters,
+    body.high-contrast .content-tags,
+    body.high-contrast .journey-card,
+    body.high-contrast .card {
+      background: #ffffff !important;
+      border: 3px solid #000000 !important;
+      box-shadow: none !important;
+    }
+
+    body.high-contrast .modal-content,
+    body.high-contrast .learning-paths-content,
+    body.high-contrast .bookmarks-content {
+      background: #ffffff !important;
+      border: 3px solid #000000 !important;
+    }
+
+    body.high-contrast button,
+    body.high-contrast .filter-btn,
+    body.high-contrast .tag-btn {
+      background: #ffffff !important;
+      color: #000000 !important;
+      border: 2px solid #000000 !important;
+      font-weight: 700 !important;
+    }
+
+    body.high-contrast button:hover,
+    body.high-contrast .filter-btn:hover,
+    body.high-contrast .tag-btn:hover {
+      background: #ffff00 !important;
+    }
+
+    body.high-contrast .filter-btn.active,
+    body.high-contrast .tag-btn.active,
+    body.high-contrast .learning-path-card.active {
+      background: #0000ff !important;
+      color: #ffffff !important;
+    }
+
+    body.high-contrast a,
+    body.high-contrast .card-title,
+    body.high-contrast .modal-title,
+    body.high-contrast .path-title {
+      color: #0000ff !important;
+      text-decoration: underline;
+    }
+
+    body.high-contrast .level-badge,
+    body.high-contrast .xp-bar {
+      background: #0000ff !important;
+      color: #ffffff !important;
+    }
+
     /* Journey Path Selector */
     .journey-selector {
       display: grid;
@@ -1827,17 +2324,54 @@
         <button class="icon-btn font-size-btn" id="fontSizeIncrease" title="Increase Font Size">A+</button>
       </div>
       <button class="icon-btn" id="darkModeToggle" title="Toggle Dark Mode">🌙</button>
+      <button class="icon-btn" id="highContrastToggle" title="Toggle High Contrast Mode">◐</button>
       <button class="icon-btn" id="shareBtn" title="Share Progress">📤</button>
     </div>
   </div>
 
   <!-- Main Container -->
   <div class="container">
+    <!-- Quick Actions Bar -->
+    <div class="quick-actions" id="quickActions">
+      <!-- Resume Reading Button -->
+      <button class="quick-action-btn resume-reading-btn" id="resumeReadingBtn" style="display: none;">
+        <span class="quick-action-icon">📖</span>
+        <div class="quick-action-content">
+          <div class="quick-action-title">Continue Reading</div>
+          <div class="quick-action-desc" id="lastReadTitle">Last page...</div>
+        </div>
+      </button>
+
+      <!-- Bookmarks Button -->
+      <button class="quick-action-btn bookmarks-btn" id="bookmarksBtn" style="display: none;">
+        <span class="quick-action-icon">🔖</span>
+        <div class="quick-action-content">
+          <div class="quick-action-title">Bookmarks</div>
+          <div class="quick-action-desc"><span id="bookmarkCount">0</span> saved</div>
+        </div>
+      </button>
+
+      <!-- Learning Path Button -->
+      <button class="quick-action-btn learning-path-btn" id="learningPathBtn">
+        <span class="quick-action-icon">🗺️</span>
+        <div class="quick-action-content">
+          <div class="quick-action-title">Choose Learning Path</div>
+          <div class="quick-action-desc">Get guided recommendations</div>
+        </div>
+      </button>
+    </div>
+
     <!-- Search -->
     <div class="search-container">
       <input type="text" class="search-input" id="searchInput" placeholder="Search all content... (try 'consent', 'tickets', 'what to bring')">
       <span class="search-icon">🔍</span>
       <div class="search-results-count" id="searchResultsCount" style="display: none;"></div>
+    </div>
+
+    <!-- Content Tags Filter -->
+    <div class="content-tags" id="contentTagsContainer" style="display: none;">
+      <div class="tags-label">Filter by topic:</div>
+      <div class="tags-list" id="tagsList"></div>
     </div>
 
     <!-- Advanced Filters -->
@@ -1924,6 +2458,7 @@
       <div class="reading-progress-bar">
         <div class="reading-progress-fill" id="readingProgressFill"></div>
       </div>
+      <button class="modal-bookmark" id="modalBookmark" title="Bookmark this page">🔖</button>
       <button class="modal-close" id="modalClose">×</button>
       <div class="modal-nav">
         <button class="modal-nav-btn" id="prevPageBtn">
@@ -2051,6 +2586,38 @@
     </div>
   </div>
 
+  <!-- Learning Paths Modal -->
+  <div class="learning-paths-modal" id="learningPathsModal">
+    <div class="learning-paths-content">
+      <div class="modal-header-simple">
+        <h2>🗺️ Choose Your Learning Path</h2>
+        <span class="modal-close-simple" id="closeLearningPathsBtn">×</span>
+      </div>
+      <p class="modal-subtitle">Select a curated path through the content based on your interests</p>
+      <div class="learning-paths-grid" id="learningPathsGrid"></div>
+      <div class="modal-actions-simple">
+        <button class="secondary-btn" id="clearPathBtn">Browse Freely</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bookmarks Modal -->
+  <div class="bookmarks-modal" id="bookmarksModal">
+    <div class="bookmarks-content">
+      <div class="modal-header-simple">
+        <h2>🔖 Your Bookmarks</h2>
+        <span class="modal-close-simple" id="closeBookmarksBtn">×</span>
+      </div>
+      <div class="bookmarks-list" id="bookmarksList">
+        <div class="empty-state">
+          <div class="empty-state-icon">📚</div>
+          <div class="empty-state-text">No bookmarks yet</div>
+          <div class="empty-state-hint">Click the bookmark icon on any page to save it here</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script>
     // Configuration
     let CONTENT_BASE = '/content/docs/'; // Will auto-detect correct path
@@ -2085,7 +2652,12 @@
       sessionStart: Date.now(),
       // Advanced search filters
       filterStatus: 'all', // all, read, unread
-      filterLength: 'all'  // all, short, medium, long
+      filterLength: 'all',  // all, short, medium, long
+      // Phase 2: Enhanced Discovery & Navigation
+      bookmarks: new Set(), // Bookmarked page paths
+      lastReadPage: null,   // Path of last read page
+      currentLearningPath: null, // Active learning path ID
+      contentTags: []       // Selected content tags for filtering
     };
 
     // Achievement Definitions with XP bonuses
@@ -2115,6 +2687,62 @@
       { id: 'curious', icon: '🤔', title: 'Curious Mind', desc: 'Read 50% of all content', xp: 200, condition: () => state.pages.length > 0 && state.readPages.size >= Math.floor(state.pages.length * 0.5) },
       { id: 'dedicated', icon: '💪', title: 'Dedicated Learner', desc: 'Read 75% of all content', xp: 300, condition: () => state.pages.length > 0 && state.readPages.size >= Math.floor(state.pages.length * 0.75) },
       { id: 'dark_mode', icon: '🌙', title: 'Dark Side', desc: 'Enable dark mode', xp: 10, condition: () => false }
+    ];
+
+    // Learning Path Definitions
+    const learningPaths = [
+      {
+        id: 'newcomer',
+        icon: '🌱',
+        title: 'Newcomer Path',
+        description: 'Perfect for first-time visitors - understand the philosophy and basics',
+        tags: ['beginner', 'philosophy', 'basics'],
+        sequence: ['concept/philosophy', 'concept/principles', 'practical/tickets', 'practical/schedule']
+      },
+      {
+        id: 'practical_first',
+        icon: '🎯',
+        title: 'Practical First',
+        description: 'Jump straight to the essentials - what you need to know',
+        tags: ['practical', 'quick-start'],
+        sequence: ['practical/tickets', 'practical/schedule', 'practical/things-to-bring', 'wellbeing/care-and-support']
+      },
+      {
+        id: 'deep_dive',
+        icon: '🌊',
+        title: 'Deep Understanding',
+        description: 'Comprehensive journey through all concepts and philosophy',
+        tags: ['comprehensive', 'philosophy', 'theory'],
+        sequence: ['concept/philosophy', 'concept/principles', 'concept/consent', 'concept/intimacy', 'wellbeing/emotional-safety']
+      },
+      {
+        id: 'preparation',
+        icon: '🎒',
+        title: 'Event Preparation',
+        description: 'Everything you need to prepare for the event',
+        tags: ['practical', 'preparation', 'event'],
+        sequence: ['practical/tickets', 'practical/things-to-bring', 'practical/schedule', 'practical/location', 'wellbeing/care-and-support']
+      },
+      {
+        id: 'wellbeing_focused',
+        icon: '💚',
+        title: 'Wellbeing & Care',
+        description: 'Focus on safety, support, and self-care',
+        tags: ['wellbeing', 'safety', 'care'],
+        sequence: ['wellbeing/emotional-safety', 'wellbeing/care-and-support', 'concept/consent', 'wellbeing/boundaries']
+      }
+    ];
+
+    // Content tags for filtering
+    const contentTags = [
+      { id: 'consent', label: '🤝 Consent', color: '#667eea' },
+      { id: 'intimacy', label: '💜 Intimacy', color: '#5b4bff' },
+      { id: 'logistics', label: '📋 Logistics', color: '#f97316' },
+      { id: 'philosophy', label: '💭 Philosophy', color: '#8b5cf6' },
+      { id: 'safety', label: '🛡️ Safety', color: '#10b981' },
+      { id: 'preparation', label: '🎒 Preparation', color: '#f59e0b' },
+      { id: 'community', label: '👥 Community', color: '#06b6d4' },
+      { id: 'ritual', label: '✨ Ritual', color: '#ec4899' }
     ];
 
     // Encode state to URL-safe string
@@ -2212,6 +2840,11 @@
         state.lastVisit = parsed.lastVisit || null;
         state.readingHistory = parsed.readingHistory || [];
         state.totalReadingTime = parsed.totalReadingTime || 0;
+        // Phase 2 state
+        state.bookmarks = new Set(parsed.bookmarks || []);
+        state.lastReadPage = parsed.lastReadPage || null;
+        state.currentLearningPath = parsed.currentLearningPath || null;
+        state.contentTags = parsed.contentTags || [];
 
         // Update streak
         updateStreak();
@@ -2228,7 +2861,12 @@
         streak: state.streak,
         lastVisit: new Date().toISOString(),
         readingHistory: state.readingHistory,
-        totalReadingTime: state.totalReadingTime
+        totalReadingTime: state.totalReadingTime,
+        // Phase 2 state
+        bookmarks: Array.from(state.bookmarks),
+        lastReadPage: state.lastReadPage,
+        currentLearningPath: state.currentLearningPath,
+        contentTags: state.contentTags
       }));
     }
 
@@ -2522,6 +3160,12 @@
 
       modal.classList.add('active');
 
+      // Phase 2: Track last read page and update bookmark button
+      state.lastReadPage = page.path;
+      updateBookmarkButton();
+      updateResumeReading();
+      saveState();
+
       // Initialize reading tracking if page not yet read
       if (!state.readPages.has(page.path)) {
         currentPageTracking = {
@@ -2626,6 +3270,9 @@
       const page = state.pages.find(p => p.path === path);
       if (page) openPage(page);
     }
+
+    // Alias for Phase 2 compatibility
+    const openModal = openPage;
 
     // Update modal navigation buttons
     function updateModalNavigation() {
@@ -3103,6 +3750,231 @@
       });
     }
 
+    // Phase 2: Learning Paths
+    function renderLearningPaths() {
+      const grid = document.getElementById('learningPathsGrid');
+      grid.innerHTML = learningPaths.map(path => {
+        const pagesInPath = path.sequence.map(seq =>
+          state.pages.find(p => p.path.includes(seq))
+        ).filter(p => p);
+
+        const completedInPath = pagesInPath.filter(p => state.readPages.has(p.path)).length;
+        const progress = pagesInPath.length > 0
+          ? Math.round((completedInPath / pagesInPath.length) * 100)
+          : 0;
+
+        const isActive = state.currentLearningPath === path.id;
+
+        return `
+          <div class="learning-path-card ${isActive ? 'active' : ''}" onclick="selectLearningPath('${path.id}')">
+            <div class="path-icon">${path.icon}</div>
+            <div class="path-title">${path.title}</div>
+            <div class="path-description">${path.description}</div>
+            <div class="path-progress">${completedInPath}/${pagesInPath.length} pages • ${progress}% complete</div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function selectLearningPath(pathId) {
+      state.currentLearningPath = pathId;
+      saveState();
+      renderLearningPaths();
+      updateResumeReading();
+      document.getElementById('learningPathsModal').classList.remove('active');
+      showAchievement('🗺️', 'Path Selected!', `Following the ${learningPaths.find(p => p.id === pathId).title} path`);
+    }
+
+    function clearLearningPath() {
+      state.currentLearningPath = null;
+      saveState();
+      document.getElementById('learningPathsModal').classList.remove('active');
+    }
+
+    function getNextInPath() {
+      if (!state.currentLearningPath) return null;
+
+      const path = learningPaths.find(p => p.id === state.currentLearningPath);
+      if (!path) return null;
+
+      for (const seq of path.sequence) {
+        const page = state.pages.find(p => p.path.includes(seq));
+        if (page && !state.readPages.has(page.path)) {
+          return page;
+        }
+      }
+
+      return null; // Path completed!
+    }
+
+    // Phase 2: Bookmarks
+    function toggleBookmark(pagePath) {
+      if (!pagePath) return;
+
+      if (state.bookmarks.has(pagePath)) {
+        state.bookmarks.delete(pagePath);
+        showAchievement('📑', 'Bookmark Removed', 'Removed from bookmarks');
+      } else {
+        state.bookmarks.add(pagePath);
+        showAchievement('🔖', 'Bookmarked!', 'Added to your bookmarks');
+      }
+
+      saveState();
+      updateBookmarkButton();
+      updateBookmarkCount();
+      renderBookmarks();
+    }
+
+    function updateBookmarkButton() {
+      const bookmarkBtn = document.getElementById('modalBookmark');
+      const currentPage = state.pages[state.currentPageIndex];
+
+      if (currentPage && state.bookmarks.has(currentPage.path)) {
+        bookmarkBtn.classList.add('bookmarked');
+      } else {
+        bookmarkBtn.classList.remove('bookmarked');
+      }
+    }
+
+    function updateBookmarkCount() {
+      const count = state.bookmarks.size;
+      document.getElementById('bookmarkCount').textContent = count;
+
+      const bookmarksBtn = document.getElementById('bookmarksBtn');
+      if (count > 0) {
+        bookmarksBtn.style.display = 'flex';
+      } else {
+        bookmarksBtn.style.display = 'none';
+      }
+    }
+
+    function renderBookmarks() {
+      const container = document.getElementById('bookmarksList');
+
+      const bookmarkedPages = state.pages.filter(p => state.bookmarks.has(p.path));
+
+      if (bookmarkedPages.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">📚</div>
+            <div class="empty-state-text">No bookmarks yet</div>
+            <div class="empty-state-hint">Click the bookmark icon on any page to save it here</div>
+          </div>
+        `;
+      } else {
+        container.innerHTML = bookmarkedPages.map(page => `
+          <div class="bookmark-item" onclick="openBookmark('${page.path}')">
+            <div class="bookmark-icon">${getSectionIcon(page.section)}</div>
+            <div class="bookmark-content">
+              <div class="bookmark-title">${page.title}</div>
+              <div class="bookmark-desc">${page.description}</div>
+            </div>
+            <button class="bookmark-remove" onclick="event.stopPropagation(); removeBookmark('${page.path}')">Remove</button>
+          </div>
+        `).join('');
+      }
+    }
+
+    function openBookmark(pagePath) {
+      const page = state.pages.find(p => p.path === pagePath);
+      if (page) {
+        document.getElementById('bookmarksModal').classList.remove('active');
+        openModal(page);
+      }
+    }
+
+    function removeBookmark(pagePath) {
+      state.bookmarks.delete(pagePath);
+      saveState();
+      updateBookmarkCount();
+      renderBookmarks();
+      showAchievement('📑', 'Removed', 'Bookmark removed');
+    }
+
+    function getSectionIcon(section) {
+      const icons = {
+        'concept': '💭',
+        'practical': '🎫',
+        'wellbeing': '💚'
+      };
+      return icons[section] || '📄';
+    }
+
+    // Phase 2: Content Tags
+    function renderContentTags() {
+      const container = document.getElementById('tagsList');
+      container.innerHTML = contentTags.map(tag => `
+        <button class="tag-btn"
+                style="border-color: ${tag.color}; color: ${tag.color}"
+                data-tag="${tag.id}"
+                onclick="toggleTag('${tag.id}', '${tag.color}')">
+          ${tag.label}
+        </button>
+      `).join('');
+    }
+
+    function toggleTag(tagId, color) {
+      const index = state.contentTags.indexOf(tagId);
+      if (index > -1) {
+        state.contentTags.splice(index, 1);
+      } else {
+        state.contentTags.push(tagId);
+      }
+
+      // Update tag button appearance
+      const btn = document.querySelector(`[data-tag="${tagId}"]`);
+      if (state.contentTags.includes(tagId)) {
+        btn.classList.add('active');
+        btn.style.backgroundColor = color;
+      } else {
+        btn.classList.remove('active');
+        btn.style.backgroundColor = '';
+      }
+
+      filterPages();
+      saveState();
+    }
+
+    // Phase 2: Resume Reading
+    function updateResumeReading() {
+      const resumeBtn = document.getElementById('resumeReadingBtn');
+      const lastReadTitle = document.getElementById('lastReadTitle');
+
+      // Check for next page in learning path first
+      const nextInPath = getNextInPath();
+      if (nextInPath) {
+        resumeBtn.style.display = 'flex';
+        lastReadTitle.textContent = `Next: ${nextInPath.title}`;
+        resumeBtn.onclick = () => openModal(nextInPath);
+        return;
+      }
+
+      // Otherwise show last read page
+      if (state.lastReadPage) {
+        const page = state.pages.find(p => p.path === state.lastReadPage);
+        if (page) {
+          resumeBtn.style.display = 'flex';
+          lastReadTitle.textContent = page.title;
+          resumeBtn.onclick = () => openModal(page);
+          return;
+        }
+      }
+
+      // No resume option available
+      resumeBtn.style.display = 'none';
+    }
+
+    // Phase 2: High Contrast Mode
+    function toggleHighContrast() {
+      document.body.classList.toggle('high-contrast');
+      const isHighContrast = document.body.classList.contains('high-contrast');
+      localStorage.setItem('highContrast', isHighContrast);
+
+      if (isHighContrast) {
+        showAchievement('◐', 'High Contrast On', 'Enhanced accessibility mode enabled');
+      }
+    }
+
     // Initialize app
     async function init() {
       loadState();
@@ -3123,6 +3995,12 @@
       // Load font size preference
       const savedFontSize = localStorage.getItem('fontSize') || 'normal';
       setFontSize(savedFontSize);
+
+      // Load high contrast preference
+      const highContrast = localStorage.getItem('highContrast') === 'true';
+      if (highContrast) {
+        document.body.classList.add('high-contrast');
+      }
 
       // Auto-detect correct content base path
       const detected = await detectContentBase();
@@ -3158,6 +4036,11 @@
       updateUI();
       renderAchievements();
       updateAchievementCount();
+
+      // Phase 2: Initialize new features
+      renderContentTags();
+      updateBookmarkCount();
+      updateResumeReading();
 
       // Event listeners
       document.getElementById('modalClose').addEventListener('click', closeModal);
@@ -3214,6 +4097,36 @@
 
       document.getElementById('clearFiltersBtn').addEventListener('click', clearFilters);
 
+      // Phase 2: Event listeners for new features
+      document.getElementById('highContrastToggle').addEventListener('click', toggleHighContrast);
+
+      document.getElementById('learningPathBtn').addEventListener('click', () => {
+        renderLearningPaths();
+        document.getElementById('learningPathsModal').classList.add('active');
+      });
+
+      document.getElementById('closeLearningPathsBtn').addEventListener('click', () => {
+        document.getElementById('learningPathsModal').classList.remove('active');
+      });
+
+      document.getElementById('clearPathBtn').addEventListener('click', clearLearningPath);
+
+      document.getElementById('bookmarksBtn').addEventListener('click', () => {
+        renderBookmarks();
+        document.getElementById('bookmarksModal').classList.add('active');
+      });
+
+      document.getElementById('closeBookmarksBtn').addEventListener('click', () => {
+        document.getElementById('bookmarksModal').classList.remove('active');
+      });
+
+      document.getElementById('modalBookmark').addEventListener('click', () => {
+        const currentPage = state.pages[state.currentPageIndex];
+        if (currentPage) {
+          toggleBookmark(currentPage.path);
+        }
+      });
+
       document.getElementById('shareBtn').addEventListener('click', shareProgress);
 
       document.getElementById('copyLinkBtn').addEventListener('click', copyLink);
@@ -3242,6 +4155,8 @@
           document.getElementById('statsDashboard').classList.remove('open');
           document.getElementById('shareModal').classList.remove('active');
           document.getElementById('onboardingModal').classList.remove('active');
+          document.getElementById('learningPathsModal').classList.remove('active');
+          document.getElementById('bookmarksModal').classList.remove('active');
         }
 
         // Arrow keys for page navigation (when modal is open)
