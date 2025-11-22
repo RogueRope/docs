@@ -2,9 +2,9 @@
 title: Tickets
 description: 'Get your ticket, manage refunds, resell, defer payment, or request exceptions'
 lead: "Saying yes, when you mean it. Everything about your ticket."
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 3
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T11:44:53+00:00
+weight: 99
 toc: true
 ---
 
@@ -59,9 +59,10 @@ We'll meet you where we can.
 
 ![A mythic creature with antlers reaching toward a glowing invitation floating in space, surrounded by rope strands like constellations](/images/ticket-creature-invitation.png)
 
-**📅 Tickets go on sale:** December 1st, 2025 at 20:00
-**💰 Ticket price:** €169 (includes accommodation, one hot meal per day plus provisions, and full access)
-**🎟️ Limited to:** 42 people to maintain intimacy and connection
+* **📅 Tickets go on sale:** December 1st, 2025 at 20:00
+* Get notified the moment sales open: [Join the Waitlist](https://roguerope.be/pages/signupform.html)
+* **💰 Ticket price:** €169 (includes accommodation, one hot meal per day plus provisions, and full access)
+* **🎟️ Limited to:** 42 people to maintain intimacy and connection
 
 We use a brief application process — not to gatekeep, but to ensure everyone comes with aligned expectations and respect for the container we're creating together.
 
@@ -183,9 +184,7 @@ We understand life happens. Plans change. Circumstances shift. We're not here to
 
 ## Ticket Transfers & Resale
 
-### Your Options If You Can't Attend
-
-#### Option 1: Resell Your Ticket (Recommended)
+### Your Option If You Can't Attend
 
 **You can resell your ticket to someone else.** This way, your money doesn't disappear — it goes to the new buyer.
 
@@ -205,52 +204,6 @@ We understand life happens. Plans change. Circumstances shift. We're not here to
 **Cost to you:** Free. No processing fee. The buyer reimburses you directly.
 
 ---
-
-#### Option 2: Wait List Facilitation (If We're Fully Booked)
-
-**If we've sold all 42 tickets and have a waitlist:**
-
-We can add your cancellation to the waitlist pool, and refund the first person who can attend.
-
-**This only works if:**
-
-- We're fully booked (42/42 tickets sold)
-- There's an active waitlist
-
-**This doesn't work if:**
-
-- We're not fully booked (your refund just reduces event revenue)
-- Your cancellation is within 2 weeks (not enough time to notify waitlist)
-
----
-
-### Step-by-Step Transfer Process
-
-**You can transfer your ticket to another person.**
-
-**How:**
-
-1. **You find the buyer** (friend, community member, etc.)
-2. **Email [info@roguerope.be](mailto:info@roguerope.be)** with:
-   - Subject: "Ticket transfer request"
-   - Your name and order number
-   - New buyer's name and email
-   - Brief note (optional): who they are, how you know them
-3. **We vet the transfer** (confirm they understand the event)
-4. **Transfer approved:** Buyer's info replaces yours in the system
-5. **Buyer makes payment to you** (outside our system)
-
-**Vetting process:**
-
-- We check they understand the event is consent-focused, intimate, and community-based
-- We ask 1-2 questions to ensure alignment
-- Takes 2-3 days
-- If approved, we send confirmation to both of you
-
-**This works any time** (even the week before), as long as we have time to update our records.
-
----
-
 ### Resale Rules
 
 - **You set the price** (we don't control it; that's between you and buyer)

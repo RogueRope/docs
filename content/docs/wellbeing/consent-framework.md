@@ -2,8 +2,8 @@
 title: 'Consent & Safety'
 description: 'Our framework for consent, boundaries, and creating a safe container for exploration'
 lead: 'Consent is a whole-body experience — not just a word, but a way we move together.'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 aliases:
   - /wellbeing/consent
   - /wellbeing/consent-safety

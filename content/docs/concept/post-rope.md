@@ -2,8 +2,8 @@
 title: 'Post-Rope: A Gentle Rebellion'
 description: 'A quiet turning away from the noise and the performance economy.'
 lead: "We want rope that's messy, tender, human again."
-date: 2025-08-28
-lastmod: 2025-11-11T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 25
 toc: true
 ---

@@ -2,8 +2,8 @@
 title: Accommodations
 description: "Where and how you'll sleep"
 lead: 'Nights shape us as much as days'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 15
 toc: true
 ---
@@ -29,8 +29,6 @@ It's about proximity. About choosing to be held by a space, and by each other.
 - **FLINTA-only rooms** — for women (including trans women), lesbians, intersex, non-binary, trans, and agender folks. Self-defined; no gatekeeping.
 
 _Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest._
-
-- **"Snoring sanctuary"** — for heavy sleepers and their companions
 
 It's simple. But it's real.
 

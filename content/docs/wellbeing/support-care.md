@@ -2,8 +2,8 @@
 title: "Support & Care Systems"
 description: "How we care for each other – FWBs, conscious care, and community wellbeing"
 lead: "Care doesn't belong to a crew. It belongs to all of us."
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 aliases:
   - /wellbeing/support
   - /wellbeing/fwb

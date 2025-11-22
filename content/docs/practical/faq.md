@@ -2,15 +2,15 @@
 title: Frequently Asked Questions
 description: 'Common questions about Bottoms Up! and how to prepare'
 lead: 'Questions you might have. Honest answers.'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 50
 toc: true
 ---
 
 ## The Gathering
 
-**Is this just 5 days?** Yes. Wed 18:00 – Sun 16:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
+**Is this just 5 days?** Yes. Wed 18:00 – Sun 14:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
 
 **What time do I need to arrive?** **Wednesday by 21:00 for the Opening Circle — this is mandatory.** You must be present for this foundational ritual. If you can't make Wednesday evening, this gathering isn't the right fit for you this year. Leaving early is fine, but arriving on time is essential. → Travel tips & Build Day details live in [Getting There](getting-there).
 
@@ -18,7 +18,7 @@ toc: true
 
 **Is this sexual?** Yes. Sex-positive, sexual interactions happen. If seeing others kiss, touch, or express sexuality makes you very uncomfortable, this isn't your event. We're clear because consent is mutual.
 
-**Will I know anyone?** ~30% come solo. You'll meet people. By day 2, you'll know folks. By day 4, you're part of something.
+**Will I know anyone?** ~60% come solo. You'll meet people. By day 2, you'll know folks. By day 4, you're part of something.
 
 ---
 
@@ -26,7 +26,7 @@ toc: true
 
 **What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment. → Need the full breakdown? See [Participation Details](participation).
 
-**Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" — we offer discounts, payment plans, work exchange, no shame.
+**Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access".
 
 **How many people?** 42 max. Why? Intimacy without anonymity. We know each other's names.
 
@@ -36,9 +36,7 @@ toc: true
 
 **Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate. → Menu rhythm and kitchen info live in [Food & Meals](food).
 
-**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys. → Full packing list in [Things to Bring](things-to-bring).
-
-**Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party. Slippers for shared floors.
+**Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party, wich will have an easy and broad theme. Slippers/socks for shared floors.
 
 ---
 
@@ -56,21 +54,21 @@ toc: true
 
 ## Before & After
 
-**How to prepare?** Read [Getting Started] and [Philosophy]. Reflect on why you're coming. Talk to your partner if you have one. Arrive open.
+**How to prepare?** Read [Getting Started](/docs/concept/is-this-for-you) and [Philosophy](/docs/concept/philosophy). Reflect on why you're coming. Talk to your partner if you have one. Arrive open.
 
-**Subdrop?** Emotional low after intensity. Rest, hydrate, move your body, reach out. It passes. [→ After the Gathering for support]
+**Subdrop?** Emotional low after intensity. Rest, hydrate, move your body, reach out. It passes. See [After the Gathering](/docs/wellbeing/after-integration) for more support.
 
-**Stay connected?** Join our WhatsApp community, attend monthly calls, sign up for mailing list. [→ After the Gathering for details]
+**Stay connected?** Join our WhatsApp community, attend monthly calls, sign up for the mailing list. See [After the Gathering](/docs/wellbeing/after-integration) for details.
 
 ---
 
 ## More Info
 
-**How do I get there?** [→ Getting There page]
+**How do I get there?** See [Getting There](/docs/practical/getting-there) for travel details, ride-share info, and arrival timing.
 
 **Tickets?** December 1, 20:00. €169. 42 slots. Brief application (alignment check).
 
-**Cancellation?** [→ Cancellation Policy] TL;DR: 3 weeks before = full refund. After = resell or defer.
+**Cancellation?** See [Cancellation & Refund Policy](/docs/practical/participation/#cancellation--refund-policy) — TL;DR: 3 weeks before = full refund. After = resell or defer.
 
 **Photos?** **Consent-only:** ask first, no bystanders, no disturbance, delete on request. When the gathering ends, re-confirm consent **and** anonymize the venue before posting anywhere.  
 → Full rules (including post-event sharing): [Photography Guidelines](photography-guidelines)
@@ -81,4 +79,4 @@ toc: true
 
 **Questions?** Email [info@roguerope.be](mailto:info@roguerope.be)
 
-[→ Get tickets] [→ Getting Started] [→ Philosophy]
+[Get tickets](/docs/practical/participation) • [Getting Started](/docs/concept/is-this-for-you) • [Philosophy](/docs/concept/philosophy)

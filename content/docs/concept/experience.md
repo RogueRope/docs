@@ -2,8 +2,8 @@
 title: Experience Structure
 description: 'How our gathering unfolds - from arrival to departure, rituals to play'
 lead: 'The rhythm of our five days together'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-11-11T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 15
 toc: true
 ---
@@ -140,8 +140,8 @@ Curious how we tend sex-positive space in detail? → [Sex Positive, Unapologeti
 
 **Wondering if this is for you?** → [Is This For You?](/docs/concept/is-this-for-you) — Gentle guidance for self-reflection
 
-**Ready to join us?** → [Join Us](../practical/participation) — Practical details about participation and tickets
+**Ready to join us?** → [Join Us](/docs/practical/participation) — Practical details about participation and tickets
 
-**Need support preparing?** → [Care & Support](../wellbeing) — Resources for consent, safety, and wellbeing
+**Need support preparing?** → [Care & Support](/docs/wellbeing) — Resources for consent, safety, and wellbeing
 
 </div>

@@ -2,8 +2,8 @@
 title: Leave No Trace & Space Care
 description: 'How we care for the space together'
 lead: 'We leave it better than we found it'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 30
 toc: true
 ---
@@ -18,15 +18,15 @@ Care for shared space is collective. Notice what's yours. Pick it up. Clean what
 
 We share these rooms like we share scenes: with care, attention, and a sense that someone else will arrive after us. Notice what needs doing and do it if you can.
 
-**Meal areas** stay inviting when we clear plates, wipe tables, and tuck leftovers away before they wander off on their own. If you see dishes waiting for a wash, give them a quick rinse or run them to the dish station.
+**Meal areas** stay inviting when we clear plates, wipe tables, and tuck leftovers away before they wander off on their own. If you see dishes waiting for a wash, give them a quick rinse.
 
 **Play spaces** breathe easier when equipment gets a wipe-down, ropes are coiled, and furniture finds its home again. Think of it as resetting the stage for whoever comes next.
 
 **Sleeping areas** feel restful when bunks stay loosely organized, clothes live in bags instead of on floors, and shared items boomerang back to where everyone expects them.
 
-**Bathrooms** move faster when showers stay short, surfaces get a quick swoosh, and anything disposable lands in the bins provided (menstrual products included).
+**Bathrooms**  anything disposable lands in the bins provided.
 
-**General vibe:** carry your trash with you, flip lights off if you’re the last one out, and if something looks off, either tend to it or tap an organizer. Shared responsibility is the kink here.
+**General vibe:** carry your trash with you, and if something looks off, either tend to it or tap an organizer. Shared responsibility is the kink here.
 
 ---
 

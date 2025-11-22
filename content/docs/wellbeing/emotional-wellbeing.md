@@ -2,8 +2,8 @@
 title: "Emotional Wellbeing"
 description: "Taking care of your heart — before, during, and after the gathering"
 lead: "Intensity is beautiful — and it can be a lot. Here's how we care for ourselves and each other."
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 aliases:
   - /wellbeing/emotional
   - /wellbeing/baggage
@@ -159,6 +159,8 @@ We'll figure it out together.
 ![animated drawing of two people hugging](/images/rrc25/encounter.png)
 
 ---
+
+![A solitary mythic creature in a quiet contemplative moment, peacefully processing](/images/rrc25/processing.png)
 
 ## Creating Boundaries
 

@@ -2,8 +2,8 @@
 title: 'Our Shared Agreements'
 description: 'How we commit to keeping our space honest, safe, and kind'
 lead: 'The commitments we make to ourselves and each other'
-date: 2025-08-28
-lastmod: 2025-11-11T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 12
 toc: true
 ---

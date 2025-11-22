@@ -2,8 +2,8 @@
 title: Food & Meals
 description: 'What to expect for meals and what to bring'
 lead: 'Nourishment for your body and soul'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 21
 toc: true
 ---
@@ -14,7 +14,7 @@ toc: true
 
 - **Coffee and water** — always available
 - **Bread in the morning** — daily
-- **Snacks** — most afternoons
+- **Snacks** —  afternoons
 - **Warm meal** — every evening
 
 **🥗 Dietary choice:**

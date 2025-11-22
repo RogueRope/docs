@@ -1,6 +1,11 @@
 ---
 title: "Bottoms Up!"
 description: "A five-day rope gathering in Belgium focused on connection over performance, consent as sacred practice, and rope as ritual. Limited to 42 people. Feb 18-22, 2026."
+lead: 'A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.'
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T11:13:19+00:00
+weight: 1
+toc: false
 ---
 
 A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.
@@ -12,7 +17,7 @@ Rope as ritual. Connection over performance. Consent as sacred practice.
 ## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
 
 **🎫 €169 • Limited to 42 people**  
-_[Tickets available December 1st, 2025](docs/practical/participation)_
+_[Tickets available December 1st, 2025](/docs/practical/participation)_
 
 ---
 
@@ -26,30 +31,6 @@ This isn't a gathering for spectators. It's a sanctuary. For the curious. For th
 Five days to shed the rush. To sink into something slower, softer, more essential.
 
 Come to tie. Come to surrender. Come to discover what lives in the spaces between.
-
-![Diverse community gathering in warm embrace, celebrating connection and belonging together in an intimate sanctuary space](/images/welcome-gathering.png)
-
----
-
-## 🚀 Quick Navigation
-
-### First Time Here?
-
-**Start your journey:**
-
-1. **[The Philosophy](docs/concept/)** — Understanding what makes this gathering unique
-2. **[Practical Details](docs/practical/)** — Everything you need to know to join us
-3. **[Get Your Ticket](docs/practical/participation)** — Secure your spot
-
-### Returning Home?
-
-**Welcome back:**
-
-- **[What's New This Year](docs/practical/schedule)** — The ceremonies that shape our time
-- **[Get Your Spot](docs/practical/participation)** — Secure your return to the warmth
-- **[Questions?](docs/wellbeing/)** — Common questions answered
-
----
 
 ## 🌟 What to Expect
 
@@ -70,19 +51,3 @@ Sleep, eat, and grow together
 
 💝 **Intimacy**  
 Limited to 42 people to maintain connection
-
----
-
-## 📍 Event Details
-
-| Detail           | Information                                |
-| ---------------- | ------------------------------------------ |
-| **Date**         | Wed–Sun, 18–22 Feb 2026                    |
-| **Location**     | Mol, Belgium                               |
-| **Capacity**     | Limited to 42 people                       |
-| **Price**        | €169 (accommodation + meals + full access) |
-| **Registration** | Opens December 1st, 2025                   |
-
----
-
-_Last updated: November 2025_
