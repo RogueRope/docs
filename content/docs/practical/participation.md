@@ -59,10 +59,10 @@ We'll meet you where we can.
 
 ![A mythic creature with antlers reaching toward a glowing invitation floating in space, surrounded by rope strands like constellations](/images/ticket-creature-invitation.png)
 
-**📅 Tickets go on sale:** December 1st, 2025 at 20:00
-Get notified the moment sales open: [Join the Waitlist](https://roguerope.be/pages/signupform.html)
-**💰 Ticket price:** €169 (includes accommodation, one hot meal per day plus provisions, and full access)
-**🎟️ Limited to:** 42 people to maintain intimacy and connection
+* **📅 Tickets go on sale:** December 1st, 2025 at 20:00
+* Get notified the moment sales open: [Join the Waitlist](https://roguerope.be/pages/signupform.html)
+* **💰 Ticket price:** €169 (includes accommodation, one hot meal per day plus provisions, and full access)
+* **🎟️ Limited to:** 42 people to maintain intimacy and connection
 
 We use a brief application process — not to gatekeep, but to ensure everyone comes with aligned expectations and respect for the container we're creating together.
 
