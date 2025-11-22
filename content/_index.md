@@ -32,8 +32,6 @@ Five days to shed the rush. To sink into something slower, softer, more essentia
 
 Come to tie. Come to surrender. Come to discover what lives in the spaces between.
 
-![Diverse community gathering in warm embrace, celebrating connection and belonging together in an intimate sanctuary space](/images/welcome-gathering.png)
-
 ## 🌟 What to Expect
 
 🌀 **Rope as Ritual**  
