@@ -3,10 +3,11 @@ title: Dress Code
 description: 'Urban Mystics & Enchanted Souls - Dress code inspiration for Bottoms Up! gathering. Express your authentic self through velvet, flowing fabrics, and meaningful symbols.'
 lead: ''
 date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T11:20:48+00:00
 images: []
 weight: 5
 toc: true
+bookHidden: true
 ---
 
 <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
