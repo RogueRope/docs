@@ -52,22 +52,3 @@ We check it often — especially as the event approaches.
 </div>
 
 </div>
-
----
-
-<div class="hx-bg-gradient-to-r hx-from-gray-50 hx-to-slate-50 dark:hx-from-gray-800/30 dark:hx-to-slate-800/30 hx-p-8 hx-rounded-lg hx-text-center">
-
-## Want to explore more?
-
-Ready to dive deeper into what makes this gathering special?
-
-<div class="hx-mt-6">
-[Back to Home →](/)
-{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-gray-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-gray-700.hx-transition-colors}
-</div>
-
-<div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Is This For You?](/docs/concept/is-this-for-you) • [Get Your Ticket](/docs/practical/participation)
-</div>
-
-</div>
