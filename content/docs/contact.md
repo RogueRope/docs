@@ -2,10 +2,11 @@
 title: Contact
 description: "Here's my number, call me!"
 lead: "Reach out. We'll meet you."
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
-t: 150
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
+weight: 150
 toc: true
+BookHidden: true
 ---
 
 <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
@@ -66,7 +67,7 @@ Ready to dive deeper into what makes this gathering special?
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Is This For You?](/concept/is-this-for-you) • [Get Your Ticket](/docs/practical/participation)
+Or explore: [Is This For You?](/docs/concept/is-this-for-you) • [Get Your Ticket](/docs/practical/participation)
 </div>
 
 </div>

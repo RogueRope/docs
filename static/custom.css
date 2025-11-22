@@ -377,6 +377,20 @@ b {
   font-weight: 650;
 }
 
+/* TOC contrast fix - applies universally for readability on purple gradient header */
+/* Targets both desktop TOC and mobile header TOC */
+.book-toc a,
+.book-header aside a {
+  color: #e5f0ff !important; /* Very light blue-white for contrast on purple gradient and dark backgrounds */
+  font-weight: 500; /* Slightly bolder for better visibility */
+}
+
+.book-toc a:hover,
+.book-header aside a:hover {
+  color: #ffffff !important; /* Pure white on hover */
+  text-decoration: underline;
+}
+
 /* Dark mode (balanced, not over-forced) */
 
 @media (prefers-color-scheme: dark) {

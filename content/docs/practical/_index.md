@@ -2,9 +2,9 @@
 title: 'Practical'
 description: 'Logistics, policies, and everything you need to know to attend'
 lead: 'The details that make it all work'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 1
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
+weight: 2
 toc: true
 bookCollapseSection: true
 ---
@@ -21,22 +21,26 @@ We'd love to have you — _if_ it's a true yes.
 
 **Quick Navigation:**
 
+#### Schedule & Structure
+
+- [**Schedule**](/docs/practical/schedule) — Five-day rhythm, unconference sessions, and daily flow
+
 #### Getting In
 
-- [**Getting There**](/practical/getting-there) — Travel, parking, how to arrive
-- [**Tickets**](/practical/cancellation-and-transfers) — Get your ticket, understand pricing, payment plans, refunds & transfers
-- [**FAQ**](/practical/faq) — Common questions answered
+- [**Getting There**](/docs/practical/getting-there) — Travel, parking, how to arrive
+- [**Tickets**](/docs/practical/participation) — Get your ticket, understand pricing, payment plans, refunds & transfers
+- [**FAQ**](/docs/practical/faq) — Common questions answered
 
 #### Accommodations & Packing
 
-- [**Accommodations**](/practical/accommodations) — Where you'll sleep, communal living, room options
-- [**Things to Bring**](/practical/things-to-bring) — Complete packing checklist
-- [**Food & Meals**](/practical/food) — What to expect for meals and what to bring
-- [**Leave No Trace**](/practical/leave-no-trace) — How we care for the space together
+- [**Accommodations**](/docs/practical/accommodations) — Where you'll sleep, communal living, room options
+- [**Things to Bring**](/docs/practical/things-to-bring) — Complete packing checklist
+- [**Food & Meals**](/docs/practical/food) — What to expect for meals and what to bring
+- [**Leave No Trace**](/docs/practical/leave-no-trace) — How we care for the space together
 
 #### Important Policies & Info
 
-- [**Photography Guidelines**](/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance (on-site & after)
+- [**Photography Guidelines**](/docs/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance (on-site & after)
 
 ---
 
@@ -45,7 +49,7 @@ We'd love to have you — _if_ it's a true yes.
 Looking for integration support once you're back home?
 Those resources now live in [Wellbeing](/docs/wellbeing):
 
-- [**After the Gathering**](/wellbeing/after-integration) — Post-event care, integration support, staying connected, and processing what comes next
+- [**After the Gathering**](/docs/wellbeing/after-integration) — Post-event care, integration support, staying connected, and processing what comes next
 
 ---
 
@@ -62,9 +66,9 @@ And it starts now.
 
 **Still exploring?** These pages might help you decide:
 
-- [Is This For You?](/concept/is-this-for-you) — Self-reflection for newcomers
-- [Core Philosophy](/concept/philosophy) — The values behind our approach
-- [Experience Structure](/concept/experience) — What happens during the five days
+- [Is This For You?](/docs/concept/is-this-for-you) — Self-reflection for newcomers
+- [Core Philosophy](/docs/concept/philosophy) — The values behind our approach
+- [Experience Structure](/docs/concept/experience) — What happens during the five days
 
 **Ready for support?** → [Care & Support](/docs/wellbeing) — Consent, safety, and wellbeing resources
 
@@ -82,7 +86,7 @@ Now that you understand what you're stepping into, it's time to secure your spot
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/contact)
+Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/docs/contact)
 </div>
 
 </div>

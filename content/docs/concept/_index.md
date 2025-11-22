@@ -2,8 +2,8 @@
 title: What Makes Us Different
 description: 'The heart of Bottoms Up! - Connection over performance, presence over polish'
 lead: 'What makes this gathering different and how we create space together'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 1
 toc: true
 bookCollapseSection: true
@@ -15,21 +15,37 @@ Rope is our shared language — but what matters most isn't technique. It's pres
 
 In the pages below you'll find what makes Bottoms Up! different: the philosophy, the lived experience, and the agreements that hold it all.
 
-### Core Understanding
+---
 
-- [**Our Philosophy**](/docs/concept/philosophy) — The gentle rebellion that guides everything we do. Connection over performance. Ritual over technique.
-- [**What Happens**](/docs/concept/experience) — The ceremonies, rhythms, and structures that shape our five days together
-- [**Our Shared Agreements**](/docs/concept/agreements) — How we commit to keeping our space honest, safe, and kind
+## Start Here
 
-### Finding Your Place
+**New to Bottoms Up!?** Begin with these pages to understand if this gathering is right for you:
 
-- [**Is This For You?**](/docs/concept/is-this-for-you) — Self-reflection for newcomers considering the gathering
-- [**Belonging**](/docs/concept/belonging) — How we create space for everyone to feel at home
+- [**Is This For You?**](/docs/concept/is-this-for-you) — Self-assessment for newcomers wondering if this space is right for them. Start here if you're curious but uncertain.
 
-### Deeper Context
+---
 
-- [**Sex-Positive Space**](/docs/concept/sex-positive) — How we hold sexuality, desire, and erotic energy
-- [**Post-Rope**](/docs/concept/post-rope) — The philosophy beyond technique and performance
+## Core Philosophy
+
+Dive deeper into what makes this gathering different and the values that guide everything we do:
+
+- [**Our Philosophy**](/docs/concept/philosophy) — The gentle rebellion that guides everything we do. Connection over performance. Ritual over technique. The emotional core of Bottoms Up!
+
+- [**Post-Rope: A Gentle Rebellion**](/docs/concept/post-rope) — Why we reject the performance economy and choose messy, tender, human connection instead
+
+- [**Sex-Positive Space**](/docs/concept/sex-positive) — How we hold sexuality, desire, and erotic energy as sacred parts of rope practice
+
+---
+
+## How It Works
+
+Ready to understand what happens at the gathering?
+
+- [**Experience Structure**](/docs/concept/experience) — The ceremonies, rhythms, and structures that shape our five days together. How philosophy becomes lived reality.
+
+- [**Our Shared Agreements**](/docs/concept/agreements) — The commitments we make to keep our space honest, safe, and kind
+
+- [**Who Belongs Here**](/docs/concept/belonging) — Who this space is for, and who it is not for. Radical inclusivity alongside clear boundaries.
 
 ---
 
@@ -41,7 +57,7 @@ In the pages below you'll find what makes Bottoms Up! different: the philosophy,
 
 - [Practical Details](/docs/practical) — Logistics, tickets, accommodations, and what to bring
 - [Care & Support](/docs/wellbeing) — Consent, safety, and wellbeing resources
-- [Schedule](/docs/schedule) — The rhythm and flow of our five days together
+- [Schedule](/docs/practical/schedule) — The rhythm and flow of our five days together
 
 **Have questions?** → [Contact Us](/docs/contact) — We're here to help
 
@@ -59,7 +75,7 @@ Now that you understand what makes this gathering unique, secure your spot and b
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Care & Support](/docs/wellbeing) • [Schedule](/docs/schedule)
+Or explore: [Care & Support](/docs/wellbeing) • [Schedule](/docs/practical/schedule)
 </div>
 
 </div>

@@ -2,10 +2,21 @@
 title: 'Who Belongs Here'
 description: 'Who this space is for, and who it is not for.'
 lead: 'This is a space for many, but not for all.'
-date: 2025-08-28
-weight: 14
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
+weight: 18
 toc: true
 ---
+
+<div class="bg-champagne-pink-100 dark:bg-champagne-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
+
+_This page explores who thrives in this space. It's rooted in our [Core Philosophy](/docs/concept/philosophy) of radical inclusivity alongside clear boundaries. If you're wondering if this gathering is for you, start with [Is This For You?](/docs/concept/is-this-for-you) first._
+
+</div>
+
+---
+
+![Circle of diverse silhouettes holding hands together, celebrating belonging and inclusive community](/images/belonging-diversity.png)
 
 ## Who Belongs Here
 
@@ -46,4 +57,20 @@ Better to pause than to force it.
 
 ### The Intensity Is Real
 
-This isn’t a light weekend. It’s immersive, emotional, and sensory. We support pacing and self-care: you’re encouraged to be honest about what you can hold in community right now.
+This isn't a light weekend. It's immersive, emotional, and sensory. We support pacing and self-care: you're encouraged to be honest about what you can hold in community right now.
+
+---
+
+<div class="bg-champagne-pink-100 hx-p-6 hx-rounded-lg">
+
+## Explore Related Pages
+
+**Wondering if this is for you?** → [Is This For You?](/docs/concept/is-this-for-you) — Self-assessment guide for newcomers
+
+**Want to understand the philosophy?** → [Core Philosophy](/docs/concept/philosophy) — The values behind this radical inclusivity
+
+**Ready to understand what happens?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over five days
+
+**See our commitments** → [Our Shared Agreements](/docs/concept/agreements) — How we hold this space together
+
+</div>

@@ -29,6 +29,10 @@ STYLES = {
         "symbolic suns stars stairs, punk poster collage, torn paper, "
         "ransom-note text, neon bursts acid green laser pink safety orange, "
         "rope strands, riso grain, photocopy texture, "
+        "non-human and post-human bodies, trolls, goblins, faeries, demons, aliens, "
+        "horns, tails, wings, extra eyes, extra arms, floating masks, "
+        "androgynous creatures with ambiguous gender, no obvious male/female couple, "
+        "weird joyful intimate gatherings of creatures instead of normal humans, "
         "queer strange joyful intimate"
     ),
     "queer-collage-no-text": (
@@ -36,6 +40,10 @@ STYLES = {
         "symbolic suns stars stairs, punk poster collage, torn paper, "
         "neon bursts acid green laser pink safety orange, "
         "rope strands, riso grain, photocopy texture, "
+        "non-human and post-human bodies, trolls, goblins, faeries, demons, aliens, "
+        "horns, tails, wings, extra eyes, extra arms, floating masks, "
+        "androgynous creatures with ambiguous gender, no obvious male/female couple, "
+        "weird joyful intimate gatherings of creatures instead of normal humans, "
         "no text, no letters, no words, "
         "queer strange joyful intimate"
     ),

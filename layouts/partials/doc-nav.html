@@ -1,0 +1,26 @@
+{{/* Page navigation (previous/next) for documentation pages */}}
+<nav class="flex justify-between items-center gap-4 margin-top-3">
+  {{- with .PrevInSection -}}
+  <a class="flex align-center gap-2" href="{{ .RelPermalink }}">
+    <span>←</span>
+    <span>
+      <div class="book-nav-label">Previous</div>
+      <div>{{ .Title }}</div>
+    </span>
+  </a>
+  {{- else -}}
+  <div></div>
+  {{- end -}}
+
+  {{- with .NextInSection -}}
+  <a class="flex align-center gap-2" href="{{ .RelPermalink }}">
+    <span>
+      <div class="book-nav-label">Next</div>
+      <div>{{ .Title }}</div>
+    </span>
+    <span>→</span>
+  </a>
+  {{- else -}}
+  <div></div>
+  {{- end -}}
+</nav>

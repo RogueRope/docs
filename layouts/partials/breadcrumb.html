@@ -1,0 +1,37 @@
+{{ $current := . }}
+
+{{ if not .IsHome }}
+<nav aria-label="Breadcrumb" class="mb-6">
+  <ol class="flex flex-wrap items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
+    <!-- Home -->
+    <li>
+      <a href="/" class="hover:text-cherry-blossom-600 dark:hover:text-cherry-blossom-400 transition-colors">
+        Home
+      </a>
+    </li>
+    <li class="text-gray-400 dark:text-gray-600">/</li>
+
+    <!-- Section -->
+    {{ with .Section }}
+      {{ $sectionPage := site.GetPage . }}
+      {{ if $sectionPage }}
+        <li>
+          <a href="{{ $sectionPage.RelPermalink }}" class="hover:text-cherry-blossom-600 dark:hover:text-cherry-blossom-400 transition-colors capitalize">
+            {{ $sectionPage.Title }}
+          </a>
+        </li>
+        {{ if ne $current.Kind "section" }}
+          <li class="text-gray-400 dark:text-gray-600">/</li>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    <!-- Current page (if not a section) -->
+    {{ if ne .Kind "section" }}
+      <li class="text-gray-900 dark:text-gray-200 font-semibold">
+        {{ .Title }}
+      </li>
+    {{ end }}
+  </ol>
+</nav>
+{{ end }}

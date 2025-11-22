@@ -10,26 +10,28 @@ import { readFileSync } from 'fs';
 
 const contentPath = process.argv[2] || './content';
 
-interface PageMetadata {
-  filePath: string;
-  relativePath: string;
-  title: string;
-  description: string;
-  weight: number | null;
-  isIndex: boolean;
-  wordCount: number;
-  frontmatterSize: number;
-}
+/**
+ * @typedef {Object} PageMetadata
+ * @property {string} filePath
+ * @property {string} relativePath
+ * @property {string} title
+ * @property {string} description
+ * @property {number|null} weight
+ * @property {boolean} isIndex
+ * @property {number} wordCount
+ * @property {number} frontmatterSize
+ */
 
-interface SectionInfo {
-  name: string;
-  path: string;
-  pageCount: number;
-  totalWords: number;
-  avgWordCount: number;
-  hasIndex: boolean;
-  pages: PageMetadata[];
-}
+/**
+ * @typedef {Object} SectionInfo
+ * @property {string} name
+ * @property {string} path
+ * @property {number} pageCount
+ * @property {number} totalWords
+ * @property {number} avgWordCount
+ * @property {boolean} hasIndex
+ * @property {PageMetadata[]} pages
+ */
 
 async function readFrontmatter(filePath) {
   try {

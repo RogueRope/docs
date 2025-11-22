@@ -2,8 +2,8 @@
 title: Policies & Guidelines
 description: 'Core rules that keep this gathering safe, intentional, and caring'
 lead: 'Read this when you want the short version of our non-negotiables'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 30
 toc: true
 ---

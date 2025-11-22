@@ -2,17 +2,16 @@
 title: Getting There
 description: 'How to travel to the venue, parking, public transit, and arrival details'
 lead: 'Everything you need to know to get to Mol'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 5
 toc: true
 ---
 
 ## Location
 
-**🏠 Venue:** Bottoms Up! Camp
-**📍 Address:** [Venue address in Mol, Belgium — confirm with organizers]
-**🗺️ GPS Coordinates:** [Confirm with organizers]
+**🏠 Venue:** Bottoms Up! Camp  
+**📍 Address & directions:** Shared in your ticket confirmation email and pre-event info pack for privacy and safety.
 
 ---
 
@@ -37,15 +36,15 @@ Use your GPS/maps app with the coordinates or address above. Mol is in northern 
 
 ### Train + Local Transport
 
-**Nearest train station:** [Station name] — [distance] from venue
+The nearest major train hub is **Mol, Belgium**.
 
-**From the station:**
+From Mol station you can typically:
 
-- **Bus:** Route [#] toward [destination], get off at [stop], [walking time] walk to venue
-- **Taxi:** ~€[cost] from station; ask driver for [venue name]
-- **Walk:** ~[time], [feasibility note]
+- **Take a local bus or shared ride** toward the venue area (details shared in your pre-event email)
+- **Book a taxi** from the station to the venue (check local apps or station taxi stands for current pricing)
+- **Arrange a ride-share** with other participants via our community WhatsApp space
 
-**Return journey:** Last train/bus times back to major hubs [times]
+Exact step-by-step transit directions (including bus routes, stops, and walking time) are included in your ticket confirmation and pre-event information email.
 
 ---
 
@@ -55,7 +54,7 @@ Use your GPS/maps app with the coordinates or address above. Mol is in northern 
 
 **We have a community space where participants coordinate rides:**
 
-Join our **WhatsApp Ride-Share Chat:** [Link to WhatsApp group — shared at confirmation]
+Join our **WhatsApp ride-share chat** — the invite link is provided in your ticket confirmation email and pre-event info pack.
 
 **How it works:**
 
@@ -116,9 +115,9 @@ Search Mol on Airbnb if you're traveling from far away and want to rest before W
 ## Questions?
 
 - **Travel logistics:** Email [info@roguerope.be](mailto:info@roguerope.be)
-- **Ride-share coordination:** Join our WhatsApp group (link at ticket confirmation)
+- **Ride-share coordination:** Join our WhatsApp group (link in your ticket confirmation email)
 - **Accessibility transportation needs:** Reach out directly — we want to support you
-- **Getting lost on arrival:** [Phone number for on-site coordinator on Wednesday]
+- **Getting lost on arrival:** Call the on-site coordinator (phone number provided in your arrival email and ticket confirmation)
 
 ---
 

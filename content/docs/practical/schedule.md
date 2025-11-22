@@ -2,11 +2,10 @@
 title: "Schedule"
 description: "Five days of connection, ritual, and intimacy"
 lead: "The rhythm and flow of our time together"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
-weight: 2
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T10:45:55+00:00
+weight: 15
 toc: true
-bookCollapseSection: true
 ---
 
 # Event Schedule
@@ -24,7 +23,7 @@ This isn't a traditional conference with fixed schedules. Our five days have a *
 Each day has:
 
 - A **morning rhythm** (optional practices, early communal time)
-- **[Unconference sessions](unconference)** (peer-led, self-organized)
+- **Unconference sessions** (peer-led, self-organized)
 - **Shared meals** and informal connection time
 - **Evening offerings** (ceremonies, experiences, or rest)
 
@@ -37,36 +36,36 @@ Each day has:
 - Check-in and settle into communal living
 - Dinner together as we arrive
 - Opening ceremony to set intention
-- Early bedtimes encouraged (it's a long weekend!)
 
 ### **Thursday: Finding Our Footing**
 
-- Morning practices (meditation, grounding, gentle movement)
+- Morning practices 
 - First unconference sessions begin
-- Skill-shares and conversations
+- Experiences and conversations
 - Group dinner
-- Evening activities (talks, workshops, or quiet time)
+- Evening Community Gathering
+
 
 ### **Friday: Building Connection**
 
 - Deeper unconference sessions
 - Workshops on rope, consent, dynamics, and embodiment
 - Afternoon break and informal play
-- Evening gathering (ceremonies or performances)
-
+- Evening Community Gathering
+- 
 ### **Saturday: The Heart of It**
 
 - Morning practices
 - Unconference sessions continue
 - Varied workshops and circles
 - Communal dinner
-- Evening social time and informal connections
+- Evening Community Gathering
 
 ### **Sunday: Integration & Closing**
 
 - Gentle morning practices
 - Light unconference sessions
-- Closing circle
+- Closing circle around noon
 - Departures through Sunday afternoon
 
 ---
@@ -88,6 +87,59 @@ _Times are gentle guides, not rigid rules. The energy of the group takes precede
 
 ---
 
+## Unconference Sessions (Peer-Led)
+
+**When:** Throughout Thursday–Sunday (approx. 10 AM–5 PM)
+**Format:** Lightly facilitated, participant-driven
+**Philosophy:** Less about formal training, more about shared experiences
+
+**What You'll Find:**
+
+- Rope technique shares and deep dives
+- Conversations about dynamics, consent, and power
+- Embodiment practices and body work
+- Creative projects and artistic expressions
+- Philosophical discussions about desire, connection, ritual
+- Quiet practices (meditation, journaling, yoga)
+
+### The Four Unconference Rules
+
+1. **Whoever shows up are the right people.**
+2. **Whatever happens is the only thing that could have.**
+3. **Whenever it starts is the right time.**
+4. **It's over when it's over.**
+
+That's it. That's the magic.
+
+### What Might You Offer?
+
+No experts. Just people bringing what's alive.
+
+**What could you bring?**
+
+- A conversation you're hungry to have (e.g., navigating polyamory at gatherings)?
+- A skillshare on something you love (e.g., giving a grounding massage, a specific rope technique)?
+- A quiet, shared practice (e.g., a guided meditation or an hour of journaling together)?
+- A deep dive into a tricky topic (e.g., power dynamics, aftercare, neurodivergence in play)?
+- A question or body puzzle you want to explore with others?
+
+We're here for the offbeat, the half-formed, the personal.
+If you care about it, someone else probably does too.
+
+## Skill-Shares & Workshops
+
+**Led by community members, covering topics like:**
+
+- Advanced rope techniques
+- Tying for different bodies
+- Consent negotiation frameworks
+- Nervous system regulation and somatic work
+- Aftercare and emotional processing
+- Photography and documentation ethics
+- Relationships and polyamory navigation
+
+---
+
 ## ❓ Questions About the Schedule?
 
 The schedule is **intentionally flexible** to honor:
@@ -97,7 +149,7 @@ The schedule is **intentionally flexible** to honor:
 - Spontaneous brilliance
 - Collective wisdom
 
-If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/contact)** — we're here to help.
+If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/docs/contact)** — we're here to help.
 
 ---
 
@@ -107,9 +159,9 @@ If you have specific questions about timing, accessibility needs, or how somethi
 
 **Want to understand the philosophy behind our time together?**
 
-- [Core Philosophy](/concept/philosophy) — The values that shape our gathering
-- [What Happens](/concept/experience) — The ceremonies and structures that guide our days
-- [Our Agreements](/concept/agreements) — How we commit to the container
+- [Core Philosophy](/docs/concept/philosophy) — The values that shape our gathering
+- [What Happens](/docs/concept/experience) — The ceremonies and structures that guide our days
+- [Our Agreements](/docs/concept/agreements) — How we commit to the container
 
 **Need to prepare?** → [Practical Details](/docs/practical) — Everything you need to know to attend
 
@@ -127,7 +179,7 @@ Now that you see the rhythm of our time together, secure your spot for this five
 </div>
 
 <div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/contact)
+Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/docs/contact)
 </div>
 
 </div>

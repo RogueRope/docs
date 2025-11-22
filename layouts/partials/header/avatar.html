@@ -1,0 +1,23 @@
+{{ $avatar := resources.GetMatch .Site.Params.avatar }} 
+
+<div class="flex-none w-20 h-20 rounded-full overflow-hidden">
+  <a href="{{ .Site.BaseURL }}">
+    {{ if eq $avatar.MediaType.SubType "svg" }}
+      <img
+        src="{{ $avatar.RelPermalink }}"
+        width="80"
+        height="80"
+        alt="{{ .Site.Title }}"
+      />
+    {{ else }}
+      {{ $tiny := ($avatar.Fill "80x80 q90") }}
+      <img
+        srcset="{{- with $tiny.RelPermalink -}}{{.}} 80w{{- end -}}"
+        src="{{ $avatar.RelPermalink }}"
+        width="{{ $avatar.Width }}"
+        height="{{ $avatar.Height }}"
+        alt="{{ .Site.Title }}"
+      />
+    {{ end }}
+  </a>
+</div>

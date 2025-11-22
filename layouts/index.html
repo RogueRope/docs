@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="markdown">
+  <h1>
+    {{ partial "docs/title.html" . }}
+  </h1>
+  <div class="book-post-content">
+    {{- .Content -}}
+  </div>
+</article>
+{{ end }}

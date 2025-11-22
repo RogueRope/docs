@@ -23,7 +23,7 @@ ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
 [[menu.after]]
   identifier = "contact"
   name = "✉️ Contact"
-  url = "mailto:info@roguerope.be"
+  url = "/docs/contact"
   weight = 1
 
 [markup]
