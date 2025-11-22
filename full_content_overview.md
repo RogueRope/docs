@@ -207,12 +207,12 @@ _Rope as ritual. Connection over performance. Consent as sacred practice._
 ---
 
 ---
-title: What Makes Us Different
+title: Vibe
 description: 'The heart of Bottoms Up! - Connection over performance, presence over polish'
 lead: 'What makes this gathering different and how we create space together'
 date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 1
+lastmod: 2025-11-22T11:20:48+00:00
+weight: 4
 toc: true
 bookCollapseSection: true
 ---

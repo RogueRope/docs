@@ -2,7 +2,7 @@ title: 'Bottoms Up!'
 description: 'Five-day intimate rope gathering in Belgium. Connection over performance, consent as sacred practice. Limited to 42 participants. Feb 18-22, 2026.'
 lead: 'A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.'
 date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T11:20:48+00:00
 weight: 1
 toc: false
 ---
@@ -52,7 +52,7 @@ Come to tie. Come to surrender. Come to discover what lives in the spaces betwee
 **Start your journey:**
 
 1. **[Is this for you?](/docs/concept/is-this-for-you)** — Self-reflection and gentle guidance
-2. **[The Experience](/docs/concept)** — What makes this gathering unique
+2. **[Vibe](/docs/concept)** — What makes this gathering unique
 3. **[Join Us](/docs/practical/participation)** — Everything you need to know
 
 <div class="hx-mt-4">
