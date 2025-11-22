@@ -37,17 +37,8 @@ Your nervous system is integrating. Expect tiredness, emotions, vivid dreams, se
 
 ### Community Debrief
 
-We typically organize a community debrief call in the days after. Watch for details in the WhatsApp group and email.
+We typically organize a community whatsapp afterglow channel where we share experiences and handle our drop togheter.
 
-### Photos & Memories
-
-- Photos will be shared (check your email for access details)
-- Respect privacy: treat community albums as private and never screenshot or forward without consent
-- Want to post something publicly later? → The "After the Gathering" section of [Photography Guidelines]({{< ref "/docs/practical/photography-guidelines" >}} "Photography Guidelines") explains exactly how to do that (consent, anonymity, deletion on request)
-
-### Connect with People You Met
-
-Email [info@roguerope.be](mailto:info@roguerope.be) with names to facilitate. Reach out directly if you remember them.
 
 ### Journal Prompts
 
@@ -66,11 +57,9 @@ The end of an intense gathering can feel isolating. The remedy is reconnection.
 **What helps:**
 
 - Join the WhatsApp community immediately
-- RSVP for the monthly community call
 - Reach out to someone you met (even a small message)
 - Go to a local rope jam or kink community event
 - Plan to attend the next gathering NOW (tickets often sell out)
-- Get a therapist who understands rope/kink
 
 **You are not alone.** The people you met are feeling this too. Many are reaching out. Meet them.
 
@@ -111,11 +100,6 @@ If something happened at the gathering that crossed your boundaries or violated 
    - We don't force confrontation or forgiveness
    - We help you access additional support if needed
 
-3. **Additional support:**
-   - Trauma-informed therapists (including kink-aware practitioners)
-   - Crisis counseling and hotlines in your region
-   - Support groups for BDSM/kink survivors (online and local)
-
 **You deserved better. We're committed to accountability and repair.**
 
 ### If You're Processing a Relationship Change
@@ -144,26 +128,12 @@ Sometimes rope gatherings shift relationships — romantic partnerships, friends
 
 **Join our WhatsApp community** — year-round connection, resources, next gathering updates. The invite link is shared in your ticket confirmation and follow-up emails.
 
-**Monthly community calls** — Details shared in WhatsApp group
-
-**Resources:**
-Details on recommended books, therapist referrals, and support networks shared in the community.
 
 ![A gathering of strange creatures in queer collage style](/images/community-gathering.png)
 
 ---
 
-## Next Gathering
-
-### When Is the Next One?
-
-**Bottoms Up! 2027 (tentative):**
-
-- Dates and location to be announced
-
-We run annually. The dates are typically winter. To hear when 2027 dates are confirmed, join our mailing list via the signup form on the homepage.
-
-### Give Feedback
+## Give Feedback
 
 **Help us create even better gatherings.**
 

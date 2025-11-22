@@ -6,6 +6,7 @@ date: 2025-11-12T20:16:00+00:00
 lastmod: 2025-11-22T10:45:55+00:00
 weight: 15
 toc: true
+draft: true
 ---
 
 # Event Schedule
@@ -25,6 +26,7 @@ Each day has:
 - A **morning rhythm** (optional practices, early communal time)
 - **Unconference sessions** (peer-led, self-organized)
 - **Shared meals** and informal connection time
+- **Fika** (new!)
 - **Evening offerings** (ceremonies, experiences, or rest)
 
 ---

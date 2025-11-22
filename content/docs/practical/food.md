@@ -14,7 +14,7 @@ toc: true
 
 - **Coffee and water** — always available
 - **Bread in the morning** — daily
-- **Snacks** — most afternoons
+- **Snacks** —  afternoons
 - **Warm meal** — every evening
 
 **🥗 Dietary choice:**

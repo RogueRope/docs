@@ -14,7 +14,6 @@ These are **mandatory** for all participants:
 
 - [ ] Your ticket (with QR code) — for entry
 - [ ] **Reusable cup** (no glass) — we provide drinks, you bring the cup
-- [ ] ID/passport — for registration
 
 ### For Your Bunk 🛏️
 
@@ -25,20 +24,17 @@ Make your space comfortable for the duration:
 - [ ] A few lights for your bunk area
 - [ ] **Earplugs** — dormitory life can be... social
 - [ ] **Sleep mask** — shared spaces mean lights and movement
-- [ ] Power strips and charging cables (outlets are limited)
 - [ ] Personal items to make your bunk feel like home
 
 ### Personal Care Essentials 🧴
 
 Daily necessities for communal living:
 
-- [ ] Biodegradable soap + shampoo
+- [ ] soap + shampoo
 - [ ] Toothbrush + toothpaste
 - [ ] Quick-dry towel
-- [ ] Hand sanitizer
 - [ ] Any prescription medications you need
 - [ ] Basic over-the-counter items (painkillers, allergy meds, etc.)
-- [ ] First aid basics (band-aids, antiseptic, electrolytes)
 
 ### Food & Drink 🍽️
 
@@ -49,7 +45,6 @@ We provide meals, but these make the experience better:
 - [ ] Water bottle or hydration container
 - [ ] Your favorite snacks or specialty food items
 - [ ] Drinks you love — with or without alcohol
-- [ ] Cooler bag or box (we'll provide ice)
 
 ### Clothing & Comfort 👕
 
@@ -70,9 +65,7 @@ Dress for indoor comfort and movement:
 
 - [ ] **Natural fiber rope** (jute, hemp, cotton) — 6-8mm thickness recommended
 - [ ] **Synthetic rope** — if you prefer (nylon, MFP)
-- [ ] Basic kit: 4x8m lengths to start
 - [ ] Rope scissors or safety shears
-- [ ] Rope bag for organization
 
 **Play Items (Optional):**
 
@@ -85,7 +78,7 @@ Dress for indoor comfort and movement:
 
 ### Tech & Entertainment 📱
 
-- [ ] Phone charger + power bank
+- [ ] Phone charger 
 - [ ] Camera (if you want to document your own experience)
 - [ ] Journal and pen for reflections
 - [ ] Books, cards, or other quiet entertainment

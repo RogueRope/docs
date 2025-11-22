@@ -3,90 +3,24 @@ title: 'Practical'
 description: 'Logistics, policies, and everything you need to know to attend'
 lead: 'The details that make it all work'
 date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T15:11:00+00:00
 weight: 2
 toc: true
 bookCollapseSection: true
 ---
 
-## Getting Real About the Details
+Quick links to all the practical information you need to attend.
 
-This is where theory meets practice. Where intention meets logistics. Where we turn "sounds amazing" into "here's exactly what you need to know."
+## Pages in this section
 
-### Before You Arrive
-
-Are you ready to meet this intensity with care? Can you engage without burning out? Is now the right moment for this kind of dive?
-
-We'd love to have you — _if_ it's a true yes.
-
-**Quick Navigation:**
-
-#### Schedule & Structure
-
-- [**Schedule**](/docs/practical/schedule) — Five-day rhythm, unconference sessions, and daily flow
-
-#### Getting In
-
-- [**Getting There**](/docs/practical/getting-there) — Travel, parking, how to arrive
-- [**Tickets**](/docs/practical/participation) — Get your ticket, understand pricing, payment plans, refunds & transfers
-- [**FAQ**](/docs/practical/faq) — Common questions answered
-
-#### Accommodations & Packing
-
-- [**Accommodations**](/docs/practical/accommodations) — Where you'll sleep, communal living, room options
-- [**Things to Bring**](/docs/practical/things-to-bring) — Complete packing checklist
-- [**Food & Meals**](/docs/practical/food) — What to expect for meals and what to bring
-- [**Leave No Trace**](/docs/practical/leave-no-trace) — How we care for the space together
-
-#### Important Policies & Info
-
-- [**Photography Guidelines**](/docs/practical/photography-guidelines) — **Consent-only:** ask first, no bystanders, no disturbance (on-site & after)
-
----
-
-## After the Gathering
-
-Looking for integration support once you're back home?
-Those resources now live in [Wellbeing](/docs/wellbeing):
-
-- [**After the Gathering**](/docs/wellbeing/after-integration) — Post-event care, integration support, staying connected, and processing what comes next
-
----
-
-This isn't just something you attend.  
-It's something you help make.
-
-And it starts now.
-
----
-
-<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
-
-## Before You Dive In
-
-**Still exploring?** These pages might help you decide:
-
-- [Is This For You?](/docs/concept/is-this-for-you) — Self-reflection for newcomers
-- [Core Philosophy](/docs/concept/philosophy) — The values behind our approach
-- [Experience Structure](/docs/concept/experience) — What happens during the five days
-
-**Ready for support?** → [Care & Support](/docs/wellbeing) — Consent, safety, and wellbeing resources
-
-</div>
-
-<div class="hx-bg-gradient-to-r hx-from-orange-50 hx-to-red-50 dark:hx-from-orange-900/20 dark:hx-to-red-900/20 hx-p-8 hx-rounded-lg hx-text-center">
-
-## Ready to join us?
-
-Now that you understand what you're stepping into, it's time to secure your spot and become part of this experience.
-
-<div class="hx-mt-6">
-[Get Your Ticket →](/docs/practical/participation)
-{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-orange-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-orange-700.hx-transition-colors}
-</div>
-
-<div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/docs/contact)
-</div>
-
-</div>
+- [Getting There](getting-there) — How to travel to the venue, parking, public transit, and arrival details.
+- [Arrival & Your First Day](arrival) — Everything you need to know about checking in, settling in, and finding your way in the first 24 hours.
+- [Schedule](schedule) — Five days of connection, ritual, and intimacy.
+- [Accommodations](accommodations) — Where and how you'll sleep during the gathering.
+- [Things to Bring](things-to-bring) — Your packing list for five days.
+- [Food & Meals](food) — What to expect for meals and what to bring.
+- [Leave No Trace & Space Care](leave-no-trace) — How we care for the venue together.
+- [Tickets](participation) — Get your ticket and manage refunds, resales, and payment options.
+- [Policies & Guidelines](policies) — Core rules that keep this gathering safe, intentional, and caring.
+- [Photography Guidelines](photography-guidelines) — How to document Bottoms Up! without breaking trust.
+- [Frequently Asked Questions](faq) — Common questions about Bottoms Up! and how to prepare.

@@ -30,8 +30,6 @@ It's about proximity. About choosing to be held by a space, and by each other.
 
 _Self-defined: choose this if you identify with any part of FLINTA. We don’t police identity; pick what helps you rest._
 
-- **"Snoring sanctuary"** — for heavy sleepers and their companions
-
 It's simple. But it's real.
 
 ### The Atmosphere

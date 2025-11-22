@@ -10,7 +10,7 @@ toc: true
 
 ## The Gathering
 
-**Is this just 5 days?** Yes. Wed 18:00 – Sun 16:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
+**Is this just 5 days?** Yes. Wed 18:00 – Sun 14:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
 
 **What time do I need to arrive?** **Wednesday by 21:00 for the Opening Circle — this is mandatory.** You must be present for this foundational ritual. If you can't make Wednesday evening, this gathering isn't the right fit for you this year. Leaving early is fine, but arriving on time is essential. → Travel tips & Build Day details live in [Getting There](getting-there).
 
@@ -18,7 +18,7 @@ toc: true
 
 **Is this sexual?** Yes. Sex-positive, sexual interactions happen. If seeing others kiss, touch, or express sexuality makes you very uncomfortable, this isn't your event. We're clear because consent is mutual.
 
-**Will I know anyone?** ~30% come solo. You'll meet people. By day 2, you'll know folks. By day 4, you're part of something.
+**Will I know anyone?** ~60% come solo. You'll meet people. By day 2, you'll know folks. By day 4, you're part of something.
 
 ---
 
@@ -26,7 +26,7 @@ toc: true
 
 **What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment. → Need the full breakdown? See [Participation Details](participation).
 
-**Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" — we offer discounts, payment plans, work exchange, no shame.
+**Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access".
 
 **How many people?** 42 max. Why? Intimacy without anonymity. We know each other's names.
 
@@ -36,9 +36,7 @@ toc: true
 
 **Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate. → Menu rhythm and kitchen info live in [Food & Meals](food).
 
-**What rope to bring?** 4x8m natural fiber (jute/hemp/cotton), scissors, a partner. Optional: your favorite rope/toys. → Full packing list in [Things to Bring](things-to-bring).
-
-**Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party. Slippers for shared floors.
+**Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party, wich will have an easy and broad theme. Slippers/socks for shared floors.
 
 ---
 

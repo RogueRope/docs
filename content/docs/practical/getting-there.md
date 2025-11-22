@@ -48,24 +48,6 @@ Exact step-by-step transit directions (including bus routes, stops, and walking 
 
 ---
 
-## Ride-Share & Carpooling
-
-### Share a Ride
-
-**We have a community space where participants coordinate rides:**
-
-Join our **WhatsApp ride-share chat** — the invite link is provided in your ticket confirmation email and pre-event info pack.
-
-**How it works:**
-
-1. Post your departure city and date/time
-2. Other participants heading your way respond
-3. Coordinate directly (splitting gas, timing, etc.)
-4. Arrive together, meet new friends immediately
-
-**Can't arrange a ride?** Email [info@roguerope.be](mailto:info@roguerope.be) with your city. We have a list of participants and may be able to facilitate connections.
-
----
 
 ## Build Day - Wednesday Afternoon
 
@@ -100,27 +82,15 @@ If you cannot commit to being present Wednesday evening, this gathering isn't th
 
 ---
 
-## Nearby Accommodations (If You Need Them)
-
-### Hotels & Accommodations
-
-If you're arriving from far away and want to rest before Wednesday, search "hotels in Mol, Belgium" or nearby towns for Tuesday night stays. This gives you time to settle before heading to the venue for the Wednesday 21:00 Opening Circle.
-
-### Airbnb/Vacation Rentals
-
-Search Mol on Airbnb if you're traveling from far away and want to rest before Wednesday. You can stay nearby Tuesday night or early Wednesday, then arrive at the venue for the Opening Circle at 21:00.
-
----
-
 ## Questions?
 
 - **Travel logistics:** Email [info@roguerope.be](mailto:info@roguerope.be)
 - **Ride-share coordination:** Join our WhatsApp group (link in your ticket confirmation email)
 - **Accessibility transportation needs:** Reach out directly — we want to support you
-- **Getting lost on arrival:** Call the on-site coordinator (phone number provided in your arrival email and ticket confirmation)
+
 
 ---
 
 **See you soon!**
 
-Come Wednesday if you can. Build the space with us. Let's create something beautiful together.
+Come Wednesday afternoon if you can. Build the space with us. Let's create something beautiful together.

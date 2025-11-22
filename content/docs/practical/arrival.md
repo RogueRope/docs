@@ -3,7 +3,7 @@ title: "Arrival & Your First Day"
 description: "Everything you need to know about checking in, settling in, and finding your way in the first 24 hours"
 lead: "You made it. Here's what happens next."
 date: 2025-11-16T20:16:00+00:00
-lastmod: 2025-11-16T20:16:00+00:00
+lastmod: 2025-11-22T15:15:00+00:00
 aliases:
   - /practical/arrival
   - /docs/practical/arrival
@@ -14,7 +14,7 @@ aliases:
 menu:
   docs:
     parent: practical
-weight: 18
+weight: 10
 toc: true
 ---
 
@@ -47,10 +47,8 @@ By the time Opening Circle begins, you'll already have your first inside jokes, 
 ### What to Do When You Arrive for Build Day
 
 1. **Park and find the main entrance** — Look for welcome signs
-2. **Check in at the registration table** — We'll have a list with your name
-3. **Get your welcome pack** — Includes your room assignment, schedule, and name tag
-4. **Drop your bags in your room** — Find your bunk, claim your space
-5. **Come back to the common area** — Someone will guide you to whatever needs doing
+2. **Drop your bags in your room** — Find your bunk, claim your space
+3. **Come back to the common area** — Someone will guide you to whatever needs doing
 
 No pressure. No performance. Just presence.
 
@@ -60,7 +58,8 @@ No pressure. No performance. Just presence.
 
 **Arrival deadline:** 21:00 (for Opening Circle)
 
-Most people arrive Wednesday evening between 18:00–20:30. You'll see cars pulling in, people hauling bags, nervous laughter, tentative hellos.
+Most people arrive Wednesday evening between 16:00–20:30. You'll see cars pulling in, people hauling bags, nervous laughter, tentative hellos.
+Build will still be going on, drop your stuff in your room and help us out. 
 
 ### The Check-In Process
 
@@ -68,20 +67,20 @@ Most people arrive Wednesday evening between 18:00–20:30. You'll see cars pull
 
 Look for the registration table near the main entrance. You'll see:
 - A table with a sign that says "Welcome" or "Check-In"
-- One or two friendly faces with clipboards
+- One or two friendly faces 
 - Other arrivals milling about, looking as nervous as you feel
 
 **Step 2: Check In**
 
 Tell us your name. We'll:
 - Check you off the list
-- Give you a **welcome pack** (room assignment, schedule, venue map, name tag)
-- Answer any immediate questions ("Where's the bathroom?" "Which room am I in?")
+- Give you a **welcome pack** 
+- Answer any immediate questions 
 - Point you toward your accommodations
 
 **Step 3: Settle Into Your Room**
 
-Find your room number (on your welcome pack). You'll be in a shared bunk room with 4–8 other people.
+Find your room, at least one is FLINTA. You'll be in a shared bunk room with 4–8 other people.
 
 - Claim a bunk (first-come, first-served)
 - Unpack what you need for the night
@@ -115,9 +114,8 @@ We'll provide a printed map in your welcome pack, but here's the general layout:
 
 **Outbuildings/Other Spaces:**
 - Additional bunk rooms
-- Play spaces (rope jam areas, private rooms)
 - Quiet room (for overwhelm, rest, crying, being alone)
-- Outdoor fire pit area
+- Outdoor smoking area
 
 **Important Locations to Know:**
 - **Quiet room** — Door will be marked; go here if you need to decompress
@@ -127,7 +125,6 @@ We'll provide a printed map in your welcome pack, but here's the general layout:
 ### Where Things Are
 
 - **Coffee/tea:** Always available in the kitchen
-- **Water:** Refill stations throughout the space
 - **Snacks:** Kitchen has basics; bring your own favorites too
 - **Bathrooms:** Gender-neutral; marked clearly
 - **Towels:** Bring your own
@@ -165,8 +162,6 @@ Consent Crew members will be introduced at **Opening Circle.** They're here for:
 - Conflict mediation
 - Safety issues
 - Situations that feel off or unsafe
-
-**How to identify them:** They'll wear specific identifying markers (we'll explain at Opening Circle).
 
 **How to reach them:**
 - Find them in person (ask anyone if you're not sure who they are)
@@ -265,7 +260,7 @@ Vulnerability is currency here. Use it.
 
 ### If You're Coming Solo
 
-You're not alone — about 30% of attendees come solo.
+You're not alone — about 60% of attendees come solo.
 
 **Ways to connect:**
 - Come to Build Day (easiest way to make early connections)
@@ -340,25 +335,6 @@ All of these are valid. Honor what you need.
 
 ## Thursday Morning: Your First Full Day
 
-### Consent Moment (Mandatory, ~10:00)
-
-Every morning starts with a **Consent Moment** — a brief, embodied check-in.
-
-**It's not a lecture. It's a ritual.**
-
-We gather, we ground, we remember: consent is ongoing, enthusiastic, collective.
-
-**What happens:**
-- Brief grounding practice (5–10 minutes)
-- Consent reminders and reflections
-- Space for questions or concerns
-- Community check-in
-
-**Then the day opens wide.**
-
-### What to Do With Your Day
-
-There's no schedule. No classes. No curriculum.
 
 **Your options:**
 - Jam spaces (open areas for rope play)
@@ -368,7 +344,7 @@ There's no schedule. No classes. No curriculum.
 - Flirt, connect, explore
 - Just *be*
 
-For the full rhythm of the days, see [Experience Structure](/docs/concept/experience) and [Schedule](/docs/practical/schedule).
+For the full rhythm of the days, see [Experience Structure](/docs/concept/experience).
 
 ---
 

@@ -20,8 +20,6 @@ Think of this as the catchall for policies that don’t warrant full pages of th
 - Need to resell, gift, or defer your ticket? Check in with us first so we can vet the new human  
 - Arriving late (after Wednesday 21:00 Opening Circle) isn’t an option
 
-Full details live in: [Cancellation & Refund Policy](cancellation-policy) and [Ticket Transfers & Resale](ticket-transfers)
-
 ---
 
 ## Photography & Privacy
@@ -67,7 +65,7 @@ Clean as you go, return gear to where you found it, and treat communal areas lik
 ## Emergencies & Support
 
 - Consent Crew: introduced at Opening Circle, available day and night  
-- First aid: trained responders on site; nearest hospital is in Mol (~10 minutes)  
+- First aid: volunteer responders on site; nearest hospital is in Mol (~10 minutes)  
 - Crisis support: ask for help early; we’d rather over-support than miss a rupture
 
 ---

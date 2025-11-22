@@ -184,9 +184,7 @@ We understand life happens. Plans change. Circumstances shift. We're not here to
 
 ## Ticket Transfers & Resale
 
-### Your Options If You Can't Attend
-
-#### Option 1: Resell Your Ticket (Recommended)
+### Your Option If You Can't Attend
 
 **You can resell your ticket to someone else.** This way, your money doesn't disappear — it goes to the new buyer.
 
@@ -206,52 +204,6 @@ We understand life happens. Plans change. Circumstances shift. We're not here to
 **Cost to you:** Free. No processing fee. The buyer reimburses you directly.
 
 ---
-
-#### Option 2: Wait List Facilitation (If We're Fully Booked)
-
-**If we've sold all 42 tickets and have a waitlist:**
-
-We can add your cancellation to the waitlist pool, and refund the first person who can attend.
-
-**This only works if:**
-
-- We're fully booked (42/42 tickets sold)
-- There's an active waitlist
-
-**This doesn't work if:**
-
-- We're not fully booked (your refund just reduces event revenue)
-- Your cancellation is within 2 weeks (not enough time to notify waitlist)
-
----
-
-### Step-by-Step Transfer Process
-
-**You can transfer your ticket to another person.**
-
-**How:**
-
-1. **You find the buyer** (friend, community member, etc.)
-2. **Email [info@roguerope.be](mailto:info@roguerope.be)** with:
-   - Subject: "Ticket transfer request"
-   - Your name and order number
-   - New buyer's name and email
-   - Brief note (optional): who they are, how you know them
-3. **We vet the transfer** (confirm they understand the event)
-4. **Transfer approved:** Buyer's info replaces yours in the system
-5. **Buyer makes payment to you** (outside our system)
-
-**Vetting process:**
-
-- We check they understand the event is consent-focused, intimate, and community-based
-- We ask 1-2 questions to ensure alignment
-- Takes 2-3 days
-- If approved, we send confirmation to both of you
-
-**This works any time** (even the week before), as long as we have time to update our records.
-
----
-
 ### Resale Rules
 
 - **You set the price** (we don't control it; that's between you and buyer)
