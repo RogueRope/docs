@@ -2,8 +2,8 @@
 title: 'After the Gathering'
 description: 'Integration, support, staying connected'
 lead: "The gathering shifts, not ends. Here's what helps."
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 aliases:
   - /practical/after-the-gathering
   - /docs/practical/after-the-gathering
@@ -29,7 +29,7 @@ Your nervous system is integrating. Expect tiredness, emotions, vivid dreams, se
 
 **Subdrop** (emotional low after intensity) is real but temporary. Signs: emptiness, disconnection, lethargy. If it hits: reach out to the community, call a friend, see a therapist.
 
-**Crisis?** Call [national crisis line] or [kink-informed therapist referral]
+**Crisis?** Use your local or national crisis line or emergency services. If you're working with a therapist, reach out to them as soon as you can.
 
 ---
 
@@ -88,12 +88,11 @@ Rope events stir up feelings — fear, joy, grief, desire, vulnerability. This i
 
 **If you're in crisis:**
 
-- National crisis line: [number]
-- Text crisis support: [number]
-- Go to an ER if you're unsafe
+- Use your local or national crisis line
+- Go to an ER or emergency department if you're unsafe
 - Call a trusted person
 
-**Kink-competent therapists** understand rope, BDSM, power dynamics, and consent. They can help you process safely. [Referral list]
+**Kink-competent therapists** understand rope, BDSM, power dynamics, and consent. They can help you process safely. If you'd like suggestions for kink-aware therapists, email us and we can share starting points where possible.
 
 ### If You Experienced Harm
 
@@ -103,8 +102,7 @@ If something happened at the gathering that crossed your boundaries or violated 
 
 1. **Reach out to the [Consent Crew]({{< ref "/docs/wellbeing/consent-framework" >}} "Consent & Safety")** — they're trained in support and accountability
    - Email: [consent-crew@roguerope.be](mailto:consent-crew@roguerope.be)
-   - Phone: [number]
-   - In-person: [staff available at gatherings]
+   - In-person: Consent Crew members are clearly identified at gatherings
 
 2. **What happens next:**
    - You're heard and believed
@@ -114,9 +112,9 @@ If something happened at the gathering that crossed your boundaries or violated 
    - We help you access additional support if needed
 
 3. **Additional support:**
-   - Trauma-informed therapists: [Referral list]
-   - Crisis counseling: [Numbers]
-   - Support groups for BDSM/kink survivors: [Links]
+   - Trauma-informed therapists (including kink-aware practitioners)
+   - Crisis counseling and hotlines in your region
+   - Support groups for BDSM/kink survivors (online and local)
 
 **You deserved better. We're committed to accountability and repair.**
 
@@ -144,7 +142,7 @@ Sometimes rope gatherings shift relationships — romantic partnerships, friends
 
 ## Stay Connected
 
-**Join our WhatsApp community** — year-round connection, resources, next gathering updates. [→ Get the link]
+**Join our WhatsApp community** — year-round connection, resources, next gathering updates. The invite link is shared in your ticket confirmation and follow-up emails.
 
 **Monthly community calls** — Details shared in WhatsApp group
 
@@ -161,27 +159,22 @@ Details on recommended books, therapist referrals, and support networks shared i
 
 **Bottoms Up! 2027 (tentative):**
 
-- [Dates TBA]
-- [Location TBA]
+- Dates and location to be announced
 
-We run annually. The dates are typically winter. Get on the mailing list to be notified as soon as 2027 dates are confirmed.
-
-[**Mailing list signup →**]
+We run annually. The dates are typically winter. To hear when 2027 dates are confirmed, join our mailing list via the signup form on the homepage.
 
 ### Give Feedback
 
 **Help us create even better gatherings.**
 
-[**Feedback form →**]
-
-Tell us:
+Share your reflections with us:
 
 - What worked beautifully
 - What was confusing or missing
 - How we can support you better
 - Ideas for next time
 
-Your feedback shapes how we evolve.
+You can email your feedback to [info@roguerope.be](mailto:info@roguerope.be). Your feedback shapes how we evolve.
 
 ---
 
@@ -207,6 +200,6 @@ Welcome home.
 
 **Questions?** Email [info@roguerope.be](mailto:info@roguerope.be)
 
-**In crisis?** Call [number] or reach out to the Consent Crew
+**In crisis?** Use your local or national crisis line, emergency services, or reach out to the Consent Crew for support around event-related harm.
 
-**Want to stay connected?** Join our WhatsApp community and sign up for our mailing list
+**Want to stay connected?** Join our WhatsApp community and sign up for our mailing list via the homepage

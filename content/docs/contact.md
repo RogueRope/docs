@@ -2,9 +2,9 @@
 title: Contact
 description: "Here's my number, call me!"
 lead: "Reach out. We'll meet you."
-date: 2024-04-06T13:37:00+00:00
-lastmod: 2025-04-11T13:37:00+00:00
-t: 150
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
+weight: 150
 toc: true
 BookHidden: true
 ---

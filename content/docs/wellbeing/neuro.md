@@ -2,8 +2,8 @@
 title: 'Neurodivergent Support'
 description: 'Creating a safe and inclusive environment for neurodivergent participants.'
 lead: 'You know your needs better than we ever could — we’re here to help you meet them.'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 aliases:
   - /wellbeing/neuro
 menu:

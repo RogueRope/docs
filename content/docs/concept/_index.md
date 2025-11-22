@@ -2,8 +2,8 @@
 title: What Makes Us Different
 description: 'The heart of Bottoms Up! - Connection over performance, presence over polish'
 lead: 'What makes this gathering different and how we create space together'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-11-11T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 1
 toc: true
 bookCollapseSection: true

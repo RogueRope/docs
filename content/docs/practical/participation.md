@@ -2,8 +2,8 @@
 title: Tickets
 description: 'Get your ticket, manage refunds, resell, defer payment, or request exceptions'
 lead: "Saying yes, when you mean it. Everything about your ticket."
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T11:01:10+00:00
 weight: 3
 toc: true
 ---
@@ -60,6 +60,7 @@ We'll meet you where we can.
 ![A mythic creature with antlers reaching toward a glowing invitation floating in space, surrounded by rope strands like constellations](/images/ticket-creature-invitation.png)
 
 **📅 Tickets go on sale:** December 1st, 2025 at 20:00
+Get notified the moment sales open: [Join the Waitlist](https://roguerope.be/pages/signupform.html)
 **💰 Ticket price:** €169 (includes accommodation, one hot meal per day plus provisions, and full access)
 **🎟️ Limited to:** 42 people to maintain intimacy and connection
 

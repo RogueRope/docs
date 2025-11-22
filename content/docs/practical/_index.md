@@ -2,8 +2,8 @@
 title: 'Practical'
 description: 'Logistics, policies, and everything you need to know to attend'
 lead: 'The details that make it all work'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 2
 toc: true
 bookCollapseSection: true

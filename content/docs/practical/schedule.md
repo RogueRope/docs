@@ -2,8 +2,8 @@
 title: "Schedule"
 description: "Five days of connection, ritual, and intimacy"
 lead: "The rhythm and flow of our time together"
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-22T10:45:55+00:00
 weight: 15
 toc: true
 ---
@@ -43,7 +43,7 @@ Each day has:
 - First unconference sessions begin
 - Experiences and conversations
 - Group dinner
-- TDB: Orga Event
+- Evening Community Gathering
 
 
 ### **Friday: Building Connection**
@@ -51,7 +51,7 @@ Each day has:
 - Deeper unconference sessions
 - Workshops on rope, consent, dynamics, and embodiment
 - Afternoon break and informal play
-- TDB: Orga Event
+- Evening Community Gathering
 - 
 ### **Saturday: The Heart of It**
 
@@ -59,7 +59,7 @@ Each day has:
 - Unconference sessions continue
 - Varied workshops and circles
 - Communal dinner
-- TDB: Orga Event
+- Evening Community Gathering
 
 ### **Sunday: Integration & Closing**
 

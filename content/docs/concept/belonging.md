@@ -2,8 +2,8 @@
 title: 'Who Belongs Here'
 description: 'Who this space is for, and who it is not for.'
 lead: 'This is a space for many, but not for all.'
-date: 2025-08-28
-lastmod: 2025-11-11T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 18
 toc: true
 ---

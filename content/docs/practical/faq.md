@@ -2,8 +2,8 @@
 title: Frequently Asked Questions
 description: 'Common questions about Bottoms Up! and how to prepare'
 lead: 'Questions you might have. Honest answers.'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 50
 toc: true
 ---
@@ -56,21 +56,21 @@ toc: true
 
 ## Before & After
 
-**How to prepare?** Read [Getting Started] and [Philosophy]. Reflect on why you're coming. Talk to your partner if you have one. Arrive open.
+**How to prepare?** Read [Getting Started](/docs/concept/is-this-for-you) and [Philosophy](/docs/concept/philosophy). Reflect on why you're coming. Talk to your partner if you have one. Arrive open.
 
-**Subdrop?** Emotional low after intensity. Rest, hydrate, move your body, reach out. It passes. [→ After the Gathering for support]
+**Subdrop?** Emotional low after intensity. Rest, hydrate, move your body, reach out. It passes. See [After the Gathering](/docs/wellbeing/after-integration) for more support.
 
-**Stay connected?** Join our WhatsApp community, attend monthly calls, sign up for mailing list. [→ After the Gathering for details]
+**Stay connected?** Join our WhatsApp community, attend monthly calls, sign up for the mailing list. See [After the Gathering](/docs/wellbeing/after-integration) for details.
 
 ---
 
 ## More Info
 
-**How do I get there?** [→ Getting There page]
+**How do I get there?** See [Getting There](/docs/practical/getting-there) for travel details, ride-share info, and arrival timing.
 
 **Tickets?** December 1, 20:00. €169. 42 slots. Brief application (alignment check).
 
-**Cancellation?** [→ Cancellation Policy] TL;DR: 3 weeks before = full refund. After = resell or defer.
+**Cancellation?** See [Cancellation & Refund Policy](/docs/practical/participation/#cancellation--refund-policy) — TL;DR: 3 weeks before = full refund. After = resell or defer.
 
 **Photos?** **Consent-only:** ask first, no bystanders, no disturbance, delete on request. When the gathering ends, re-confirm consent **and** anonymize the venue before posting anywhere.  
 → Full rules (including post-event sharing): [Photography Guidelines](photography-guidelines)
@@ -81,4 +81,4 @@ toc: true
 
 **Questions?** Email [info@roguerope.be](mailto:info@roguerope.be)
 
-[→ Get tickets] [→ Getting Started] [→ Philosophy]
+[Get tickets](/docs/practical/participation) • [Getting Started](/docs/concept/is-this-for-you) • [Philosophy](/docs/concept/philosophy)

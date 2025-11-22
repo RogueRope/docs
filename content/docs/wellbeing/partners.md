@@ -2,8 +2,8 @@
 title: Arriving with Partners
 description: 'Navigating the gathering with your partner(s)'
 lead: 'How to honor existing relationships while staying open to new connections'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 aliases:
   - /wellbeing/partners
 menu:

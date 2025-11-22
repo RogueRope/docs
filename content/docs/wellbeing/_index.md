@@ -2,8 +2,8 @@
 title: 'Wellbeing'
 description: 'Consent, safety, care, and support resources'
 lead: 'Your wellbeing matters before, during, and after'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 3
 toc: true
 bookCollapseSection: true

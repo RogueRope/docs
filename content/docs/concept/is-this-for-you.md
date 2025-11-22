@@ -2,8 +2,8 @@
 title: Is This For You?
 description: 'A gentle guide for newcomers and those wondering if this gathering is right for them'
 lead: "You don't have to know. You just have to want to find out."
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-11-11T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 5
 toc: true
 ---

@@ -2,8 +2,8 @@
 title: Photography Guidelines
 description: 'How to document Bottoms Up! without breaking trust'
 lead: 'Consent-only, disturbance-free, always respectful'
-date: 2025-08-28T00:00:00+00:00
-lastmod: 2025-08-28T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 60
 toc: true
 ---

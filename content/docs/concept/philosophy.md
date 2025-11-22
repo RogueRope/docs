@@ -2,8 +2,8 @@
 title: 'Core Philosophy'
 description: 'Connection over performance, presence over polish - the heart of Bottoms Up!'
 lead: 'What makes this gathering different and how we create space together'
-date: 2025-08-28
-lastmod: 2025-11-11T00:00:00+00:00
+date: 2025-11-12T20:16:00+00:00
+lastmod: 2025-11-12T20:16:00+00:00
 weight: 10
 toc: true
 ---
@@ -131,8 +131,8 @@ A quiet turning away from the noise and the performance economy.
 
 **Ready to understand the structure?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over five days
 
-**Want to dive deeper?** → [Join Us](../practical/participation) — Everything you need to know about participating
+**Want to dive deeper?** → [Join Us](/docs/practical/participation) — Everything you need to know about participating
 
-**Looking for support?** → [Care & Support](../wellbeing) — Resources to help you prepare and thrive
+**Looking for support?** → [Care & Support](/docs/wellbeing) — Resources to help you prepare and thrive
 
 </div>
