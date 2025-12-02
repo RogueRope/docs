@@ -2,11 +2,15 @@
 title: "Schedule"
 description: "Five days of connection, ritual, and intimacy"
 lead: "The rhythm and flow of our time together"
-date: 2025-08-28T00:00:00+00:00
+date: 2024-08-28T00:00:00+00:00
+publishDate: 2024-08-28T00:00:00+00:00
 lastmod: 2025-08-28T00:00:00+00:00
 weight: 2
 toc: true
 bookCollapseSection: true
+aliases:
+  - "/schedule"
+  - "/schedule/"
 ---
 
 # Event Schedule
