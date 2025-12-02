@@ -1,6 +1,6 @@
 @import "defaults";
 @import "variables";
-{{- $bookTheme := (.Site.Params.BookTheme | default "light" | strings.TrimSpace | lower) -}}
+{{- $bookTheme := (.Site.Params.BookTheme | default "dark" | strings.TrimSpace | lower) -}}
 @import "themes/{{ $bookTheme }}";
 
 @import "normalize";
