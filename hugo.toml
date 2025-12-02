@@ -5,7 +5,7 @@ theme = 'hugo-book'
 ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
 
 [params]
-  BookTheme = "auto"
+  BookTheme = "dark"
   BookShowToc = true
   BookShowBreadcrumbs = true
   BookShowReadingTime = true
