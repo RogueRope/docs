@@ -1,5 +1,8 @@
 # Bottoms Up! Gathering Documentation
 
+[![Run in Smithery](https://smithery.ai/badge/skills/roguerope)](https://smithery.ai/skills?ns=roguerope&utm_source=github&utm_medium=badge)
+
+
 A Hugo Book–based documentation site for Bottoms Up!—a five-day rope gathering in Belgium centered on connection over performance and consent as sacred practice. The site runs in dark mode only and uses Hugo's built-in search, table of contents, and breadcrumbs for quick navigation.
 
 ## Features
