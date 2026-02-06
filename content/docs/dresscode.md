@@ -63,20 +63,6 @@ Neon doesn't have to be loud. It can be a whisper in highlighter ink — until t
 
 ---
 
-## Net stockings: the unofficial uniform (now with UV upgrades)
-
-Easy "I'm in theme" move: **fishnets**.
-
-Ideas:
-- Classic black fishnets + oversized shirt (instant night creature)
-- Neon fishnets under ripped shorts (punk signal)
-- Layered nets: small-net + big-net (double texture)
-- Net tights under a skirt with boots (soft armor)
-- Harness over nets (iconic)
-- One leg net, one leg bare (asymmetry = punk)
-
----
-
 ## Quick outfit formulas (blacklight edition)
 
 1) **All black + one UV element**
