@@ -1,187 +1,60 @@
 ---
 title: "Schedule"
-description: "Five days of connection, ritual, and intimacy"
+description: "Five days of connection, ritual, and intimacy — Wednesday through Sunday"
 lead: "The rhythm and flow of our time together"
 date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-22T10:45:55+00:00
+lastmod: 2026-02-06T00:00:00+00:00
 weight: 15
 toc: true
-draft: true
 ---
 
-# Event Schedule
+# Week at a glance (Wed → Sun)
 
-## 📅 Wednesday–Sunday, 18–22 February 2026
-
-**5 Days of Connection, Ritual & Intimacy**
-
----
-
-## Overview: The Rhythm of Our Time
-
-This isn't a traditional conference with fixed schedules. Our five days have a **gentle, held structure** that allows for spontaneity, presence, and deep connection.
-
-Each day has:
-
-- A **morning rhythm** (optional practices, early communal time)
-- **Unconference sessions** (peer-led, self-organized)
-- **Shared meals** and informal connection time
-- **Fika** (new!)
-- **Evening offerings** (ceremonies, experiences, or rest)
+These are the **big lines** — a gentle container, not a rigid program. We'll adjust to what the space and the group need.
+Expect a little mystery. Expect consent to be crystal clear.
 
 ---
 
-## 🔄 The Five-Day Arc
+## Wednesday — Arrival + Landing
 
-### **Wednesday Evening: Arrival & Opening**
+- Arrival & settling in
+- **Opening circle** to land together + set intentions
+- **Wheel of Consent** (shared language for asking, receiving, and offering)
+- **Let's have a play**: rope / talk / cuddle / sensory — soft entry, no pressure
 
-- Check-in and settle into communal living
-- Dinner together as we arrive
-- Opening ceremony to set intention
+## Thursday — Warmth + Shadow
 
-### **Thursday: Finding Our Footing**
+- **Koffieklets** (coffee chat / informal check-in space)
+- **Shadow Play**
+- **Sleepover party** + game night
 
-- Morning practices 
-- First unconference sessions begin
-- Experiences and conversations
-- Group dinner
-- Evening Community Gathering
+## Friday — Exchange + Night Creatures
 
+- **Swap shop**
+- **Koffieklets**
+- **Shadow Play**
+- **Walk of the creatures of the night**
+- **Dance like a shadow creature**
 
-### **Friday: Building Connection**
+## Saturday — Deepening
 
-- Deeper unconference sessions
-- Workshops on rope, consent, dynamics, and embodiment
-- Afternoon break and informal play
-- Evening Community Gathering
-- 
-### **Saturday: The Heart of It**
+- **Koffieklets**
+- **Shadow Play**
+- **The Ritual**
 
-- Morning practices
-- Unconference sessions continue
-- Varied workshops and circles
-- Communal dinner
-- Evening Community Gathering
+## Sunday — Closing + Care for the Space
 
-### **Sunday: Integration & Closing**
-
-- Gentle morning practices
-- Light unconference sessions
-- Closing circle around noon
-- Departures through Sunday afternoon
+- **End circle**
+- Pack-down / cleanup together
 
 ---
 
-## ⏰ Daily Rhythm (Flexible)
+## Small notes
 
-| Time             | What's Happening                   |
-| ---------------- | ---------------------------------- |
-| 7:00-8:30 AM     | Optional morning practices         |
-| 8:30-9:30 AM     | Breakfast together                 |
-| 10:00 AM-1:00 PM | Unconference sessions begin        |
-| 1:00-2:30 PM     | Lunch & rest                       |
-| 2:30-5:00 PM     | Afternoon sessions & informal play |
-| 6:00 PM          | Dinner together                    |
-| 7:30 PM+         | Evening offerings & social time    |
-| 11:00 PM         | Quiet hours begin                  |
-
-_Times are gentle guides, not rigid rules. The energy of the group takes precedence._
+- **Swap shop:** bring a few items you'd genuinely love to pass on (optional).
+- **Wheel of Consent / Shadow Play / Ritual:** you can join at your pace. Watching, resting, and opting out are all valid.
+- The thread through everything: **ask clearly, listen fully, check in again.**
 
 ---
 
-## Unconference Sessions (Peer-Led)
-
-**When:** Throughout Thursday–Sunday (approx. 10 AM–5 PM)
-**Format:** Lightly facilitated, participant-driven
-**Philosophy:** Less about formal training, more about shared experiences
-
-**What You'll Find:**
-
-- Rope technique shares and deep dives
-- Conversations about dynamics, consent, and power
-- Embodiment practices and body work
-- Creative projects and artistic expressions
-- Philosophical discussions about desire, connection, ritual
-- Quiet practices (meditation, journaling, yoga)
-
-### The Four Unconference Rules
-
-1. **Whoever shows up are the right people.**
-2. **Whatever happens is the only thing that could have.**
-3. **Whenever it starts is the right time.**
-4. **It's over when it's over.**
-
-That's it. That's the magic.
-
-### What Might You Offer?
-
-No experts. Just people bringing what's alive.
-
-**What could you bring?**
-
-- A conversation you're hungry to have (e.g., navigating polyamory at gatherings)?
-- A skillshare on something you love (e.g., giving a grounding massage, a specific rope technique)?
-- A quiet, shared practice (e.g., a guided meditation or an hour of journaling together)?
-- A deep dive into a tricky topic (e.g., power dynamics, aftercare, neurodivergence in play)?
-- A question or body puzzle you want to explore with others?
-
-We're here for the offbeat, the half-formed, the personal.
-If you care about it, someone else probably does too.
-
-## Skill-Shares & Workshops
-
-**Led by community members, covering topics like:**
-
-- Advanced rope techniques
-- Tying for different bodies
-- Consent negotiation frameworks
-- Nervous system regulation and somatic work
-- Aftercare and emotional processing
-- Photography and documentation ethics
-- Relationships and polyamory navigation
-
----
-
-## ❓ Questions About the Schedule?
-
-The schedule is **intentionally flexible** to honor:
-
-- The energy of the group
-- The needs of the moment
-- Spontaneous brilliance
-- Collective wisdom
-
-If you have specific questions about timing, accessibility needs, or how something will work, **[reach out](/docs/contact)** — we're here to help.
-
----
-
-<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg hx-mb-8">
-
-## Before You Arrive
-
-**Want to understand the philosophy behind our time together?**
-
-- [Core Philosophy](/docs/concept/philosophy) — The values that shape our gathering
-- [What Happens](/docs/concept/experience) — The ceremonies and structures that guide our days
-- [Our Agreements](/docs/concept/agreements) — How we commit to the container
-
-**Need to prepare?** → [Practical Details](/docs/practical) — Everything you need to know to attend
-
-</div>
-
-<div class="hx-bg-gradient-to-r hx-from-orange-50 hx-to-red-50 dark:hx-from-orange-900/20 dark:hx-to-red-900/20 hx-p-8 hx-rounded-lg hx-text-center">
-
-## Ready to join us?
-
-Now that you see the rhythm of our time together, secure your spot for this five-day journey.
-
-<div class="hx-mt-6">
-[Get Your Ticket →](/docs/practical/participation)
-{.hx-inline-flex.hx-items-center.hx-px-6.hx-py-3.hx-bg-orange-600.hx-text-white.hx-text-lg.hx-rounded-lg.hover:hx-bg-orange-700.hx-transition-colors}
-</div>
-
-<div class="hx-mt-4 hx-text-sm text-outer-space">
-Or explore: [Care & Support](/docs/wellbeing) • [Contact Us](/docs/contact)
-</div>
-
-</div>
+If you have questions about timing, accessibility needs, or how something will work, **[reach out](/docs/contact)** — we're here to help.
