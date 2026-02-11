@@ -1,0 +1,4281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bottoms Up! - Interactive Journey</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      /* Font Size Variables */
+      --base-font-size: 16px;
+      --content-font-size: 1rem;
+      --heading-scale: 1;
+
+      /* Hugo Theme Colors - Primary Palette */
+      --primary-color: #5b4bff;
+      --primary-soft: #6f5cff;
+      --accent-color: #ff6b35;
+      --accent-soft: rgba(255, 107, 53, 0.14);
+
+      /* Hugo Theme Colors - Custom Palette */
+      --cherry-blossom-pink: #edafb8;
+      --cherry-blossom-pink-400: #de6d7e;
+      --cherry-blossom-pink-500: #edafb8;
+      --cherry-blossom-pink-600: #f1c0c7;
+      --cherry-blossom-pink-800: #f8dfe3;
+
+      --champagne-pink: #f7e1d7;
+      --champagne-pink-500: #f7e1d7;
+      --champagne-pink-700: #faeee8;
+      --champagne-pink-800: #fcf4f0;
+
+      --timberwolf: #dedbd2;
+      --timberwolf-500: #dedbd2;
+      --timberwolf-700: #ebeae5;
+
+      --ash-gray: #b0c4b1;
+      --ash-gray-400: #86a488;
+      --ash-gray-500: #b0c4b1;
+      --ash-gray-600: #c0d0c1;
+
+      --outer-space: #4a5759;
+      --outer-space-100: #0f1112;
+      --outer-space-500: #4a5759;
+      --outer-space-700: #8e9ea0;
+
+      /* Section Colors */
+      --concept-color: #667eea;
+      --practical-color: #86a488;
+      --wellbeing-color: #edafb8;
+
+      /* Rewards & Gamification */
+      --gold: #FFD700;
+      --gold-gradient-start: #ffd700;
+      --gold-gradient-end: #ff6b35;
+
+      /* Surface & UI */
+      --shadow: rgba(15, 23, 42, 0.15);
+      --shadow-elevated: 0 10px 30px rgba(15, 23, 42, 0.12);
+      --shadow-soft: 0 4px 14px rgba(15, 23, 42, 0.08);
+      --surface-elevated: #ffffff;
+      --surface-soft: #f0eef8;
+      --border-color: #e0def0;
+
+      /* Gradients */
+      --gradient-purple: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      --gradient-violet: linear-gradient(135deg, #5b4bff 0%, #6f5cff 100%);
+      --gradient-warm: linear-gradient(135deg, #ff6b35 0%, #f59e0b 100%);
+      --gradient-gold: linear-gradient(135deg, #ffd700 0%, #ff6b35 100%);
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background:
+        radial-gradient(circle at 20% 20%, rgba(102, 126, 234, 0.08) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(255, 107, 53, 0.06) 0%, transparent 50%),
+        linear-gradient(135deg, #f6f5fb 0%, #faeee8 100%);
+      color: var(--outer-space);
+      line-height: 1.6;
+      overflow-x: hidden;
+      min-height: 100vh;
+    }
+
+    body.dark-mode {
+      background:
+        radial-gradient(circle at 20% 20%, rgba(102, 126, 234, 0.15) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(255, 107, 53, 0.1) 0%, transparent 50%),
+        linear-gradient(135deg, #050816 0%, #0b1020 100%);
+      color: #e5e7ff;
+    }
+
+    body.dark-mode .header,
+    body.dark-mode .modal-content,
+    body.dark-mode .content-card,
+    body.dark-mode .journey-card,
+    body.dark-mode .achievements-panel,
+    body.dark-mode .stats-dashboard,
+    body.dark-mode .onboarding-modal-content {
+      background: linear-gradient(135deg, rgba(11, 16, 32, 0.98) 0%, rgba(15, 23, 42, 0.98) 100%);
+      color: #e5e7ff;
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .search-input {
+      background: linear-gradient(135deg, rgba(30, 35, 50, 0.95) 0%, rgba(20, 25, 40, 0.95) 100%);
+      color: #e5e7ff;
+      border-color: rgba(91, 75, 255, 0.4);
+    }
+
+    body.dark-mode .content-card,
+    body.dark-mode .journey-card {
+      background: linear-gradient(135deg, rgba(20, 25, 40, 0.98) 0%, rgba(15, 20, 35, 0.98) 100%);
+    }
+
+    body.dark-mode .icon-btn {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.15) 0%, rgba(102, 126, 234, 0.15) 100%);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    /* Header & Gamification UI */
+    .header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      backdrop-filter: blur(20px);
+      padding: 1rem 2rem;
+      box-shadow: 0 4px 30px var(--shadow);
+      border-bottom: 1px solid rgba(91, 75, 255, 0.1);
+      z-index: 1000;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .logo:hover {
+      transform: scale(1.05);
+      filter: brightness(1.1);
+    }
+
+    .header-actions {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .font-size-controls {
+      display: flex;
+      gap: 0.25rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(246, 245, 251, 0.95) 100%);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+      border-radius: 12px;
+      padding: 0.25rem;
+    }
+
+    .font-size-btn {
+      padding: 0.4rem 0.6rem !important;
+      font-size: 0.9rem !important;
+      font-weight: 600;
+      min-width: 36px;
+    }
+
+    .font-size-btn.active {
+      background: var(--gradient-purple) !important;
+      color: white !important;
+    }
+
+    .icon-btn {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+      font-size: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      padding: 0.5rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.1);
+    }
+
+    .icon-btn:hover {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.15) 0%, rgba(102, 126, 234, 0.15) 100%);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(91, 75, 255, 0.2);
+    }
+
+    .stats-panel {
+      display: flex;
+      gap: 2rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.25rem;
+      position: relative;
+    }
+
+    .stat-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      opacity: 0.7;
+      font-weight: 600;
+    }
+
+    .stat-value {
+      font-size: 1.25rem;
+      font-weight: bold;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .streak-flame {
+      position: absolute;
+      top: -5px;
+      right: -5px;
+      font-size: 1rem;
+      animation: flicker 2s infinite;
+    }
+
+    @keyframes flicker {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.8; transform: scale(1.1); }
+    }
+
+    .xp-bar {
+      width: 200px;
+      height: 10px;
+      background: linear-gradient(90deg, rgba(91, 75, 255, 0.1) 0%, rgba(102, 126, 234, 0.1) 100%);
+      border-radius: 20px;
+      overflow: hidden;
+      position: relative;
+      border: 1px solid rgba(91, 75, 255, 0.2);
+    }
+
+    .xp-fill {
+      height: 100%;
+      background: var(--gradient-purple);
+      transition: width 0.5s ease;
+      border-radius: 20px;
+      box-shadow: 0 0 10px rgba(102, 126, 234, 0.5);
+      position: relative;
+    }
+
+    .xp-fill::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(90deg, transparent 0%, rgba(255, 255, 255, 0.3) 50%, transparent 100%);
+      animation: shimmer 2s infinite;
+    }
+
+    @keyframes shimmer {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+
+    .level-badge {
+      background: var(--gradient-gold);
+      color: white;
+      padding: 0.6rem 1.2rem;
+      border-radius: 25px;
+      font-weight: bold;
+      box-shadow: 0 6px 20px rgba(255, 215, 0, 0.4);
+      position: relative;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+    }
+
+    .level-badge::before {
+      content: '';
+      position: absolute;
+      inset: -2px;
+      border-radius: 25px;
+      padding: 2px;
+      background: var(--gradient-gold);
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+      mask-composite: exclude;
+      opacity: 0.5;
+    }
+
+    .level-badge::after {
+      content: '⭐';
+      position: absolute;
+      top: -8px;
+      right: -8px;
+      font-size: 1.2rem;
+      filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+    }
+
+    /* Main Container */
+    .container {
+      margin-top: 120px;
+      padding: 2rem;
+      max-width: 1400px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    /* Search Bar */
+    .search-container {
+      margin-bottom: 2rem;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 1rem 3rem 1rem 1.5rem;
+      border: 2px solid rgba(91, 75, 255, 0.2);
+      border-radius: 50px;
+      font-size: 1rem;
+      outline: none;
+      transition: all 0.3s;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(246, 245, 251, 0.95) 100%);
+      box-shadow: 0 2px 10px rgba(91, 75, 255, 0.08);
+    }
+
+    .search-input:focus {
+      border-color: var(--primary-color);
+      box-shadow: 0 4px 20px rgba(91, 75, 255, 0.25), 0 0 0 4px rgba(91, 75, 255, 0.1);
+      background: white;
+    }
+
+    .search-icon {
+      position: absolute;
+      right: 1.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.25rem;
+      opacity: 0.5;
+    }
+
+    .search-results-count {
+      margin-top: 0.75rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: var(--primary-color);
+      font-weight: 600;
+    }
+
+    /* Advanced Search Filters */
+    .search-filters {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 20px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: var(--shadow-soft);
+      animation: slideDown 0.3s ease-out;
+    }
+
+    @keyframes slideDown {
+      from {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-group:last-of-type {
+      margin-bottom: 0;
+    }
+
+    .filter-label {
+      font-weight: 600;
+      color: var(--primary-color);
+      min-width: 80px;
+      font-size: 0.9rem;
+    }
+
+    .filter-btn {
+      padding: 0.5rem 1rem;
+      border: 2px solid rgba(91, 75, 255, 0.2);
+      border-radius: 20px;
+      background: white;
+      color: var(--text-color);
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      font-size: 0.875rem;
+      font-weight: 500;
+    }
+
+    .filter-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(91, 75, 255, 0.2);
+      border-color: var(--primary-color);
+    }
+
+    .filter-btn.active {
+      background: var(--gradient-purple);
+      color: white;
+      border-color: transparent;
+      box-shadow: 0 4px 12px rgba(91, 75, 255, 0.3);
+    }
+
+    .filter-actions {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid rgba(91, 75, 255, 0.1);
+    }
+
+    .filter-clear-btn {
+      padding: 0.5rem 1.25rem;
+      border: none;
+      border-radius: 12px;
+      background: rgba(239, 68, 68, 0.1);
+      color: #dc2626;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-size: 0.875rem;
+      font-weight: 600;
+    }
+
+    .filter-clear-btn:hover {
+      background: rgba(239, 68, 68, 0.2);
+      transform: translateY(-2px);
+    }
+
+    body.dark-mode .search-filters {
+      background: rgba(30, 30, 40, 0.98);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .filter-btn {
+      background: rgba(40, 40, 50, 0.8);
+      color: var(--text-light);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .filter-btn:hover {
+      background: rgba(50, 50, 60, 0.9);
+    }
+
+    body.dark-mode .filter-clear-btn {
+      background: rgba(239, 68, 68, 0.2);
+    }
+
+    /* Phase 2: Quick Actions Bar */
+    .quick-actions {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .quick-action-btn {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1.25rem 1.5rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 16px;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.08);
+      text-align: left;
+    }
+
+    .quick-action-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(91, 75, 255, 0.2);
+      border-color: var(--primary-color);
+    }
+
+    .quick-action-icon {
+      font-size: 2rem;
+      flex-shrink: 0;
+    }
+
+    .quick-action-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .quick-action-title {
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--primary-color);
+      margin-bottom: 0.25rem;
+    }
+
+    .quick-action-desc {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.8;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .resume-reading-btn {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      border-color: rgba(91, 75, 255, 0.25);
+    }
+
+    .resume-reading-btn:hover {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.12) 0%, rgba(102, 126, 234, 0.12) 100%);
+    }
+
+    body.dark-mode .quick-action-btn {
+      background: rgba(30, 30, 40, 0.95);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .resume-reading-btn {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.15) 0%, rgba(102, 126, 234, 0.15) 100%);
+    }
+
+    /* Content Tags */
+    .content-tags {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 16px;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.08);
+    }
+
+    .tags-label {
+      font-weight: 600;
+      color: var(--primary-color);
+      margin-bottom: 0.75rem;
+      font-size: 0.9rem;
+    }
+
+    .tags-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .tag-btn {
+      padding: 0.5rem 1rem;
+      border: 2px solid;
+      border-radius: 20px;
+      background: white;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-size: 0.875rem;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .tag-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .tag-btn.active {
+      color: white !important;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    body.dark-mode .content-tags {
+      background: rgba(30, 30, 40, 0.95);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    body.dark-mode .tag-btn {
+      background: rgba(40, 40, 50, 0.8);
+    }
+
+    /* Modal Bookmark Button */
+    .modal-bookmark {
+      position: absolute;
+      top: 1.5rem;
+      right: 5rem;
+      width: 3rem;
+      height: 3rem;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(246, 245, 251, 0.95) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.2);
+      border-radius: 50%;
+      font-size: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.1);
+      z-index: 1001;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-bookmark:hover {
+      transform: scale(1.1) rotate(10deg);
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.25);
+    }
+
+    .modal-bookmark.bookmarked {
+      background: var(--gradient-purple);
+      border-color: transparent;
+    }
+
+    /* Learning Paths Modal */
+    .learning-paths-modal, .bookmarks-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(8px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 10000;
+      padding: 2rem;
+    }
+
+    .learning-paths-modal.active, .bookmarks-modal.active {
+      display: flex;
+    }
+
+    .learning-paths-content, .bookmarks-content {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border-radius: 24px;
+      padding: 2.5rem;
+      max-width: 900px;
+      width: 100%;
+      max-height: 85vh;
+      overflow-y: auto;
+      box-shadow: 0 20px 60px rgba(91, 75, 255, 0.3);
+      animation: modalSlideIn 0.3s ease-out;
+    }
+
+    .modal-header-simple {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-header-simple h2 {
+      margin: 0;
+      color: var(--primary-color);
+      font-size: 1.75rem;
+    }
+
+    .modal-close-simple {
+      font-size: 2.5rem;
+      cursor: pointer;
+      color: var(--text-color);
+      opacity: 0.6;
+      transition: all 0.3s;
+      line-height: 1;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+    }
+
+    .modal-close-simple:hover {
+      opacity: 1;
+      background: rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-subtitle {
+      color: var(--text-color);
+      opacity: 0.8;
+      margin-bottom: 2rem;
+      font-size: 1rem;
+    }
+
+    .learning-paths-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .learning-path-card {
+      background: white;
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 16px;
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .learning-path-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--gradient-purple);
+      opacity: 0;
+      transition: opacity 0.3s;
+      z-index: 0;
+    }
+
+    .learning-path-card:hover::before {
+      opacity: 0.05;
+    }
+
+    .learning-path-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 24px rgba(91, 75, 255, 0.2);
+      border-color: var(--primary-color);
+    }
+
+    .learning-path-card.active {
+      border-color: var(--primary-color);
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.2);
+    }
+
+    .learning-path-card > * {
+      position: relative;
+      z-index: 1;
+    }
+
+    .path-icon {
+      font-size: 2.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .path-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      margin-bottom: 0.5rem;
+    }
+
+    .path-description {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.8;
+      margin-bottom: 0.75rem;
+      line-height: 1.5;
+    }
+
+    .path-progress {
+      font-size: 0.8rem;
+      color: var(--primary-color);
+      font-weight: 600;
+    }
+
+    .modal-actions-simple {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+
+    .secondary-btn {
+      padding: 0.875rem 2rem;
+      border: 2px solid rgba(91, 75, 255, 0.3);
+      border-radius: 12px;
+      background: transparent;
+      color: var(--primary-color);
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .secondary-btn:hover {
+      background: rgba(91, 75, 255, 0.1);
+      transform: translateY(-2px);
+    }
+
+    /* Bookmarks List */
+    .bookmarks-list {
+      min-height: 200px;
+    }
+
+    .bookmark-item {
+      background: white;
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .bookmark-item:hover {
+      transform: translateX(8px);
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.15);
+      border-color: var(--primary-color);
+    }
+
+    .bookmark-icon {
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+
+    .bookmark-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .bookmark-title {
+      font-weight: 700;
+      color: var(--primary-color);
+      margin-bottom: 0.25rem;
+    }
+
+    .bookmark-desc {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.8;
+    }
+
+    .bookmark-remove {
+      padding: 0.5rem 0.75rem;
+      background: rgba(239, 68, 68, 0.1);
+      color: #dc2626;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.875rem;
+      font-weight: 600;
+      transition: all 0.3s;
+      flex-shrink: 0;
+    }
+
+    .bookmark-remove:hover {
+      background: rgba(239, 68, 68, 0.2);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 3rem 2rem;
+    }
+
+    .empty-state-icon {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+      opacity: 0.3;
+    }
+
+    .empty-state-text {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: var(--text-color);
+      margin-bottom: 0.5rem;
+      opacity: 0.6;
+    }
+
+    .empty-state-hint {
+      font-size: 0.875rem;
+      color: var(--text-color);
+      opacity: 0.5;
+    }
+
+    body.dark-mode .learning-paths-content,
+    body.dark-mode .bookmarks-content {
+      background: linear-gradient(135deg, rgba(20, 20, 30, 0.98) 0%, rgba(30, 30, 40, 0.98) 100%);
+    }
+
+    body.dark-mode .learning-path-card,
+    body.dark-mode .bookmark-item {
+      background: rgba(30, 30, 40, 0.8);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    /* High Contrast Mode */
+    body.high-contrast {
+      --primary-color: #0000ff;
+      --secondary-color: #ff6600;
+      --text-color: #000000;
+      --text-light: #000000;
+      --background: #ffffff;
+      --gold: #ffd700;
+    }
+
+    body.high-contrast * {
+      border-color: #000000 !important;
+    }
+
+    body.high-contrast .header,
+    body.high-contrast .quick-action-btn,
+    body.high-contrast .search-filters,
+    body.high-contrast .content-tags,
+    body.high-contrast .journey-card,
+    body.high-contrast .card {
+      background: #ffffff !important;
+      border: 3px solid #000000 !important;
+      box-shadow: none !important;
+    }
+
+    body.high-contrast .modal-content,
+    body.high-contrast .learning-paths-content,
+    body.high-contrast .bookmarks-content {
+      background: #ffffff !important;
+      border: 3px solid #000000 !important;
+    }
+
+    body.high-contrast button,
+    body.high-contrast .filter-btn,
+    body.high-contrast .tag-btn {
+      background: #ffffff !important;
+      color: #000000 !important;
+      border: 2px solid #000000 !important;
+      font-weight: 700 !important;
+    }
+
+    body.high-contrast button:hover,
+    body.high-contrast .filter-btn:hover,
+    body.high-contrast .tag-btn:hover {
+      background: #ffff00 !important;
+    }
+
+    body.high-contrast .filter-btn.active,
+    body.high-contrast .tag-btn.active,
+    body.high-contrast .learning-path-card.active {
+      background: #0000ff !important;
+      color: #ffffff !important;
+    }
+
+    body.high-contrast a,
+    body.high-contrast .card-title,
+    body.high-contrast .modal-title,
+    body.high-contrast .path-title {
+      color: #0000ff !important;
+      text-decoration: underline;
+    }
+
+    body.high-contrast .level-badge,
+    body.high-contrast .xp-bar {
+      background: #0000ff !important;
+      color: #ffffff !important;
+    }
+
+    /* Journey Path Selector */
+    .journey-selector {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .journey-card {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      border-radius: 20px;
+      padding: 2rem;
+      cursor: pointer;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: var(--shadow-soft);
+      border: 2px solid rgba(91, 75, 255, 0.1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .journey-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 5px;
+      background: var(--gradient-purple);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .journey-card:hover::before {
+      transform: scaleX(1);
+    }
+
+    .journey-card:hover {
+      transform: translateY(-8px);
+      box-shadow: var(--shadow-elevated);
+      border-color: rgba(91, 75, 255, 0.3);
+    }
+
+    .journey-card.active {
+      border-color: var(--primary-color);
+      box-shadow: 0 8px 30px rgba(91, 75, 255, 0.25);
+      background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(246, 245, 251, 1) 100%);
+    }
+
+    .journey-card.active::before {
+      transform: scaleX(1);
+    }
+
+    .journey-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .journey-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .journey-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+      line-height: 1.5;
+    }
+
+    .journey-progress {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      font-weight: 600;
+    }
+
+    .journey-progress-bar {
+      width: 100%;
+      height: 8px;
+      background: linear-gradient(90deg, rgba(91, 75, 255, 0.1) 0%, rgba(102, 126, 234, 0.1) 100%);
+      border-radius: 20px;
+      margin-top: 0.5rem;
+      overflow: hidden;
+      border: 1px solid rgba(91, 75, 255, 0.15);
+    }
+
+    .journey-progress-fill {
+      height: 100%;
+      background: var(--gradient-purple);
+      transition: width 0.5s ease;
+      border-radius: 20px;
+      box-shadow: 0 0 8px rgba(102, 126, 234, 0.4);
+    }
+
+    /* Content Grid */
+    .content-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .content-card {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(250, 238, 232, 0.98) 100%);
+      border-radius: 16px;
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: var(--shadow-soft);
+      border-left: 5px solid var(--concept-color);
+      border: 2px solid rgba(91, 75, 255, 0.08);
+      border-left: 5px solid var(--concept-color);
+      position: relative;
+      opacity: 0;
+      animation: fadeInUp 0.5s forwards;
+      overflow: hidden;
+    }
+
+    .content-card::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100px;
+      height: 100px;
+      background: radial-gradient(circle, rgba(91, 75, 255, 0.05) 0%, transparent 70%);
+      border-radius: 50%;
+      transform: translate(30%, -30%);
+      pointer-events: none;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+    }
+
+    .content-card:hover {
+      transform: translateY(-8px);
+      box-shadow: var(--shadow-elevated);
+      border-color: rgba(91, 75, 255, 0.2);
+      background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(250, 238, 232, 1) 100%);
+    }
+
+    .content-card.read {
+      opacity: 0.8;
+      background: linear-gradient(135deg, rgba(246, 245, 251, 0.98) 0%, rgba(240, 238, 248, 0.98) 100%);
+    }
+
+    .content-card.read::before {
+      content: '✓';
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: var(--gradient-gold);
+      color: white;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      font-size: 1.1rem;
+      box-shadow: 0 4px 12px rgba(255, 215, 0, 0.4);
+      border: 2px solid rgba(255, 255, 255, 0.5);
+      z-index: 10;
+    }
+
+    .content-card.concept {
+      border-left-color: var(--concept-color);
+    }
+
+    .content-card.practical {
+      border-left-color: var(--practical-color);
+    }
+
+    .content-card.wellbeing {
+      border-left-color: var(--wellbeing-color);
+    }
+
+    .card-section {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      opacity: 0.6;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      color: var(--outer-space);
+      line-height: 1.4;
+    }
+
+    .card-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+      line-height: 1.5;
+    }
+
+    .card-meta {
+      margin-top: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .card-xp {
+      font-size: 0.85rem;
+      background: var(--gradient-gold);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .card-xp::before {
+      content: '⭐';
+      font-size: 0.9rem;
+      -webkit-text-fill-color: initial;
+      filter: drop-shadow(0 1px 2px rgba(255, 215, 0, 0.4));
+    }
+
+    .card-time {
+      font-size: 0.8rem;
+      opacity: 0.6;
+    }
+
+    /* Modal/Content Viewer */
+    .modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 2000;
+      padding: 2rem;
+      overflow-y: auto;
+      transition: transform 0.2s ease-out;
+    }
+
+    .modal.active {
+      display: flex;
+    }
+
+    .modal-content {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 253, 1) 100%);
+      border-radius: 24px;
+      padding: 3rem;
+      max-width: 800px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+      animation: slideIn 0.3s;
+      box-shadow: 0 20px 60px rgba(91, 75, 255, 0.2);
+      border: 1px solid rgba(91, 75, 255, 0.1);
+    }
+
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: scale(0.9);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    /* Reading Progress Indicator */
+    .reading-progress-bar {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: rgba(91, 75, 255, 0.1);
+      border-radius: 24px 24px 0 0;
+      overflow: hidden;
+      z-index: 10;
+    }
+
+    .reading-progress-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--gradient-purple);
+      transition: width 0.1s ease-out;
+      box-shadow: 0 0 10px rgba(102, 126, 234, 0.5);
+      position: relative;
+    }
+
+    .reading-progress-fill::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 20px;
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4));
+    }
+
+    .modal-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      gap: 1rem;
+    }
+
+    .modal-nav-btn {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 245, 251, 0.98) 100%);
+      color: var(--primary-color);
+      border: 2px solid rgba(91, 75, 255, 0.2);
+      padding: 0.75rem 1.5rem;
+      border-radius: 12px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      font-size: 0.95rem;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.1);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .modal-nav-btn::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--gradient-purple);
+      opacity: 0;
+      transition: opacity 0.3s;
+      z-index: -1;
+    }
+
+    .modal-nav-btn:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(91, 75, 255, 0.25);
+      border-color: var(--primary-color);
+      color: white;
+    }
+
+    .modal-nav-btn:hover:not(:disabled)::before {
+      opacity: 1;
+    }
+
+    .modal-nav-btn:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+      transform: none;
+      background: linear-gradient(135deg, rgba(220, 220, 220, 0.5) 0%, rgba(200, 200, 200, 0.5) 100%);
+      border-color: rgba(150, 150, 150, 0.2);
+      color: #999;
+    }
+
+    .modal-nav-btn:active:not(:disabled) {
+      transform: translateY(0);
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 1.5rem;
+      right: 1.5rem;
+      font-size: 2rem;
+      cursor: pointer;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(246, 245, 251, 0.9) 100%);
+      border: 2px solid rgba(91, 75, 255, 0.15);
+      color: var(--primary-color);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      width: 44px;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      z-index: 10;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-close:hover {
+      transform: rotate(90deg) scale(1.1);
+      background: var(--gradient-purple);
+      color: white;
+      border-color: transparent;
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.3);
+    }
+
+    .modal-close:active {
+      transform: rotate(90deg) scale(0.95);
+    }
+
+    .modal-header {
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 2px solid transparent;
+      background: linear-gradient(to right, rgba(91, 75, 255, 0.1), rgba(102, 126, 234, 0.05), transparent) bottom/100% 2px no-repeat;
+      border-image: linear-gradient(to right, var(--primary-color), rgba(91, 75, 255, 0.2), transparent) 1;
+      border-image-slice: 1;
+    }
+
+    .modal-section {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-lead {
+      font-size: 1.1rem;
+      opacity: 0.8;
+      font-style: italic;
+    }
+
+    .modal-body {
+      line-height: 1.8;
+      font-size: var(--content-font-size);
+    }
+
+    .modal-body h2 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      color: var(--outer-space);
+      font-size: calc(1.5rem * var(--heading-scale));
+    }
+
+    .modal-body h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.75rem;
+      color: var(--outer-space);
+      font-size: calc(1.2rem * var(--heading-scale));
+    }
+
+    /* Font Size Presets */
+    body.font-size-small {
+      --content-font-size: 0.875rem;
+      --heading-scale: 0.9;
+    }
+
+    body.font-size-large {
+      --content-font-size: 1.125rem;
+      --heading-scale: 1.1;
+    }
+
+    .modal-body p {
+      margin-bottom: 1rem;
+    }
+
+    .modal-body ul, .modal-body ol {
+      margin-left: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .modal-body li {
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-body img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(91, 75, 255, 0.15);
+      border: 1px solid rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-body a {
+      color: var(--primary-color);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(91, 75, 255, 0.3);
+      transition: all 0.2s;
+    }
+
+    .modal-body a:hover {
+      color: var(--primary-soft);
+      border-bottom-color: var(--primary-color);
+      background: rgba(91, 75, 255, 0.05);
+      padding: 0 2px;
+    }
+
+    /* Style call-to-action links (containing arrows) as buttons */
+    .modal-body a[href*="ticket" i],
+    .modal-body a[href*="participation" i],
+    .modal-body a[href*="join" i],
+    .modal-body p > a:only-child {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      margin: 1rem 0;
+      background: var(--gradient-warm);
+      color: white !important;
+      border: none;
+      border-radius: 12px;
+      font-weight: 600;
+      font-size: 1.05rem;
+      box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
+      transition: all 0.3s;
+      text-decoration: none;
+      border-bottom: none !important;
+    }
+
+    .modal-body a[href*="ticket" i]:hover,
+    .modal-body a[href*="participation" i]:hover,
+    .modal-body a[href*="join" i]:hover,
+    .modal-body p > a:only-child:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 25px rgba(255, 107, 53, 0.4);
+      filter: brightness(1.1);
+      background: var(--gradient-warm);
+      padding: 0.75rem 1.5rem;
+    }
+
+    .modal-body code {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-family: 'Monaco', 'Courier New', monospace;
+      font-size: 0.9em;
+      border: 1px solid rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-body pre {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      padding: 1rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      margin: 1rem 0;
+      border: 1px solid rgba(91, 75, 255, 0.15);
+    }
+
+    .modal-body pre code {
+      background: none;
+      padding: 0;
+      border: none;
+    }
+
+    .modal-body blockquote {
+      border-left: 4px solid var(--primary-color);
+      padding-left: 1.5rem;
+      margin: 1.5rem 0;
+      font-style: italic;
+      opacity: 0.9;
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.05) 0%, rgba(102, 126, 234, 0.05) 100%);
+      padding: 1rem 1rem 1rem 1.5rem;
+      border-radius: 0 8px 8px 0;
+    }
+
+    .modal-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(91, 75, 255, 0.1);
+    }
+
+    .modal-body th, .modal-body td {
+      padding: 0.75rem;
+      border: 1px solid rgba(91, 75, 255, 0.15);
+      text-align: left;
+    }
+
+    .modal-body th {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.12) 0%, rgba(102, 126, 234, 0.12) 100%);
+      font-weight: 600;
+      color: var(--primary-color);
+    }
+
+    .modal-body tr:nth-child(even) {
+      background: rgba(91, 75, 255, 0.03);
+    }
+
+    .modal-body tr:hover {
+      background: rgba(91, 75, 255, 0.08);
+    }
+
+    /* Search result highlighting */
+    .modal-body mark {
+      background: linear-gradient(135deg, rgba(251, 191, 36, 0.4) 0%, rgba(245, 158, 11, 0.4) 100%);
+      color: inherit;
+      padding: 0.1rem 0.25rem;
+      border-radius: 3px;
+      font-weight: 600;
+      box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.2);
+    }
+
+    body.dark-mode .modal-body mark {
+      background: linear-gradient(135deg, rgba(251, 191, 36, 0.3) 0%, rgba(245, 158, 11, 0.3) 100%);
+      box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.15);
+    }
+
+    /* Hide Hugo theme's built-in page navigation since we have our own */
+    .modal-body > nav,
+    .modal-body nav[class*="flex"],
+    .modal-body .book-nav-label {
+      display: none !important;
+    }
+
+    /* Hide anchor links on headings */
+    .modal-body a.anchor,
+    .modal-body .anchor-link,
+    .modal-body h1 a[href^="#"],
+    .modal-body h2 a[href^="#"],
+    .modal-body h3 a[href^="#"],
+    .modal-body h4 a[href^="#"],
+    .modal-body h5 a[href^="#"],
+    .modal-body h6 a[href^="#"] {
+      display: none !important;
+    }
+
+    .modal-footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 2px solid var(--timberwolf);
+    }
+
+    .recommended-next {
+      margin-top: 1rem;
+    }
+
+    .recommended-title {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      opacity: 0.8;
+    }
+
+    .recommended-item {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      padding: 0.75rem;
+      border-radius: 10px;
+      margin-bottom: 0.5rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      border-left: 3px solid var(--primary-color);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+      border-left: 3px solid var(--primary-color);
+    }
+
+    .recommended-item:hover {
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.15) 0%, rgba(102, 126, 234, 0.15) 100%);
+      transform: translateX(5px);
+      box-shadow: 0 4px 12px rgba(91, 75, 255, 0.15);
+    }
+
+    /* Achievement Toast */
+    .achievement-toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--gradient-gold);
+      color: white;
+      padding: 1.5rem;
+      border-radius: 18px;
+      box-shadow: 0 12px 40px rgba(255, 215, 0, 0.5), 0 0 0 4px rgba(255, 255, 255, 0.3);
+      display: none;
+      align-items: center;
+      gap: 1rem;
+      animation: slideInRight 0.5s, glow 2s infinite alternate;
+      z-index: 3000;
+      max-width: 350px;
+      border: 2px solid rgba(255, 255, 255, 0.4);
+    }
+
+    @keyframes glow {
+      from { box-shadow: 0 12px 40px rgba(255, 215, 0, 0.5), 0 0 0 4px rgba(255, 255, 255, 0.3); }
+      to { box-shadow: 0 12px 50px rgba(255, 215, 0, 0.7), 0 0 0 4px rgba(255, 255, 255, 0.5); }
+    }
+
+    @keyframes slideInRight {
+      from {
+        transform: translateX(400px);
+      }
+      to {
+        transform: translateX(0);
+      }
+    }
+
+    .achievement-toast.show {
+      display: flex;
+    }
+
+    .achievement-icon {
+      font-size: 2.5rem;
+    }
+
+    .achievement-text {
+      flex: 1;
+    }
+
+    .achievement-title {
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .achievement-desc {
+      font-size: 0.9rem;
+      opacity: 0.9;
+    }
+
+    /* Achievements Panel */
+    .achievements-btn {
+      position: fixed;
+      bottom: 2rem;
+      left: 2rem;
+      background: var(--gradient-purple);
+      color: white;
+      padding: 1rem 1.5rem;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 6px 24px rgba(91, 75, 255, 0.35);
+      font-weight: 600;
+      border: 2px solid rgba(255, 255, 255, 0.2);
+      font-size: 1rem;
+      transition: all 0.3s;
+      z-index: 1500;
+    }
+
+    .achievements-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 32px rgba(91, 75, 255, 0.5);
+      filter: brightness(1.1);
+    }
+
+    .achievements-panel {
+      position: fixed;
+      left: -450px;
+      top: 0;
+      bottom: 0;
+      width: 450px;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(250, 248, 253, 0.98) 100%);
+      box-shadow: 4px 0 40px rgba(91, 75, 255, 0.2);
+      transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      z-index: 2500;
+      overflow-y: auto;
+      padding: 2rem;
+      border-right: 1px solid rgba(91, 75, 255, 0.1);
+      backdrop-filter: blur(10px);
+    }
+
+    .achievements-panel.open {
+      left: 0;
+    }
+
+    .achievements-header {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .achievements-close {
+      cursor: pointer;
+      font-size: 1.8rem;
+      opacity: 0.7;
+      transition: all 0.3s;
+      width: 36px;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      color: var(--primary-color);
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.5) 0%, rgba(246, 245, 251, 0.5) 100%);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+    }
+
+    .achievements-close:hover {
+      opacity: 1;
+      transform: rotate(90deg) scale(1.1);
+      background: var(--gradient-purple);
+      color: white;
+      border-color: transparent;
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.3);
+    }
+
+    .achievement-item {
+      background: linear-gradient(135deg, rgba(255, 215, 0, 0.12) 0%, rgba(255, 107, 53, 0.08) 100%);
+      padding: 1rem;
+      border-radius: 12px;
+      margin-bottom: 1rem;
+      border-left: 4px solid var(--gold);
+      border: 2px solid rgba(255, 215, 0, 0.2);
+      border-left: 4px solid var(--gold);
+      position: relative;
+      box-shadow: 0 2px 8px rgba(255, 215, 0, 0.1);
+      transition: all 0.3s;
+    }
+
+    .achievement-item:not(.locked):hover {
+      transform: translateX(4px);
+      box-shadow: 0 4px 16px rgba(255, 215, 0, 0.2);
+    }
+
+    .achievement-item.locked {
+      opacity: 0.4;
+      border-left-color: #ccc;
+      background: linear-gradient(135deg, rgba(200, 200, 200, 0.08) 0%, rgba(180, 180, 180, 0.05) 100%);
+    }
+
+    .achievement-item-title {
+      font-weight: bold;
+      margin-bottom: 0.25rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .achievement-item-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    .achievement-xp {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: var(--gold);
+      color: white;
+      padding: 0.25rem 0.5rem;
+      border-radius: 10px;
+      font-size: 0.75rem;
+      font-weight: bold;
+    }
+
+    /* Stats Dashboard */
+    .stats-btn {
+      position: fixed;
+      bottom: 5.5rem;
+      left: 2rem;
+      background: var(--gradient-violet);
+      color: white;
+      padding: 1rem 1.5rem;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 6px 24px rgba(91, 75, 255, 0.3);
+      font-weight: 600;
+      border: 2px solid rgba(255, 255, 255, 0.2);
+      font-size: 1rem;
+      transition: all 0.3s;
+      z-index: 1500;
+    }
+
+    .stats-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 32px rgba(91, 75, 255, 0.45);
+      filter: brightness(1.1);
+    }
+
+    .stats-dashboard {
+      position: fixed;
+      left: -500px;
+      top: 0;
+      bottom: 0;
+      width: 500px;
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(250, 248, 253, 0.98) 100%);
+      box-shadow: 4px 0 40px rgba(91, 75, 255, 0.2);
+      transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      z-index: 2500;
+      overflow-y: auto;
+      padding: 2rem;
+      border-right: 1px solid rgba(91, 75, 255, 0.1);
+      backdrop-filter: blur(10px);
+    }
+
+    .stats-dashboard.open {
+      left: 0;
+    }
+
+    .stats-header {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .stats-close {
+      cursor: pointer;
+      font-size: 1.8rem;
+      opacity: 0.7;
+      transition: all 0.3s;
+      width: 36px;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      color: var(--primary-color);
+      background: linear-gradient(135deg, rgba(255, 255, 255, 0.5) 0%, rgba(246, 245, 251, 0.5) 100%);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+    }
+
+    .stats-close:hover {
+      opacity: 1;
+      transform: rotate(90deg) scale(1.1);
+      background: var(--gradient-purple);
+      color: white;
+      border-color: transparent;
+      box-shadow: 0 4px 16px rgba(91, 75, 255, 0.3);
+    }
+
+    .stats-section {
+      margin-bottom: 2rem;
+    }
+
+    .stats-section-title {
+      font-weight: bold;
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .stat-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.75rem;
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.05) 0%, rgba(102, 126, 234, 0.05) 100%);
+      border-radius: 10px;
+      margin-bottom: 0.5rem;
+      border: 1px solid rgba(91, 75, 255, 0.08);
+    }
+
+    .stat-row-label {
+      opacity: 0.8;
+    }
+
+    .stat-row-value {
+      font-weight: bold;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .chart-container {
+      margin-top: 1rem;
+      height: 200px;
+    }
+
+    /* Onboarding Modal */
+    .onboarding-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.9);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 5000;
+      padding: 2rem;
+    }
+
+    .onboarding-modal.active {
+      display: flex;
+    }
+
+    .onboarding-modal-content {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 253, 1) 100%);
+      border-radius: 24px;
+      padding: 3rem;
+      max-width: 600px;
+      width: 100%;
+      text-align: center;
+      animation: slideIn 0.3s;
+      box-shadow: 0 20px 60px rgba(91, 75, 255, 0.3);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+    }
+
+    .onboarding-icon {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+    }
+
+    .onboarding-title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .onboarding-desc {
+      font-size: 1.1rem;
+      opacity: 0.8;
+      margin-bottom: 2rem;
+      line-height: 1.6;
+    }
+
+    .onboarding-features {
+      text-align: left;
+      margin-bottom: 2rem;
+    }
+
+    .onboarding-feature {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.08) 0%, rgba(102, 126, 234, 0.08) 100%);
+      border-radius: 12px;
+      border: 1px solid rgba(91, 75, 255, 0.15);
+      transition: all 0.3s;
+    }
+
+    .onboarding-feature:hover {
+      transform: translateX(4px);
+      background: linear-gradient(135deg, rgba(91, 75, 255, 0.12) 0%, rgba(102, 126, 234, 0.12) 100%);
+    }
+
+    .onboarding-feature-icon {
+      font-size: 2rem;
+    }
+
+    .onboarding-feature-text {
+      flex: 1;
+    }
+
+    .onboarding-feature-title {
+      font-weight: bold;
+      margin-bottom: 0.25rem;
+    }
+
+    .onboarding-feature-desc {
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    .onboarding-btn {
+      background: var(--gradient-purple);
+      color: white;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      padding: 1.2rem 3rem;
+      border-radius: 50px;
+      font-size: 1.1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 8px 30px rgba(91, 75, 255, 0.4);
+    }
+
+    .onboarding-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 40px rgba(91, 75, 255, 0.5);
+      filter: brightness(1.1);
+    }
+
+    /* Share Modal */
+    .share-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 3000;
+      padding: 2rem;
+    }
+
+    .share-modal.active {
+      display: flex;
+    }
+
+    .share-modal-content {
+      background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 253, 1) 100%);
+      border-radius: 24px;
+      padding: 2.5rem;
+      max-width: 500px;
+      width: 100%;
+      animation: slideIn 0.3s;
+      box-shadow: 0 20px 60px rgba(91, 75, 255, 0.3);
+      border: 1px solid rgba(91, 75, 255, 0.15);
+    }
+
+    .share-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .share-stats {
+      background: var(--gradient-purple);
+      color: white;
+      padding: 2rem;
+      border-radius: 18px;
+      margin-bottom: 1rem;
+      text-align: center;
+      box-shadow: 0 8px 30px rgba(91, 75, 255, 0.3);
+      border: 2px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .share-stat-item {
+      margin-bottom: 0.5rem;
+    }
+
+    .share-stat-label {
+      opacity: 0.9;
+      font-size: 0.9rem;
+    }
+
+    .share-stat-value {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    .share-actions {
+      display: flex;
+      gap: 0.75rem;
+      margin-top: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .share-btn {
+      flex: 1;
+      min-width: 140px;
+      background: var(--gradient-purple);
+      color: white;
+      border: 2px solid rgba(255, 255, 255, 0.2);
+      padding: 1rem;
+      border-radius: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 4px 15px rgba(91, 75, 255, 0.25);
+    }
+
+    .share-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(91, 75, 255, 0.35);
+      filter: brightness(1.1);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header {
+        padding: 1rem;
+      }
+
+      .stats-panel {
+        gap: 1rem;
+      }
+
+      .xp-bar {
+        width: 150px;
+      }
+
+      .container {
+        margin-top: 200px;
+        padding: 1rem;
+      }
+
+      .content-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .modal-content {
+        padding: 2rem;
+        margin: 1rem;
+      }
+
+      .achievements-panel, .stats-dashboard {
+        width: 90%;
+      }
+
+      .achievements-panel.open, .stats-dashboard.open {
+        left: 0;
+      }
+
+      .achievements-btn {
+        bottom: 1rem;
+        left: 1rem;
+        padding: 0.75rem 1rem;
+      }
+
+      .stats-btn {
+        bottom: 4.5rem;
+        left: 1rem;
+        padding: 0.75rem 1rem;
+      }
+
+      .achievement-toast {
+        bottom: 8rem;
+        right: 1rem;
+        left: 1rem;
+        max-width: none;
+      }
+    }
+
+    /* Loading State */
+    .loading {
+      text-align: center;
+      padding: 4rem;
+      font-size: 1.5rem;
+      background: var(--gradient-purple);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      border: 5px solid rgba(91, 75, 255, 0.2);
+      border-top-color: var(--primary-color);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      box-shadow: 0 0 20px rgba(91, 75, 255, 0.3);
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Confetti Animation */
+    .confetti {
+      position: fixed;
+      width: 10px;
+      height: 10px;
+      background: var(--gold);
+      position: absolute;
+      animation: confetti-fall 3s linear;
+      z-index: 10000;
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);
+      border-radius: 50%;
+    }
+
+    @keyframes confetti-fall {
+      to {
+        transform: translateY(100vh) rotate(720deg);
+        opacity: 0;
+      }
+    }
+
+    /* Add pulse animation for interactive elements */
+    @keyframes pulse {
+      0%, 100% {
+        transform: scale(1);
+        box-shadow: 0 6px 24px rgba(91, 75, 255, 0.35);
+      }
+      50% {
+        transform: scale(1.05);
+        box-shadow: 0 8px 32px rgba(91, 75, 255, 0.5);
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header with Gamification Stats -->
+  <div class="header">
+    <div class="logo" onclick="window.location.reload()">🪢 Bottoms Up!</div>
+    <div class="stats-panel">
+      <div class="level-badge">
+        <span>Level <span id="level">1</span></span>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">XP</div>
+        <div class="stat-value"><span id="xp">0</span> / <span id="nextLevelXp">100</span></div>
+      </div>
+      <div class="xp-bar">
+        <div class="xp-fill" id="xpBar" style="width: 0%"></div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Streak</div>
+        <div class="stat-value">
+          <span id="streak">0</span> 🔥
+        </div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Progress</div>
+        <div class="stat-value"><span id="progress">0</span>%</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">Pages</div>
+        <div class="stat-value"><span id="pagesRead">0</span>/<span id="totalPages">23</span></div>
+      </div>
+    </div>
+    <div class="header-actions">
+      <div class="font-size-controls">
+        <button class="icon-btn font-size-btn" id="fontSizeDecrease" title="Decrease Font Size">A-</button>
+        <button class="icon-btn font-size-btn" id="fontSizeNormal" title="Normal Font Size">A</button>
+        <button class="icon-btn font-size-btn" id="fontSizeIncrease" title="Increase Font Size">A+</button>
+      </div>
+      <button class="icon-btn" id="darkModeToggle" title="Toggle Dark Mode">🌙</button>
+      <button class="icon-btn" id="highContrastToggle" title="Toggle High Contrast Mode">◐</button>
+      <button class="icon-btn" id="shareBtn" title="Share Progress">📤</button>
+    </div>
+  </div>
+
+  <!-- Main Container -->
+  <div class="container">
+    <!-- Quick Actions Bar -->
+    <div class="quick-actions" id="quickActions">
+      <!-- Resume Reading Button -->
+      <button class="quick-action-btn resume-reading-btn" id="resumeReadingBtn" style="display: none;">
+        <span class="quick-action-icon">📖</span>
+        <div class="quick-action-content">
+          <div class="quick-action-title">Continue Reading</div>
+          <div class="quick-action-desc" id="lastReadTitle">Last page...</div>
+        </div>
+      </button>
+
+      <!-- Bookmarks Button -->
+      <button class="quick-action-btn bookmarks-btn" id="bookmarksBtn" style="display: none;">
+        <span class="quick-action-icon">🔖</span>
+        <div class="quick-action-content">
+          <div class="quick-action-title">Bookmarks</div>
+          <div class="quick-action-desc"><span id="bookmarkCount">0</span> saved</div>
+        </div>
+      </button>
+
+      <!-- Learning Path Button -->
+      <button class="quick-action-btn learning-path-btn" id="learningPathBtn">
+        <span class="quick-action-icon">🗺️</span>
+        <div class="quick-action-content">
+          <div class="quick-action-title">Choose Learning Path</div>
+          <div class="quick-action-desc">Get guided recommendations</div>
+        </div>
+      </button>
+    </div>
+
+    <!-- Search -->
+    <div class="search-container">
+      <input type="text" class="search-input" id="searchInput" placeholder="Search all content... (try 'consent', 'tickets', 'what to bring')">
+      <span class="search-icon">🔍</span>
+      <div class="search-results-count" id="searchResultsCount" style="display: none;"></div>
+    </div>
+
+    <!-- Content Tags Filter -->
+    <div class="content-tags" id="contentTagsContainer" style="display: none;">
+      <div class="tags-label">Filter by topic:</div>
+      <div class="tags-list" id="tagsList"></div>
+    </div>
+
+    <!-- Advanced Filters -->
+    <div class="search-filters" id="searchFilters" style="display: none;">
+      <div class="filter-group">
+        <label class="filter-label">Status:</label>
+        <button class="filter-btn active" data-filter="status" data-value="all">All</button>
+        <button class="filter-btn" data-filter="status" data-value="unread">Unread</button>
+        <button class="filter-btn" data-filter="status" data-value="read">Read</button>
+      </div>
+      <div class="filter-group">
+        <label class="filter-label">Length:</label>
+        <button class="filter-btn active" data-filter="length" data-value="all">All</button>
+        <button class="filter-btn" data-filter="length" data-value="short">Short</button>
+        <button class="filter-btn" data-filter="length" data-value="medium">Medium</button>
+        <button class="filter-btn" data-filter="length" data-value="long">Long</button>
+      </div>
+      <div class="filter-actions">
+        <button class="filter-clear-btn" id="clearFiltersBtn">Clear All</button>
+      </div>
+    </div>
+
+    <!-- Journey Path Selector -->
+    <div class="journey-selector" id="journeySelector">
+      <div class="journey-card active" data-path="all">
+        <div class="journey-icon">🗺️</div>
+        <div class="journey-title">Complete Journey</div>
+        <div class="journey-desc">Explore all content at your own pace</div>
+        <div class="journey-progress">
+          <span id="allProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="allProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+      <div class="journey-card" data-path="concept">
+        <div class="journey-icon">💭</div>
+        <div class="journey-title">The Philosophy</div>
+        <div class="journey-desc">Understand the values and vision</div>
+        <div class="journey-progress">
+          <span id="conceptProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="conceptProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+      <div class="journey-card" data-path="practical">
+        <div class="journey-icon">🎫</div>
+        <div class="journey-title">Practical Info</div>
+        <div class="journey-desc">Logistics, tickets, what to bring</div>
+        <div class="journey-progress">
+          <span id="practicalProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="practicalProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+      <div class="journey-card" data-path="wellbeing">
+        <div class="journey-icon">💚</div>
+        <div class="journey-title">Care & Support</div>
+        <div class="journey-desc">Consent, safety, and wellbeing</div>
+        <div class="journey-progress">
+          <span id="wellbeingProgress">0</span>% complete
+          <div class="journey-progress-bar">
+            <div class="journey-progress-fill" id="wellbeingProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Loading State -->
+    <div class="loading" id="loading">
+      <div class="spinner"></div>
+      <div style="margin-top: 1rem;">Loading your journey...</div>
+    </div>
+
+    <!-- Content Grid -->
+    <div class="content-grid" id="contentGrid" style="display: none;"></div>
+  </div>
+
+  <!-- Content Modal -->
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <div class="reading-progress-bar">
+        <div class="reading-progress-fill" id="readingProgressFill"></div>
+      </div>
+      <button class="modal-bookmark" id="modalBookmark" title="Bookmark this page">🔖</button>
+      <button class="modal-close" id="modalClose">×</button>
+      <div class="modal-nav">
+        <button class="modal-nav-btn" id="prevPageBtn">
+          <span style="font-size: 1.2rem;">←</span>
+          <span>Previous</span>
+        </button>
+        <button class="modal-nav-btn" id="nextPageBtn">
+          <span>Next</span>
+          <span style="font-size: 1.2rem;">→</span>
+        </button>
+      </div>
+      <div class="modal-header">
+        <div class="modal-section" id="modalSection"></div>
+        <h1 class="modal-title" id="modalTitle"></h1>
+        <p class="modal-lead" id="modalLead"></p>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+      <div class="modal-footer">
+        <div class="recommended-next" id="recommendedNext"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Achievement Toast -->
+  <div class="achievement-toast" id="achievementToast">
+    <div class="achievement-icon">🏆</div>
+    <div class="achievement-text">
+      <div class="achievement-title" id="achievementTitle"></div>
+      <div class="achievement-desc" id="achievementDesc"></div>
+    </div>
+  </div>
+
+  <!-- Achievements Button & Panel -->
+  <button class="achievements-btn" id="achievementsBtn">
+    🏆 Achievements <span id="achievementCount">(0/0)</span>
+  </button>
+
+  <div class="achievements-panel" id="achievementsPanel">
+    <div class="achievements-header">
+      <span>Your Achievements</span>
+      <span class="achievements-close" id="achievementsClose">×</span>
+    </div>
+    <div id="achievementsList"></div>
+  </div>
+
+  <!-- Stats Button & Dashboard -->
+  <button class="stats-btn" id="statsBtn">
+    📊 Stats
+  </button>
+
+  <div class="stats-dashboard" id="statsDashboard">
+    <div class="stats-header">
+      <span>Your Journey Stats</span>
+      <span class="stats-close" id="statsClose">×</span>
+    </div>
+    <div id="statsContent"></div>
+  </div>
+
+  <!-- Onboarding Modal -->
+  <div class="onboarding-modal" id="onboardingModal">
+    <div class="onboarding-modal-content">
+      <div class="onboarding-icon">🪢</div>
+      <h1 class="onboarding-title">Welcome to Your Journey!</h1>
+      <p class="onboarding-desc">
+        Explore the Bottoms Up! gathering through an interactive, gamified experience.
+        Read content, earn XP, unlock achievements, and track your progress!
+      </p>
+      <div class="onboarding-features">
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">⭐</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">Level Up System</div>
+            <div class="onboarding-feature-desc">Earn 50 XP for each page you read</div>
+          </div>
+        </div>
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">🏆</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">20+ Achievements</div>
+            <div class="onboarding-feature-desc">Unlock badges as you explore</div>
+          </div>
+        </div>
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">🔥</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">Daily Streaks</div>
+            <div class="onboarding-feature-desc">Build momentum by reading daily</div>
+          </div>
+        </div>
+        <div class="onboarding-feature">
+          <div class="onboarding-feature-icon">📊</div>
+          <div class="onboarding-feature-text">
+            <div class="onboarding-feature-title">Progress Tracking</div>
+            <div class="onboarding-feature-desc">See your journey visualized</div>
+          </div>
+        </div>
+      </div>
+      <button class="onboarding-btn" id="startJourneyBtn">Start Your Journey 🚀</button>
+    </div>
+  </div>
+
+  <!-- Share Modal -->
+  <div class="share-modal" id="shareModal">
+    <div class="share-modal-content">
+      <h2 class="share-title">Share Your Progress</h2>
+      <div class="share-stats">
+        <div class="share-stat-item">
+          <div class="share-stat-label">Level</div>
+          <div class="share-stat-value" id="shareLevelValue">1</div>
+        </div>
+        <div class="share-stat-item">
+          <div class="share-stat-label">Pages Read</div>
+          <div class="share-stat-value" id="sharePagesValue">0/23</div>
+        </div>
+        <div class="share-stat-item">
+          <div class="share-stat-label">Achievements</div>
+          <div class="share-stat-value" id="shareAchievementsValue">0</div>
+        </div>
+      </div>
+      <div class="share-actions">
+        <button class="share-btn" id="copyLinkBtn">🔗 Copy Link</button>
+        <button class="share-btn" id="copyProgressBtn">📋 Copy Text</button>
+        <button class="share-btn" id="closeShareBtn">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Learning Paths Modal -->
+  <div class="learning-paths-modal" id="learningPathsModal">
+    <div class="learning-paths-content">
+      <div class="modal-header-simple">
+        <h2>🗺️ Choose Your Learning Path</h2>
+        <span class="modal-close-simple" id="closeLearningPathsBtn">×</span>
+      </div>
+      <p class="modal-subtitle">Select a curated path through the content based on your interests</p>
+      <div class="learning-paths-grid" id="learningPathsGrid"></div>
+      <div class="modal-actions-simple">
+        <button class="secondary-btn" id="clearPathBtn">Browse Freely</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bookmarks Modal -->
+  <div class="bookmarks-modal" id="bookmarksModal">
+    <div class="bookmarks-content">
+      <div class="modal-header-simple">
+        <h2>🔖 Your Bookmarks</h2>
+        <span class="modal-close-simple" id="closeBookmarksBtn">×</span>
+      </div>
+      <div class="bookmarks-list" id="bookmarksList">
+        <div class="empty-state">
+          <div class="empty-state-icon">📚</div>
+          <div class="empty-state-text">No bookmarks yet</div>
+          <div class="empty-state-hint">Click the bookmark icon on any page to save it here</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Configuration
+    let CONTENT_BASE = '/content/docs/'; // Will auto-detect correct path
+    const XP_PER_PAGE = 50;
+    const LEVEL_UP_XP = 100;
+    const BONUS_XP_STREAK = 25;
+    const COMBO_BONUS = 10;
+
+    // Possible content base paths to try
+    const POSSIBLE_PATHS = [
+      '/docs/',                   // Hugo rendered pages (absolute)
+      '../docs/',                 // Relative from static/
+      'docs/',                    // Without leading slash
+      '/content/docs/',           // Hugo server dev mode (absolute)
+      '../content/docs/',         // Relative from static/ (dev)
+    ];
+
+    // State Management
+    const state = {
+      pages: [],
+      readPages: new Set(),
+      xp: 0,
+      level: 1,
+      achievements: new Set(),
+      currentPath: 'all',
+      searchTerm: '',
+      streak: 0,
+      lastVisit: null,
+      readingHistory: [],
+      currentPageIndex: -1,
+      totalReadingTime: 0,
+      sessionStart: Date.now(),
+      // Advanced search filters
+      filterStatus: 'all', // all, read, unread
+      filterLength: 'all',  // all, short, medium, long
+      // Phase 2: Enhanced Discovery & Navigation
+      bookmarks: new Set(), // Bookmarked page paths
+      lastReadPage: null,   // Path of last read page
+      currentLearningPath: null, // Active learning path ID
+      contentTags: []       // Selected content tags for filtering
+    };
+
+    // Achievement Definitions with XP bonuses
+    const achievements = [
+      { id: 'first_read', icon: '📖', title: 'First Steps', desc: 'Read your first page', xp: 25, condition: () => state.readPages.size >= 1 },
+      { id: 'explorer', icon: '🧭', title: 'Explorer', desc: 'Read 5 pages', xp: 50, condition: () => state.readPages.size >= 5 },
+      { id: 'scholar', icon: '🎓', title: 'Scholar', desc: 'Read 15 pages', xp: 100, condition: () => state.readPages.size >= 15 },
+      { id: 'completionist', icon: '💯', title: 'Completionist', desc: 'Read all pages', xp: 500, condition: () => state.readPages.size >= state.pages.length && state.pages.length > 0 },
+      { id: 'philosopher', icon: '💭', title: 'Philosopher', desc: 'Complete Concept section', xp: 150, condition: () => state.pages.filter(p => p.section === 'concept').length > 0 && state.pages.filter(p => p.section === 'concept').every(p => state.readPages.has(p.path)) },
+      { id: 'prepared', icon: '🎒', title: 'Prepared', desc: 'Complete Practical section', xp: 150, condition: () => state.pages.filter(p => p.section === 'practical').length > 0 && state.pages.filter(p => p.section === 'practical').every(p => state.readPages.has(p.path)) },
+      { id: 'cared_for', icon: '💚', title: 'Cared For', desc: 'Complete Wellbeing section', xp: 150, condition: () => state.pages.filter(p => p.section === 'wellbeing').length > 0 && state.pages.filter(p => p.section === 'wellbeing').every(p => state.readPages.has(p.path)) },
+      { id: 'level_5', icon: '⭐', title: 'Rising Star', desc: 'Reach level 5', xp: 100, condition: () => state.level >= 5 },
+      { id: 'level_10', icon: '🌟', title: 'Shining Bright', desc: 'Reach level 10', xp: 200, condition: () => state.level >= 10 },
+      { id: 'searcher', icon: '🔍', title: 'Searcher', desc: 'Use the search feature', xp: 25, condition: () => false },
+      { id: 'speed_reader', icon: '⚡', title: 'Speed Reader', desc: 'Read 3 pages in one session', xp: 75, condition: () => state.readingHistory.filter(h => h.session === state.sessionStart).length >= 3 },
+      { id: 'night_owl', icon: '🦉', title: 'Night Owl', desc: 'Read after 10 PM', xp: 50, condition: () => new Date().getHours() >= 22 || new Date().getHours() < 6 },
+      { id: 'early_bird', icon: '🌅', title: 'Early Bird', desc: 'Read before 8 AM', xp: 50, condition: () => new Date().getHours() >= 5 && new Date().getHours() < 8 },
+      { id: 'streak_3', icon: '🔥', title: 'On Fire', desc: '3-day reading streak', xp: 75, condition: () => state.streak >= 3 },
+      { id: 'streak_7', icon: '🔥🔥', title: 'Burning Bright', desc: '7-day reading streak', xp: 150, condition: () => state.streak >= 7 },
+      { id: 'streak_30', icon: '🔥🔥🔥', title: 'Unstoppable', desc: '30-day reading streak', xp: 500, condition: () => state.streak >= 30 },
+      { id: 'well_rounded', icon: '🎯', title: 'Well-Rounded', desc: 'Read at least one page from each section', xp: 100, condition: () => {
+        const sections = ['concept', 'practical', 'wellbeing'];
+        return sections.every(section =>
+          state.pages.filter(p => p.section === section).some(p => state.readPages.has(p.path))
+        );
+      }},
+      { id: 'curious', icon: '🤔', title: 'Curious Mind', desc: 'Read 50% of all content', xp: 200, condition: () => state.pages.length > 0 && state.readPages.size >= Math.floor(state.pages.length * 0.5) },
+      { id: 'dedicated', icon: '💪', title: 'Dedicated Learner', desc: 'Read 75% of all content', xp: 300, condition: () => state.pages.length > 0 && state.readPages.size >= Math.floor(state.pages.length * 0.75) },
+      { id: 'dark_mode', icon: '🌙', title: 'Dark Side', desc: 'Enable dark mode', xp: 10, condition: () => false }
+    ];
+
+    // Learning Path Definitions
+    const learningPaths = [
+      {
+        id: 'newcomer',
+        icon: '🌱',
+        title: 'Newcomer Path',
+        description: 'Perfect for first-time visitors - understand the philosophy and basics',
+        tags: ['beginner', 'philosophy', 'basics'],
+        sequence: ['concept/philosophy', 'concept/principles', 'practical/tickets', 'practical/schedule']
+      },
+      {
+        id: 'practical_first',
+        icon: '🎯',
+        title: 'Practical First',
+        description: 'Jump straight to the essentials - what you need to know',
+        tags: ['practical', 'quick-start'],
+        sequence: ['practical/tickets', 'practical/schedule', 'practical/things-to-bring', 'wellbeing/care-and-support']
+      },
+      {
+        id: 'deep_dive',
+        icon: '🌊',
+        title: 'Deep Understanding',
+        description: 'Comprehensive journey through all concepts and philosophy',
+        tags: ['comprehensive', 'philosophy', 'theory'],
+        sequence: ['concept/philosophy', 'concept/principles', 'concept/consent', 'concept/intimacy', 'wellbeing/emotional-safety']
+      },
+      {
+        id: 'preparation',
+        icon: '🎒',
+        title: 'Event Preparation',
+        description: 'Everything you need to prepare for the event',
+        tags: ['practical', 'preparation', 'event'],
+        sequence: ['practical/tickets', 'practical/things-to-bring', 'practical/schedule', 'practical/location', 'wellbeing/care-and-support']
+      },
+      {
+        id: 'wellbeing_focused',
+        icon: '💚',
+        title: 'Wellbeing & Care',
+        description: 'Focus on safety, support, and self-care',
+        tags: ['wellbeing', 'safety', 'care'],
+        sequence: ['wellbeing/emotional-safety', 'wellbeing/care-and-support', 'concept/consent', 'wellbeing/boundaries']
+      }
+    ];
+
+    // Content tags for filtering
+    const contentTags = [
+      { id: 'consent', label: '🤝 Consent', color: '#667eea' },
+      { id: 'intimacy', label: '💜 Intimacy', color: '#5b4bff' },
+      { id: 'logistics', label: '📋 Logistics', color: '#f97316' },
+      { id: 'philosophy', label: '💭 Philosophy', color: '#8b5cf6' },
+      { id: 'safety', label: '🛡️ Safety', color: '#10b981' },
+      { id: 'preparation', label: '🎒 Preparation', color: '#f59e0b' },
+      { id: 'community', label: '👥 Community', color: '#06b6d4' },
+      { id: 'ritual', label: '✨ Ritual', color: '#ec4899' }
+    ];
+
+    // Encode state to URL-safe string
+    function encodeStateToUrl() {
+      const stateData = {
+        r: Array.from(state.readPages), // read pages
+        x: state.xp, // xp
+        l: state.level, // level
+        a: Array.from(state.achievements), // achievements
+        s: state.streak, // streak
+        h: state.readingHistory.slice(-10), // last 10 history items
+        t: state.totalReadingTime // total reading time
+      };
+
+      try {
+        const json = JSON.stringify(stateData);
+        const base64 = btoa(json);
+        const urlSafe = base64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+        return urlSafe;
+      } catch (error) {
+        console.error('Error encoding state:', error);
+        return null;
+      }
+    }
+
+    // Decode state from URL-safe string
+    function decodeStateFromUrl(encoded) {
+      try {
+        const base64 = encoded.replace(/-/g, '+').replace(/_/g, '/');
+        const padding = '='.repeat((4 - (base64.length % 4)) % 4);
+        const json = atob(base64 + padding);
+        const stateData = JSON.parse(json);
+
+        return {
+          readPages: new Set(stateData.r || []),
+          xp: stateData.x || 0,
+          level: stateData.l || 1,
+          achievements: new Set(stateData.a || []),
+          streak: stateData.s || 0,
+          readingHistory: stateData.h || [],
+          totalReadingTime: stateData.t || 0
+        };
+      } catch (error) {
+        console.error('Error decoding state:', error);
+        return null;
+      }
+    }
+
+    // Get shareable URL with current state
+    function getShareableUrl() {
+      const encoded = encodeStateToUrl();
+      if (!encoded) return window.location.href;
+
+      const url = new URL(window.location.href);
+      url.hash = `state=${encoded}`;
+      return url.toString();
+    }
+
+    // Load state from URL, localStorage, or default
+    function loadState() {
+      // First, try to load from URL hash
+      const hash = window.location.hash;
+      if (hash && hash.startsWith('#state=')) {
+        const encoded = hash.substring(7); // Remove '#state='
+        const decoded = decodeStateFromUrl(encoded);
+
+        if (decoded) {
+          state.readPages = decoded.readPages;
+          state.xp = decoded.xp;
+          state.level = decoded.level;
+          state.achievements = decoded.achievements;
+          state.streak = decoded.streak;
+          state.readingHistory = decoded.readingHistory;
+          state.totalReadingTime = decoded.totalReadingTime;
+          state.lastVisit = new Date().toISOString();
+
+          // Save to localStorage for future visits
+          saveState();
+
+          console.log('✅ State loaded from URL');
+          showAchievement('🔗', 'Progress Restored!', 'Your journey continues from where you left off');
+          return;
+        }
+      }
+
+      // Fallback to localStorage
+      const saved = localStorage.getItem('bottomsUpState');
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        state.readPages = new Set(parsed.readPages || []);
+        state.xp = parsed.xp || 0;
+        state.level = parsed.level || 1;
+        state.achievements = new Set(parsed.achievements || []);
+        state.streak = parsed.streak || 0;
+        state.lastVisit = parsed.lastVisit || null;
+        state.readingHistory = parsed.readingHistory || [];
+        state.totalReadingTime = parsed.totalReadingTime || 0;
+        // Phase 2 state
+        state.bookmarks = new Set(parsed.bookmarks || []);
+        state.lastReadPage = parsed.lastReadPage || null;
+        state.currentLearningPath = parsed.currentLearningPath || null;
+        state.contentTags = parsed.contentTags || [];
+
+        // Update streak
+        updateStreak();
+      }
+    }
+
+    // Save state to localStorage
+    function saveState() {
+      localStorage.setItem('bottomsUpState', JSON.stringify({
+        readPages: Array.from(state.readPages),
+        xp: state.xp,
+        level: state.level,
+        achievements: Array.from(state.achievements),
+        streak: state.streak,
+        lastVisit: new Date().toISOString(),
+        readingHistory: state.readingHistory,
+        totalReadingTime: state.totalReadingTime,
+        // Phase 2 state
+        bookmarks: Array.from(state.bookmarks),
+        lastReadPage: state.lastReadPage,
+        currentLearningPath: state.currentLearningPath,
+        contentTags: state.contentTags
+      }));
+    }
+
+    // Update streak based on last visit
+    function updateStreak() {
+      if (!state.lastVisit) {
+        state.streak = 0;
+        return;
+      }
+
+      const lastVisitDate = new Date(state.lastVisit);
+      const today = new Date();
+      const daysDiff = Math.floor((today - lastVisitDate) / (1000 * 60 * 60 * 24));
+
+      if (daysDiff === 0) {
+        // Same day, keep streak
+      } else if (daysDiff === 1) {
+        // Next day, increment streak
+        state.streak++;
+        addXP(BONUS_XP_STREAK);
+        showAchievement('🔥', 'Streak Bonus!', `+${BONUS_XP_STREAK} XP for daily streak!`);
+      } else {
+        // Streak broken
+        state.streak = 0;
+      }
+    }
+
+    // Parse frontmatter from markdown
+    function parseFrontmatter(content) {
+      const fmRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/;
+      const match = content.match(fmRegex);
+
+      if (match) {
+        try {
+          const frontmatter = jsyaml.load(match[1]);
+          const body = match[2];
+          return { frontmatter, body };
+        } catch (e) {
+          console.error('Error parsing frontmatter:', e);
+          return { frontmatter: {}, body: content };
+        }
+      }
+
+      return { frontmatter: {}, body: content };
+    }
+
+    // Determine section from path
+    function getSection(path) {
+      if (path.includes('/concept/')) return 'concept';
+      if (path.includes('/practical/')) return 'practical';
+      if (path.includes('/wellbeing/')) return 'wellbeing';
+      return 'other';
+    }
+
+    // Estimate reading time (words per minute)
+    function estimateReadingTime(text) {
+      const wordsPerMinute = 200;
+      const wordCount = text.split(/\s+/).length;
+      const minutes = Math.ceil(wordCount / wordsPerMinute);
+      return minutes;
+    }
+
+    // Auto-detect the correct content base path
+    async function detectContentBase() {
+      // Try a test file from each section
+      const testFiles = [
+        'concept/philosophy/',        // Try HTML first
+        'concept/philosophy.md',      // Fallback to markdown (dev mode)
+      ];
+
+      for (const basePath of POSSIBLE_PATHS) {
+        for (const testFile of testFiles) {
+          try {
+            // Try to fetch a test file
+            const testPath = basePath + testFile;
+            const response = await fetch(testPath);
+            if (response.ok) {
+              const isMarkdown = testFile.endsWith('.md');
+              console.log(`✅ Content base path detected: ${basePath} (${isMarkdown ? 'Markdown' : 'HTML'} mode)`);
+              return { basePath, isMarkdown };
+            }
+          } catch (error) {
+            // Continue to next path
+          }
+        }
+      }
+
+      // If none worked, show error
+      console.error('❌ Could not detect content base path');
+      return null;
+    }
+
+    // Parse HTML content from Hugo-rendered pages
+    function parseHtmlContent(html) {
+      // Create a temporary DOM element to parse HTML
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+
+      // Extract title
+      const titleEl = doc.querySelector('h1') || doc.querySelector('title');
+      const title = titleEl ? titleEl.textContent.trim() : 'Untitled';
+
+      // Extract description/lead
+      const leadEl = doc.querySelector('.lead') || doc.querySelector('meta[name="description"]');
+      const description = leadEl ? (leadEl.content || leadEl.textContent).trim() : '';
+
+      // Extract main content - preserve HTML structure
+      const articleEl = doc.querySelector('article') || doc.querySelector('main') || doc.querySelector('.content');
+      const bodyHtml = articleEl ? articleEl.innerHTML : doc.body.innerHTML;
+      const bodyText = articleEl ? articleEl.textContent.trim() : doc.body.textContent.trim();
+
+      return { title, description, bodyHtml, bodyText };
+    }
+
+    // Fetch and parse a page (markdown or HTML)
+    async function fetchPage(path, isMarkdown = false) {
+      try {
+        const response = await fetch(path);
+        if (!response.ok) throw new Error(`Failed to fetch ${path}`);
+        const content = await response.text();
+
+        let title, description, body, bodyHtml;
+
+        if (isMarkdown) {
+          // Parse markdown with frontmatter
+          const { frontmatter, body: mdBody } = parseFrontmatter(content);
+          title = frontmatter.title || 'Untitled';
+          description = frontmatter.description || frontmatter.lead || '';
+          body = mdBody;
+          bodyHtml = null; // Will be rendered with marked.js
+        } else {
+          // Parse HTML content
+          const parsed = parseHtmlContent(content);
+          title = parsed.title;
+          description = parsed.description;
+          body = parsed.bodyText; // For reading time calculation
+          bodyHtml = parsed.bodyHtml; // For display in modal
+        }
+
+        return {
+          path,
+          section: getSection(path),
+          title,
+          description,
+          body,
+          bodyHtml, // HTML content (only for HTML mode)
+          isMarkdown, // Flag to know how to render
+          weight: 0,
+          readingTime: estimateReadingTime(body)
+        };
+      } catch (error) {
+        console.error(`Error fetching ${path}:`, error);
+        return null;
+      }
+    }
+
+    // Discover all content pages
+    async function discoverPages(isMarkdown = false) {
+      // Define page slugs (without extension)
+      const sections = [
+        { path: 'concept/', pages: ['is-this-for-you', 'philosophy', 'post-rope', 'sex-positive', 'experience', 'agreements', 'belonging'] },
+        { path: 'practical/', pages: ['participation', 'schedule', 'getting-there', 'accommodations', 'things-to-bring', 'food', 'photography-guidelines', 'leave-no-trace', 'faq', 'policies'] },
+        { path: 'wellbeing/', pages: ['consent-framework', 'support-care', 'neuro', 'emotional-wellbeing', 'partners', 'after-integration'] }
+      ];
+
+      const pages = [];
+
+      for (const section of sections) {
+        for (const pageSlug of section.pages) {
+          // Build path based on mode (HTML or Markdown)
+          const path = isMarkdown
+            ? CONTENT_BASE + section.path + pageSlug + '.md'
+            : CONTENT_BASE + section.path + pageSlug + '/';
+
+          const page = await fetchPage(path, isMarkdown);
+          if (page) pages.push(page);
+        }
+      }
+
+      return pages;
+    }
+
+    // Render content cards
+    function renderCards(pages) {
+      const grid = document.getElementById('contentGrid');
+      grid.innerHTML = '';
+
+      pages.forEach((page, index) => {
+        const card = document.createElement('div');
+        card.className = `content-card ${page.section}`;
+        if (state.readPages.has(page.path)) {
+          card.classList.add('read');
+        }
+        card.style.animationDelay = `${index * 0.05}s`;
+
+        card.innerHTML = `
+          <div class="card-section">${page.section}</div>
+          <div class="card-title">${page.title}</div>
+          <div class="card-desc">${page.description}</div>
+          <div class="card-meta">
+            <div class="card-xp">+${XP_PER_PAGE} XP</div>
+            <div class="card-time">📖 ${page.readingTime} min</div>
+          </div>
+        `;
+
+        card.addEventListener('click', () => openPage(page));
+        grid.appendChild(card);
+      });
+    }
+
+    // Get recommended next pages
+    function getRecommendedPages(currentPage) {
+      // Recommend unread pages from the same section first
+      const sameSectionUnread = state.pages.filter(p =>
+        p.section === currentPage.section &&
+        !state.readPages.has(p.path) &&
+        p.path !== currentPage.path
+      );
+
+      // Then recommend unread pages from other sections
+      const otherSectionUnread = state.pages.filter(p =>
+        p.section !== currentPage.section &&
+        !state.readPages.has(p.path)
+      );
+
+      return [...sameSectionUnread.slice(0, 2), ...otherSectionUnread.slice(0, 1)];
+    }
+
+    // Track current page reading progress
+    let currentPageTracking = null;
+    let scrollTrackingCleanup = null;
+
+    // Open page in modal
+    async function openPage(page) {
+      const modal = document.getElementById('modal');
+      const modalSection = document.getElementById('modalSection');
+      const modalTitle = document.getElementById('modalTitle');
+      const modalLead = document.getElementById('modalLead');
+      const modalBody = document.getElementById('modalBody');
+      const modalContent = document.querySelector('.modal-content');
+      const recommendedNext = document.getElementById('recommendedNext');
+
+      // Clean up previous tracking if exists
+      if (scrollTrackingCleanup) {
+        scrollTrackingCleanup();
+        scrollTrackingCleanup = null;
+      }
+
+      modalSection.textContent = page.section;
+      modalTitle.textContent = page.title;
+      modalLead.textContent = page.description;
+
+      // Render content based on mode
+      let renderedContent;
+      if (page.isMarkdown) {
+        // Markdown mode - parse and render
+        // Clean up Hugo-specific attribute syntax before parsing
+        const cleanedMarkdown = page.body.replace(/\s*\{[^}]+\}\s*/g, ' ');
+        renderedContent = marked.parse(cleanedMarkdown);
+      } else {
+        // HTML mode - use pre-rendered HTML
+        renderedContent = page.bodyHtml || page.body;
+      }
+
+      // Apply search term highlighting if there's an active search
+      if (state.searchTerm) {
+        renderedContent = highlightSearchTerms(renderedContent, state.searchTerm);
+      }
+
+      modalBody.innerHTML = renderedContent;
+
+      // Update current page index for navigation
+      state.currentPageIndex = state.pages.findIndex(p => p.path === page.path);
+      updateModalNavigation();
+
+      // Show recommended pages
+      const recommended = getRecommendedPages(page);
+      if (recommended.length > 0) {
+        recommendedNext.innerHTML = `
+          <div class="recommended-title">📚 Recommended Next:</div>
+          ${recommended.map(p => `
+            <div class="recommended-item" onclick="openPageByPath('${p.path}')">
+              <strong>${p.title}</strong><br>
+              <small>${p.description}</small>
+            </div>
+          `).join('')}
+        `;
+      } else {
+        recommendedNext.innerHTML = '';
+      }
+
+      modal.classList.add('active');
+
+      // Phase 2: Track last read page and update bookmark button
+      state.lastReadPage = page.path;
+      updateBookmarkButton();
+      updateResumeReading();
+      saveState();
+
+      // Initialize reading tracking if page not yet read
+      if (!state.readPages.has(page.path)) {
+        currentPageTracking = {
+          path: page.path,
+          startTime: Date.now(),
+          hasScrolledToBottom: false,
+          completed: false
+        };
+
+        // Reset scroll position
+        modalContent.scrollTop = 0;
+
+        // Set up scroll tracking and progress indicator
+        const progressFill = document.getElementById('readingProgressFill');
+        const scrollHandler = () => {
+          const scrollTop = modalContent.scrollTop;
+          const scrollHeight = modalContent.scrollHeight;
+          const clientHeight = modalContent.clientHeight;
+          const scrollPercentage = (scrollTop + clientHeight) / scrollHeight;
+
+          // Update reading progress indicator
+          progressFill.style.width = `${Math.min(scrollPercentage * 100, 100)}%`;
+
+          // Check completion tracking if active
+          if (currentPageTracking && !currentPageTracking.completed) {
+            // Check if scrolled at least 95% through content
+            if (scrollPercentage >= 0.95) {
+              currentPageTracking.hasScrolledToBottom = true;
+              checkReadingCompletion();
+            }
+          }
+        };
+
+        modalContent.addEventListener('scroll', scrollHandler);
+
+        // Initialize progress bar at 0
+        progressFill.style.width = '0%';
+
+        // Trigger initial scroll to set progress (for short pages)
+        setTimeout(() => scrollHandler(), 100);
+
+        // Check reading completion periodically
+        const checkInterval = setInterval(() => {
+          if (!currentPageTracking || currentPageTracking.completed) {
+            clearInterval(checkInterval);
+            return;
+          }
+          checkReadingCompletion();
+        }, 1000);
+
+        // Store cleanup function
+        scrollTrackingCleanup = () => {
+          modalContent.removeEventListener('scroll', scrollHandler);
+          clearInterval(checkInterval);
+          currentPageTracking = null;
+        };
+      }
+    }
+
+    // Check if reading completion criteria are met
+    function checkReadingCompletion() {
+      if (!currentPageTracking || currentPageTracking.completed) return;
+
+      const timeSpent = Date.now() - currentPageTracking.startTime;
+      const hasSpentEnoughTime = timeSpent >= 15000; // 15 seconds
+
+      // Award XP only if both conditions are met
+      if (currentPageTracking.hasScrolledToBottom && hasSpentEnoughTime) {
+        currentPageTracking.completed = true;
+        const page = state.pages.find(p => p.path === currentPageTracking.path);
+
+        if (page && !state.readPages.has(page.path)) {
+          state.readPages.add(page.path);
+          state.readingHistory.push({
+            path: page.path,
+            timestamp: Date.now(),
+            session: state.sessionStart
+          });
+
+          // Calculate combo bonus
+          const recentReads = state.readingHistory.filter(h =>
+            Date.now() - h.timestamp < 300000 // 5 minutes
+          ).length;
+
+          let xpGained = XP_PER_PAGE;
+          if (recentReads >= 3) {
+            xpGained += COMBO_BONUS;
+            showAchievement('⚡', 'Combo!', `+${COMBO_BONUS} bonus XP for reading streak!`);
+          }
+
+          addXP(xpGained);
+          showAchievement('✅', 'Page Complete!', `+${xpGained} XP for reading "${page.title}"`);
+          checkAchievements();
+          updateUI();
+          saveState();
+        }
+      }
+    }
+
+    // Open page by path
+    function openPageByPath(path) {
+      const page = state.pages.find(p => p.path === path);
+      if (page) openPage(page);
+    }
+
+    // Alias for Phase 2 compatibility
+    const openModal = openPage;
+
+    // Update modal navigation buttons
+    function updateModalNavigation() {
+      const prevBtn = document.getElementById('prevPageBtn');
+      const nextBtn = document.getElementById('nextPageBtn');
+
+      // Filter based on current path filter
+      let filteredPages = state.pages;
+      if (state.currentPath !== 'all') {
+        filteredPages = filteredPages.filter(p => p.section === state.currentPath);
+      }
+
+      const currentIndex = filteredPages.findIndex(p => p === state.pages[state.currentPageIndex]);
+
+      prevBtn.disabled = currentIndex <= 0;
+      nextBtn.disabled = currentIndex >= filteredPages.length - 1;
+
+      prevBtn.onclick = () => {
+        if (currentIndex > 0) {
+          openPage(filteredPages[currentIndex - 1]);
+        }
+      };
+
+      nextBtn.onclick = () => {
+        if (currentIndex < filteredPages.length - 1) {
+          openPage(filteredPages[currentIndex + 1]);
+        }
+      };
+    }
+
+    // Close modal
+    function closeModal() {
+      // Clean up scroll tracking
+      if (scrollTrackingCleanup) {
+        scrollTrackingCleanup();
+        scrollTrackingCleanup = null;
+      }
+      document.getElementById('modal').classList.remove('active');
+    }
+
+    // Add XP and handle level up
+    function addXP(amount) {
+      state.xp += amount;
+
+      const xpForNextLevel = state.level * LEVEL_UP_XP;
+      while (state.xp >= xpForNextLevel) {
+        state.xp -= xpForNextLevel;
+        state.level++;
+        showAchievement('🎉', 'Level Up!', `You've reached level ${state.level}!`);
+        createConfetti();
+        checkAchievements();
+      }
+    }
+
+    // Check and unlock achievements
+    function checkAchievements() {
+      achievements.forEach(achievement => {
+        if (!state.achievements.has(achievement.id) && achievement.condition()) {
+          state.achievements.add(achievement.id);
+          if (achievement.xp) {
+            addXP(achievement.xp);
+          }
+          showAchievement(achievement.icon, achievement.title, achievement.desc);
+          renderAchievements();
+          updateAchievementCount();
+        }
+      });
+    }
+
+    // Show achievement toast
+    function showAchievement(icon, title, desc) {
+      const toast = document.getElementById('achievementToast');
+      document.getElementById('achievementTitle').textContent = title;
+      document.getElementById('achievementDesc').textContent = desc;
+      document.querySelector('.achievement-icon').textContent = icon;
+
+      toast.classList.add('show');
+
+      setTimeout(() => {
+        toast.classList.remove('show');
+      }, 4000);
+    }
+
+    // Create confetti effect
+    function createConfetti() {
+      const colors = ['#FFD700', '#5b4bff', '#667eea', '#ff6b35', '#764ba2', '#f59e0b'];
+      for (let i = 0; i < 50; i++) {
+        setTimeout(() => {
+          const confetti = document.createElement('div');
+          confetti.className = 'confetti';
+          confetti.style.left = Math.random() * 100 + 'vw';
+          confetti.style.background = colors[Math.floor(Math.random() * colors.length)];
+          confetti.style.animationDuration = (Math.random() * 2 + 2) + 's';
+          document.body.appendChild(confetti);
+
+          setTimeout(() => confetti.remove(), 3000);
+        }, i * 30);
+      }
+    }
+
+    // Update UI elements
+    function updateUI() {
+      // Update stats
+      document.getElementById('level').textContent = state.level;
+      document.getElementById('xp').textContent = state.xp;
+      const xpForNextLevel = state.level * LEVEL_UP_XP;
+      document.getElementById('nextLevelXp').textContent = xpForNextLevel;
+
+      const xpPercent = (state.xp / xpForNextLevel) * 100;
+      document.getElementById('xpBar').style.width = `${xpPercent}%`;
+
+      document.getElementById('streak').textContent = state.streak;
+
+      const totalPages = state.pages.length;
+      const pagesRead = state.readPages.size;
+      document.getElementById('pagesRead').textContent = pagesRead;
+      document.getElementById('totalPages').textContent = totalPages;
+
+      const progress = totalPages > 0 ? Math.round((pagesRead / totalPages) * 100) : 0;
+      document.getElementById('progress').textContent = progress;
+      document.getElementById('allProgress').textContent = progress;
+      document.getElementById('allProgressBar').style.width = `${progress}%`;
+
+      // Update section progress
+      updateSectionProgress();
+
+      // Update cards
+      document.querySelectorAll('.content-card').forEach(card => {
+        const title = card.querySelector('.card-title').textContent;
+        const page = state.pages.find(p => p.title === title);
+        if (page && state.readPages.has(page.path)) {
+          card.classList.add('read');
+        }
+      });
+    }
+
+    // Update section progress
+    function updateSectionProgress() {
+      const sections = ['concept', 'practical', 'wellbeing'];
+
+      sections.forEach(section => {
+        const sectionPages = state.pages.filter(p => p.section === section);
+        const readCount = sectionPages.filter(p => state.readPages.has(p.path)).length;
+        const percent = sectionPages.length > 0 ? Math.round((readCount / sectionPages.length) * 100) : 0;
+
+        const elem = document.getElementById(`${section}Progress`);
+        if (elem) elem.textContent = percent;
+
+        const barElem = document.getElementById(`${section}ProgressBar`);
+        if (barElem) barElem.style.width = `${percent}%`;
+      });
+    }
+
+    // Update achievement count
+    function updateAchievementCount() {
+      const count = state.achievements.size;
+      const total = achievements.length;
+      document.getElementById('achievementCount').textContent = `(${count}/${total})`;
+    }
+
+    // Render achievements panel
+    function renderAchievements() {
+      const list = document.getElementById('achievementsList');
+      list.innerHTML = '';
+
+      achievements.forEach(achievement => {
+        const item = document.createElement('div');
+        item.className = 'achievement-item';
+        const unlocked = state.achievements.has(achievement.id);
+        if (!unlocked) item.classList.add('locked');
+
+        item.innerHTML = `
+          <div class="achievement-item-title">
+            <span>${achievement.icon}</span>
+            <span>${achievement.title}</span>
+          </div>
+          <div class="achievement-item-desc">${achievement.desc}</div>
+          ${achievement.xp ? `<div class="achievement-xp">+${achievement.xp} XP</div>` : ''}
+        `;
+
+        list.appendChild(item);
+      });
+    }
+
+    // Render stats dashboard
+    function renderStats() {
+      const statsContent = document.getElementById('statsContent');
+
+      const totalPages = state.pages.length;
+      const pagesRead = state.readPages.size;
+      const progress = totalPages > 0 ? Math.round((pagesRead / totalPages) * 100) : 0;
+
+      const totalReadingTime = state.pages
+        .filter(p => state.readPages.has(p.path))
+        .reduce((sum, p) => sum + p.readingTime, 0);
+
+      const sectionStats = ['concept', 'practical', 'wellbeing'].map(section => {
+        const sectionPages = state.pages.filter(p => p.section === section);
+        const readCount = sectionPages.filter(p => state.readPages.has(p.path)).length;
+        const percent = sectionPages.length > 0 ? Math.round((readCount / sectionPages.length) * 100) : 0;
+        return { section, total: sectionPages.length, read: readCount, percent };
+      });
+
+      statsContent.innerHTML = `
+        <div class="stats-section">
+          <div class="stats-section-title">📊 Overview</div>
+          <div class="stat-row">
+            <span class="stat-row-label">Overall Progress</span>
+            <span class="stat-row-value">${progress}%</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Pages Read</span>
+            <span class="stat-row-value">${pagesRead} / ${totalPages}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Current Level</span>
+            <span class="stat-row-value">Level ${state.level}</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Total XP</span>
+            <span class="stat-row-value">${state.level * LEVEL_UP_XP + state.xp} XP</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Current Streak</span>
+            <span class="stat-row-value">${state.streak} days 🔥</span>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-section-title">📚 Reading Stats</div>
+          <div class="stat-row">
+            <span class="stat-row-label">Estimated Time Spent</span>
+            <span class="stat-row-value">${totalReadingTime} min</span>
+          </div>
+          <div class="stat-row">
+            <span class="stat-row-label">Achievements Unlocked</span>
+            <span class="stat-row-value">${state.achievements.size} / ${achievements.length}</span>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-section-title">🎯 Section Progress</div>
+          ${sectionStats.map(s => `
+            <div class="stat-row">
+              <span class="stat-row-label">${s.section}</span>
+              <span class="stat-row-value">${s.read}/${s.total} (${s.percent}%)</span>
+            </div>
+          `).join('')}
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-section-title">📈 Progress Chart</div>
+          <div class="chart-container">
+            <canvas id="progressChart"></canvas>
+          </div>
+        </div>
+      `;
+
+      // Render chart
+      setTimeout(() => {
+        const ctx = document.getElementById('progressChart');
+        if (ctx) {
+          new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+              labels: ['Read', 'Unread'],
+              datasets: [{
+                data: [pagesRead, totalPages - pagesRead],
+                backgroundColor: ['#FFB7C5', '#E0E0E0']
+              }]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              plugins: {
+                legend: {
+                  position: 'bottom'
+                }
+              }
+            }
+          });
+        }
+      }, 100);
+    }
+
+    // Filter and display pages
+    function filterPages() {
+      let filtered = state.pages;
+
+      // Filter by path
+      if (state.currentPath !== 'all') {
+        filtered = filtered.filter(p => p.section === state.currentPath);
+      }
+
+      // Filter by search
+      if (state.searchTerm) {
+        const term = state.searchTerm.toLowerCase();
+        filtered = filtered.filter(p =>
+          p.title.toLowerCase().includes(term) ||
+          p.description.toLowerCase().includes(term) ||
+          p.body.toLowerCase().includes(term)
+        );
+
+        // Show advanced filters when searching
+        document.getElementById('searchFilters').style.display = 'block';
+
+        // Unlock searcher achievement
+        if (!state.achievements.has('searcher')) {
+          state.achievements.add('searcher');
+          const achievement = achievements.find(a => a.id === 'searcher');
+          if (achievement && achievement.xp) addXP(achievement.xp);
+          showAchievement('🔍', 'Searcher', 'Used the search feature');
+          saveState();
+        }
+      } else {
+        // Hide filters when not searching
+        document.getElementById('searchFilters').style.display = 'none';
+      }
+
+      // Filter by read status
+      if (state.filterStatus === 'read') {
+        filtered = filtered.filter(p => state.readPages.has(p.path));
+      } else if (state.filterStatus === 'unread') {
+        filtered = filtered.filter(p => !state.readPages.has(p.path));
+      }
+
+      // Filter by length (word count estimate)
+      if (state.filterLength !== 'all') {
+        filtered = filtered.filter(p => {
+          const wordCount = p.body.split(/\s+/).length;
+          if (state.filterLength === 'short') return wordCount < 500;
+          if (state.filterLength === 'medium') return wordCount >= 500 && wordCount <= 1500;
+          if (state.filterLength === 'long') return wordCount > 1500;
+          return true;
+        });
+      }
+
+      // Show results count
+      const resultsCount = document.getElementById('searchResultsCount');
+      if (state.searchTerm || state.filterStatus !== 'all' || state.filterLength !== 'all') {
+        resultsCount.style.display = 'block';
+        resultsCount.textContent = `${filtered.length} result${filtered.length !== 1 ? 's' : ''} found`;
+      } else {
+        resultsCount.style.display = 'none';
+      }
+
+      renderCards(filtered);
+    }
+
+    // Handle filter button clicks
+    function setFilter(filterType, value) {
+      if (filterType === 'status') {
+        state.filterStatus = value;
+        // Update button states
+        document.querySelectorAll('[data-filter="status"]').forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.value === value);
+        });
+      } else if (filterType === 'length') {
+        state.filterLength = value;
+        // Update button states
+        document.querySelectorAll('[data-filter="length"]').forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.value === value);
+        });
+      }
+      filterPages();
+    }
+
+    // Clear all filters
+    function clearFilters() {
+      state.filterStatus = 'all';
+      state.filterLength = 'all';
+      state.searchTerm = '';
+      document.getElementById('searchInput').value = '';
+
+      // Reset all filter button states
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.value === 'all');
+      });
+
+      filterPages();
+    }
+
+    // Highlight search terms in content
+    function highlightSearchTerms(content, searchTerm) {
+      if (!searchTerm) return content;
+
+      const term = searchTerm.trim();
+      if (term.length < 2) return content;
+
+      // Create a regex that matches whole words and partial matches
+      const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+
+      // Wrap matches in <mark> tags
+      return content.replace(regex, '<mark>$1</mark>');
+    }
+
+    // Dark mode toggle
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark-mode');
+      const isDark = document.body.classList.contains('dark-mode');
+      document.getElementById('darkModeToggle').textContent = isDark ? '☀️' : '🌙';
+      localStorage.setItem('darkMode', isDark);
+
+      // Unlock dark mode achievement
+      if (isDark && !state.achievements.has('dark_mode')) {
+        state.achievements.add('dark_mode');
+        const achievement = achievements.find(a => a.id === 'dark_mode');
+        if (achievement && achievement.xp) addXP(achievement.xp);
+        showAchievement('🌙', 'Dark Side', 'Enabled dark mode');
+        renderAchievements();
+        updateAchievementCount();
+        saveState();
+      }
+    }
+
+    // Font size controls
+    function setFontSize(size) {
+      // Remove all font size classes
+      document.body.classList.remove('font-size-small', 'font-size-large');
+
+      // Remove active class from all buttons
+      document.querySelectorAll('.font-size-btn').forEach(btn => btn.classList.remove('active'));
+
+      // Apply new size class and set active button
+      if (size === 'small') {
+        document.body.classList.add('font-size-small');
+        document.getElementById('fontSizeDecrease').classList.add('active');
+      } else if (size === 'large') {
+        document.body.classList.add('font-size-large');
+        document.getElementById('fontSizeIncrease').classList.add('active');
+      } else {
+        document.getElementById('fontSizeNormal').classList.add('active');
+      }
+
+      // Save preference
+      localStorage.setItem('fontSize', size);
+    }
+
+    // Share progress
+    function shareProgress() {
+      document.getElementById('shareLevelValue').textContent = state.level;
+      document.getElementById('sharePagesValue').textContent = `${state.readPages.size}/${state.pages.length}`;
+      document.getElementById('shareAchievementsValue').textContent = state.achievements.size;
+      document.getElementById('shareModal').classList.add('active');
+    }
+
+    // Copy shareable link to clipboard
+    function copyLink() {
+      const shareUrl = getShareableUrl();
+
+      navigator.clipboard.writeText(shareUrl).then(() => {
+        showAchievement('✅', 'Link Copied!', 'Share this link to continue on another device');
+      }).catch(err => {
+        console.error('Failed to copy link:', err);
+        // Fallback: show the link in an alert
+        prompt('Copy this link to continue on another device:', shareUrl);
+      });
+    }
+
+    // Copy progress to clipboard
+    function copyProgress() {
+      const shareUrl = getShareableUrl();
+      const text = `🪢 My Bottoms Up! Journey Progress:\n\n` +
+        `Level: ${state.level}\n` +
+        `Pages Read: ${state.readPages.size}/${state.pages.length}\n` +
+        `Achievements: ${state.achievements.size}/${achievements.length}\n` +
+        `Streak: ${state.streak} days 🔥\n\n` +
+        `Continue your journey:\n${shareUrl}`;
+
+      navigator.clipboard.writeText(text).then(() => {
+        showAchievement('✅', 'Text Copied!', 'Progress and link copied to clipboard');
+      }).catch(err => {
+        console.error('Failed to copy:', err);
+        alert('Failed to copy to clipboard');
+      });
+    }
+
+    // Phase 2: Learning Paths
+    function renderLearningPaths() {
+      const grid = document.getElementById('learningPathsGrid');
+      grid.innerHTML = learningPaths.map(path => {
+        const pagesInPath = path.sequence.map(seq =>
+          state.pages.find(p => p.path.includes(seq))
+        ).filter(p => p);
+
+        const completedInPath = pagesInPath.filter(p => state.readPages.has(p.path)).length;
+        const progress = pagesInPath.length > 0
+          ? Math.round((completedInPath / pagesInPath.length) * 100)
+          : 0;
+
+        const isActive = state.currentLearningPath === path.id;
+
+        return `
+          <div class="learning-path-card ${isActive ? 'active' : ''}" onclick="selectLearningPath('${path.id}')">
+            <div class="path-icon">${path.icon}</div>
+            <div class="path-title">${path.title}</div>
+            <div class="path-description">${path.description}</div>
+            <div class="path-progress">${completedInPath}/${pagesInPath.length} pages • ${progress}% complete</div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function selectLearningPath(pathId) {
+      state.currentLearningPath = pathId;
+      saveState();
+      renderLearningPaths();
+      updateResumeReading();
+      document.getElementById('learningPathsModal').classList.remove('active');
+      showAchievement('🗺️', 'Path Selected!', `Following the ${learningPaths.find(p => p.id === pathId).title} path`);
+    }
+
+    function clearLearningPath() {
+      state.currentLearningPath = null;
+      saveState();
+      document.getElementById('learningPathsModal').classList.remove('active');
+    }
+
+    function getNextInPath() {
+      if (!state.currentLearningPath) return null;
+
+      const path = learningPaths.find(p => p.id === state.currentLearningPath);
+      if (!path) return null;
+
+      for (const seq of path.sequence) {
+        const page = state.pages.find(p => p.path.includes(seq));
+        if (page && !state.readPages.has(page.path)) {
+          return page;
+        }
+      }
+
+      return null; // Path completed!
+    }
+
+    // Phase 2: Bookmarks
+    function toggleBookmark(pagePath) {
+      if (!pagePath) return;
+
+      if (state.bookmarks.has(pagePath)) {
+        state.bookmarks.delete(pagePath);
+        showAchievement('📑', 'Bookmark Removed', 'Removed from bookmarks');
+      } else {
+        state.bookmarks.add(pagePath);
+        showAchievement('🔖', 'Bookmarked!', 'Added to your bookmarks');
+      }
+
+      saveState();
+      updateBookmarkButton();
+      updateBookmarkCount();
+      renderBookmarks();
+    }
+
+    function updateBookmarkButton() {
+      const bookmarkBtn = document.getElementById('modalBookmark');
+      const currentPage = state.pages[state.currentPageIndex];
+
+      if (currentPage && state.bookmarks.has(currentPage.path)) {
+        bookmarkBtn.classList.add('bookmarked');
+      } else {
+        bookmarkBtn.classList.remove('bookmarked');
+      }
+    }
+
+    function updateBookmarkCount() {
+      const count = state.bookmarks.size;
+      document.getElementById('bookmarkCount').textContent = count;
+
+      const bookmarksBtn = document.getElementById('bookmarksBtn');
+      if (count > 0) {
+        bookmarksBtn.style.display = 'flex';
+      } else {
+        bookmarksBtn.style.display = 'none';
+      }
+    }
+
+    function renderBookmarks() {
+      const container = document.getElementById('bookmarksList');
+
+      const bookmarkedPages = state.pages.filter(p => state.bookmarks.has(p.path));
+
+      if (bookmarkedPages.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">📚</div>
+            <div class="empty-state-text">No bookmarks yet</div>
+            <div class="empty-state-hint">Click the bookmark icon on any page to save it here</div>
+          </div>
+        `;
+      } else {
+        container.innerHTML = bookmarkedPages.map(page => `
+          <div class="bookmark-item" onclick="openBookmark('${page.path}')">
+            <div class="bookmark-icon">${getSectionIcon(page.section)}</div>
+            <div class="bookmark-content">
+              <div class="bookmark-title">${page.title}</div>
+              <div class="bookmark-desc">${page.description}</div>
+            </div>
+            <button class="bookmark-remove" onclick="event.stopPropagation(); removeBookmark('${page.path}')">Remove</button>
+          </div>
+        `).join('');
+      }
+    }
+
+    function openBookmark(pagePath) {
+      const page = state.pages.find(p => p.path === pagePath);
+      if (page) {
+        document.getElementById('bookmarksModal').classList.remove('active');
+        openModal(page);
+      }
+    }
+
+    function removeBookmark(pagePath) {
+      state.bookmarks.delete(pagePath);
+      saveState();
+      updateBookmarkCount();
+      renderBookmarks();
+      showAchievement('📑', 'Removed', 'Bookmark removed');
+    }
+
+    function getSectionIcon(section) {
+      const icons = {
+        'concept': '💭',
+        'practical': '🎫',
+        'wellbeing': '💚'
+      };
+      return icons[section] || '📄';
+    }
+
+    // Phase 2: Content Tags
+    function renderContentTags() {
+      const container = document.getElementById('tagsList');
+      container.innerHTML = contentTags.map(tag => `
+        <button class="tag-btn"
+                style="border-color: ${tag.color}; color: ${tag.color}"
+                data-tag="${tag.id}"
+                onclick="toggleTag('${tag.id}', '${tag.color}')">
+          ${tag.label}
+        </button>
+      `).join('');
+    }
+
+    function toggleTag(tagId, color) {
+      const index = state.contentTags.indexOf(tagId);
+      if (index > -1) {
+        state.contentTags.splice(index, 1);
+      } else {
+        state.contentTags.push(tagId);
+      }
+
+      // Update tag button appearance
+      const btn = document.querySelector(`[data-tag="${tagId}"]`);
+      if (state.contentTags.includes(tagId)) {
+        btn.classList.add('active');
+        btn.style.backgroundColor = color;
+      } else {
+        btn.classList.remove('active');
+        btn.style.backgroundColor = '';
+      }
+
+      filterPages();
+      saveState();
+    }
+
+    // Phase 2: Resume Reading
+    function updateResumeReading() {
+      const resumeBtn = document.getElementById('resumeReadingBtn');
+      const lastReadTitle = document.getElementById('lastReadTitle');
+
+      // Check for next page in learning path first
+      const nextInPath = getNextInPath();
+      if (nextInPath) {
+        resumeBtn.style.display = 'flex';
+        lastReadTitle.textContent = `Next: ${nextInPath.title}`;
+        resumeBtn.onclick = () => openModal(nextInPath);
+        return;
+      }
+
+      // Otherwise show last read page
+      if (state.lastReadPage) {
+        const page = state.pages.find(p => p.path === state.lastReadPage);
+        if (page) {
+          resumeBtn.style.display = 'flex';
+          lastReadTitle.textContent = page.title;
+          resumeBtn.onclick = () => openModal(page);
+          return;
+        }
+      }
+
+      // No resume option available
+      resumeBtn.style.display = 'none';
+    }
+
+    // Phase 2: High Contrast Mode
+    function toggleHighContrast() {
+      document.body.classList.toggle('high-contrast');
+      const isHighContrast = document.body.classList.contains('high-contrast');
+      localStorage.setItem('highContrast', isHighContrast);
+
+      if (isHighContrast) {
+        showAchievement('◐', 'High Contrast On', 'Enhanced accessibility mode enabled');
+      }
+    }
+
+    // Initialize app
+    async function init() {
+      loadState();
+
+      // Check if first visit
+      const hasVisited = localStorage.getItem('hasVisited');
+      if (!hasVisited) {
+        document.getElementById('onboardingModal').classList.add('active');
+      }
+
+      // Load dark mode preference
+      const darkMode = localStorage.getItem('darkMode') === 'true';
+      if (darkMode) {
+        document.body.classList.add('dark-mode');
+        document.getElementById('darkModeToggle').textContent = '☀️';
+      }
+
+      // Load font size preference
+      const savedFontSize = localStorage.getItem('fontSize') || 'normal';
+      setFontSize(savedFontSize);
+
+      // Load high contrast preference
+      const highContrast = localStorage.getItem('highContrast') === 'true';
+      if (highContrast) {
+        document.body.classList.add('high-contrast');
+      }
+
+      // Auto-detect correct content base path
+      const detected = await detectContentBase();
+      if (detected) {
+        CONTENT_BASE = detected.basePath;
+        const isMarkdown = detected.isMarkdown;
+        console.log(`📚 Loading pages from: ${CONTENT_BASE} (${isMarkdown ? 'Markdown' : 'HTML'} mode)`);
+
+        // Discover and load pages
+        state.pages = await discoverPages(isMarkdown);
+      } else {
+        // Show helpful error message
+        document.getElementById('loading').innerHTML = `
+          <div style="max-width: 600px; margin: 0 auto; text-align: center;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">⚠️</div>
+            <h2 style="margin-bottom: 1rem;">Content Not Found</h2>
+            <p style="margin-bottom: 1rem;">Could not load content files. Please make sure you're accessing this webapp through:</p>
+            <ul style="text-align: left; display: inline-block; margin-bottom: 1rem;">
+              <li><strong>Hugo Server (Dev):</strong> Run <code>hugo server</code> and access via http://localhost:1313/journey.html</li>
+              <li><strong>Production Site:</strong> Deploy and access the built site (HTML mode)</li>
+              <li><strong>Web Server:</strong> Serve the entire docs directory (not just static/)</li>
+            </ul>
+            <p style="opacity: 0.8; font-size: 0.9rem;">The webapp dynamically fetches rendered HTML pages from /docs/</p>
+          </div>
+        `;
+        return; // Stop initialization
+      }
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('contentGrid').style.display = 'grid';
+
+      filterPages();
+      updateUI();
+      renderAchievements();
+      updateAchievementCount();
+
+      // Phase 2: Initialize new features
+      renderContentTags();
+      updateBookmarkCount();
+      updateResumeReading();
+
+      // Event listeners
+      document.getElementById('modalClose').addEventListener('click', closeModal);
+      document.getElementById('modal').addEventListener('click', (e) => {
+        if (e.target.id === 'modal') closeModal();
+      });
+
+      document.querySelectorAll('.journey-card').forEach(card => {
+        card.addEventListener('click', () => {
+          document.querySelectorAll('.journey-card').forEach(c => c.classList.remove('active'));
+          card.classList.add('active');
+          state.currentPath = card.dataset.path;
+          filterPages();
+        });
+      });
+
+      document.getElementById('searchInput').addEventListener('input', (e) => {
+        state.searchTerm = e.target.value;
+        filterPages();
+      });
+
+      document.getElementById('achievementsBtn').addEventListener('click', () => {
+        document.getElementById('achievementsPanel').classList.add('open');
+      });
+
+      document.getElementById('achievementsClose').addEventListener('click', () => {
+        document.getElementById('achievementsPanel').classList.remove('open');
+      });
+
+      document.getElementById('statsBtn').addEventListener('click', () => {
+        renderStats();
+        document.getElementById('statsDashboard').classList.add('open');
+      });
+
+      document.getElementById('statsClose').addEventListener('click', () => {
+        document.getElementById('statsDashboard').classList.remove('open');
+      });
+
+      document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
+
+      // Font size controls
+      document.getElementById('fontSizeDecrease').addEventListener('click', () => setFontSize('small'));
+      document.getElementById('fontSizeNormal').addEventListener('click', () => setFontSize('normal'));
+      document.getElementById('fontSizeIncrease').addEventListener('click', () => setFontSize('large'));
+
+      // Advanced search filter controls
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const filterType = btn.dataset.filter;
+          const filterValue = btn.dataset.value;
+          setFilter(filterType, filterValue);
+        });
+      });
+
+      document.getElementById('clearFiltersBtn').addEventListener('click', clearFilters);
+
+      // Phase 2: Event listeners for new features
+      document.getElementById('highContrastToggle').addEventListener('click', toggleHighContrast);
+
+      document.getElementById('learningPathBtn').addEventListener('click', () => {
+        renderLearningPaths();
+        document.getElementById('learningPathsModal').classList.add('active');
+      });
+
+      document.getElementById('closeLearningPathsBtn').addEventListener('click', () => {
+        document.getElementById('learningPathsModal').classList.remove('active');
+      });
+
+      document.getElementById('clearPathBtn').addEventListener('click', clearLearningPath);
+
+      document.getElementById('bookmarksBtn').addEventListener('click', () => {
+        renderBookmarks();
+        document.getElementById('bookmarksModal').classList.add('active');
+      });
+
+      document.getElementById('closeBookmarksBtn').addEventListener('click', () => {
+        document.getElementById('bookmarksModal').classList.remove('active');
+      });
+
+      document.getElementById('modalBookmark').addEventListener('click', () => {
+        const currentPage = state.pages[state.currentPageIndex];
+        if (currentPage) {
+          toggleBookmark(currentPage.path);
+        }
+      });
+
+      document.getElementById('shareBtn').addEventListener('click', shareProgress);
+
+      document.getElementById('copyLinkBtn').addEventListener('click', copyLink);
+
+      document.getElementById('copyProgressBtn').addEventListener('click', copyProgress);
+
+      document.getElementById('closeShareBtn').addEventListener('click', () => {
+        document.getElementById('shareModal').classList.remove('active');
+      });
+
+      document.getElementById('startJourneyBtn').addEventListener('click', () => {
+        localStorage.setItem('hasVisited', 'true');
+        document.getElementById('onboardingModal').classList.remove('active');
+        showAchievement('🚀', 'Journey Started!', 'Welcome to Bottoms Up!');
+      });
+
+      // Keyboard shortcuts
+      document.addEventListener('keydown', (e) => {
+        // Don't trigger shortcuts when typing in inputs
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+        // ESC - Close all modals and panels
+        if (e.key === 'Escape') {
+          closeModal();
+          document.getElementById('achievementsPanel').classList.remove('open');
+          document.getElementById('statsDashboard').classList.remove('open');
+          document.getElementById('shareModal').classList.remove('active');
+          document.getElementById('onboardingModal').classList.remove('active');
+          document.getElementById('learningPathsModal').classList.remove('active');
+          document.getElementById('bookmarksModal').classList.remove('active');
+        }
+
+        // Arrow keys for page navigation (when modal is open)
+        if (document.getElementById('modal').classList.contains('active')) {
+          if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            const prevBtn = document.getElementById('prevPageBtn');
+            if (!prevBtn.disabled) prevBtn.click();
+          }
+          if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            const nextBtn = document.getElementById('nextPageBtn');
+            if (!nextBtn.disabled) nextBtn.click();
+          }
+        }
+
+        // 's' - Focus search
+        if (e.key === 's' && !e.ctrlKey && !e.metaKey) {
+          e.preventDefault();
+          document.getElementById('searchInput').focus();
+        }
+
+        // 'a' - Toggle achievements panel
+        if (e.key === 'a' && !e.ctrlKey && !e.metaKey) {
+          e.preventDefault();
+          const panel = document.getElementById('achievementsPanel');
+          if (panel.classList.contains('open')) {
+            panel.classList.remove('open');
+          } else {
+            renderAchievements();
+            panel.classList.add('open');
+            // Close stats if open
+            document.getElementById('statsDashboard').classList.remove('open');
+          }
+        }
+
+        // 't' - Toggle stats dashboard
+        if (e.key === 't' && !e.ctrlKey && !e.metaKey) {
+          e.preventDefault();
+          const dashboard = document.getElementById('statsDashboard');
+          if (dashboard.classList.contains('open')) {
+            dashboard.classList.remove('open');
+          } else {
+            renderStats();
+            dashboard.classList.add('open');
+            // Close achievements if open
+            document.getElementById('achievementsPanel').classList.remove('open');
+          }
+        }
+
+        // 'd' - Toggle dark mode
+        if (e.key === 'd' && !e.ctrlKey && !e.metaKey) {
+          e.preventDefault();
+          toggleDarkMode();
+        }
+
+        // '?' - Show keyboard shortcuts help
+        if (e.key === '?') {
+          e.preventDefault();
+          showAchievement('⌨️', 'Keyboard Shortcuts',
+            '← → Navigate pages • S Search • A Achievements • T Stats • D Dark mode • ESC Close');
+        }
+      });
+
+      // Touch gestures for mobile navigation
+      let touchStartX = 0;
+      let touchEndX = 0;
+      const modalElement = document.getElementById('modal');
+
+      modalElement.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+      }, { passive: true });
+
+      modalElement.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+      }, { passive: true });
+
+      function handleSwipe() {
+        // Only handle swipes if modal is open
+        if (!modalElement.classList.contains('active')) return;
+
+        const swipeThreshold = 50; // minimum distance for swipe
+        const swipeDistance = touchEndX - touchStartX;
+
+        // Swipe right (go to previous page)
+        if (swipeDistance > swipeThreshold) {
+          const prevBtn = document.getElementById('prevPageBtn');
+          if (!prevBtn.disabled) {
+            prevBtn.click();
+            // Visual feedback
+            modalElement.style.transform = 'translateX(10px)';
+            setTimeout(() => {
+              modalElement.style.transform = '';
+            }, 200);
+          }
+        }
+
+        // Swipe left (go to next page)
+        if (swipeDistance < -swipeThreshold) {
+          const nextBtn = document.getElementById('nextPageBtn');
+          if (!nextBtn.disabled) {
+            nextBtn.click();
+            // Visual feedback
+            modalElement.style.transform = 'translateX(-10px)';
+            setTimeout(() => {
+              modalElement.style.transform = '';
+            }, 200);
+          }
+        }
+      }
+
+      // Save state periodically
+      setInterval(saveState, 30000); // Every 30 seconds
+    }
+
+    // Start the app
+    init();
+  </script>
+
+</body>
+</html>
