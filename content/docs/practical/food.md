@@ -17,6 +17,13 @@ toc: true
 - **Snacks** —  afternoons
 - **Warm meal** — every evening
 
+**🥤 What you bring:**
+
+- **Your own drinks** (alcoholic *or* non-alcoholic)
+- **Something to put on your breakfast bread** (spread, toppings, jam, cheese, peanut butter… your morning joy)
+
+There will be **fridges you can use** to keep your things cold and happy.
+
 **🥗 Dietary choice:**
 You'll choose **vegetarian** or **meat** when you register — and we'll ask you to stick with your choice so we can plan portions.
 
