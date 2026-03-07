@@ -1,35 +1,84 @@
-# Repository Guidelines
+# CLAUDE.md
 
-## Project Structure & Module Organization
-- `content/` holds all Markdown pages; keep files in section folders (for example `content/practical/cancellation-policy.md`) and use `kebab-case` filenames.
-- `layouts/` contains Hugo template overrides for the Lowkey theme; share reusable UI in `layouts/partials/` and leave the theme module untouched.
-- `assets/` is for processed CSS, JS, and images, while `static/` serves passthrough files; Hugo fingerprints anything in `assets/` automatically.
-- `config/` and `hugo.toml` define site-wide settings; mirror any language or param changes between them for consistency.
-- `public/` and `dist/` are build artifacts—never edit them by hand.
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Build, Test, and Development Commands
-- `npm install` (run once) installs the PostCSS/Tailwind toolchain used when Hugo processes assets.
-- `hugo server -D --disableFastRender` launches the local preview with drafts; add `--buildFuture` to review future-dated content.
-- `hugo --gc --minify` replicates the Netlify production build, cleans unused resources, and emits the static site to `public/`.
-- `./merge-content.sh merged-content.md` aggregates Markdown for editorial review; delete the generated file before committing.
+## What This Is
 
-## Coding Style & Naming Conventions
-- Start each Markdown file with YAML front matter including `title`, `description`, `lead`, `date`, `lastmod`, `weight`, and `toc`; use UTC ISO timestamps and bump `lastmod` on edits.
-- Keep paragraphs short, prefer sentence-case headings, and embed internal links with relative paths.
-- Default to two-space indentation in Go templates and HTML; group Tailwind utility classes by layout → spacing → typography for readability.
-- Store custom CSS/JS in `assets/` so the build pipeline can fingerprint and minify it.
+A Hugo static site for rope gathering event documentation (Rogue Rope Camp / Bottoms Up!). Each event edition lives on its own branch — `roguerope-summer26`, `winter26`, `summer25`, etc. The `master` branch tracks the most recently deployed edition.
 
-## Testing Guidelines
-- Run `hugo --gc --minify --printPathWarnings` before every pull request; treat warnings about broken paths or shortcodes as blockers.
-- Validate new or changed pages in the live server across desktop and mobile breakpoints; confirm media referenced in front matter resolves from `static/` or `assets/`.
-- Document any manual verification (for example, link checks or partial rendering) in the PR description because no automated tests exist today.
+## Build & Development Commands
 
-## Commit & Pull Request Guidelines
-- Follow the existing `Type: Summary` pattern (`Fix: Add missing frontmatter`); use imperative verbs and, when helpful, scope tags such as `Content:` or `Theme:`.
-- Keep commits focused on one topic and avoid checking in files from `public/`, `dist/`, or temporary merges.
-- Pull requests should describe the change, list manual checks, link related issues, and include before/after screenshots for UI tweaks.
-- Request review when touching `layouts/`, `config/`, or build scripts, and capture any follow-up work as unchecked list items in the PR body.
+```bash
+npm install                          # install PostCSS/Tailwind toolchain (run once)
+hugo server -D --disableFastRender   # local dev server with drafts at localhost:1313
+hugo server -D --disableFastRender --buildFuture  # include future-dated content
+hugo --gc --minify --printPathWarnings             # production build to public/
+npm run build:ci                     # strict build (--panicOnWarning, matches Netlify)
+npm run lint                         # markdownlint on content/**/*.md
+npm run format                       # prettier on all supported file types
+npm run lint:html                    # htmlproofer on ./public (run after hugo build)
+```
 
-## Configuration Tips
-- Hugo modules are pinned in `go.mod`; upgrade themes with `hugo mod get -u` in a dedicated branch, then run `hugo mod tidy`.
-- Production builds rely on `HUGO_ENABLEGITINFO`; keep a linear Git history so page metadata (breadcrumbs, updated dates) stays accurate.
+The Netlify build command is `npm run build:ci`. Run it locally before opening a PR.
+
+## Architecture
+
+**Theme:** `hugo-book` — local copy in `themes/hugo-book/`. Not a Hugo module; no `go.mod`. Do not edit the theme directly.
+
+**Content structure:** All pages live under `content/docs/` in three sections:
+- `content/docs/concept/` — philosophy, vibe, who-it's-for
+- `content/docs/practical/` — logistics, schedule, tickets, camping
+- `content/docs/wellbeing/` — consent, support, emotional care
+
+`content/_index.md` and `content/docs/_index.md` are the homepage and section landing page. Section `_index.md` files use `bookCollapseSection: true` in frontmatter to drive the collapsible nav.
+
+**Layouts:** `layouts/` overrides hugo-book templates. `layouts/partials/` holds reusable fragments. `layouts/_default/single.html` and `list.html` are the main overrides.
+
+**Styling:** `assets/book.scss` is the theme SCSS entry point (imports theme variables and custom). `assets/_custom.scss` is where all custom rules go — edit this, not `book.scss`. The pipeline is: Hugo processes SCSS → PostCSS (Tailwind + autoprefixer + cssnano in production).
+
+**Static assets:** Images live in `static/images/`. Served as-is, not fingerprinted.
+
+**Navigation:** Controlled by `weight` frontmatter within each section directory. Menu items in `hugo.toml` (`[[menu.before]]` / `[[menu.after]]`) add Home and Contact outside the docs tree.
+
+## Frontmatter Requirements
+
+Every content file must include:
+
+```yaml
+---
+title: ''
+description: ''
+lead: ''
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
+weight: 10
+toc: true
+---
+```
+
+Always bump `lastmod` when editing a page. Use UTC ISO timestamps. Weights within a section must be unique to avoid undefined sort order.
+
+## Branch Convention
+
+One branch per event edition. Branch names follow the pattern `roguerope-summer26`, `winter26`. Create new editions by branching from the most recent edition of the same type, then updating all event-specific content (dates, venue, price, event name, dresscode theme). The two event names are:
+- **Rogue Rope Camp** — summer outdoor edition
+- **Bottoms Up!** — winter indoor edition
+
+## Internal Links
+
+Always use the full `/docs/section/page` path for internal links (e.g. `/docs/practical/participation`). Relative links work within the same section but are fragile across sections. Aliases in frontmatter handle legacy paths from older URL structures.
+
+## CI / GitHub Actions
+
+- **claude-code-review.yml** — runs automatic Claude code review on every PR
+- **claude.yml** — triggers Claude in response to `@claude` mentions in PR comments and issues
+
+## Key Files
+
+| File | Purpose |
+|------|---------|
+| `hugo.toml` | Site title, theme, menu config, Goldmark settings |
+| `assets/_custom.scss` | All custom CSS overrides |
+| `netlify.toml` | Netlify build config (Hugo version, branch deploy commands) |
+| `content/docs/_index.md` | Docs landing page / homepage content |
+| `.markdownlint.json` | Markdownlint rule overrides (MD013, MD033, MD025 disabled) |
