@@ -41,7 +41,7 @@ _Blur is not consent. Assumption is not consent._
 - Bystander shots, candids of people you didn’t ask  
 - Flash, loud shutters, or anything that breaks the scene  
 - Recording audio without explicit consent  
-- Using cameras in bathrooms, changing areas, or private rooms
+- Using cameras in bathrooms, changing areas, or personal tent spaces
 
 If you’re unsure whether something is okay, skip it or check with an organizer.
 
