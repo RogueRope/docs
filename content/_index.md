@@ -1,5 +1,5 @@
 ---
-title: "Rogue Rope Camp 2026"
+title: "Rope as Ritual · Aug 4–9 · Belgium"
 description: "A six-day outdoor rope gathering in Belgium. Rope as ritual, connection over performance, consent as a way of being. East of Ghent, West of Antwerp. Aug 4–9, 2026."
 lead: 'Rope as ritual. Connection over performance. Consent as a way of being.'
 date: 2026-03-07T10:00:00+00:00

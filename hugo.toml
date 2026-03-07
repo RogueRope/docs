@@ -1,6 +1,6 @@
 baseURL = 'https://docs.roguerope.be/'
 languageCode = 'en-us'
-title = 'Rogue Rope Camp 2026'
+title = 'RRC 2026'
 theme = 'hugo-book'
 ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
 

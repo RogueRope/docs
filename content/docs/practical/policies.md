@@ -4,7 +4,7 @@ description: 'Core rules that keep this gathering safe, intentional, and caring'
 lead: 'Read this when you want the short version of our non-negotiables'
 date: 2026-03-07T10:00:00+00:00
 lastmod: 2026-03-07T10:00:00+00:00
-weight: 30
+weight: 32
 toc: true
 ---
 

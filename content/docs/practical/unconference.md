@@ -7,7 +7,7 @@ lastmod: 2026-03-07T10:00:00+00:00
 aliases:
   - /practical/unconference
   - /docs/practical/unconference
-weight: 60
+weight: 62
 toc: true
 ---
 

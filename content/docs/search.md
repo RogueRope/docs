@@ -1,4 +1,4 @@
-title: 'Search'
+title: "Search"
 description: 'Search the Rogue Rope Camp 2026 documentation for information about the event, schedule, tickets, consent practices, and more.'
 lead: ''
 date: 2025-11-12T20:16:00+00:00

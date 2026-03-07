@@ -29,3 +29,10 @@ nav.flex[class*="justify-between"] {
     }
   }
 }
+
+// Homepage two-column grid: responsive collapse on mobile
+@media (max-width: 640px) {
+  div[style*="grid-template-columns:1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}
