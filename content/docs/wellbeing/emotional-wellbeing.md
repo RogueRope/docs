@@ -2,8 +2,8 @@
 title: "Emotional Wellbeing"
 description: "Taking care of your heart — before, during, and after the gathering"
 lead: "Intensity is beautiful — and it can be a lot. Here's how we care for ourselves and each other."
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 aliases:
   - /wellbeing/emotional
   - /wellbeing/baggage
@@ -20,7 +20,7 @@ toc: true
 
 ## Emotional Safety Matters Just as Much as Physical Safety
 
-Bottoms Up! can stir a lot.
+Rogue Rope Camp can stir a lot.
 Connection. Intensity. Joy. Tenderness.
 And sometimes — disorientation, overwhelm, or loneliness.
 
@@ -33,7 +33,7 @@ This page holds guidance for your emotional journey: preparing before you arrive
 ## Before You Cross the Threshold
 
 Every one of us carries stories: heartbreaks, unresolved fights, jealousy, shame, grief, burnout.
-That's human. It's also **volatile tinder** in a space like Bottoms Up!—where intensity, intimacy, and erotic charge run high.
+That's human. It's also **volatile tinder** in a space like Rogue Rope Camp—where intensity, intimacy, and erotic charge run high.
 
 Here's the truth:
 

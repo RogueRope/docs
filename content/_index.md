@@ -1,53 +1,73 @@
 ---
-title: "Bottoms Up!"
-description: "A five-day rope gathering in Belgium focused on connection over performance, consent as sacred practice, and rope as ritual. Limited to 42 people. Feb 18-22, 2026."
-lead: 'A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-22T11:13:19+00:00
+title: "Rogue Rope Camp 2026"
+description: "A six-day outdoor rope gathering in Belgium. Rope as ritual, connection over performance, consent as a way of being. East of Ghent, West of Antwerp. Aug 4–9, 2026."
+lead: 'Rope as ritual. Connection over performance. Consent as a way of being.'
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 1
 toc: false
 ---
 
-A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.
+Rope as ritual. Connection over performance. Consent as a way of being.
 
-<p class="hx-text-xl hx-text-gray-600 hx-mb-8">
-Rope as ritual. Connection over performance. Consent as sacred practice.
+<p style="font-size:1.15rem;opacity:0.7;margin-bottom:2rem;">
+Six days under open sky. Somewhere between Ghent and Antwerp.
 </p>
 
-## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
+<div style="background:var(--gray-100,#1a1a1a);border:1px solid var(--gray-200,#333);padding:1.5rem 2rem;border-radius:8px;margin-bottom:2rem;">
 
-**🎫 €169 • Limited to 42 people**  
-_[Tickets available December 1st, 2025](/docs/practical/participation)_
+## 📅 Tue–Sun, 4–9 Aug 2026 (Belgium)
 
----
+**🎫 €210 · Outdoor camp · Limited spots**  
+[How to get your ticket →](/docs/practical/participation)
+
+</div>
 
 ## New here? Welcome.
 
-If you've been with us before — welcome back to the warmth of connection.  
-If this is your first gathering — breathe deep. You're exactly where you need to be.
+If you've been with us before — welcome back to the field.  
+If this is your first time — breathe. You're exactly where you need to be.
 
-This isn't a gathering for spectators. It's a sanctuary. For the curious. For the brave enough to be vulnerable. A space where desire whispers — never demands. Where rope is an invitation — never an obligation.
+This isn't a festival. It's a gathering. Of the curious. Of the brave enough to be vulnerable.  
+A space where desire is invited — never demanded. Where rope is an invitation — never an obligation.
 
-Five days to shed the rush. To sink into something slower, softer, more essential.
+Six days to shed the rush. To sink into something slower, messier, more essential.  
+Barefoot on real ground. Sun on your skin. Rope in the trees.
 
-Come to tie. Come to surrender. Come to discover what lives in the spaces between.
+Come to tie. Come to surrender. Come to find something you don't have words for yet.
 
-## 🌟 What to Expect
+---
 
-🌀 **Rope as Ritual**  
-Connection over performance
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin:2rem 0;">
 
-🤝 **Consent & Safety**  
-Sacred practice at our core
+<div style="padding:1.5rem;border:1px solid var(--gray-200,#333);border-radius:8px;">
 
-🛟 **Full Support**  
-Care team available throughout
+### 🌱 First time here?
 
-🎭 **Unconference**  
-Share your gifts, explore together
+1. [Is this for you?](/docs/concept/is-this-for-you) — Honest, gentle guidance
+2. [The Vibe](/docs/concept) — What makes this gathering different
+3. [Get your ticket](/docs/practical/participation) — Everything about joining
 
-🏠 **Communal Living**  
-Sleep, eat, and grow together
+**[Start here →](/docs/concept/is-this-for-you)**
 
-💝 **Intimacy**  
-Limited to 42 people to maintain connection
+</div>
+
+<div style="padding:1.5rem;border:1px solid var(--gray-200,#333);border-radius:8px;">
+
+### 🏕️ Returning to the field?
+
+- [Experience Structure](/docs/concept/experience) — How this edition unfolds
+- [Get your spot](/docs/practical/participation) — Secure your return
+- [Contact](/docs/contact) — Questions or want to say hello
+
+**[Get your spot →](/docs/practical/participation)**
+
+</div>
+
+</div>
+
+---
+
+_Rope as ritual. Connection over performance. Consent as a way of being._
+
+**Bring your hunger. Bring your tenderness. Bring your tent.**

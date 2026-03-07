@@ -2,8 +2,8 @@
 title: 'After the Gathering'
 description: 'Integration, support, staying connected'
 lead: "The gathering shifts, not ends. Here's what helps."
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 aliases:
   - /practical/after-the-gathering
   - /docs/practical/after-the-gathering

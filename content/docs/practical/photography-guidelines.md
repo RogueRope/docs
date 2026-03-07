@@ -1,16 +1,16 @@
 ---
 title: Photography Guidelines
-description: 'How to document Bottoms Up! without breaking trust'
+description: 'How to document Rogue Rope Camp 2026 without breaking trust'
 lead: 'Consent-only, disturbance-free, always respectful'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 60
 toc: true
 ---
 
 ## Why This Exists
 
-People come to Bottoms Up! to be real — soft, ecstatic, messy, reverent. That kind of openness only happens when we know the room is safe. Cameras are welcome **only** when they honor that trust.
+People come to Rogue Rope Camp to be real — soft, ecstatic, messy, reverent. That kind of openness only happens when we know the room is safe. Cameras are welcome **only** when they honor that trust.
 
 ---
 

@@ -1,62 +1,80 @@
 ---
 title: Leave No Trace & Space Care
-description: 'How we care for the space together'
+description: 'How we care for the land and space together at Rogue Rope Camp'
 lead: 'We leave it better than we found it'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
+aliases:
+  - /practical/leave-no-trace
+  - /docs/practical/leave-no-trace
+menu:
+  docs:
+    parent: practical
 weight: 30
 toc: true
 ---
 
-## The Basic Idea
+## We're Guests Here
 
-Care for shared space is collective. Notice what's yours. Pick it up. Clean what you use. Respect what others have left.
+Rogue Rope Camp takes place on land that isn't ours to keep — it's lent to us.  
+We want to be invited back. That means leaving it better than we found it.
+
+No trash. No damage. No mess for someone else to deal with.  
+We treat the land like we treat each other: with care, with respect, and with attention.
+
+---
+
+## No Bins On Site — By Design
+
+There are no garbage bins on site. Whatever you bring in, **you take back out**.
+
+- Pack light and leave excess packaging at home
+- Bring a personal trash bag — listed in [Things to Bring](things-to-bring)
+- Separate your waste: compostable, recyclable, landfill
+- Bring your cigarette butts with you — portable ashtray required
 
 ---
 
 ## During the Event
 
-We share these rooms like we share scenes: with care, attention, and a sense that someone else will arrive after us. Notice what needs doing and do it if you can.
+**Meal areas** stay inviting when we clear plates, wipe tables, and tuck leftovers away. If you see dishes waiting, give them a quick rinse.
 
-**Meal areas** stay inviting when we clear plates, wipe tables, and tuck leftovers away before they wander off on their own. If you see dishes waiting for a wash, give them a quick rinse.
+**Play spaces** breathe easier when equipment gets a wipe-down, rope gets coiled, and things find their way back to where they belong. Reset the space for whoever comes next.
 
-**Play spaces** breathe easier when equipment gets a wipe-down, ropes are coiled, and furniture finds its home again. Think of it as resetting the stage for whoever comes next.
+**Camping area:** Keep your footprint tidy. Your tent is your home — care for it like one.
 
-**Sleeping areas** feel restful when bunks stay loosely organized, clothes live in bags instead of on floors, and shared items boomerang back to where everyone expects them.
+**Firepit area:** Ash stays in the pit. Butts go in the ashtray. Nothing gets burned that shouldn't.
 
-**Bathrooms**  anything disposable lands in the bins provided.
-
-**General vibe:** carry your trash with you, and if something looks off, either tend to it or tap an organizer. Shared responsibility is the kink here.
+**Shared facilities:** Leave bathrooms and shower areas cleaner than you found them. It takes 30 seconds.
 
 ---
 
-## Final Day Checkout
+## Smokers
 
-- Strip your bed
-- Collect all your belongings
-- Clean your bunk area
-- Return room key
+Bring a portable ashtray — a pocket tin, an old film canister, anything that closes. Keep your butts off the ground for fire safety and because no one wants to kneel in someone else's cigarette.
+
+---
+
+## Coming by Public Transit?
+
+We know you can't haul bags of trash on a train. Let us know you're coming that way — we'll sort out a solution for waste collection.
+
+---
+
+## Final Day: Teardown
+
+- Pack down your tent and camping area completely
+- Remove all personal items, ropes, decorations
+- Sweep or tidy your patch of land
+- Help with camp-wide teardown — it's part of the container
 - Leave nothing behind except gratitude
-
----
-
-## After You Leave
-
-If you plan to share photos or memories beyond our private channels, read the “After the Gathering” section of [Photography Guidelines]({{< ref "/docs/practical/photography-guidelines" >}} "Photography Guidelines") for consent refreshers, venue anonymity, and deletion requests. Protect the people and the place the same way you did on site.
 
 ---
 
 ## Why It Matters
 
-When we leave space better than we found it, we:
+Leave no trace isn't just a rule.  
+It's an expression of the same ethic that runs through everything here: presence, care, and responsibility.
 
-- Show respect for the venue
-- Demonstrate consent (even to the building)
-- Practice caring—which is what this gathering is about
-- Make the next gathering possible
-
-**It becomes a practice you carry into your life.**
-
----
-
-![Diverse hands of all kinds caring for a shared space together—human hands wiping, organizing, tidying alongside a glowing magical non-human hand, celebrating collective care and joy](/images/leave-no-trace-hands.png)
+The land holds us while we're here.  
+Holding it back is the least we can do.

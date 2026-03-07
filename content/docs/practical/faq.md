@@ -1,82 +1,82 @@
 ---
 title: Frequently Asked Questions
-description: 'Common questions about Bottoms Up! and how to prepare'
+description: 'Common questions about Rogue Rope Camp 2026 and how to prepare'
 lead: 'Questions you might have. Honest answers.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 50
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
+menu:
+  docs:
+    parent: practical
+weight: 90
 toc: true
 ---
 
 ## The Gathering
 
-**Is this just 5 days?** Yes. Wed 18:00 – Sun 14:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
+**How long is it?**  
+Tue–Sun, August 4–9, 2026. That's 6 full days — long enough to truly settle in, short enough to stay fully present. Tuesday is Build Day (optional but encouraged). Wednesday is the main arrival day. Sunday is teardown and goodbye.
 
-**What time do I need to arrive?** **Wednesday by 21:00 for the Opening Circle — this is mandatory.** You must be present for this foundational ritual. If you can't make Wednesday evening, this gathering isn't the right fit for you this year. Leaving early is fine, but arriving on time is essential. → Travel tips & Build Day details live in [Getting There](getting-there).
+**What time do I need to arrive?**  
+**Wednesday by 21:00 for the Opening Circle — this is mandatory.** If you can come Tuesday for Build Day, even better. If you can't make the Opening Circle, this gathering isn't the right fit for you this year.
 
-**Do I have to do rope?** No. Watch, connect, rest, or play. All of it's welcome.
+**Do I have to do rope?**  
+No. Watch, connect, rest, wander, or play. All of it's welcome.
 
-**Is this sexual?** Yes. Sex-positive, sexual interactions happen. If seeing others kiss, touch, or express sexuality makes you very uncomfortable, this isn't your event. We're clear because consent is mutual.
+**Is this sexual?**  
+Yes. This is a sex-positive gathering where intimate expression happens. If seeing others kiss, touch, or express sexuality makes you very uncomfortable, this isn't your event. We're clear because consent is mutual.
 
-**Will I know anyone?** ~60% come solo. You'll meet people. By day 2, you'll know folks. By day 4, you're part of something.
+**Will I know anyone?**  
+Most people arrive knowing few or none. By day 2, you'll know people. By day 4, you're part of something.
+
+**Is this outdoors?**  
+Yes. It's an outdoor camping event. You'll sleep in a tent in the field. See [Camping](camping) and [Things to Bring](things-to-bring).
 
 ---
 
 ## Practical Details
 
-**What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment. → Need the full breakdown? See [Participation Details](participation).
+**What's included in the €210?**  
+5 nights camping (tent space), one hot meal per day plus provisions, play spaces, support, and the full experience. You bring your own tent and camping gear.
 
-**Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access".
+**Sliding scale or financial support?**  
+Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" in the subject. No shame, no hoops.
 
-**How many people?** 42 max. Why? Intimacy without anonymity. We know each other's names.
+**How many people?**  
+Limited. We keep it small enough that you'll know people's names by day 3.
 
-**Who comes?** Mix of rope experience, queer, kinky, disabled, neurodivergent folks from across Europe. Beginners and experienced. Solo, couples, friend groups.
+**Who comes?**  
+A mix of rope experience levels, queer and kinky folks, neurodivergent people, solo travelers, couples, and friend groups from across Europe. Beginners and experienced participants alike.
 
-**Accessibility/disabilities?** Tell us when you register. We offer indoor rooms, ground-floor options, quiet spaces, flexible meals, volunteer support. Have specific needs? Email us early—we'll problem-solve. → For room layouts and vibes, see [Accommodations](accommodations).
+**Accessibility / disability?**  
+Tell us when you register. We'll do our best — but it's an outdoor camping event, and some terrain may be challenging. Email us early and we'll problem-solve together.
 
-**Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate. → Menu rhythm and kitchen info live in [Food & Meals](food).
+**Food allergies?**  
+Vegetarian and meat options fully supported. Vegan: best-effort. Other specific needs? Tell us when you register — we'll coordinate.
 
-**Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party, wich will have an easy and broad theme. Slippers/socks for shared floors.
-
----
-
-## Safety & Boundaries
-
-**Consent framework?** Ask before touch. Respect "no." Check in during play. Continuous, not one-time. [Full framework →]
-
-**Consent violation?** Find Consent Crew (identified at opening circle). You're supported first. We take it seriously. You're believed.
-
-**First aid?** Yes, trained responders on-site. Hospital in Mol (~10 min).
-
-**Overwhelmed?** Quiet spaces available. Find an FWB (support person). Rest, cry, leave if needed. Your wellbeing comes first.
+**What's the dress code for the play party?**  
+The theme will be announced in the pre-event info pack. Dark, comfortable, intentional clothes are always a good fallback. No dress code enforcement — it's an invitation, not a requirement.
 
 ---
 
-## Before & After
+## Camping & Logistics
 
-**How to prepare?** Read [Getting Started](/docs/concept/is-this-for-you) and [Philosophy](/docs/concept/philosophy). Reflect on why you're coming. Talk to your partner if you have one. Arrive open.
+**Do I need to bring a tent?**  
+Yes. This is an outdoor camping event. Tent, sleeping bag, sleeping mat — see [Things to Bring](things-to-bring).
 
-**Subdrop?** Emotional low after intensity. Rest, hydrate, move your body, reach out. It passes. See [After the Gathering](/docs/wellbeing/after-integration) for more support.
+**Is there electricity?**  
+Yes, we run power through the field. Bring a long extension cord and a power strip. No power-hungry appliances.
 
-**Stay connected?** Join our WhatsApp community, attend monthly calls, sign up for the mailing list. See [After the Gathering](/docs/wellbeing/after-integration) for details.
+**Are there showers?**  
+Yes — shared, warm showers are available.
 
----
+**Can I bring a campervan?**  
+Probably, but email us first — space is limited and we want to plan accordingly.
 
-## More Info
-
-**How do I get there?** See [Getting There](/docs/practical/getting-there) for travel details, ride-share info, and arrival timing.
-
-**Tickets?** December 1, 20:00. €169. 42 slots. Brief application (alignment check).
-
-**Cancellation?** See [Cancellation & Refund Policy](/docs/practical/participation/#cancellation--refund-policy) — TL;DR: 3 weeks before = full refund. After = resell or defer.
-
-**Photos?** **Consent-only:** ask first, no bystanders, no disturbance, delete on request. When the gathering ends, re-confirm consent **and** anonymize the venue before posting anywhere.  
-→ Full rules (including post-event sharing): [Photography Guidelines](photography-guidelines)
-
-**Queer/fat/disabled/neurodivergent friendly?** Yes to all. Gender-neutral bathrooms/rooms. We celebrate all bodies, minds, systems as-is.
+**What if it rains?**  
+Belgium in August can be wet. Bring a rain cover for your tent and gear. The show goes on either way.
 
 ---
 
-**Questions?** Email [info@roguerope.be](mailto:info@roguerope.be)
+## Questions Not Answered Here?
 
-[Get tickets](/docs/practical/participation) • [Getting Started](/docs/concept/is-this-for-you) • [Philosophy](/docs/concept/philosophy)
+[Contact us](/docs/contact). We respond quickly during the lead-up to camp.

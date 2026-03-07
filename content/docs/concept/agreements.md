@@ -2,8 +2,8 @@
 title: 'Our Shared Agreements'
 description: 'How we commit to keeping our space honest, safe, and kind'
 lead: 'The commitments we make to ourselves and each other'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 12
 toc: true
 ---
@@ -51,7 +51,7 @@ Whether you're a helper, a dreamer, a mischief-maker, or someone who simply hold
 
 ## Explore Related Pages
 
-**See these agreements in action** → [Experience Structure](/docs/concept/experience) — How these commitments shape our five days together
+**See these agreements in action** → [Experience Structure](/docs/concept/experience) — How these commitments shape our six days together
 
 **Understand the foundation** → [Core Philosophy](/docs/concept/philosophy) — The values behind these agreements
 

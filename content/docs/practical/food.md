@@ -1,10 +1,13 @@
 ---
 title: Food & Meals
-description: 'What to expect for meals and what to bring'
-lead: 'Nourishment for your body and soul'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 21
+description: 'What to expect for meals at Rogue Rope Camp 2026 and what to bring'
+lead: 'Nourishment for bodies that are working, playing, and feeling a lot.'
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
+menu:
+  docs:
+    parent: practical
+weight: 25
 toc: true
 ---
 
@@ -14,37 +17,58 @@ toc: true
 
 - **Coffee and water** — always available
 - **Bread in the morning** — daily
-- **Snacks** —  afternoons
+- **Snacks** — most afternoons
 - **Warm meal** — every evening
 
-**🥗 Dietary choice:**
+This is *not* a gourmet camp. But it will be tasty, filling, and made with love (and probably laughter).
+
+**🥗 Dietary choice:**  
 You'll choose **vegetarian** or **meat** when you register — and we'll ask you to stick with your choice so we can plan portions.
 
-This is _not_ a gourmet weekend. But it will be tasty, filling, and made with love (and probably laughter).
+---
 
-### Sample Schedule — Subject to Change
+## Sample Rhythm — Subject to Change
 
-Just to give you a sense of the rhythm. Times and offerings may shift based on our collective needs.
+| _Time_ | Tue | Wed | Thu | Fri | Sat | Sun |
+| :----- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Morning | — | — | Bread | Bread | Bread | Bread |
+| Afternoon | — | — | Snacks | Snacks | Snacks | Leftovers |
+| Evening | Dinner (early arrivals) | Dinner | Dinner | Dinner | Dinner | — |
 
-| _Time_ | --     | Wed    | Thu    | Fri    | Sat    | Sun       |
-| :----- | :----- | :----- | :----- | :----- | :----- | :-------- |
-| 9–12   | Brunch | --/--  | Bread  | Bread  | Bread  | Bread     |
-| 15:00  | Soup   | --/--  | Soup   | Soup   | Soup   | Leftovers |
-| 16:00  | Snacks | --/--  | Snacks | Snacks | Snacks | Leftovers |
-| 19–21  | Dinner | Dinner | Dinner | Dinner | Dinner | --/--     |
+_Tuesday dinner is for Build Day arrivals. Sunday: fend for yourself or share leftovers._
 
-### Special Diets & Dietary Needs
+---
 
-**✅ What we can accommodate:**
+## Special Diets & Dietary Needs
 
-- **Vegetarian meals** — fully supported
-- **Meat-based meals** — fully supported
-- **Vegan meals** — best-effort basis
+**✅ What we support:**
 
-**🤝 Have specific needs?** (gluten-free, allergies, etc.)
-**Please reach out!** We're happy to collaborate and find solutions — whether adjusting ingredients or providing kitchen space for your own prep.
+- **Vegetarian meals** — fully supported every day
+- **Meat option** — available every evening
+- **Vegan** — best-effort; let us know when you register
 
-**🧑‍🍳 Join our Kitchen Crew**
-Want to help chop, stir, and keep meals flowing? Stay tuned for sign-ups. It's a great way to contribute, connect, and maybe pick up cooking secrets along the way.
+**⚠️ If you have specific needs** (gluten-free, allergies, complex dietary requirements), email us before your ticket is confirmed. We genuinely want to find solutions, but we need to know in advance to plan well.
 
-![Diverse people gathering around a communal meal, celebrating connection through shared food](/images/food-gathering.png)
+---
+
+## What to Bring for Yourself
+
+- **Cooler box or insulated bag** — we provide ice cubes; you bring the container
+- **Your favorite drinks** — there's no bar. Bring what you like, bring a little to share.
+- **Breakfast additions** — we bring bread; you bring your peanut butter, jam, cheese, or whatever makes your morning right
+- **Snacks you love** — especially late-night snacks for the firepit
+- **Reusable plate, cutlery, and cup** — we don't do disposables
+
+---
+
+## Kitchen Crew
+
+We assemble a small, scrappy kitchen crew to help chop, stir, and keep the meals flowing. Want to be part of it? Stay tuned for sign-ups in the pre-event info. It's a great way to contribute and connect.
+
+---
+
+## TL;DR
+
+Bring a cooler. Bring your favorite drinks.  
+Maybe a jar of Nutella.  
+We've got the rest covered.

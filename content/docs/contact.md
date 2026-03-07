@@ -2,8 +2,8 @@
 title: Contact
 description: "Here's my number, call me!"
 lead: "Reach out. We'll meet you."
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 150
 toc: true
 BookHidden: true
@@ -12,7 +12,7 @@ BookHidden: true
 <div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
 
 <div class="hx-col-span-1">
-![QR code to contact Bottoms Up! on WhatsApp.](/images/whatsappqr.png)
+![QR code to contact Rogue Rope Camp on WhatsApp.](/images/whatsappqr.png)
 </div>
 
 <div class="hx-col-span-1">

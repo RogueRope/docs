@@ -2,15 +2,15 @@
 title: 'Post-Rope: A Gentle Rebellion'
 description: 'A quiet turning away from the noise and the performance economy.'
 lead: "We want rope that's messy, tender, human again."
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 25
 toc: true
 ---
 
 <div class="bg-timberwolf-100 dark:bg-timberwolf-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_This is the philosophical rebellion at the heart of Bottoms Up! It explains why we reject performance culture and choose connection instead. This concept underpins everything in our [Core Philosophy](/docs/concept/philosophy)._
+_This is the philosophical rebellion at the heart of Rogue Rope Camp It explains why we reject performance culture and choose connection instead. This concept underpins everything in our [Core Philosophy](/docs/concept/philosophy)._
 
 </div>
 

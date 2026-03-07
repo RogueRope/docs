@@ -1,6 +1,6 @@
 baseURL = 'https://docs.roguerope.be/'
 languageCode = 'en-us'
-title = 'Bottoms Up!'
+title = 'Rogue Rope Camp 2026'
 theme = 'hugo-book'
 ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
 
@@ -10,13 +10,13 @@ ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
   BookShowBreadcrumbs = true
   BookShowReadingTime = true
   BookSearch = true
-  BookSearchPlaceholder = "Search gathering info..."
+  BookSearchPlaceholder = "Search camp info..."
   BookMenuBundle = true
   BookCollapseSection = true
 
 [[menu.before]]
   identifier = "home"
-  name = "🏠 Home"
+  name = "🏕️ Home"
   url = "/"
   weight = 1
 

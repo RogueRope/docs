@@ -2,8 +2,8 @@
 title: 'Neurodivergent Support'
 description: 'Creating a safe and inclusive environment for neurodivergent participants.'
 lead: 'You know your needs better than we ever could — we’re here to help you meet them.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 aliases:
   - /wellbeing/neuro
 menu:
@@ -15,7 +15,7 @@ toc: true
 
 ### Neurodivergence Is Welcome. So Is Self-Knowing.
 
-Bottoms Up! welcomes the full spectrum of how brains and bodies move through the world.
+Rogue Rope Camp welcomes the full spectrum of how brains and bodies move through the world.
 
 Autism, ADHD, anxiety, PTSD, sensory sensitivity, dyslexia, executive dysfunction, social burnout, panic loops, self-medication…  
 Whatever you're navigating — you're not too much, and you're not alone.
@@ -104,7 +104,7 @@ If you do come, come prepared. With tools. With a plan. With your own signals an
 
 ---
 
-Bottoms Up! isn’t designed for ease.  
+Rogue Rope Camp isn’t designed for ease.  
 It’s designed for truth.
 
 And we trust you to meet it in the way that’s right for you.

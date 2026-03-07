@@ -1,16 +1,16 @@
 ---
 title: 'Core Philosophy'
-description: 'Connection over performance, presence over polish - the heart of Bottoms Up!'
+description: 'Connection over performance, presence over polish - the heart of Rogue Rope Camp'
 lead: 'What makes this gathering different and how we create space together'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 10
 toc: true
 ---
 
 <div class="bg-champagne-pink-100 dark:bg-champagne-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_This is the philosophical foundation of Bottoms Up! If you're wondering whether this gathering is right for you, you might want to start with [Is This For You?](/docs/concept/is-this-for-you) first._
+_This is the philosophical foundation of Rogue Rope Camp If you're wondering whether this gathering is right for you, you might want to start with [Is This For You?](/docs/concept/is-this-for-you) first._
 
 </div>
 
@@ -23,7 +23,7 @@ Let's name what it really is: **a longing to be met**.
 
 Most of us don't struggle with what we want. We struggle with how to begin. That first moment — the glance, the ask, the touch — can feel like the hardest one. So we build bridges. We create gentle rituals and open invitations that help people find their way to one another.
 
-At Bottoms Up!, you won't leave with a certificate.
+At Rogue Rope Camp, you won't leave with a certificate.
 You might leave changed.
 
 ![Flowing rope forming organic connection shapes, symbolizing presence and authentic human meeting over performance](/images/philosophy-connection.png)
@@ -32,7 +32,7 @@ You might leave changed.
 
 ## Tie Like No One Is Watching
 
-At Bottoms Up!, we cherish the ties that bind — not just bodies, but hearts and breath, shadow and light. "Tie like no one is watching" isn't a performance note. It's an invitation to drop the mask. To meet through rope, not just with hands, but with honesty.
+At Rogue Rope Camp, we cherish the ties that bind — not just bodies, but hearts and breath, shadow and light. "Tie like no one is watching" isn't a performance note. It's an invitation to drop the mask. To meet through rope, not just with hands, but with honesty.
 
 ---
 
@@ -73,7 +73,7 @@ Here, we let go of the studio rules. We create suspension from within. The space
 
 We don't shy away from desire. We invite it.
 
-Bottoms Up! is a sex-positive space: sexuality is neither hidden nor required, and eros sits alongside rope, intimacy, and care. Bodies, hunger, and reverence all belong here.
+Rogue Rope Camp is a sex-positive space: sexuality is neither hidden nor required, and eros sits alongside rope, intimacy, and care. Bodies, hunger, and reverence all belong here.
 
 This is a space for all bodies, all backgrounds, all orientations. We honor the rigger and the bottom equally — not as roles to perform, but as people to witness.
 
@@ -129,7 +129,7 @@ A quiet turning away from the noise and the performance economy.
 
 **New to this philosophy?** → [Is This For You?](/docs/concept/is-this-for-you) — Self-reflection to see if this resonates
 
-**Ready to understand the structure?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over five days
+**Ready to understand the structure?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over six days
 
 **Want to dive deeper?** → [Join Us](/docs/practical/participation) — Everything you need to know about participating
 

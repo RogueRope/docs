@@ -2,8 +2,8 @@
 title: 'Who Belongs Here'
 description: 'Who this space is for, and who it is not for.'
 lead: 'This is a space for many, but not for all.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 18
 toc: true
 ---
@@ -23,7 +23,7 @@ _This page explores who thrives in this space. It's rooted in our [Core Philosop
 This is a space for many.
 But not for all.
 
-Bottoms Up! welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit neatly into polite society. We hold space for shadow and play, for bodies that don't match expectations, for desires that don't ask permission.
+Rogue Rope Camp welcomes queerness, neurodivergence, kink, softness, weirdness, and everything else that doesn't fit neatly into polite society. We hold space for shadow and play, for bodies that don't match expectations, for desires that don't ask permission.
 
 We want you here if you come with curiosity.
 We want you here if you long for honesty, connection, or the freedom to be as you are.
@@ -69,7 +69,7 @@ This isn't a light weekend. It's immersive, emotional, and sensory. We support p
 
 **Want to understand the philosophy?** → [Core Philosophy](/docs/concept/philosophy) — The values behind this radical inclusivity
 
-**Ready to understand what happens?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over five days
+**Ready to understand what happens?** → [Experience Structure](/docs/concept/experience) — How these ideals come alive over six days
 
 **See our commitments** → [Our Shared Agreements](/docs/concept/agreements) — How we hold this space together
 

@@ -2,8 +2,8 @@
 title: "Support & Care Systems"
 description: "How we care for each other – FWBs, conscious care, and community wellbeing"
 lead: "Care doesn't belong to a crew. It belongs to all of us."
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 aliases:
   - /wellbeing/support
   - /wellbeing/fwb
@@ -20,7 +20,7 @@ toc: true
 
 ## How Care Flows Here
 
-Care at Bottoms Up! doesn't live with one team. It's a web: FWBs and friends, the Consent Crew, quiet spaces, conscious care of the venue, and organizers backing it all up.
+Care at Rogue Rope Camp doesn't live with one team. It's a web: FWBs and friends, the Consent Crew, quiet spaces, conscious care of the venue, and organizers backing it all up.
 
 Care isn't something the organizers provide.
 It's something **we all create** — together, moment by moment.
@@ -96,7 +96,7 @@ If more support is needed, they'll help connect you with the [Consent Crew](cons
 ### Care is not just what we do for each other —
 it's what we do *with* each other.
 
-Bottoms Up! isn't staffed. It's shared. That means the space only holds us as well as **we** hold it.
+Rogue Rope Camp isn't staffed. It's shared. That means the space only holds us as well as **we** hold it.
 
 This isn't about being tidy.
 It's about being *conscious*.

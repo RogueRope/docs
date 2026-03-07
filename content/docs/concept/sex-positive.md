@@ -2,15 +2,15 @@
 title: Sex Positive, Unapologetically
 description: 'Why this gathering celebrates desire, sexuality, and eros as sacred'
 lead: 'Desire is welcome here. So is reverence.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 20
 toc: true
 ---
 
 <div class="bg-cherry-blossom-pink-100 dark:bg-cherry-blossom-pink-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_This page dives deep into what "sex-positive" means at Bottoms Up! It expands on themes introduced in [Core Philosophy](/docs/concept/philosophy) and explains how sexuality shows up in [Experience Structure](/docs/concept/experience). Read this if you need clarity on our stance toward desire and eros._
+_This page dives deep into what "sex-positive" means at Rogue Rope Camp It expands on themes introduced in [Core Philosophy](/docs/concept/philosophy) and explains how sexuality shows up in [Experience Structure](/docs/concept/experience). Read this if you need clarity on our stance toward desire and eros._
 
 </div>
 
@@ -20,7 +20,7 @@ _This page dives deep into what "sex-positive" means at Bottoms Up! It expands o
 
 Most rope events sanitize sexuality. They keep eros at arm's length, treat desire as a side effect rather than the point, frame sexual expression as something to manage rather than celebrate.
 
-Bottoms Up! is not most events.
+Rogue Rope Camp is not most events.
 
 We are **explicitly, unapologetically sex-positive**. And that's rare in the shibari world.
 

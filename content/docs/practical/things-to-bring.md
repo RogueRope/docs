@@ -1,87 +1,115 @@
 ---
 title: Things to Bring
-description: 'Your packing list for five days'
-lead: 'What you actually need'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 12
+description: 'Your packing list for six days of outdoor camping at Rogue Rope Camp 2026'
+lead: 'What you actually need. Nothing more.'
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
+menu:
+  docs:
+    parent: practical
+weight: 22
 toc: true
 ---
 
-### Required Items ⭐
+## Required Items ⭐
 
-These are **mandatory** for all participants:
+These are **mandatory**:
 
 - [ ] Your ticket (with QR code) — for entry
-- [ ] **Reusable cup** (no glass) — we provide drinks, you bring the cup
+- [ ] **Reusable cup** (no disposables, no glass) — we provide drinks, you bring the cup
+- [ ] **Trash bag** for your own waste — no bins on site
 
-### For Your Bunk 🛏️
+---
 
-Make your space comfortable for the duration:
+## Your Tent & Sleeping Setup 🏕️
 
-- [ ] **Bedding** — sleeping bag, sheets, blankets (whatever makes you cozy)
-- [ ] **Pillow** — inflatable or your favorite from home
-- [ ] A few lights for your bunk area
-- [ ] **Earplugs** — dormitory life can be... social
-- [ ] **Sleep mask** — shared spaces mean lights and movement
-- [ ] Personal items to make your bunk feel like home
+Make your space comfortable for six nights outdoors:
 
-### Personal Care Essentials 🧴
+- [ ] **Tent** with stakes and tie-downs — it can get windy
+- [ ] **Sleeping bag** appropriate for summer nights (can get cool after midnight)
+- [ ] **Sleeping mat or air mattress** — ground is ground
+- [ ] Pillow (inflatable or packable)
+- [ ] Blanket or extra layer for cold nights
+- [ ] **Rain cover / tarp** — Belgium in August can be wet
+- [ ] Fairy lights or LED strings to make your tent a beacon of weird joy
 
-Daily necessities for communal living:
+---
 
-- [ ] soap + shampoo
-- [ ] Toothbrush + toothpaste
+## Personal Care 🧴
+
+- [ ] Biodegradable soap and shampoo (important for the land)
+- [ ] Toothbrush and toothpaste
 - [ ] Quick-dry towel
 - [ ] Any prescription medications you need
-- [ ] Basic over-the-counter items (painkillers, allergy meds, etc.)
+- [ ] Basic first aid (plasters, antiseptic, electrolytes, painkillers)
+- [ ] Hand sanitizer
 
-### Food & Drink 🍽️
+---
 
-We provide meals, but these make the experience better:
+## Sun & Outdoor Essentials ☀️
 
-- [ ] Plate for meals
-- [ ] Fork, knife, spoon (or spork if you're that kind of genius)
+This is an outdoor event in August:
+
+- [ ] **Sunscreen (SPF 30+)** — wear it, reapply it
+- [ ] **Hat or cap** for daytime sun
+- [ ] **Sunglasses**
+- [ ] **Insect repellent**
+- [ ] Comfortable outdoor footwear (sandals, sturdy shoes)
+- [ ] Flip flops for shared shower/bathroom areas
+
+---
+
+## Food & Drink 🍽️
+
+- [ ] Plate, fork, knife, spoon (or spork)
 - [ ] Water bottle or hydration container
-- [ ] Your favorite snacks or specialty food items
-- [ ] Drinks you love — with or without alcohol
+- [ ] **Cooler box or insulated bag** — we provide ice cubes
+- [ ] Your favorite drinks (no bar on site — bring what you love)
+- [ ] Snacks and treats, especially if you enjoy sharing
+- [ ] Breakfast additions (we bring bread; you bring what goes on top)
 
-### Clothing & Comfort 👕
+---
 
-Dress for indoor comfort and movement:
+## Lighting & Navigation 🔦
 
-- [ ] **Comfortable layers** for various activities
-- [ ] Cozy clothes for lounging in common areas
-- [ ] Indoor clothes you can move, tie, and play in
-- [ ] **Slippers or socks** — indoor floors are shared
-- [ ] An outfit for the play party
-- [ ] A warm layer in case you need it
-- [ ] Something that makes you feel hot, silly, or sacred
-- [ ] Blanket for common area snuggling
+Nights in the field are dark:
 
-### Rope & Play Gear 🪢
+- [ ] **Headlamp** with extra batteries — non-negotiable
+- [ ] Handheld torch backup
 
-**Rope:**
+---
 
-- [ ] **Natural fiber rope** (jute, hemp, cotton) — 6-8mm thickness recommended
-- [ ] **Synthetic rope** — if you prefer (nylon, MFP)
-- [ ] Rope scissors or safety shears
+## Play & Rope 🪢
 
-**Play Items (Optional):**
+- [ ] **Rope** — even if you don't plan to use it, bring it
+- [ ] Rope care kit (scissors, conditioner)
+- [ ] Any toys, gear, or tools that bring you joy
+- [ ] **Something for the play party** — the dress code will be announced pre-event
 
-- [ ] Floggers, paddles, or other impact toys
-- [ ] Blindfolds, restraints, or sensation items
-- [ ] Wax, ice, feathers — whatever inspires you
-- [ ] Massage oils or lubes (water-based preferred)
-- [ ] Gloves for rope work or intimate play
-- [ ] Aftercare items (blankets, snacks, water)
+---
 
-### Tech & Entertainment 📱
+## Self-Care & Sanity 🧠
 
-- [ ] Phone charger 
-- [ ] Camera (if you want to document your own experience)
-- [ ] Journal and pen for reflections
-- [ ] Books, cards, or other quiet entertainment
-- [ ] Musical instruments (if you play)
+Long camps can be intense:
 
-Remember: This is about connection, not consumption. Bring what you need, but don't feel pressure to arrive with everything. Much of the magic happens with the simplest tools — rope, hands, presence, breath.
+- [ ] Earplugs — someone nearby will snore or party past your bedtime
+- [ ] Sleep mask — summer mornings start early
+- [ ] Portable phone charger / power bank
+- [ ] Charging cables
+- [ ] **Portable ashtray** if you smoke — no butts on the ground
+
+---
+
+## Please Leave These at Home
+
+- Minors (under 18)
+- Pets
+- Power-hungry appliances (fridges, heaters, AC, hair dryers)
+- Megaphones
+- Bad vibes
+
+---
+
+This list is a guide, not a prescription.  
+Bring what makes you feel safe, curious, and alive.  
+And don't forget your rope.

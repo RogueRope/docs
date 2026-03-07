@@ -2,15 +2,15 @@
 title: Is This For You?
 description: 'A gentle guide for newcomers and those wondering if this gathering is right for them'
 lead: "You don't have to know. You just have to want to find out."
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+date: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-07T10:00:00+00:00
 weight: 5
 toc: true
 ---
 
 <div class="bg-timberwolf-100 dark:bg-timberwolf-900/20 hx-p-6 hx-rounded-lg hx-mb-8">
 
-_New to Bottoms Up!? Start here. This page will help you decide if this gathering is right for you. Once you understand the fit, explore [Core Philosophy](/docs/concept/philosophy) to understand the values that shape everything we do._
+_New to Rogue Rope Camp? Start here. This page will help you decide if this gathering is right for you. Once you understand the fit, explore [Core Philosophy](/docs/concept/philosophy) to understand the values that shape everything we do._
 
 </div>
 
@@ -42,7 +42,7 @@ You just have to be curious. And kind. And willing to feel.
 
 This is a place for the real.
 
-We've built Bottoms Up! for the ones who want something more. Not flashier. Not sexier. But **truer**.
+We've built Rogue Rope Camp for the ones who want something more. Not flashier. Not sexier. But **truer**.
 
 If you're worried you won't know how to start a conversation — you're not alone. Most of us have felt that. So we've created icebreakers, gentle encounters, and open spaces that make it easier to connect. No games, no pressure. Just invitations.
 
@@ -78,7 +78,7 @@ Consent means you get to choose — every time.
 
 This isn't for everyone. That's not a judgment — it's design.
 
-Bottoms Up! works best when people arrive knowing what they're stepping into. So let's get honest about who thrives here and who might find what they need elsewhere.
+Rogue Rope Camp works best when people arrive knowing what they're stepping into. So let's get honest about who thrives here and who might find what they need elsewhere.
 
 ### Are You Craving This?
 
@@ -92,11 +92,11 @@ We value real conversation over rope tricks. Vulnerability over Instagram moment
 We create space for consent that's enthusiastic, ongoing, and held collectively. Emotional safety matters as much as physical safety here.
 
 **🌅 Time to slow down and feel deeply?**  
-Five days to step away from rush culture. To breathe. To be present. To let intimacy unfold naturally without agenda or timeline.
+Six days to step away from rush culture. To breathe. To be present. To let intimacy unfold naturally without agenda or timeline.
 
 ### You'll Love This If...
 
-**You're craving connection over curriculum** — If you want a lineup of technical classes and certificates, this isn’t that. We learn here through play, presence, and community, not through a workshop schedule. Curious how that works over five days? → [Experience Structure](/docs/concept/experience)
+**You're craving connection over curriculum** — If you want a lineup of technical classes and certificates, this isn’t that. We learn here through play, presence, and community, not through a workshop schedule. Curious how that works over six days? → [Experience Structure](/docs/concept/experience)
 
 **You're curious about rope** — whether you've never touched it or you've been tying for years. Experience level doesn't matter. Openness does.
 
@@ -104,7 +104,7 @@ Five days to step away from rush culture. To breathe. To be present. To let inti
 
 **You want to connect with like-minded people** — folks who see kink as a doorway to deeper humanity, not just a bedroom activity.
 
-**You're comfortable with communal living** — shared meals, bunk beds, morning coffee conversations with people you just met.
+**You're comfortable with communal living** — shared meals, tents side by side, morning coffee conversations with people you just met.
 
 **You can hold space for others' emotions** — tears, laughter, overwhelm, and joy are all welcome parts of this experience.
 
@@ -132,7 +132,7 @@ Ask yourself:
 
 💭 **Do I want to explore rope as a practice of intimacy and presence?**
 
-💭 **Can I commit to five days of authentic engagement with a community?**
+💭 **Can I commit to six days of authentic engagement with a community?**
 
 If you're feeling "YES" — even a nervous, excited, uncertain yes — then this might be exactly what you need.
 
