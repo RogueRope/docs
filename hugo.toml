@@ -1,7 +1,7 @@
 baseURL = 'https://docs.roguerope.be/'
 languageCode = 'en-us'
 title = 'Bottoms Up!'
-theme = 'hugo-book'
+theme = 'hextra'
 ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
 
 [params]
