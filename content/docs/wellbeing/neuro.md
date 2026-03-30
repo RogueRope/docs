@@ -1,21 +1,22 @@
 ---
-title: 'Neurodivergent Support'
-description: 'Creating a safe and inclusive environment for neurodivergent participants.'
-lead: 'You know your needs better than we ever could — we’re here to help you meet them.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-aliases:
-  - /wellbeing/neuro
-menu:
+title: Neuro-Divergence
+description: Creating a Safe and Inclusive Environment for Neurodivergent Individuals
+lead: "You know your needs better than we ever could."
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2026-03-29T13:37:00+00:00
+images: []
+menu: 
   docs:
-    parent: wellbeing
-weight: 35
+    parent: "wellbeing"
+weight: 20
 toc: true
 ---
 
 ### Neurodivergence Is Welcome. So Is Self-Knowing.
 
-Bottoms Up! welcomes the full spectrum of how brains and bodies move through the world.
+Rogue Rope Camp welcomes the full spectrum of how brains and bodies move through the world.
+
+![A quiet corner with a canopy, blankets, and small comfort items.](/images/rrc26/mj/Quiet_support_corner_small_canopy_blankets_earplugs_noise-can_a12527b6-2777-422a-8fbf-aa09bf53323b_0.png)
 
 Autism, ADHD, anxiety, PTSD, sensory sensitivity, dyslexia, executive dysfunction, social burnout, panic loops, self-medication…  
 Whatever you're navigating — you're not too much, and you're not alone.
@@ -25,7 +26,7 @@ But we’ll say this plainly:
 **There is no dedicated neuro-support crew.**
 
 There are no therapists, no designated liaisons.  
-Just a gathering full of people doing their best — including you.
+Just a camp full of people doing their best — including you.
 
 ---
 
@@ -35,50 +36,13 @@ Just a gathering full of people doing their best — including you.
   We trust you to know what helps — and to bring it with you.
 
 - **Support is peer-based and informal.**  
-  If you’re struggling, reach out to someone you trust. That might be a friend, a partner, a fellow participant.  
+  If you’re struggling, reach out to someone you trust. That might be a friend, a partner, a fellow camper.  
 
 - **Care flows in all directions.**  
   If you’re able to support someone else, beautiful. If not, that’s okay too. Don’t overextend yourself to meet someone else’s regulation needs. You don’t have to.
 
 - **The quiet space is open to all.**  
   No forms, no check-ins. Just a soft, low-stim place to decompress if the outside gets too loud.
-
----
-
-### Resources We Provide
-
-**Physical accommodations**
-
-- Quiet, low-stimulation spaces for decompression  
-- Clear signage and info about how the venue is laid out  
-- Flexibility to opt in and out so you can pace yourself  
-- Basic sensory tools on hand (earplugs, eye masks, fidgets)
-
-**Social accommodations**
-
-- Zero expectation to attend everything  
-- Multiple ways to connect: verbal, non-verbal, structured, free-form  
-- Acknowledgement that social energy is finite and valid to protect  
-- FWBs available for gentle peer support
-
-**Communication support**
-
-- Clear, direct guidelines you can reference in writing  
-- Permission to ask for clarifications and repeat info  
-- Understanding that processing styles and speeds vary
-
----
-
-### Self-Care Strategies
-
-Bring or arrange what keeps you regulated:
-
-- Sensory tools (noise-cancelling headphones, weighted items, textures)  
-- Executive function aids (timers, schedules, reminders)  
-- Emotional regulation supports (comfort objects, grounding techniques)  
-- Communication scripts or cards for tricky conversations
-
-Taking care of your neurodivergent needs isn’t selfish — it’s how you show up authentically for connection.
 
 ---
 
@@ -94,7 +58,7 @@ That said:
 
 ## Be Real With Yourself
 
-This gathering is raw, intense, and immersive.  
+This camp is raw, intense, and immersive.  
 It can be magical. It can also be too much.
 
 If you know you need more structure, more predictability, or more emotional scaffolding than this space can offer — **that’s okay.**  
@@ -104,7 +68,7 @@ If you do come, come prepared. With tools. With a plan. With your own signals an
 
 ---
 
-Bottoms Up! isn’t designed for ease.  
+Rogue Rope isn’t designed for ease.  
 It’s designed for truth.
 
 And we trust you to meet it in the way that’s right for you.

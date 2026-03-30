@@ -2,37 +2,63 @@ baseURL = 'https://docs.roguerope.be/'
 languageCode = 'en-us'
 title = 'Bottoms Up!'
 theme = 'hextra'
-ignoreLogs = ['warning-goldmark-raw-html', 'warning-no-layout-for-kind']
-
-[params]
-  BookTheme = "dark"
-  BookShowToc = true
-  BookShowBreadcrumbs = true
-  BookShowReadingTime = true
-  BookSearch = true
-  BookSearchPlaceholder = "Search gathering info..."
-  BookMenuBundle = true
-  BookCollapseSection = true
-
-[[menu.before]]
-  identifier = "home"
-  name = "🏠 Home"
-  url = "/"
-  weight = 1
-
-[[menu.after]]
-  identifier = "contact"
-  name = "✉️ Contact"
-  url = "/docs/contact"
-  weight = 1
+enableRobotsTXT = true
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 3
 
 [outputs]
   home = ["HTML", "RSS"]
+
+[[menus.main]]
+  identifier = "docs"
+  name = "Docs"
+  pageRef = "/docs"
+  weight = 1
+
+[[menus.main]]
+  identifier = "theme-toggle"
+  weight = 99
+  [menus.main.params]
+    type = "theme-toggle"
+
+[params]
+  displayUpdatedDate = true
+  dateFormat = "January 2, 2006"
+
+  [params.theme]
+    default = "dark"
+    displayToggle = true
+
+  [params.search]
+    enable = true
+    type = "flexsearch"
+
+  [params.navbar]
+    displayTitle = true
+    displayLogo = true
+    [params.navbar.logo]
+      path = "images/logo-dark.svg"
+      dark = "images/logo-dark.svg"
+      width = 32
+      height = 32
+
+  [params.footer]
+    enable = true
+    displayCopyright = true
+    displayPoweredBy = false
+
+  [params.page]
+    width = "normal"
+
+  [params.imageZoom]
+    enable = true
+
+  [params.highlight]
+    [params.highlight.copy]
+      enable = true
+      display = "hover"

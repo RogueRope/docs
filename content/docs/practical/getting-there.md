@@ -1,96 +1,53 @@
 ---
-title: Getting There
-description: 'How to travel to the venue, parking, public transit, and arrival details'
-lead: 'Everything you need to know to get to Mol'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 5
+title: "Getting There"
+description: "Arrival notes for Rogue Rope Camp: timing, carpooling, and what to do if you're delayed."
+lead: "How to arrive smoothly (and what to do if plans go sideways)."
+date: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-28T00:00:00+00:00
+images: []
+weight: 20
 toc: true
+draft: false
 ---
 
-## Location
+### Getting There
 
-**🏠 Venue:** Bottoms Up! Camp  
-**📍 Address & directions:** Shared in your ticket confirmation email and pre-event info pack for privacy and safety.
+We share the exact address and last-mile directions with confirmed participants.
+
+Until then, here is what to plan for.
+
+![Travel prep on a table: keys, coffee, a map, and rope.](/images/rrc26/mj/Travel_prep_scene_car_keys_blank_ticket-shaped_paper_folded_m_43b2ea63-f791-404d-ab01-f59b5c989ab7_0.png)
 
 ---
+
+## Arrival Timing
+
+- Camp runs **Tue–Sun, Aug 4–9, 2026**.
+- If you can, arrive on **Tuesday** for Build Day.
+- Please plan to arrive **by Wednesday evening** unless you've arranged otherwise.
+
+## Carpooling
+
+If you're open to sharing a ride, do. It makes arrival easier and tends to land you in camp already connected.
+
+We coordinate carpooling in the participant chat (shared after confirmation).
 
 ## By Car
 
-### Driving Directions
+- Expect the final stretch to be rural.
+- Bring buffer time. Don't aim to arrive stressed.
+- If you're hauling heavy gear, arriving in daylight is kinder.
 
-Use your GPS/maps app with the coordinates or address above. Mol is in northern Belgium, easily accessible from the Netherlands, Germany, and most of Western Europe.
+## By Train + Ride Share
 
-### Parking
+- We'll share the most practical train stop and suggested taxi/ride-share options in the participant info pack.
+- If you're arranging a pickup, mention your arrival time and how much gear you're carrying.
 
-- **Free parking available** on-site
-- **Accessible parking spaces** reserved near main entrance
-- If you need accessible parking, **let us know when you register**
-- Arrive Wednesday afternoon to secure a spot
+## Parking + Drop-Off
 
-**Unloading:** You can drop off luggage near the entrance before parking. Someone will help direct you.
+- Parking instructions are posted on arrival.
+- Please follow signage and keep access roads clear.
 
----
+## If You're Running Late
 
-## By Public Transit
-
-### Train + Local Transport
-
-The nearest major train hub is **Mol, Belgium**.
-
-From Mol station you can typically:
-
-- **Take a local bus or shared ride** toward the venue area (details shared in your pre-event email)
-- **Book a taxi** from the station to the venue (check local apps or station taxi stands for current pricing)
-- **Arrange a ride-share** with other participants via our community WhatsApp space
-
-Exact step-by-step transit directions (including bus routes, stops, and walking time) are included in your ticket confirmation and pre-event information email.
-
----
-
-
-## Build Day - Wednesday Afternoon
-
-### Arrival flows into build.
-
-Bottoms Up! doesn't just _appear_.
-It's built — by hands, by hearts, by you.
-
-Our gathering now begins on **Wednesday afternoon**, with **Build Day** folded into the experience itself. No separation. No staff. Just a space, some rope, and a growing circle of people making it real.
-
-This is your invitation to be part of the beginning.
-
-### What to Expect
-
-You don't need to be strong. Or skilled. Or organized.  
-You just need to show up.
-
-We'll hang lights, set up suspension points, decorate the space, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
-
-Come early. Arrive Wednesday afternoon if you can.
-This is one of the best ways to meet people, soften into the vibe, and become part of the magic _before_ it officially begins.
-
-### Wednesday 21:00 is Mandatory
-
-**You must arrive by Wednesday 21:00 for the Opening Circle.** This is not flexible.
-
-This ritual is the threshold—it shapes how we hold space together, sets our collective agreements, and creates the energetic foundation for everything that follows.
-
-If you cannot commit to being present Wednesday evening, this gathering isn't the right fit for you this year. We'd rather you honor your real capacity and join us when you can fully show up.
-
-**No late arrivals.** Plan accordingly.
-
----
-
-## Questions?
-
-- **Travel logistics:** Email [info@roguerope.be](mailto:info@roguerope.be)
-- **Ride-share coordination:** Join our WhatsApp group (link in your ticket confirmation email)
-- **Accessibility transportation needs:** Reach out directly — we want to support you
-
-
----
-
-**See you soon!**
-
-Come Wednesday afternoon if you can. Build the space with us. Let's create something beautiful together.
+Send us a message via [Contact](/docs/contact/) so we can coordinate your arrival (and make sure you land well).

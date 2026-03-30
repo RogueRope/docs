@@ -1,92 +1,30 @@
-title: 'Bottoms Up!'
-description: 'Five-day intimate rope gathering in Belgium. Connection over performance, consent as sacred practice. Limited to 42 participants. Feb 18-22, 2026.'
-lead: 'A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-22T11:20:48+00:00
+---
+title: "Rogue Rope Camp"
+description: "Six-day intimate rope gathering in Belgium. Connection over performance, consent as sacred practice. Aug 4-9, 2026."
+lead: "A sanctuary for rope as ritual, connection over performance, and consent as sacred practice."
 weight: 1
 toc: false
 ---
 
-<div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto">
+![Trees with string lights framing a path into the field.](/images/rrc26/mj/Rural_summer_field_string_lights_between_trees_simple_rope_pr_0c4e9941-0f84-4c45-8977-dbae60ce5e58_0.png)
 
-# Bottoms Up!
-
-<p class="hx-text-xl text-outer-space hx-mb-8">
-A sanctuary for rope as ritual, connection over performance, and consent as sacred practice.
-</p>
-
-</div>
-
-<div class="bg-gradient-ash-timberwolf hx-py-8 hx-px-6 hx-rounded-lg hx-mb-12">
-
-## 📅 Wed–Sun, 18–22 Feb 2026 (Mol, BE)
-
-**🎫 €169 • Limited to 42 people**  
-_[Tickets available December 1st, 2025](/docs/practical/participation)_
-
-</div>
-
-<div class="hx-prose hx-prose-lg dark:hx-prose-invert hx-mx-auto hx-mb-12">
+{{< callout type="info" >}}
+**Rogue Rope Camp 2026**  
+Tue–Sun, **Aug 4–9, 2026** (east of Ghent, Belgium)  
+Tickets on sale **April 15, 2026**
+{{< /callout >}}
 
 ## New here? Welcome.
 
-If you've been with us before — welcome back to the warmth of connection.  
-If this is your first gathering — breathe deep. You're exactly where you need to be.
+This is not a gathering for spectators. It’s a space for participation, care, and honest connection. Rope is welcome, eros is invited, and consent is the baseline.
 
-This isn't a gathering for spectators. It's a sanctuary. For the curious. For the brave enough to be vulnerable. A space where desire whispers — never demands. Where rope is an invitation — never an obligation.
+Start wherever you feel drawn. If you’re new, the “New Here?” page is designed to help you land.
 
-Five days to shed the rush. To sink into something slower, softer, more essential.
-
-Come to tie. Come to surrender. Come to discover what lives in the spaces between.
-
-</div>
-
----
-
-<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-8 hx-mb-12">
-
-<div class="bg-ash-gray-100 hx-p-6 hx-rounded-lg">
-
-### 🌱 First time here?
-
-**Start your journey:**
-
-1. **[Is this for you?](/docs/concept/is-this-for-you)** — Self-reflection and gentle guidance
-2. **[Vibe](/docs/concept)** — What makes this gathering unique
-3. **[Join Us](/docs/practical/participation)** — Everything you need to know
-
-<div class="hx-mt-4">
-[Start Here →](/docs/concept/is-this-for-you)
-{.btn-ash-gray.hx-inline-flex.hx-items-center.hx-px-4.hx-py-2.hx-rounded-md.hx-transition-colors}
-</div>
-
-</div>
-
-<div class="bg-cherry-blossom-pink-100 hx-p-6 hx-rounded-lg">
-
-### 🏠 Returning home?
-
-**Welcome back:**
-
-- **[What's new this year](/docs/concept/experience)** — The ceremonies that shape our time
-- **[Get your spot](/docs/practical/participation)** — Secure your return to the warmth
-- **[Connect](/docs/contact)** — Questions or just want to say hello?
-
-<div class="hx-mt-4">
-[Get Your Spot →](/docs/practical/participation)
-{.btn-cherry-blossom-pink.hx-inline-flex.hx-items-center.hx-px-4.hx-py-2.hx-rounded-md.hx-transition-colors}
-</div>
-
-</div>
-
-</div>
-
----
-
-<div class="hx-text-center hx-py-8">
-
-_Rope as ritual. Connection over performance. Consent as sacred practice._
-
-**Bring your hunger. Bring your tenderness.**
-
-</div>
+{{< cards cols="2" >}}
+{{< card link="/docs/concept/new-here/" title="First Time Here?" subtitle="Orientation, self-reflection, and what to expect." icon="sparkles" >}}
+{{< card link="/docs/manifesto/" title="Manifesto" subtitle="The agreements that make this space possible." icon="check-circle" >}}
+{{< card link="/docs/practical/tickets/" title="Tickets & Participation" subtitle="Pricing, what’s included, and how to join." icon="ticket" >}}
+{{< card link="/docs/practical/" title="Practical Info" subtitle="Travel, camping, food, and what to bring." icon="information-circle" >}}
+{{< card link="/docs/wellbeing/" title="Wellbeing" subtitle="Consent, support, aftercare, and access." icon="heart" >}}
+{{< card link="/docs/contact/" title="Contact" subtitle="Questions, accessibility needs, or a private check-in." icon="chat-alt" >}}
+{{< /cards >}}

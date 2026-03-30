@@ -1,26 +1,33 @@
 ---
-title: 'Practical'
-description: 'Logistics, policies, and everything you need to know to attend'
-lead: 'The details that make it all work'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-22T15:11:00+00:00
-weight: 2
-toc: true
-bookCollapseSection: true
+title: "Practical Info"
+description: "Logistics, preparation, and participation for Rogue Rope Camp 2026."
+lead: "Everything you need to arrive prepared, grounded, and ready to participate."
+weight: 1
+toc: false
 ---
 
-Quick links to all the practical information you need to attend.
+![A small crew setting up string lights together.](/images/rrc26/mj/Build_Day_scene_hands_hanging_string_lights_tying_fabric_to_a_2ca98377-6237-44c5-a34e-64c16d18638f_1.png)
 
-## Pages in this section
+Rogue Rope Camp runs on a simple premise: we take care of the basics so you can take care of your nervous system.
 
-- [Getting There](getting-there) — How to travel to the venue, parking, public transit, and arrival details.
-- [Arrival & Your First Day](arrival) — Everything you need to know about checking in, settling in, and finding your way in the first 24 hours.
-- [Schedule](schedule) — Five days of connection, ritual, and intimacy.
-- [Accommodations](accommodations) — Where and how you'll sleep during the gathering.
-- [Things to Bring](things-to-bring) — Your packing list for five days.
-- [Food & Meals](food) — What to expect for meals and what to bring.
-- [Leave No Trace & Space Care](leave-no-trace) — How we care for the venue together.
-- [Tickets](participation) — Get your ticket and manage refunds, resales, and payment options.
-- [Policies & Guidelines](policies) — Core rules that keep this gathering safe, intentional, and caring.
-- [Photography Guidelines](photography-guidelines) — How to document Bottoms Up! without breaking trust.
-- [Frequently Asked Questions](faq) — Common questions about Bottoms Up! and how to prepare.
+Build Day is part of the culture. It’s not about being handy, it’s about arriving early, meeting people, and shaping the space together.
+
+{{< callout type="info" >}}
+**Dates:** Tue–Sun, **Aug 4–9, 2026**  
+**Ticket sales:** **April 15, 2026**  
+**Shop:** `https://shop.gogogonzo.be/RRC26/`  
+**Contact:** `contact@roguerope.be`
+{{< /callout >}}
+
+{{< cards cols="3" >}}
+{{< card link="/docs/practical/tickets/" title="Tickets" subtitle="What’s included, pricing, and how to participate." icon="ticket" >}}
+{{< card link="/docs/practical/getting-there/" title="Getting There" subtitle="Travel guidance to the site east of Ghent." icon="map" >}}
+{{< card link="/docs/practical/camping/" title="Camping" subtitle="Field life: tents, vans, and what to expect." icon="home" >}}
+{{< card link="/docs/practical/food/" title="Food" subtitle="Meals, dietary needs, and how we share the table." icon="clipboard" >}}
+{{< card link="/docs/practical/things-to-bring/" title="Things to Bring" subtitle="Packing list for six days on the land." icon="clipboard-list" >}}
+{{< card link="/docs/practical/leave-no-trace/" title="Leave No Trace" subtitle="How we protect the land and each other." icon="sparkles" >}}
+{{< card link="/docs/practical/build-day/" title="Build Day" subtitle="How we begin together." icon="users" >}}
+{{< card link="/docs/practical/cancellation/" title="Cancellation" subtitle="If plans change: refunds and transfers." icon="ban" >}}
+{{< card link="/docs/practical/faq/" title="FAQ" subtitle="Common questions and quick answers." icon="information-circle" >}}
+{{< /cards >}}
+

@@ -1,87 +1,89 @@
 ---
 title: Things to Bring
-description: 'Your packing list for five days'
-lead: 'What you actually need'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 12
+description: "A practical packing list for six days in the field."
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2026-03-29T13:37:00+00:00
+images: []
+weight: 32
 toc: true
+lead: "The essentials, so you can arrive comfortable."
 ---
 
-### Required Items ⭐
+![Travel prep on a table: keys, coffee, a map, and rope.](/images/rrc26/mj/Travel_prep_scene_car_keys_blank_ticket-shaped_paper_folded_m_43b2ea63-f791-404d-ab01-f59b5c989ab7_0.png)
 
-These are **mandatory** for all participants:
+### The Basics
+- Your ticket (with QR code)
+- Rope (even if you don’t plan to use it)
+- Any toys or gear that bring you joy
 
-- [ ] Your ticket (with QR code) — for entry
-- [ ] **Reusable cup** (no glass) — we provide drinks, you bring the cup
+### For Eating & Drinking
+- Solid **reusable cup** (no glass) ~ **MANDATORY**
+- Plate for meals
+- Fork, knife, spoon (or spork if you’re that kind of genius)
+- Water bottle or hydration container
+- Your favorite snacks or specialty food items
+- Drinks you love — with or without alcohol
+- Cooler bag or box + space in your heart for ice (we’ll provide that part)
 
-### For Your Bunk 🛏️
+### Lighting & Navigation
+- Handheld torch **with extra batteries**
+- LED headlamp for hands-free nighttime wanderings
+- Lights or fairy strings to make your tent a beacon of weird joy
 
-Make your space comfortable for the duration:
+### Camping Comfort
+- Tent with stakes + tie-downs (it might get windy)
+- Sleeping bag (appropriate for summer nights)
+- Sleeping mat, air mattress, or padding
+- Inflatable or packable pillow
+- Blanket or chair for fireside lounging
+- Something soft to sit on in the amphitheatre of flames
 
-- [ ] **Bedding** — sleeping bag, sheets, blankets (whatever makes you cozy)
-- [ ] **Pillow** — inflatable or your favorite from home
-- [ ] A few lights for your bunk area
-- [ ] **Earplugs** — dormitory life can be... social
-- [ ] **Sleep mask** — shared spaces mean lights and movement
-- [ ] Personal items to make your bunk feel like home
+### Hygiene & Health
+- Biodegradable soap + shampoo
+- Toothbrush + toothpaste
+- Quick-dry towel
+- Hand sanitizer
+- Any prescription meds you need
+- Useful over-the-counter stuff (painkillers, allergy meds, etc.)
+- First aid basics (band-aids, antiseptic, electrolytes)
 
-### Personal Care Essentials 🧴
+### Self-Care & Sanity
+- Ear plugs (you might be tented near a snorer)
+- Sleeping mask (sunrise is early)
+- Sunscreen (SPF 30+)
+- Hat, scarf, or shawl for shade
+- Sunglasses
+- Insect repellent
+- Portable phone charger / power bank
+- Charging cables for your stuff
+- A **trash bag** for your own waste (no bins on site!)
+- A **portable ashtray** if you smoke
 
-Daily necessities for communal living:
+### Dressing for Delight
+- Layers — warm nights aren’t guaranteed
+- Camp clothes you can move, tie, and play in
+- An [outfit for the play party](/docs/dresscode/)
+- Something that makes you feel hot, silly, or sacred
 
-- [ ] soap + shampoo
-- [ ] Toothbrush + toothpaste
-- [ ] Quick-dry towel
-- [ ] Any prescription medications you need
-- [ ] Basic over-the-counter items (painkillers, allergy meds, etc.)
+---
 
-### Food & Drink 🍽️
+### Food Planning
 
-We provide meals, but these make the experience better:
+We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) for what’s provided and what to bring.
 
-- [ ] Plate for meals
-- [ ] Fork, knife, spoon (or spork if you're that kind of genius)
-- [ ] Water bottle or hydration container
-- [ ] Your favorite snacks or specialty food items
-- [ ] Drinks you love — with or without alcohol
+---
 
-### Clothing & Comfort 👕
+## Please Leave These at Home
 
-Dress for indoor comfort and movement:
+- Kids (<18j)
+- Pets (even the cute ones)
+- Megaphones
+- Devices that drain power (heaters, fridges, AC units)
+- Bad vibes
+- Teslas
 
-- [ ] **Comfortable layers** for various activities
-- [ ] Cozy clothes for lounging in common areas
-- [ ] Indoor clothes you can move, tie, and play in
-- [ ] **Slippers or socks** — indoor floors are shared
-- [ ] An outfit for the play party
-- [ ] A warm layer in case you need it
-- [ ] Something that makes you feel hot, silly, or sacred
-- [ ] Blanket for common area snuggling
+---
 
-### Rope & Play Gear 🪢
-
-**Rope:**
-
-- [ ] **Natural fiber rope** (jute, hemp, cotton) — 6-8mm thickness recommended
-- [ ] **Synthetic rope** — if you prefer (nylon, MFP)
-- [ ] Rope scissors or safety shears
-
-**Play Items (Optional):**
-
-- [ ] Floggers, paddles, or other impact toys
-- [ ] Blindfolds, restraints, or sensation items
-- [ ] Wax, ice, feathers — whatever inspires you
-- [ ] Massage oils or lubes (water-based preferred)
-- [ ] Gloves for rope work or intimate play
-- [ ] Aftercare items (blankets, snacks, water)
-
-### Tech & Entertainment 📱
-
-- [ ] Phone charger 
-- [ ] Camera (if you want to document your own experience)
-- [ ] Journal and pen for reflections
-- [ ] Books, cards, or other quiet entertainment
-- [ ] Musical instruments (if you play)
-
-Remember: This is about connection, not consumption. Bring what you need, but don't feel pressure to arrive with everything. Much of the magic happens with the simplest tools — rope, hands, presence, breath.
+This list is a suggestion, not a prescription.  
+Bring what makes you feel safe, curious, and alive.  
+And don’t forget your rope.

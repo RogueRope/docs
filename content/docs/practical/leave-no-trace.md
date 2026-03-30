@@ -1,62 +1,58 @@
 ---
-title: Leave No Trace & Space Care
-description: 'How we care for the space together'
-lead: 'We leave it better than we found it'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 30
+title: Leave No Trace
+description: "How we protect the land and our shared home."
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2026-03-29T13:37:00+00:00
+images: []
+weight: 35
 toc: true
+lead: "Leave the land as you found it, or better."
 ---
 
-## The Basic Idea
+### The Land Holds Us. Let’s Hold It, Too.
 
-Care for shared space is collective. Notice what's yours. Pick it up. Clean what you use. Respect what others have left.
+Rogue Rope Camp takes place in a wild, beautiful space — and we want to keep it that way. That means leaving no trace behind. No trash. No damage. No mess for someone else to clean up.
 
----
+![Trees with string lights framing a path into the field.](/images/rrc26/mj/Rural_summer_field_string_lights_between_trees_simple_rope_pr_0c4e9941-0f84-4c45-8977-dbae60ce5e58_0.png)
 
-## During the Event
-
-We share these rooms like we share scenes: with care, attention, and a sense that someone else will arrive after us. Notice what needs doing and do it if you can.
-
-**Meal areas** stay inviting when we clear plates, wipe tables, and tuck leftovers away before they wander off on their own. If you see dishes waiting for a wash, give them a quick rinse.
-
-**Play spaces** breathe easier when equipment gets a wipe-down, ropes are coiled, and furniture finds its home again. Think of it as resetting the stage for whoever comes next.
-
-**Sleeping areas** feel restful when bunks stay loosely organized, clothes live in bags instead of on floors, and shared items boomerang back to where everyone expects them.
-
-**Bathrooms**  anything disposable lands in the bins provided.
-
-**General vibe:** carry your trash with you, and if something looks off, either tend to it or tap an organizer. Shared responsibility is the kink here.
+We treat the land like we treat each other: with care, with respect, and with attention.
 
 ---
 
-## Final Day Checkout
+### No General Trash Cans. No Problem.
 
-- Strip your bed
-- Collect all your belongings
-- Clean your bunk area
-- Return room key
-- Leave nothing behind except gratitude
+There are no general garbage bins on site — by design. That means **whatever you bring in, you take back out**. We only provide bins for compostable waste (food scraps).
 
----
-
-## After You Leave
-
-If you plan to share photos or memories beyond our private channels, read the “After the Gathering” section of [Photography Guidelines]({{< ref "/docs/practical/photography-guidelines" >}} "Photography Guidelines") for consent refreshers, venue anonymity, and deletion requests. Protect the people and the place the same way you did on site.
+Some tips to make that easy:
+- Pack light and leave excess packaging at home.
+- Bring a small bag for your personal waste.
+- Use reusable containers and tools whenever you can.
+- Be mindful of what you consume — it adds up.
 
 ---
 
-## Why It Matters
+### Sort It Before You Leave
 
-When we leave space better than we found it, we:
-
-- Show respect for the venue
-- Demonstrate consent (even to the building)
-- Practice caring—which is what this gathering is about
-- Make the next gathering possible
-
-**It becomes a practice you carry into your life.**
+- **Compostable stuff** (food scraps, paper napkins, etc.): We’ll have designated bins for these on site.  
+- **Recyclables** (glass, metal, clean plastic): Pack them out. Sort them at home.  
+- **Trash that can’t be recycled** (wrappers, mixed materials, etc.): Take it with you. Please don’t leave it behind.
 
 ---
 
-![Diverse hands of all kinds caring for a shared space together—human hands wiping, organizing, tidying alongside a glowing magical non-human hand, celebrating collective care and joy](/images/leave-no-trace-hands.png)
+### Coming by Train or Bus?
+
+We don’t expect you to carry garbage bags on public transport. If you’re not driving, let us know — we’ll sort out a way to help with your trash.
+
+---
+
+### Smokers, Read This
+
+If you smoke, bring a **portable ashtray**. Pocket tins, old film canisters, or custom buttpouches all work. Keep your butts off the ground — for fire safety, and because no one wants to kneel in someone else’s cigarette.
+
+---
+
+We want to be invited back.  
+We want the land to feel loved.  
+We want to show what a kinky camp can do when it cares.
+
+Leave no trace. Leave beauty instead.

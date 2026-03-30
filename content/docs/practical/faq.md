@@ -1,82 +1,65 @@
 ---
-title: Frequently Asked Questions
-description: 'Common questions about Bottoms Up! and how to prepare'
-lead: 'Questions you might have. Honest answers.'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 50
+title: "FAQ"
+description: "Quick answers to common questions about Rogue Rope Camp."
+lead: "The basics, clarified."
+date: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-28T00:00:00+00:00
+images: []
+weight: 40
 toc: true
+draft: false
 ---
 
-## The Gathering
+### FAQ
 
-**Is this just 5 days?** Yes. Wed 18:00 – Sun 14:00. That's 5 full days—long enough to truly settle in, short enough to stay fully present.
+This page is a living list. If something is unclear, ask via [Contact](/docs/contact/).
 
-**What time do I need to arrive?** **Wednesday by 21:00 for the Opening Circle — this is mandatory.** You must be present for this foundational ritual. If you can't make Wednesday evening, this gathering isn't the right fit for you this year. Leaving early is fine, but arriving on time is essential. → Travel tips & Build Day details live in [Getting There](getting-there).
-
-**Do I have to do rope?** No. Watch, connect, rest, or play. All of it's welcome.
-
-**Is this sexual?** Yes. Sex-positive, sexual interactions happen. If seeing others kiss, touch, or express sexuality makes you very uncomfortable, this isn't your event. We're clear because consent is mutual.
-
-**Will I know anyone?** ~60% come solo. You'll meet people. By day 2, you'll know folks. By day 4, you're part of something.
+![Small creatures resting together in the grass.](/images/rrc26/mj/Creatures_chilling_in_the_field_--ar_43_--profile_mwbhj59_--v_38f94641-3940-48ab-b3c2-0165e2d1abb6_2.png)
 
 ---
 
-## Practical Details
+## What are the dates?
 
-**What's included?** €169 covers: 4 nights, one hot meal per day plus provisions, spaces, support, basic equipment. → Need the full breakdown? See [Participation Details](participation).
+Tue–Sun, **Aug 4–9, 2026**, east of Ghent (BE).
 
-**Sliding scale?** Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access".
+## Do I need rope experience?
 
-**How many people?** 42 max. Why? Intimacy without anonymity. We know each other's names.
+No. Beginners are welcome.
 
-**Who comes?** Mix of rope experience, queer, kinky, disabled, neurodivergent folks from across Europe. Beginners and experienced. Solo, couples, friend groups.
+## Do I have to do rope at all?
 
-**Accessibility/disabilities?** Tell us when you register. We offer indoor rooms, ground-floor options, quiet spaces, flexible meals, volunteer support. Have specific needs? Email us early—we'll problem-solve. → For room layouts and vibes, see [Accommodations](accommodations).
+No. Rope is welcome, not required.
 
-**Food allergies?** Vegetarian/meat fully supported. Vegan best-effort. Special needs (gluten-free, etc.)? Tell us; we coordinate. → Menu rhythm and kitchen info live in [Food & Meals](food).
+## Can I come alone?
 
-**Dress code?** No. Wear comfortable, intentional clothes. Layers. Something for the play party, wich will have an easy and broad theme. Slippers/socks for shared floors.
+Yes. Many people do.
 
----
+## Is this a spectator event?
 
-## Safety & Boundaries
+No. It's a co-created gathering, not a show.
 
-**Consent framework?** Ask before touch. Respect "no." Check in during play. Continuous, not one-time. [Full framework →]
+## When should I arrive?
 
-**Consent violation?** Find Consent Crew (identified at opening circle). You're supported first. We take it seriously. You're believed.
+If you can, arrive Tuesday for Build Day. Plan to arrive **by Wednesday evening** unless arranged otherwise.
 
-**First aid?** Yes, trained responders on-site. Hospital in Mol (~10 min).
+See [Schedule](/docs/concept/schedule/).
 
-**Overwhelmed?** Quiet spaces available. Find an FWB (support person). Rest, cry, leave if needed. Your wellbeing comes first.
+## Can I leave early?
 
----
+Yes. If you need to tap out or leave before Sunday, that's okay.
 
-## Before & After
+## What is the refund/cancellation policy?
 
-**How to prepare?** Read [Getting Started](/docs/concept/is-this-for-you) and [Philosophy](/docs/concept/philosophy). Reflect on why you're coming. Talk to your partner if you have one. Arrive open.
+See [Cancellation](/docs/practical/cancellation/).
 
-**Subdrop?** Emotional low after intensity. Rest, hydrate, move your body, reach out. It passes. See [After the Gathering](/docs/wellbeing/after-integration) for more support.
+## What's the photography policy?
 
-**Stay connected?** Join our WhatsApp community, attend monthly calls, sign up for the mailing list. See [After the Gathering](/docs/wellbeing/after-integration) for details.
+See [Photography](/docs/practical/filming-and-photography/). When in doubt: don't.
 
----
+## What about food?
 
-## More Info
+See [Food](/docs/practical/food/).
 
-**How do I get there?** See [Getting There](/docs/practical/getting-there) for travel details, ride-share info, and arrival timing.
+## What should I bring?
 
-**Tickets?** December 1, 20:00. €169. 42 slots. Brief application (alignment check).
-
-**Cancellation?** See [Cancellation & Refund Policy](/docs/practical/participation/#cancellation--refund-policy) — TL;DR: 3 weeks before = full refund. After = resell or defer.
-
-**Photos?** **Consent-only:** ask first, no bystanders, no disturbance, delete on request. When the gathering ends, re-confirm consent **and** anonymize the venue before posting anywhere.  
-→ Full rules (including post-event sharing): [Photography Guidelines](photography-guidelines)
-
-**Queer/fat/disabled/neurodivergent friendly?** Yes to all. Gender-neutral bathrooms/rooms. We celebrate all bodies, minds, systems as-is.
-
----
-
-**Questions?** Email [info@roguerope.be](mailto:info@roguerope.be)
-
-[Get tickets](/docs/practical/participation) • [Getting Started](/docs/concept/is-this-for-you) • [Philosophy](/docs/concept/philosophy)
+Start with [Things to Bring](/docs/practical/things-to-bring/).

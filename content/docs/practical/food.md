@@ -1,57 +1,68 @@
 ---
-title: Food & Meals
-description: 'What to expect for meals and what to bring'
-lead: 'Nourishment for your body and soul'
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
-weight: 21
+title: "Food"
+description: Much food, such good times.
+lead: "Expect basic but tasty 'camp food' — details still simmering."
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2026-03-29T13:37:00+00:00
+images: []
+weight: 15
 toc: true
 ---
 
-## The Food Plan
+### The food plan? Still simmering.
 
-**🍽️ What we provide:**
+We’re still working out the final details, but here’s what we *do* know:
 
-- **Coffee and water** — always available
-- **Bread in the morning** — daily
-- **Snacks** —  afternoons
-- **Warm meal** — every evening
+- There will be **coffee and water**, always.
+- We’ll serve **bread in the morning**, **snacks** most afternoons, and **a warm meal every evening**.
+- You'll choose **vegetarian** or **meat** when you register — and we’ll ask you to stick with your choice so we can plan portions.
 
-**🥤 What you bring:**
+This is *not* a gourmet weekend. But it will be tasty, filling, and made with love (and probably laughter).
 
-- **Your own drinks** (alcoholic *or* non-alcoholic)
-- **Something to put on your breakfast bread** (spread, toppings, jam, cheese, peanut butter… your morning joy)
-
-There will be **fridges you can use** to keep your things cold and happy.
-
-**🥗 Dietary choice:**
-You'll choose **vegetarian** or **meat** when you register — and we'll ask you to stick with your choice so we can plan portions.
-
-This is _not_ a gourmet weekend. But it will be tasty, filling, and made with love (and probably laughter).
+---
 
 ### Sample Schedule — Subject to Change
 
-Just to give you a sense of the rhythm. Times and offerings may shift based on our collective needs.
+Just to give you a sense of the rhythm. None of this is locked in.
 
-| _Time_ | --     | Wed    | Thu    | Fri    | Sat    | Sun       |
-| :----- | :----- | :----- | :----- | :----- | :----- | :-------- |
-| 9–12   | Brunch | --/--  | Bread  | Bread  | Bread  | Bread     |
-| 15:00  | Soup   | --/--  | Soup   | Soup   | Soup   | Leftovers |
-| 16:00  | Snacks | --/--  | Snacks | Snacks | Snacks | Leftovers |
-| 19–21  | Dinner | Dinner | Dinner | Dinner | Dinner | --/--     |
+| _Time_ | -- | Tue | Wed | Thu | Fri | Sat | Sun |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 9–12 | Brunch | --/-- | --/-- | --/-- | Bread | Bread | Bread |
+| 15:00 | Soup | --/-- | TBC | TBC | TBC | TBC | Leftovers |
+| 16:00 | Snacks | Snacks | TBC | TBC | TBC | TBC | Leftovers |
+| 19–21 | Dinner | --/-- | TBC | TBC | TBC | TBC | --/-- |
 
-### Special Diets & Dietary Needs
+---
 
-**✅ What we can accommodate:**
+### What About Special Diets?
 
-- **Vegetarian meals** — fully supported
-- **Meat-based meals** — fully supported
-- **Vegan meals** — best-effort basis
+We can accommodate **vegetarian** and **meat-based** meals — and we do our **best-effort vegan** too.  
+While our kitchen isn’t fully equipped to handle every dietary need, we genuinely want to find solutions that work.
 
-**🤝 Have specific needs?** (gluten-free, allergies, etc.)
-**Please reach out!** We're happy to collaborate and find solutions — whether adjusting ingredients or providing kitchen space for your own prep.
+If you have specific requirements (vegan, gluten-free, allergies, etc.), reach out. We’re happy to collaborate and find something that suits you — whether that means adjusting ingredients or giving you access to kitchen space for your own prep.
 
-**🧑‍🍳 Join our Kitchen Crew**
-Want to help chop, stir, and keep meals flowing? Stay tuned for sign-ups. It's a great way to contribute, connect, and maybe pick up cooking secrets along the way.
+We’re also assembling a **kitchen crew** — a small, scrappy team to help chop, stir, and keep the meals flowing. Want to be part of it? Stay tuned for sign-ups. It’s a great way to contribute, connect, and maybe pick up a few cooking secrets along the way.
 
-![Diverse people gathering around a communal meal, celebrating connection through shared food](/images/food-gathering.png)
+**Important: Don't forget to bring your own plate, bowl, and cutlery (mandatory).**
+
+---
+
+### What Should You Bring?
+
+- **Snacks & treats** — especially if you love sharing.  
+- **Cooler box or insulated bag** — we’ll provide ice cubes.  
+- **Your own drinks** — there’s no bar, so bring what you like.
+
+We’ve tried bars in the past. It was a hassle. Most people brought their own anyway. So let’s keep it simple — bring your favorite drinks, a few to share, and we’ll help you keep them cold.
+
+**Breakfast tip:** We’ll bring the bread. You bring what you like to put on it — cheese, jam, pindakaas, or whatever else fuels your morning glow.
+
+---
+
+### TL;DR
+
+Bring a cooler. Bring your favorite drinks.  
+Maybe a jar of Nutella.  
+We’ve got the rest (mostly) covered.
+
+More details coming soon — stay tuned, and stay hungry.

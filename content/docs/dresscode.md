@@ -1,129 +1,72 @@
 ---
-title: Dress Code
-description: Theme guidance for attendees—punk neon, blacklight-friendly dress suggestions, and comfort-first invitations.
-lead: ""
-date: 2026-02-06T00:00:00+00:00
-lastmod: 2026-02-06T00:00:00+00:00
-weight: 5
+title: "Dress Code"
+description: "Theme night inspiration and guidelines for costumes at camp."
+lead: "Trolls, faeries, and fabled creatures: step through the portal."
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2026-03-29T13:37:00+00:00
+slug: "dresscode"
+images: []
 toc: true
 ---
 
-## Dress Code: Creatures of the Night (Punk Neon + Blacklight)
 
-We're stepping into a shared twilight — but with **punk electricity** running through it.
-And yes: **we'll have blacklights**.
 
-Not a costume party.
-Not a runway.
-A soft portal where you can arrive as yourself — or as the self that only comes out when the lights dim and the room feels safe.
+![A mischievous fairy and a grinning troll swapping a tiny treasure.](/images/rrc26/mj/Folk_art_illustration_of_a_mischievous_fairy_stealing_somethi_b39b47ca-7fbf-4cfa-bfd5-5f592b141217_1.png)
 
-Call it **Urban Mystics & Enchanted Souls**.
-Or, if it lands better in your body: **Creatures of the Night**.
-Tonight, add one more layer: **Punk Night Neon — made for UV**.
 
-This is an **invitation, not a requirement**.
 
----
+### ✨ *Dress Code: Trolls, Faeries & Fabled Creatures* ✨
 
-## The only real rule
+This year, we invite you to **step through the portal** and emerge as your truest, wildest self — a creature of the in-between, of moss and moonlight, of tangled roots and sparkling mischief.
 
-**Dress for ease, for touch, for breath.**
-Comfort is sacred. Movement matters. Softness counts.
+Our theme: **Trollen, Feeën en Fabelwezens**.
 
-Come dressed up, dressed down, half-dressed, overdressed, or in your favorite "I can finally exhale" outfit.
-Nudity can be welcome. Never expected.
+Picture it: earthy trolls with mossy skin, mischievous goblins clinking with trinkets, regal elves in vines and silver, glowing faeries dusted with stardust. A forest full of beings that don’t quite belong — and never needed to.
+
+Let your costume reflect the creature within — or the one you long to become.
 
 ---
 
-## Theme anchor: Punk Night Neon (under blacklight)
+### 🌿 *Archetypes to Inspire* 🌿
 
-Think: **dark base + UV signal**.
+**Trolls**: Earth-toned, grounded, and a little gruff. Fur, moss, stones, oversized shapes, funny lumps. Maybe a bark-like mask or a single leafy eyebrow.  
 
-Neon doesn't have to be loud. It can be a whisper in highlighter ink — until the room turns ultraviolet.
+**Faeries**: Light, ethereal, and a little mischievous. Glitter, wings (or not), sheer fabrics, glowing threads. Are you a sun-fae or shadow-fae?
 
----
+**Goblins**: Chaotic, shiny, cluttercore. Pockets full of treasures — bottle caps, buttons, broken keys. Nothing matches. Everything works.
 
-## The UV palette
+**Forest Witches**: Herbs, cloaks, mysterious pendants. Maybe a bone wand or a grimoire full of secrets. You’re here for the transformation.
 
-- **Night neutrals:** ink black, charcoal, smoke, deep brown
-- **Moon metals:** silver, pewter, chrome accents
-- **UV / neon hits:** acid green, hot pink, electric blue, UV purple, safety orange
-- **White details:** white often "pops" under blacklight (even small stitching, laces, logos)
+**Elves & Satyrs**: Elegant or wild. Leather straps, horns, leaf crowns, silky tunics, bare feet. Choose mischief, grace, or both.
 
----
-
-## Blacklight-friendly textures & pieces
-
-- **Fishnets / net stockings** (shadow geometry on skin)
-- **Mesh** (mystery + movement)
-- **Reflective details** (tape, piping, metallic thread)
-- **Neon laces** (boots become a beacon)
-- **UV-reactive makeup / nails** (small effort, huge effect)
-- **Glow accessories** (bracelets, rings, hair ties — subtle or playful)
+**Shapeshifters**: Mix everything. Fur and feathers. Layers that change. Let your look evolve over time. Let no one pin you down.
 
 ---
 
-## Quick outfit formulas (blacklight edition)
+![A friendly dragon near a little castle under the sun.](/images/rrc26/mj/a_dragon_in_front_of_a_castle_--ar_43_--profile_mwbhj59_--v_7_533767be-9bc0-4916-ac43-ba40dd7037fc_1.png)
 
-1) **All black + one UV element**
-   - neon belt, strap, scarf, nails, eyeliner, socks
+### 🌌 *Twinkling Tokens of the Fae Realm* 🌌
 
-2) **Fishnets + oversized top**
-   - hoodie, sweater dress, long shirt, robe
+To help you cross into the realm, we’ll provide **twinkling fae tokens** — tiny lights, glowing threads, or shimmer patches you can clip onto your look.
 
-3) **Ripped denim + nets + boots**
-   - classic punk, zero effort, maximum vibe
+Use them:
+- **In your hair or horns**
+- **Wrapped around wrists, ankles, staffs**
+- **Like stars on your skin or cloak**
 
-4) **Harness over softness + neon detail**
-   - knit/lace/satin + one bright strap or tag
-
-5) **Black dress + boots + UV face detail**
-   - one neon eyeliner wing, one glowing lip line, or UV dots
-
-6) **Mask/hood + hidden glow**
-   - quiet outfit, one "reveal" element when the lights shift
+Short on prep? No worries.  
+Dark clothes + a fae token + a glint in your eye = you’re through the portal.
 
 ---
 
-## Blacklight play (optional, but fun)
+### 🌟 *Consent is Sacred Magic* 🌟
 
-If you like the idea of "revealing" something:
-- Write a tiny symbol on skin or fabric with **UV-reactive paint** (patch-test first)
-- Add a **hidden neon message** inside a jacket, on a collar, or on the inside of a cuff
-- Use **neon thread** to stitch one small sigil into a sleeve (DIY-level easy)
+How much (or how little) you dress up is your call.  
+The portal opens wide — whether you’re covered in moss, dressed in denim, or glittering nipple to toe.
 
-Keep it playful. Keep it you.
+We don’t enforce this theme. It’s an invitation, not a requirement.
 
----
+And if you want to come as a purple hippo in a tutu? That’s rogue enough for us. 🦛
 
-## Practical comfort (still sacred)
-
-- **Layers.** UV rooms get warm. Hallways get cold.
-- **Footwear you can stand in.** Boots, soft shoes, or barefoot-friendly options.
-- **A "warm after" layer.** Hoodie, robe, big socks — for decompression.
-- **Movement test.** Squat, stretch, breathe: does your outfit still say yes?
-- **Snag test.** If you're around rope or close contact: avoid sharp/dangly bits that catch easily.
-
----
-
-## If you don't want to dress up at all
-
-Perfect. Choose one and you're done:
-- Black loungewear + **fishnets**
-- Pajamas + robe + **neon nails**
-- Simple outfit + boots + **one UV accessory**
-- Underwear + oversized shirt + **nets**
-
-No one gets extra points here. Presence is the flex.
-
----
-
-## Final note
-
-We're not asking you to perform.
-We're inviting you to **arrive**.
-
-Come as a night-soul, a twilight-soul, a nervous little goblin, a velvet priestx, a gentle moth, a bored vampire, a soft beast —
-now with **punk edges** and **UV signals**.
-
-We can't wait to see who — or what — joins us.
+We can’t wait to see who — or what — steps through.  
+✨🌲🌀

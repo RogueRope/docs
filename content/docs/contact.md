@@ -1,30 +1,24 @@
 ---
-title: Contact
-description: "Here's my number, call me!"
-lead: "Reach out. We'll meet you."
-date: 2025-11-12T20:16:00+00:00
-lastmod: 2025-11-12T20:16:00+00:00
+title: "Contact"
+description: "How to reach the Rogue Rope Camp team."
+lead: "Questions, logistics, accessibility needs: reach out."
+date: 2024-04-06T13:37:00+00:00
+lastmod: 2026-03-28T00:00:00+00:00
 weight: 150
 toc: true
-BookHidden: true
 ---
 
-<div class="hx-grid hx-grid-cols-1 md:hx-grid-cols-2 hx-gap-6">
 
-<div class="hx-col-span-1">
-![QR code to contact Bottoms Up! on WhatsApp.](/images/whatsappqr.png)
-</div>
+![QR code to last link](/images/whatsappqr.png)
 
-<div class="hx-col-span-1">
 
 ## Got Questions?
 
-Need to check something before you arrive?
-Want to run an idea past the team? Something unclear or confusing?
+Need to check something before you pack your tent and glitter?  
+Want to run an idea past the team? Something unclear or confusing?  
 Just reach out.
 
-We're here for:
-
+We’re here for:
 - Curious questions
 - Nerdy logistics
 - Weird edge cases
@@ -38,17 +32,13 @@ We're here for:
 Message us on [WhatsApp](https://wa.me/32476870515), Signal, or Telegram:  
 **+32 476 87 05 15**
 
-We usually respond fast, but remember: this isn't a call center. It's still just us.
+We usually respond fast, but remember: this isn’t a call center. It’s still just us.
 
 ---
 
 ### 📬 Prefer Email?
 
-No problem.
-Write to us at [info@roguerope.be](mailto:info@roguerope.be)
+No problem.  
+Write to us at [contact@roguerope.be](mailto:contact@roguerope.be)
 
-We check it often — especially as the event approaches.
-
-</div>
-
-</div>
+We check it often — especially when camp season approaches.
