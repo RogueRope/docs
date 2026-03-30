@@ -71,7 +71,7 @@ enableRobotsTXT = true
   [params.navbar]
     displayTitle = true
     displayLogo = true
-    width = "wide"
+    width = "normal"
     [params.navbar.logo]
       path = "images/logo-dark.svg"
       dark = "images/logo-dark.svg"
@@ -81,11 +81,11 @@ enableRobotsTXT = true
   [params.footer]
     enable = true
     displayCopyright = false
-    displayPoweredBy = false
-    width = "wide"
+    displayPoweredBy = true
+    width = "normal"
 
   [params.page]
-    width = "wide"
+    width = "normal"
 
   [params.imageZoom]
     enable = true
