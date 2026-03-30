@@ -4,6 +4,9 @@ description: "What Rogue Rope Camp is for, what it is not for, and the agreement
 lead: "A small set of principles we take seriously."
 date: 2026-03-28T00:00:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
+aliases:
+  - /docs/concept/agreements/
+  - /docs/concept/philosophy/
 weight: 5
 images: []
 toc: true

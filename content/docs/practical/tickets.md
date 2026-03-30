@@ -4,6 +4,8 @@ description: "How ticketing works and how to secure your spot."
 lead: "Read first, then buy: a slow yes beats a rushed one."
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
+aliases:
+  - /docs/practical/participation/
 images: []
 weight: 25
 toc: true

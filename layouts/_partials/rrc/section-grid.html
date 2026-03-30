@@ -1,0 +1,27 @@
+{{- $pages := .pages -}}
+{{- if gt (len $pages) 0 -}}
+  <section class="rrc-section-grid-block">
+    <div class="rrc-section-heading">
+      {{- with .kicker }}<p class="rrc-kicker">{{ . }}</p>{{ end -}}
+      <h2>{{ .title }}</h2>
+      {{- with .text }}<p>{{ . }}</p>{{ end -}}
+    </div>
+
+    <div class="rrc-guide-grid">
+      {{- range $index, $item := $pages -}}
+        {{- $lead := $item.Params.lead | default $item.Description | default ($item.Summary | plainify) -}}
+        <a class="rrc-guide-card" href="{{ $item.RelPermalink }}">
+          <div class="rrc-guide-card-top">
+            <span class="rrc-guide-number">{{ printf "%02d" (add $index 1) }}</span>
+            <span class="rrc-guide-type">{{ if $item.IsSection }}Section{{ else }}Guide{{ end }}</span>
+          </div>
+          <h3>{{ partial "utils/title" $item }}</h3>
+          {{- with $lead -}}
+            <p>{{ . | plainify | truncate 150 }}</p>
+          {{- end -}}
+          <span class="rrc-guide-link">Open page</span>
+        </a>
+      {{- end -}}
+    </div>
+  </section>
+{{- end -}}

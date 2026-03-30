@@ -4,6 +4,8 @@ description: Taking care of your body includes your heart.
 lead: Taking care of your body includes your heart.
 date: 2026-03-28T00:00:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
+aliases:
+  - /docs/wellbeing/emotional-wellbeing/
 images: []
 menu: 
   docs:

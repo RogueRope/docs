@@ -4,6 +4,14 @@ description: "How to land gently after intense connection, rope, and intimacy."
 lead: "Support for the come-down: care, reflection, and returning home."
 date: 2026-03-28T00:00:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
+aliases:
+  - /docs/wellbeing/after-integration/
+  - /docs/practical/after-the-gathering/
+  - /docs/practical/integration/
+  - /docs/practical/community/
+  - /docs/wellbeing/after-the-gathering/
+  - /docs/wellbeing/integration/
+  - /docs/wellbeing/community/
 images: []
 weight: 80
 toc: true

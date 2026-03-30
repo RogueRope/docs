@@ -4,6 +4,9 @@ description: "How we hold space, consent, and each other at Rogue Rope Camp."
 lead: "Support, consent culture, and integration before, during, and after camp."
 weight: 1
 toc: false
+aliases:
+  - /docs/wellbeing/support-care/
+  - /docs/wellbeing/support/
 ---
 
 ![A quiet corner with a canopy, blankets, and small comfort items.](/images/rrc26/mj/Quiet_support_corner_small_canopy_blankets_earplugs_noise-can_55f99466-5ffe-4738-a879-348216333e06_0.png)
@@ -26,4 +29,3 @@ Need a private check-in or have access needs you’d rather not post publicly? E
 {{< card link="/docs/wellbeing/baggage/" title="Baggage" subtitle="The stuff you bring that isn’t in your bag." icon="briefcase" >}}
 {{< card link="/docs/wellbeing/partners/" title="Partners" subtitle="Arriving with someone: care, autonomy, and agreements." icon="link" >}}
 {{< /cards >}}
-

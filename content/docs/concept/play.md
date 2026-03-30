@@ -4,6 +4,8 @@ description: Embrace your desires!
 lead: The canvas of kink is vast and varied.
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2026-03-29T13:37:00+00:00
+aliases:
+  - /docs/concept/sex-positive/
 images: []
 weight: 40
 toc: true

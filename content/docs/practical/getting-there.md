@@ -4,6 +4,10 @@ description: "Arrival notes for Rogue Rope Camp: timing, carpooling, and what to
 lead: "How to arrive smoothly (and what to do if plans go sideways)."
 date: 2026-03-28T00:00:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
+aliases:
+  - /docs/practical/arrival/
+  - /docs/practical/check-in/
+  - /docs/practical/onboarding/
 images: []
 weight: 20
 toc: true
@@ -23,7 +27,8 @@ Until then, here is what to plan for.
 ## Arrival Timing
 
 - Camp runs **Tue–Sun, Aug 4–9, 2026**.
-- If you can, arrive on **Tuesday** for Build Day.
+- **Tuesday** is Build Day and the earliest arrival window.
+- **Wednesday** is the main landing day.
 - Please plan to arrive **by Wednesday evening** unless you've arranged otherwise.
 
 ## Carpooling

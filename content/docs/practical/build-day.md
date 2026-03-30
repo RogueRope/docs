@@ -38,7 +38,7 @@ This is one of the best ways to meet people, soften into the vibe, and become pa
 ### How It Flows
 
 - **Come When You Can:** Early arrivals are welcome. No sign-up, no pressure. Just show up and join in.  
-- **Work + Play:** Tuesday and Wednesday are for build. Play is welcome **after the Opening Circle on Wednesday (21:00)**, and during **Thursday late afternoon**, once the setup is complete.  
+- **Work + Land:** Tuesday is the main build push. Wednesday is for final touches, arrivals, and settling the space before the evening Opening Circle.  
 - **Coordination Is Casual:** We’ll use a shared WhatsApp group to help organize, or you can just wander in and ask what’s needed. Someone will point you toward tools, tasks, or tunes.
 
 ---

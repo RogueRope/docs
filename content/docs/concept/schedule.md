@@ -4,6 +4,9 @@ description: A slow unfolding — from setup to surrender, from first knot to fi
 lead: A loose rhythm for the week — build, land, unfold, unravel.
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2026-03-29T13:37:00+00:00
+aliases:
+  - /docs/concept/experience/
+  - /docs/practical/schedule/
 images: []
 weight: 60
 toc: true
@@ -35,8 +38,10 @@ No skills required. Just hands. Just heart. Just presence.
 
 ## Wednesday – **We Land**
 
-This is arrival day.  
-**Everyone is expected to arrive by Wednesday evening.**  
+By Wednesday, camp is alive.  
+Some people arrive on Tuesday for Build Day. Others land on Wednesday.  
+Either way, **be in by Wednesday evening** so we can begin together.
+
 Set up your tent. Shake off the outside world. Step in slowly.
 
 And then, as night falls:  
@@ -106,7 +111,8 @@ What matters is that you came at all.
 
 ### Notes
 
-- **Wednesday 21:00:** Mandatory Opening Circle  
+- **Tuesday:** Build Day and early arrival  
+- **Wednesday 21:00:** Opening Circle  
 - **Thursday morning:** Mandatory Consent Moment  
 - **Play begins after Wednesday’s ritual**  
 - Expect light structure to support new connections — rituals, icebreakers, and soft invitations to meet each other  

@@ -4,6 +4,8 @@ description: "Logistics, preparation, and participation for Rogue Rope Camp 2026
 lead: "Everything you need to arrive prepared, grounded, and ready to participate."
 weight: 1
 toc: false
+aliases:
+  - /docs/practical/policies/
 ---
 
 ![A small crew setting up string lights together.](/images/rrc26/mj/Build_Day_scene_hands_hanging_string_lights_tying_fabric_to_a_2ca98377-6237-44c5-a34e-64c16d18638f_1.png)
@@ -30,4 +32,3 @@ Build Day is part of the culture. It’s not about being handy, it’s about arr
 {{< card link="/docs/practical/cancellation/" title="Cancellation" subtitle="If plans change: refunds and transfers." icon="ban" >}}
 {{< card link="/docs/practical/faq/" title="FAQ" subtitle="Common questions and quick answers." icon="information-circle" >}}
 {{< /cards >}}
-

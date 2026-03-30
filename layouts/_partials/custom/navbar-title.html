@@ -1,20 +1,20 @@
 <a
-  class="hx:flex hx:items-center hx:gap-2 hx:hover:opacity-80 hx:transition-opacity hx:ltr:mr-auto hx:rtl:ml-auto hx:no-underline"
+  class="rrc-brand hx:ltr:mr-auto hx:rtl:ml-auto hx:no-underline"
   href="{{ .Site.Home.RelPermalink }}"
   aria-label="{{ .Site.Title }}"
 >
-  <img
-    src="{{ "images/logo-dark.svg" | relURL }}"
-    alt=""
-    aria-hidden="true"
-    width="32"
-    height="32"
-    class="hx:block hx:shrink-0"
-  />
-  <span
-    class="hx:font-extrabold hx:tracking-wide hx:text-sm hx:uppercase hx:select-none"
-    style="background: linear-gradient(135deg, #a78bfa 0%, #ff6b35 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: 0.12em;"
-  >
-    Bottoms Up!
+  <span class="rrc-brand-mark">
+    <img
+      src="{{ "images/logo-dark.svg" | relURL }}"
+      alt=""
+      aria-hidden="true"
+      width="32"
+      height="32"
+      class="hx:block hx:shrink-0"
+    />
+  </span>
+  <span class="rrc-brand-copy">
+    <span class="rrc-brand-kicker">Belgium · Aug 4–9, 2026</span>
+    <span class="rrc-brand-name">{{ .Site.Title }}</span>
   </span>
 </a>

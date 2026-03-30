@@ -4,6 +4,8 @@ description: "An invitation for those who seek rope beyond the scene."
 lead: "A softer, deeper, more human way of engaging with rope."
 date: 2026-03-28T00:00:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
+aliases:
+  - /docs/concept/post-rope/
 images: []
 weight: 50
 toc: true

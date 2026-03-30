@@ -1,0 +1,101 @@
+{{ define "main" }}
+  {{- $concept := site.GetPage "/docs/concept" -}}
+  {{- $practical := site.GetPage "/docs/practical" -}}
+  {{- $wellbeing := site.GetPage "/docs/wellbeing" -}}
+  {{- $tickets := site.GetPage "/docs/practical/tickets" -}}
+  {{- $manifesto := site.GetPage "/docs/manifesto" -}}
+  {{- $contact := site.GetPage "/docs/contact" -}}
+
+  <div class="rrc-home-shell">
+    <main id="content" class="rrc-home-main">
+      <section class="rrc-home-hero">
+        <div class="rrc-home-hero-copy">
+          <p class="rrc-kicker">Summer rope camp · Belgium · August 4–9, 2026</p>
+          <h1>{{ .Title }}<span>Presence over polish. Connection over spectacle.</span></h1>
+          <p class="rrc-home-lead">
+            An intimate six-day gathering east of Ghent built around rope, consent,
+            emotional depth, and a slower kind of meeting.
+          </p>
+
+          <div class="rrc-home-actions">
+            {{ with $tickets }}<a class="rrc-home-button rrc-home-button-primary" href="{{ .RelPermalink }}">Tickets</a>{{ end }}
+            {{ with $manifesto }}<a class="rrc-home-button" href="{{ .RelPermalink }}">Read the Manifesto</a>{{ end }}
+          </div>
+
+          <ul class="rrc-home-facts">
+            <li>Tue–Sun, Aug 4–9</li>
+            <li>East of Ghent, Belgium</li>
+            <li>Participant-built camp</li>
+            <li>Tickets open April 15</li>
+          </ul>
+        </div>
+
+        <div class="rrc-home-hero-media">
+          <div class="rrc-home-hero-art">
+            <img
+              src="{{ "images/rrc26/mj/Rural_summer_field_string_lights_between_trees_simple_rope_pr_0c4e9941-0f84-4c45-8977-dbae60ce5e58_0.png" | relURL }}"
+              alt="An illustrated path through trees lit by string lights."
+              loading="eager"
+              width="1024"
+              height="768"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="rrc-home-intro">
+        <p class="rrc-kicker">Start here</p>
+        <h2>Three entry points, depending on what you need first.</h2>
+      </section>
+
+      <section class="rrc-home-sections">
+        <div class="rrc-entry-grid">
+          {{ with $concept }}
+            <a class="rrc-entry-card" href="{{ .RelPermalink }}">
+              <div>
+                <p class="rrc-kicker">Orientation</p>
+                <h3>{{ .Title }}</h3>
+                <p>Understand the atmosphere, the agreements, and what kind of gathering this actually is.</p>
+                <span class="rrc-guide-link">Open The Vibe</span>
+              </div>
+            </a>
+          {{ end }}
+
+          {{ with $practical }}
+            <a class="rrc-entry-card" href="{{ .RelPermalink }}">
+              <div>
+                <p class="rrc-kicker">Logistics</p>
+                <h3>{{ .Title }}</h3>
+                <p>Travel, camping, food, what to bring, and how to arrive prepared without stress.</p>
+                <span class="rrc-guide-link">Open Practical Info</span>
+              </div>
+            </a>
+          {{ end }}
+
+          {{ with $wellbeing }}
+            <a class="rrc-entry-card" href="{{ .RelPermalink }}">
+              <div>
+                <p class="rrc-kicker">Support</p>
+                <h3>{{ .Title }}</h3>
+                <p>Consent, emotional care, neurodiversity, aftercare, and how the camp holds intensity responsibly.</p>
+                <span class="rrc-guide-link">Open Wellbeing</span>
+              </div>
+            </a>
+          {{ end }}
+        </div>
+      </section>
+
+      <section class="rrc-home-cta">
+        <div>
+          <p class="rrc-kicker">Need the essentials?</p>
+          <h2>Start with tickets, practical info, or contact.</h2>
+        </div>
+        <div class="rrc-home-actions">
+          {{ with $tickets }}<a class="rrc-home-button rrc-home-button-primary" href="{{ .RelPermalink }}">Tickets</a>{{ end }}
+          {{ with $practical }}<a class="rrc-home-button" href="{{ .RelPermalink }}">Practical Info</a>{{ end }}
+          {{ with $contact }}<a class="rrc-home-button" href="{{ .RelPermalink }}">Contact</a>{{ end }}
+        </div>
+      </section>
+    </main>
+  </div>
+{{ end }}

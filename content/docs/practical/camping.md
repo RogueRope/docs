@@ -4,6 +4,8 @@ description: It's a field. It's basic. There's a firepit. Bring your guitar and 
 lead: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2026-03-29T13:37:00+00:00
+aliases:
+  - /docs/practical/accommodations/
 images: []
 weight: 50
 toc: true

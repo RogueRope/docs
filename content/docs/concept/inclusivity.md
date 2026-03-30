@@ -4,6 +4,8 @@ description: "Everyone deserves to enjoy Rogue Rope Camp. We're here to ensure t
 lead: "Embracing diversity and providing support for all attendees."
 date: 2024-04-06T13:37:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
+aliases:
+  - /docs/concept/belonging/
 images: []
 weight: 30
 toc: true

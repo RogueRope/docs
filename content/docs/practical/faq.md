@@ -40,7 +40,7 @@ No. It's a co-created gathering, not a show.
 
 ## When should I arrive?
 
-If you can, arrive Tuesday for Build Day. Plan to arrive **by Wednesday evening** unless arranged otherwise.
+If you can, arrive Tuesday for Build Day. Otherwise, plan to arrive **by Wednesday evening** so you can land with the group.
 
 See [Schedule](/docs/concept/schedule/).
 

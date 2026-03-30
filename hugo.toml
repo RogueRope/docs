@@ -1,6 +1,6 @@
 baseURL = 'https://docs.roguerope.be/'
 languageCode = 'en-us'
-title = 'Bottoms Up!'
+title = 'Rogue Rope Camp'
 theme = 'hextra'
 enableRobotsTXT = true
 
@@ -15,10 +15,40 @@ enableRobotsTXT = true
   home = ["HTML", "RSS"]
 
 [[menus.main]]
-  identifier = "docs"
-  name = "Docs"
-  pageRef = "/docs"
+  identifier = "concept"
+  name = "The Vibe"
+  pageRef = "/docs/concept"
   weight = 1
+
+[[menus.main]]
+  identifier = "practical"
+  name = "Practical"
+  pageRef = "/docs/practical"
+  weight = 2
+
+[[menus.main]]
+  identifier = "wellbeing"
+  name = "Wellbeing"
+  pageRef = "/docs/wellbeing"
+  weight = 3
+
+[[menus.main]]
+  identifier = "tickets"
+  name = "Tickets"
+  pageRef = "/docs/practical/tickets"
+  weight = 4
+
+[[menus.main]]
+  identifier = "contact"
+  name = "Contact"
+  pageRef = "/docs/contact"
+  weight = 5
+
+[[menus.main]]
+  identifier = "search"
+  weight = 98
+  [menus.main.params]
+    type = "search"
 
 [[menus.main]]
   identifier = "theme-toggle"
@@ -31,7 +61,7 @@ enableRobotsTXT = true
   dateFormat = "January 2, 2006"
 
   [params.theme]
-    default = "dark"
+    default = "light"
     displayToggle = true
 
   [params.search]
@@ -41,6 +71,7 @@ enableRobotsTXT = true
   [params.navbar]
     displayTitle = true
     displayLogo = true
+    width = "wide"
     [params.navbar.logo]
       path = "images/logo-dark.svg"
       dark = "images/logo-dark.svg"
@@ -49,11 +80,12 @@ enableRobotsTXT = true
 
   [params.footer]
     enable = true
-    displayCopyright = true
+    displayCopyright = false
     displayPoweredBy = false
+    width = "wide"
 
   [params.page]
-    width = "normal"
+    width = "wide"
 
   [params.imageZoom]
     enable = true
