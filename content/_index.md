@@ -14,18 +14,15 @@ toc: false
   imageHeight="520"
 >}}
 
-{{< hextra/hero-badge link="/docs/practical/tickets/" >}}Tue–Sun, Aug 4–9, 2026 · Tickets open April 15{{< /hextra/hero-badge >}}
-
 {{< hextra/hero-headline >}}Rogue Rope Camp 2026{{< /hextra/hero-headline >}}
 
 {{< hextra/hero-subtitle >}}
 A six-day rope gathering east of Ghent, Belgium. Presence over polish. Consent as practice. Emotional depth over technical mastery.
 {{< /hextra/hero-subtitle >}}
 
-<p class="not-prose hx:mt-4 hx:text-sm hx:leading-6 hx:text-gray-600 hx:dark:text-gray-400">
-  <strong>Dates:</strong> Tue–Sun, Aug 4–9, 2026<br>
-  <strong>Ticket sales:</strong> April 15, 2026
-</p>
+<div class="not-prose hx:mt-4">
+  {{< hextra/hero-badge link="/docs/practical/tickets/" >}}Tue–Sun, Aug 4–9, 2026 · Tickets open April 15{{< /hextra/hero-badge >}}
+</div>
 
 <div class="not-prose hx:flex hx:flex-wrap hx:gap-3 hx:mt-6">
   {{< hextra/hero-button text="Tickets & Participation" link="/docs/practical/tickets/" >}}
