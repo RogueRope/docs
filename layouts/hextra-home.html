@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div class="hx:mx-auto hx:flex hextra-max-page-width">
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true) }}
+    <main id="content" class="rrc-home-main hx:w-full hx:break-words hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:pb-8 hx:pt-6 hx:md:pt-8 hx:pl-[max(env(safe-area-inset-left),1rem)] hx:pr-[max(env(safe-area-inset-right),1rem)] hx:md:pl-[max(env(safe-area-inset-left),2rem)] hx:md:pr-[max(env(safe-area-inset-right),2rem)]">
+      <div class="rrc-home-content hx:flex hx:flex-col hx:items-stretch">
+        {{ .Content }}
+      </div>
+    </main>
+  </div>
+{{ end }}

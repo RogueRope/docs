@@ -42,6 +42,76 @@ body {
   width: 100%;
 }
 
+.rrc-home-main {
+  padding-top: 1.5rem;
+}
+
+.rrc-home-content {
+  width: 100%;
+}
+
+.rrc-home-layout {
+  --rrc-home-gap: 0.9rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns:
+    minmax(0, calc((100% - var(--rrc-home-gap)) / 3))
+    minmax(0, calc((((100% - var(--rrc-home-gap)) / 3) * 2) + var(--rrc-home-gap)));
+  gap: var(--rrc-home-gap);
+  align-items: start;
+  margin-top: 0.5rem;
+}
+
+.rrc-home-intro-card {
+  border: 1px solid #e7dbc9;
+  border-radius: 1rem;
+  background: color-mix(in srgb, white 92%, #f3e6d6);
+  box-shadow: 0 10px 26px rgb(120 82 36 / 0.06);
+  padding: 1.25rem;
+  min-width: 0;
+}
+
+.rrc-home-intro-card h1 {
+  margin: 0;
+  font-size: clamp(1.9rem, 2.8vw, 2.7rem);
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+  color: #2f211a;
+  text-wrap: balance;
+}
+
+.rrc-home-intro-copy {
+  margin: 0.95rem 0 0;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #5f4737;
+}
+
+.rrc-home-intro-meta {
+  margin: 0.95rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #6c5341;
+}
+
+.rrc-home-intro-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.65rem;
+  margin-top: 1.1rem;
+}
+
+.rrc-home-intro-actions > * {
+  width: 100%;
+}
+
+.rrc-home-card-grid .hextra-cards {
+  margin-top: 0;
+  gap: var(--rrc-home-gap);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .rrc-card-media {
   position: relative;
   overflow: hidden;
@@ -76,6 +146,44 @@ body {
   .rrc-card-hover-video {
     display: none;
   }
+}
+
+@media (max-width: 1024px) {
+  .rrc-home-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .rrc-home-card-grid .hextra-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .rrc-home-intro-card {
+    padding: 1.15rem;
+  }
+
+  .rrc-home-card-grid .hextra-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+.dark .rrc-home-intro-card {
+  border-color: #47342b;
+  background: color-mix(in srgb, #1f1814 88%, #2c211c);
+  box-shadow: 0 14px 30px rgb(0 0 0 / 0.28);
+}
+
+.dark .rrc-home-intro-card h1 {
+  color: #fff4eb;
+}
+
+.dark .rrc-home-intro-copy {
+  color: #dac3af;
+}
+
+.dark .rrc-home-intro-meta {
+  color: #bda791;
 }
 
 .hextra-sidebar-container [data-toggle-animation="show"] {
