@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="201.75369mm"
+   height="183.83212mm"
+   viewBox="0 0 714.87585 651.37417"
+   id="svg4323"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4325" />
+  <metadata
+     id="metadata4328">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-12.52903,-57.093716)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.41339;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 374.83876,60.300412 A 344.88128,322.4877 0 0 0 149.62347,138.77766 V 60.316872 H 15.735726 V 705.26118 H 149.62347 V 377.45889 A 225.4993,210.85734 0 0 1 374.83876,171.93058 225.4993,210.85734 0 0 1 560.60283,263.65254 V 111.11292 A 344.88128,322.4877 0 0 0 374.83876,60.300412 Z"
+       id="path4266" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:12.8268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 277.11435,382.78083 a 92.852653,86.823612 0 0 0 92.85263,86.8236 92.852653,86.823612 0 0 0 92.85262,-86.8236 92.852653,86.823612 0 0 0 -92.85262,-86.82362 92.852653,86.823612 0 0 0 -92.85263,86.82362 z"
+       id="path4258" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.41339;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 365.09518,705.26118 a 344.88128,322.4877 0 0 0 225.21531,-78.4772 v 78.4608 h 133.8877 V 60.300412 H 590.31049 V 388.10272 A 225.4993,210.85734 0 0 1 365.09518,593.63103 225.4993,210.85734 0 0 1 179.33111,501.90907 v 152.53961 a 344.88128,322.4877 0 0 0 185.76407,50.8125 z"
+       id="path4266-5" />
+  </g>
+</svg>

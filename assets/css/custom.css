@@ -38,6 +38,46 @@ body {
   color: #b94d25;
 }
 
+.hextra-cards {
+  width: 100%;
+}
+
+.rrc-card-media {
+  position: relative;
+  overflow: hidden;
+}
+
+.rrc-card-media .hextra-card-image,
+.rrc-card-hover-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.rrc-card-media .hextra-card-image {
+  display: block;
+}
+
+.rrc-card-hover-video {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 180ms ease;
+  pointer-events: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .hextra-card[data-video-active="true"] .rrc-card-hover-video {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rrc-card-hover-video {
+    display: none;
+  }
+}
+
 .hextra-sidebar-container [data-toggle-animation="show"] {
   display: none;
 }

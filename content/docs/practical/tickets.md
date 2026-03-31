@@ -3,7 +3,7 @@ title: Tickets
 description: "How ticketing works and how to secure your spot."
 lead: "Read first, then buy: a slow yes beats a rushed one."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 aliases:
   - /docs/practical/participation/
 images: []
@@ -22,7 +22,7 @@ This isn’t just about clicking “buy.” It’s about saying yes, with your w
 - Location: East of Ghent, Belgium
 - Ticket sales open: Wednesday, April 15, 2026
 
-![Travel prep on a table: keys, coffee, a map, and rope.](/images/rrc26/mj/Travel_prep_scene_car_keys_blank_ticket-shaped_paper_folded_m_43b2ea63-f791-404d-ab01-f59b5c989ab7_3.png)
+![Tickets page illustration for Rogue Rope Camp.](/images/rrc26/mj/hansf_Hero_illustration_for_the_Tickets_page_of_Rogue_Rope_Ca_d4c6b482-c5df-4e9b-99c7-a19669312130_3.png)
 
 ---
 
