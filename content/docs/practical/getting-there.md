@@ -3,7 +3,7 @@ title: "Getting There"
 description: "Arrival notes for Rogue Rope Camp: timing, carpooling, and what to do if you're delayed."
 lead: "How to arrive smoothly (and what to do if plans go sideways)."
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 aliases:
   - /docs/practical/arrival/
   - /docs/practical/check-in/
@@ -30,6 +30,8 @@ Until then, here is what to plan for.
 - **Tuesday** is Build Day and the earliest arrival window.
 - **Wednesday** is the main landing day.
 - Please plan to arrive **by Wednesday evening** unless you've arranged otherwise.
+
+![Arrival into the field as camp begins to gather itself.](/images/rrc26/mj/3._Arrival_page_illustration_people_arriving_at_a_forest_camp_42002fd0-7285-459c-9155-71fc79d80554_2.png)
 
 ## Carpooling
 

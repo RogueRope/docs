@@ -3,7 +3,7 @@ title: "Food"
 description: Much food, such good times.
 lead: "Expect basic but tasty 'camp food' — details still simmering."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-03-30T00:00:00+00:00
 images: []
 weight: 15
 toc: true
@@ -12,6 +12,8 @@ toc: true
 ### The food plan? Still simmering.
 
 We’re still working out the final details, but here’s what we *do* know:
+
+![A long communal meal under lanterns in the trees.](/images/rrc26/mj/10._Food_and_meals_page_illustration_long_communal_table_at_a_67ffb01c-0b7d-4e49-bdb1-0fddb30fa36c_2.png)
 
 - There will be **coffee and water**, always.
 - We’ll serve **bread in the morning**, **snacks** most afternoons, and **a warm meal every evening**.

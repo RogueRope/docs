@@ -3,7 +3,7 @@ title: "Baggage"
 description: A gentle (but serious) word about the weight you bring—and the weight you might off‑load onto others.
 lead: We’ve all got shadows. What matters is whether we drag them through camp or meet them with care before we arrive.
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-30T00:00:00+00:00
 aliases:
   - /docs/wellbeing/bagage/
 weight: 75
@@ -27,6 +27,8 @@ Here’s the truth:
 > If it’s unspoken resentment, it can burst into wildfire.
 
 This page is a loving caution. A reminder to **pause, scan, and sort** your inner luggage before you step onto the field.
+
+![Hands checking a knot with care before passing the rope on.](/images/rrc26/mj/9._Spot_illustration_pair_of_hands_checking_a_knot_with_care__cdf435f2-c425-4c06-8ba4-8d639e5d02ac_3.png)
 
 ---
 
@@ -88,6 +90,3 @@ Bring your readiness to meet whatever arises.
 
 But heavy, volatile drama?  
 Kindly—and courageously—leave it outside the gate.
-
-
-![A small figure being held with care by two larger woodland creatures.](/images/rrc26/mj/A_weary_woodland_creature_fairy_sprite_small_troll_being_care_ec65c7c0-b3cb-4ae3-af81-02dcbedff5c4_0.png)

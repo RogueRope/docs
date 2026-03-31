@@ -6,7 +6,7 @@ description: >
   contribution is the keystone to this endeavor's success.
 lead: Calling all builders and dreamers!
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 images: []
 weight: 95
 toc: true
@@ -29,6 +29,8 @@ You don’t need to be strong. Or skilled. Or organized.
 You just need to show up.
 
 We’ll hang lights, set up suspension points, decorate the land, arrange the chill spaces, maybe even rig a secret nook or two. Some will hammer. Some will sweep. Some will make tea and tell stories. All of it counts.
+
+![A rope harness, lantern, and camp gear waiting to be set into place.](/images/rrc26/mj/4._Spot_illustration_rope_harness_draped_over_a_wooden_chair__70e8f5ab-7dd2-4926-ab94-b310e64b1113_2.png)
 
 Come early. Arrive Tuesday if you can.  
 This is one of the best ways to meet people, soften into the vibe, and become part of the magic *before* it officially begins.

@@ -3,7 +3,7 @@ title: Play
 description: Embrace your desires!
 lead: The canvas of kink is vast and varied.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 aliases:
   - /docs/concept/sex-positive/
 images: []
@@ -49,7 +49,7 @@ This is a place where kink lives beside care.
 Where sex is sacred and messy and not up for anyone else’s consumption.  
 Where play can look like fucking — or crying — or lying on the ground, wrapped in rope and sunlight, with someone watching over you.
 
-
+![People practicing rope and presence together under the trees.](/images/rrc26/mj/5._Workshop_page_illustration_silhouettes_practicing_shibari__b29af051-d060-4b68-8fe1-dbfd29bf8fea_0.png)
 
 ![Two creatures dancing together, playful and unselfconscious.](/images/rrc26/mj/Trolls_and_fairies_in_mutual_celebration_arms_raised_and_danc_f1d26e18-4485-435f-92bf-4a84fbff0055_3.png)
 

@@ -73,8 +73,8 @@ enableRobotsTXT = true
     displayLogo = true
     width = "normal"
     [params.navbar.logo]
-      path = "images/logo-dark.svg"
-      dark = "images/logo-dark.svg"
+      path = "images/logo.svg"
+      dark = "images/logo.svg"
       width = 32
       height = 32
 

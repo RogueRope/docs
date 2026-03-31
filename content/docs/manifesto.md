@@ -3,7 +3,7 @@ title: "Manifesto"
 description: "What Rogue Rope Camp is for, what it is not for, and the agreements that make it work."
 lead: "A small set of principles we take seriously."
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 aliases:
   - /docs/concept/agreements/
   - /docs/concept/philosophy/
@@ -70,6 +70,8 @@ If you want to film or photograph, follow the rules and get explicit consent. Wh
 #### 5) Care Without Martyrdom
 
 Take care of others without abandoning yourself. Eat, sleep, hydrate. Ask for help early. If you're in a storm, find a person and make a plan.
+
+![A night ritual circle around the fire, held with intention.](/images/rrc26/mj/6._Night_ritual_illustration_silhouettes_gathered_around_a_bo_8daa7729-acc8-4041-95d0-68238beba565_1.png)
 
 ### If This Resonates
 

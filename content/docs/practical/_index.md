@@ -3,12 +3,13 @@ title: "Practical Info"
 description: "Logistics, preparation, and participation for Rogue Rope Camp 2026."
 lead: "Everything you need to arrive prepared, grounded, and ready to participate."
 weight: 1
+lastmod: 2026-03-30T00:00:00+00:00
 toc: false
 aliases:
   - /docs/practical/policies/
 ---
 
-![A small crew setting up string lights together.](/images/rrc26/mj/Build_Day_scene_hands_hanging_string_lights_tying_fabric_to_a_2ca98377-6237-44c5-a34e-64c16d18638f_1.png)
+![Practical camp essentials: rope, mugs, broom, lantern, and boots.](/images/rrc26/mj/8._Practical_info_page_illustration_rope_bundles_mugs_boots_b_e842fd7a-be24-4715-8ffc-2fd5ba02a0f4_0.png)
 
 Rogue Rope Camp runs on a simple premise: we take care of the basics so you can take care of your nervous system.
 

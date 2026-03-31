@@ -3,7 +3,7 @@ title: Performances
 description: "How witnessing works at camp: no stage, no lineup, just consent and presence."
 lead: "Not a show. If something is shared, it’s shared by invitation."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 images: []
 menu: 
   docs:
@@ -28,6 +28,8 @@ But that doesn’t mean there’s nothing to witness.
 You’ll see beauty here. Maybe even brilliance. But it will happen **organically** — between two people, in the hush of twilight, or the quiet chaos of morning. Ties spun in trust, not for display. Sensation shared without needing an audience.
 
 We’re not staging performances this year — we’re curating **possibilities**.
+
+![A night scene where rope, dancing, and witness blur into atmosphere.](/images/rrc26/mj/4._Forest_night_celebration_with_rope-adorned_dancers_and_mag_1e418b90-ff4d-4069-a79c-3db447241d6f_1.png)
 
 ---
 

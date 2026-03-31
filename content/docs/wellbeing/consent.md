@@ -3,7 +3,7 @@ title: Consent
 description: Consent is a **whole-body experience**. It is not just a verbal “yes” or “no” – it involves paying attention to your partner as a person and checking in with physical and emotional cues as well.
 lead: Consent is a mutual verbal, physical and emotional agreement that happens without manipulation, threats or mind games.
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-30T00:00:00+00:00
 aliases:
   - /docs/wellbeing/consent-framework/
   - /docs/wellbeing/consent-safety/
@@ -31,7 +31,7 @@ Or better yet: the quiet, steady *yes* that lives in the body.
 
 [Watch this video about enthusiastic consent →](https://www.youtube.com/watch?v=AqBQH1e7XwQ "Enthusiastic Consent!")
 
-![Two people talking at a picnic table.](/images/rrc26/mj/Two_people_in_silhouette_seated_at_a_picnic_table_in_conversa_2c2af34c-ed1e-4f41-98b6-833a99c14379_3.png)
+![Two people sitting together in calm conversation under a lantern.](/images/rrc26/mj/2._Consent_page_illustration_two_silhouetted_figures_in_calm__fad5240d-e1ae-4f9c-841f-70bc4542d930_1.png)
 
 ---
 

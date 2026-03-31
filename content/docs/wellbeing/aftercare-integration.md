@@ -3,7 +3,7 @@ title: "Aftercare & Integration"
 description: "How to land gently after intense connection, rope, and intimacy."
 lead: "Support for the come-down: care, reflection, and returning home."
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-03-30T00:00:00+00:00
 aliases:
   - /docs/wellbeing/after-integration/
   - /docs/practical/after-the-gathering/
@@ -22,7 +22,7 @@ draft: false
 
 Rogue Rope Camp can be intense. The soft landing matters.
 
-![A small figure being held with care by two larger woodland creatures.](/images/rrc26/mj/A_weary_woodland_creature_fairy_sprite_small_troll_being_care_ec65c7c0-b3cb-4ae3-af81-02dcbedff5c4_2.png)
+![Blankets, water, and soft support for the landing after intensity.](/images/rrc26/mj/7._Aftercare_illustration_blankets_water_cushions_soft_touch__6d7b0592-04f8-4d58-9b37-5d11b41457de_1.png)
 
 ---
 

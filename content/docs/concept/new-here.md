@@ -3,7 +3,7 @@ title: "New Here?"
 description: "An open door for the curious, the nervous, the not-quite-sure."
 lead: "You don’t have to know. You just have to want to find out."
 date: 2024-04-12T00:00:00+00:00
-lastmod: 2024-04-12T00:00:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 aliases:
   - /docs/concept/is-this-for-you/
 images: []
@@ -52,6 +52,8 @@ Rope is welcome. Not required.
 A lot of people do. We’ll help you find your way in. Whether through shared meals, structured play spaces, or spontaneous moments around the fire, there are many ways to connect — slowly, gently, honestly.
 
 You might leave with people you didn’t know you needed.
+
+![People arriving into camp at dusk, finding their place in the field.](/images/rrc26/mj/3._Arrival_page_illustration_people_arriving_at_a_forest_camp_42002fd0-7285-459c-9155-71fc79d80554_2.png)
 
 ---
 

@@ -3,7 +3,7 @@ title: Camping
 description: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 lead: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-03-30T00:00:00+00:00
 aliases:
   - /docs/practical/accommodations/
 images: []
@@ -48,6 +48,8 @@ Just shared ground and a little chaos magic.
 - **Fairy lights encouraged.** Bring LEDs, soft glows, solar sparkles — whatever lights you up at night.  
 - **Toilets and showers? Yes.** Three indoor toilets and a shared shower cabin with two heads. It’s not spa-level private, so coordinate with care and kindness.  
 
+![A tent entrance lit softly at night with blankets and fairy lights.](/images/rrc26/mj/7._Spot_illustration_tent_entrance_with_fairy_lights_blanket__ec37ecb6-db9d-4a9b-ac70-b52044c3c879_3.png)
+
 ---
 
 ### Cooking & Cooling
@@ -76,6 +78,6 @@ We’ll ask that you **commit to the key shared moments** — like the opening c
 **If you're planning to stay off-site, please let us know when you book your ticket.**  
 
 
-![Trees with string lights leading into the field.](/images/rrc26/mj/Rural_summer_field_string_lights_between_trees_simple_rope_pr_0c4e9941-0f84-4c45-8977-dbae60ce5e58_0.png)
+![Camp life around tents and the fire under string lights.](/images/rrc26/mj/4._Camp_life_illustration_silhouettes_relaxing_near_tents_bla_6c6249f7-fbfb-4431-b616-56534c65bed6_2.png)
 This camp is temporary.  
 But the way it *feels* — if we do it right — might just stay with you forever.

@@ -3,7 +3,7 @@ title: "Conscious Care"
 description: "A collective effort towards a tidy and comfortable space."
 lead: "Not just clean, but consciously cared for by all."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-03-30T00:00:00+00:00
 images: []
 menu: 
   docs:
@@ -17,7 +17,7 @@ it’s what we do *with* each other.
 
 Rogue Rope Camp isn’t staffed. It’s shared. That means the space only holds us as well as **we** hold it.
 
-![A small figure being held with care by two larger woodland creatures.](/images/rrc26/mj/A_weary_woodland_creature_fairy_sprite_small_troll_being_care_ec65c7c0-b3cb-4ae3-af81-02dcbedff5c4_2.png)
+![Blankets, rope, water, and comfort items ready for shared care.](/images/rrc26/mj/5._Spot_illustration_soft_blanket_pile_with_rope_water_bottle_ca94812a-eaf8-48f7-a35e-cce88e146285_3.png)
 
 This isn’t about being tidy.  
 It’s about being *conscious*.  

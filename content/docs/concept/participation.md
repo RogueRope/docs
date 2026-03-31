@@ -3,7 +3,7 @@ title: "Participation"
 description: "How co-creation works at camp, from Build Day to small acts of care."
 lead: "Not a spectator event. Everyone contributes in a way that fits."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-03-31T00:00:00+00:00
 images: []
 weight: 20
 toc: true
@@ -40,6 +40,8 @@ We ask everyone to take part in a short volunteer shift — a way to anchor your
 
 You don’t have to lead a workshop or be extroverted.  
 You just have to be here. With intention.
+
+![A volunteer crew coordinating camp tasks around the fire.](/images/rrc26/mj/9._Volunteer_page_illustration_silhouettes_coordinating_aroun_59cc87d0-347b-49e4-a632-0374a7eeb6fc_1.png)
 
 ### Together, We Make the Magic
 
