@@ -39,18 +39,7 @@ body {
 }
 
 .hextra-sidebar-container [data-toggle-animation="show"] {
-  margin: 0 1rem 1rem;
-  padding: 0.75rem;
-  border-top: 1px solid #eadfce;
-  border-radius: 1rem;
-  background: color-mix(in srgb, white 82%, #f1e5d3);
-  box-shadow: 0 10px 24px rgb(120 82 36 / 0.08);
-}
-
-.dark .hextra-sidebar-container [data-toggle-animation="show"] {
-  border-top-color: #3c2b23;
-  background: color-mix(in srgb, #1b1512 88%, #2b1f18);
-  box-shadow: 0 10px 24px rgb(0 0 0 / 0.3);
+  display: none;
 }
 
 .hextra-theme-toggle {
@@ -80,6 +69,11 @@ body {
   border-color: #6a4a3b;
   background: color-mix(in srgb, #241c18 78%, #3a291f);
   color: #fff2e6;
+}
+
+.hextra-footer > div:has(.hextra-theme-toggle),
+.hextra-footer > hr {
+  display: none;
 }
 
 .hextra-theme-toggle-options {
