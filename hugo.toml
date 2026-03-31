@@ -61,7 +61,7 @@ enableRobotsTXT = true
   dateFormat = "January 2, 2006"
 
   [params.theme]
-    default = "light"
+    default = "system"
     displayToggle = true
 
   [params.search]
