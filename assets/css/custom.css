@@ -132,14 +132,14 @@ body {
   position: absolute;
   inset: 0;
   opacity: 0;
-  transition: opacity 180ms ease;
+  transform: scale(1.02);
+  transition: opacity 220ms ease, transform 320ms ease;
   pointer-events: none;
 }
 
-@media (hover: hover) and (pointer: fine) {
-  .hextra-card[data-video-active="true"] .rrc-card-hover-video {
-    opacity: 1;
-  }
+.hextra-card[data-video-active="true"] .rrc-card-hover-video {
+  opacity: 1;
+  transform: scale(1);
 }
 
 @media (prefers-reduced-motion: reduce) {
