@@ -10,7 +10,7 @@ toc: false
 
 {{< callout type="info" >}}
 **Rogue Rope Camp 2026**  
-Tue–Sun, **Aug 4–9, 2026** (east of Ghent, Belgium)  
+Tue–Sun, **Aug 4–9, 2026** (east of Ghent, west of Antwerp)  
 Tickets on sale **April 15, 2026**
 {{< /callout >}}
 

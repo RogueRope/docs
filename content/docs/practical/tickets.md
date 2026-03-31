@@ -19,7 +19,7 @@ This isn’t just about clicking “buy.” It’s about saying yes, with your w
 **Quick facts**
 
 - Dates: Tue–Sun, Aug 4–9, 2026
-- Location: East of Ghent, Belgium
+- Location: East of Ghent, west of Antwerp
 - Ticket sales open: Wednesday, April 15, 2026
 
 ![Tickets page illustration for Rogue Rope Camp.](/images/rrc26/mj/hansf_Hero_illustration_for_the_Tickets_page_of_Rogue_Rope_Ca_d4c6b482-c5df-4e9b-99c7-a19669312130_3.png)

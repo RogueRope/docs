@@ -24,7 +24,7 @@ Build Day is part of the culture. It’s not about being handy, it’s about arr
 
 {{< cards cols="3" >}}
 {{< card link="/docs/practical/tickets/" title="Tickets" subtitle="What’s included, pricing, and how to participate." icon="ticket" >}}
-{{< card link="/docs/practical/getting-there/" title="Getting There" subtitle="Travel guidance to the site east of Ghent." icon="map" >}}
+{{< card link="/docs/practical/getting-there/" title="Getting There" subtitle="Travel guidance to the site east of Ghent, west of Antwerp." icon="map" >}}
 {{< card link="/docs/practical/camping/" title="Camping" subtitle="Field life: tents, vans, and what to expect." icon="home" >}}
 {{< card link="/docs/practical/food/" title="Food" subtitle="Meals, dietary needs, and how we share the table." icon="clipboard" >}}
 {{< card link="/docs/practical/things-to-bring/" title="Things to Bring" subtitle="Packing list for six days on the land." icon="clipboard-list" >}}

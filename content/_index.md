@@ -1,6 +1,6 @@
 ---
 title: "Rogue Rope Camp"
-description: "An intimate rope gathering near Ghent, Belgium."
+description: "An intimate rope gathering east of Ghent, west of Antwerp."
 lead: "Tue–Sun, Aug 4–9, 2026. Tickets on sale April 15, 2026."
 layout: "hextra-home"
 toc: false
@@ -10,7 +10,7 @@ toc: false
   <section class="rrc-home-intro-card">
     <h1>Rogue Rope Camp 2026</h1>
     <p class="rrc-home-intro-copy">
-      A six-day rope gathering east of Ghent, Belgium. Presence over polish. Consent as practice. Emotional depth over technical mastery.
+      A six-day rope gathering east of Ghent, west of Antwerp. Presence over polish. Consent as practice. Emotional depth over technical mastery.
     </p>
     <p class="rrc-home-intro-meta">
       <strong>Dates:</strong> Tue–Sun, Aug 4–9, 2026<br>

@@ -20,7 +20,7 @@ This page is a living list. If something is unclear, ask via [Contact](/docs/con
 
 ## What are the dates?
 
-Tue–Sun, **Aug 4–9, 2026**, east of Ghent (BE).
+Tue–Sun, **Aug 4–9, 2026**, east of Ghent, west of Antwerp.
 
 ## Do I need rope experience?
 
