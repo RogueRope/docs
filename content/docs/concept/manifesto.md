@@ -5,9 +5,10 @@ lead: "A small set of principles we take seriously."
 date: 2026-03-28T00:00:00+00:00
 lastmod: 2026-03-31T00:00:00+00:00
 aliases:
+  - /docs/manifesto/
   - /docs/concept/agreements/
   - /docs/concept/philosophy/
-weight: 5
+weight: 70
 images: []
 toc: true
 ---

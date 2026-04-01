@@ -3,7 +3,7 @@ title: "Wellbeing"
 description: "How we hold space, consent, and each other at Rogue Rope Camp."
 lead: "Support, consent culture, and integration before, during, and after camp."
 date: 2026-03-28T00:00:00+00:00
-weight: 3
+weight: 4
 lastmod: 2026-04-01T00:00:00+00:00
 toc: false
 aliases:

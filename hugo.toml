@@ -33,6 +33,12 @@ enableRobotsTXT = true
   weight = 3
 
 [[menus.main]]
+  identifier = "opportunities"
+  name = "Opportunities"
+  pageRef = "/docs/opportunities"
+  weight = 35
+
+[[menus.main]]
   identifier = "tickets"
   name = "Tickets"
   pageRef = "/docs/practical/tickets"
