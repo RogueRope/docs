@@ -107,8 +107,8 @@ A yes. A thread picked up.
 
 Still unsure? That’s okay.
 
-Take a moment to read more about how we [care for each other]({{< ref "/docs/wellbeing" >}}),  
-or what this experience will ask of you, practically and emotionally, in the [Preparation section]({{< ref "/docs/practical" >}}).
+Take a moment to read more about how we [care for each other](/docs/wellbeing/),  
+or what this experience will ask of you, practically and emotionally, in the [Preparation section](/docs/practical/).
 
 No pressure.  
 Just clarity.

@@ -69,7 +69,7 @@ lead: "The essentials, so you can arrive comfortable."
 
 ### Food Planning
 
-We’ve got meals in motion — check the [Food section]({{<ref "food.md" >}}) for what’s provided and what to bring.
+We’ve got meals in motion — check the [Food section](/docs/practical/food/) for what’s provided and what to bring.
 
 ---
 

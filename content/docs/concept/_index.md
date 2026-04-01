@@ -2,6 +2,8 @@
 title: "The Vibe"
 description: "The heart of Rogue Rope Camp: presence over polish, consent as practice, connection over performance."
 lead: "What makes this gathering different and how we co-create the space."
+date: 2026-03-28T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 weight: 1
 toc: false
 ---
@@ -27,4 +29,3 @@ This camp works when everyone participates. That includes helping build culture:
 {{< card link="/docs/manifesto/" title="Manifesto" subtitle="The core agreements behind the camp." icon="check-circle" >}}
 {{< card link="/docs/post-rope/" title="Post-Rope" subtitle="A softer, deeper way of meeting rope." icon="chat" >}}
 {{< /cards >}}
-

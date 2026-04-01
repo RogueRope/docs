@@ -81,7 +81,7 @@ Consent means:
 If you’ve had an experience with someone, or you directly witnessed behavior that concerns you, **please let us know.**
 
 You can:
-- Use [this contact page]({{< ref "/docs/contact" >}} "Contact us")
+- Use [this contact page](/docs/contact/)
 
 Please report your own experience, not hearsay. Tell us what happened. If you have ideas for how we could hold it — boundaries, support, checking in — include those too.
 
@@ -95,7 +95,7 @@ No system is perfect. But we’re committed to holding these things well.
 ### Want to Support Consent Culture Here?
 
 We’re always looking for folks who care deeply — about presence, safety, clarity, and repair.  
-If that’s you, [get in touch.]({{< ref "/docs/contact" >}} "Contact us")
+If that’s you, [get in touch.](/docs/contact/)
 
 ---
 

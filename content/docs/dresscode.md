@@ -6,6 +6,7 @@ date: 2024-04-06T13:37:00+00:00
 lastmod: 2026-04-01T00:00:00+00:00
 slug: "dresscode"
 images: []
+weight: 95
 toc: true
 draft: true
 ---
