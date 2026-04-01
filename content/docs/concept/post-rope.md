@@ -5,6 +5,7 @@ lead: "A softer, deeper, more human way of engaging with rope."
 date: 2026-03-28T00:00:00+00:00
 lastmod: 2026-03-28T00:00:00+00:00
 aliases:
+  - /docs/post-rope/
   - /docs/concept/post-rope/
 images: []
 weight: 50
