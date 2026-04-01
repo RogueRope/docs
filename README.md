@@ -1,9 +1,11 @@
 # Bottoms Up! Gathering Documentation
 
-A Hugo Book–based documentation site for Bottoms Up!—a five-day rope gathering in Belgium centered on connection over performance and consent as sacred practice. The site runs in dark mode only and uses Hugo's built-in search, table of contents, and breadcrumbs for quick navigation.
+A Hugo Hextra documentation site for Rogue Rope Camp, styled with the project's custom palette and layout overrides. The site supports light and dark mode, shows a visible theme toggle, and defaults to the visitor's system preference.
 
 ## Features
-- Dark theme enforced sitewide (no light-mode toggle)
+- Hextra theme with project-specific styling overrides
+- Light and dark mode with a visible theme toggle
+- System theme as the default color mode
 - Full-text search, breadcrumbs, and per-page reading time
 - Structured sections for concept, practical details, and wellbeing support
 - Responsive layout with images, tables, and callouts authored in Markdown
@@ -11,10 +13,10 @@ A Hugo Book–based documentation site for Bottoms Up!—a five-day rope gatheri
 
 ## Project Structure
 - `content/` — Markdown pages. Core sections live in `content/docs/concept/`, `content/docs/practical/`, and `content/docs/wellbeing/`.
-- `layouts/` — Hugo template overrides for the Book theme (kept minimal).
-- `assets/` — Processed assets such as `assets/book.scss` for palette overrides.
+- `layouts/` — Hugo template overrides for Hextra, including local partial customizations.
+- `assets/` — Processed CSS, JS, and images for the site's styling and behavior overrides.
 - `static/` — Passthrough files (images, downloads) served as-is.
-- `hugo.toml` — Site configuration, menus, and theme settings.
+- `hugo.toml` — Site configuration, navigation, Hextra settings, and theme mode defaults.
 
 ## Prerequisites
 - Hugo **extended**

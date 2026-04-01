@@ -14,6 +14,7 @@ toc: false
 ---
 
 # Friends With Benefits  
+
 _Yes, the good kind._
 
 At Rogue Rope Camp, care isn’t something the organizers provide.  

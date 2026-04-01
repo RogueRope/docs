@@ -66,7 +66,6 @@ Just shared ground and a little chaos magic.
 
 ---
 
-
 ### Can’t Camp? Let’s Talk.
 
 We know camping isn’t possible for everyone — and we don’t want that to be a barrier if your heart is set on being here.
@@ -76,7 +75,6 @@ If you’d rather **sleep off-site** (in a nearby B&B, hotel, or rental), that�
 We’ll ask that you **commit to the key shared moments** — like the opening circle, the knotting ceremony, and other grounding points that help shape the collective container. We’ll talk it through together and make clear agreements that work for everyone.
 
 **If you're planning to stay off-site, please let us know when you book your ticket.**  
-
 
 ![Camp life around tents and the fire under string lights.](/images/rrc26/mj/4._Camp_life_illustration_silhouettes_relaxing_near_tents_bla_6c6249f7-fbfb-4431-b616-56534c65bed6_2.png)
 This camp is temporary.  

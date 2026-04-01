@@ -59,6 +59,7 @@ Some of you arrive with **non-monogamous agreements**, or **independent playstyl
 We celebrate that.
 
 Some suggestions:
+
 - **Have the awkward conversations early.** Agreements, boundaries, intentions — get clear before you get hot.
 - **Don’t assume symmetry.** One of you might explore more than the other. That’s okay. Move at your own paces with care.
 - **Plan for reconnection.** Not just physically. Emotionally, too. Even a 5-minute cuddle check-in can shift everything.
@@ -70,6 +71,7 @@ Some suggestions:
 They might. That’s not failure — that’s reality.
 
 Camp energy is raw. Beautiful, but activating. You might feel:
+
 - Protective
 - Left out
 - Jealous

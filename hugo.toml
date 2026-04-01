@@ -61,6 +61,7 @@ enableRobotsTXT = true
   dateFormat = "January 2, 2006"
 
   [params.theme]
+    # Respect the visitor's system preference by default and allow manual switching.
     default = "system"
     displayToggle = true
 

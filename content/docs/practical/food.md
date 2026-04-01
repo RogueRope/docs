@@ -27,7 +27,7 @@ This is *not* a gourmet weekend. But it will be tasty, filling, and made with lo
 
 Just to give you a sense of the rhythm. None of this is locked in.
 
-| _Time_ | -- | Tue | Wed | Thu | Fri | Sat | Sun |
+| *Time* | -- | Tue | Wed | Thu | Fri | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 9–12 | Brunch | --/-- | --/-- | --/-- | Bread | Bread | Bread |
 | 15:00 | Soup | --/-- | TBC | TBC | TBC | TBC | Leftovers |

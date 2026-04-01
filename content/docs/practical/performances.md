@@ -38,6 +38,7 @@ We’re not staging performances this year — we’re curating **possibilities*
 If you feel called to offer something… not for show, but for the sake of expression — a ritual, a story, a moment of embodiment — our content crew is here to help.
 
 We can support you with:
+
 - Space and structure for a scene you'd like to open to others
 - A container for your rope journey to be witnessed
 - Encouragement to turn your private moment into something communal — if that feels right

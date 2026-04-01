@@ -69,6 +69,7 @@ It’s not just a yes or no.
 It’s a full-body signal. A living dialogue. A mutual, continuous agreement.
 
 Consent means:
+
 - You’re both in it.
 - You can change your mind at any time.
 - A yes to one thing is not a yes to everything.
@@ -81,6 +82,7 @@ Consent means:
 If you’ve had an experience with someone, or you directly witnessed behavior that concerns you, **please let us know.**
 
 You can:
+
 - Use [this contact page](/docs/contact/)
 
 Please report your own experience, not hearsay. Tell us what happened. If you have ideas for how we could hold it — boundaries, support, checking in — include those too.

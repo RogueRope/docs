@@ -87,6 +87,7 @@ To help keep our space safe and aligned, we do a lightweight vetting process.
 If you have one, we may ask for a **FetLife name/profile** during the ticket process. If you don’t have FetLife (or prefer not to share it), that’s okay: we’ll follow up by email instead.
 
 After you place your order, we’ll:
+
 - Review whatever context you shared  
 - Reach out to our community if needed  
 - Contact you if we have any concerns

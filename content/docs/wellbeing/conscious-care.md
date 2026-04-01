@@ -13,6 +13,7 @@ toc: true
 ---
 
 ### Care is not just what we do for each other —  
+
 it’s what we do *with* each other.
 
 Rogue Rope Camp isn’t staffed. It’s shared. That means the space only holds us as well as **we** hold it.

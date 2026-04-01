@@ -37,6 +37,7 @@ You don’t need to be an expert.
 You just need to care. Maybe a little curiosity, maybe a story, maybe something strange you’ve been thinking about.
 
 What could you bring?
+
 - A conversation you’re hungry to have?
 - A practice or technique you’d love to show?
 - A rope-related body puzzle?

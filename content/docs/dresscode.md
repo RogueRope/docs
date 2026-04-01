@@ -15,8 +15,6 @@ draft: true
 
 ![A mischievous fairy and a grinning troll swapping a tiny treasure.](/images/rrc26/mj/Folk_art_illustration_of_a_mischievous_fairy_stealing_somethi_b39b47ca-7fbf-4cfa-bfd5-5f592b141217_1.png)
 
-
-
 ### ✨ *Dress Code: Trolls, Faeries & Fabled Creatures* ✨
 
 This year, we invite you to **step through the portal** and emerge as your truest, wildest self — a creature of the in-between, of moss and moonlight, of tangled roots and sparkling mischief.
@@ -52,6 +50,7 @@ Let your costume reflect the creature within — or the one you long to become.
 To help you cross into the realm, we’ll provide **twinkling fae tokens** — tiny lights, glowing threads, or shimmer patches you can clip onto your look.
 
 Use them:
+
 - **In your hair or horns**
 - **Wrapped around wrists, ankles, staffs**
 - **Like stars on your skin or cloak**

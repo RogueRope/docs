@@ -34,6 +34,7 @@ Messy. Honest. Weird. Tender. Quiet. Joyful.
 A language between souls—not for applause, but for connection.
 
 **Post-rope is:**
+
 - The kitchen session that turns into a life talk.
 - The slow tie that’s more about breathing than binding.
 - The hug at the end that means more than the tie itself.
@@ -54,6 +55,7 @@ A language between souls—not for applause, but for connection.
 ## What It’s Not
 
 Post-rope is **not**:
+
 - A new hierarchy or movement.
 - A rejection of learning or community.
 - A place for coolness or status.
@@ -67,6 +69,7 @@ It’s a *letting go*.
 ## DOs and DON'Ts
 
 ### DO:
+
 - Show up as you are—no mask, no act.
 - Ask questions that matter, not just technical ones.
 - Be present with emotion, stillness, softness.
@@ -75,6 +78,7 @@ It’s a *letting go*.
 - Let scenes be weird, unfinished, quiet, or tender.
 
 ### DON'T:
+
 - Assume others want to be taught or corrected.
 - Perform or posture for validation.
 - Reduce rope to style, skill, or credentials.

@@ -11,7 +11,6 @@ toc: true
 
 ![QR code to last link](/images/whatsappqr.png)
 
-
 ## Got Questions?
 
 Need to check something before you pack your tent and glitter?  
@@ -21,6 +20,7 @@ Just reach out.
 ![A lantern hanging from a tree branch over the field at night.](/images/rrc26/mj/2._Spot_illustration_lantern_hanging_from_a_tree_branch_above_ebd54bf8-ab72-4671-95f6-054e367a357f_2.png)
 
 We’re here for:
+
 - Curious questions
 - Nerdy logistics
 - Weird edge cases

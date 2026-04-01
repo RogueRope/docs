@@ -12,11 +12,13 @@ lead: "The essentials, so you can arrive comfortable."
 ![Travel prep on a table: keys, coffee, a map, and rope.](/images/rrc26/mj/Travel_prep_scene_car_keys_blank_ticket-shaped_paper_folded_m_43b2ea63-f791-404d-ab01-f59b5c989ab7_0.png)
 
 ### The Basics
+
 - Your ticket (with QR code)
 - Rope (even if you don’t plan to use it)
 - Any toys or gear that bring you joy
 
 ### For Eating & Drinking
+
 - Solid **reusable cup** (no glass) ~ **MANDATORY**
 - Plate for meals
 - Fork, knife, spoon (or spork if you’re that kind of genius)
@@ -26,11 +28,13 @@ lead: "The essentials, so you can arrive comfortable."
 - Cooler bag or box + space in your heart for ice (we’ll provide that part)
 
 ### Lighting & Navigation
+
 - Handheld torch **with extra batteries**
 - LED headlamp for hands-free nighttime wanderings
 - Lights or fairy strings to make your tent a beacon of weird joy
 
 ### Camping Comfort
+
 - Tent with stakes + tie-downs (it might get windy)
 - Sleeping bag (appropriate for summer nights)
 - Sleeping mat, air mattress, or padding
@@ -39,6 +43,7 @@ lead: "The essentials, so you can arrive comfortable."
 - Something soft to sit on in the amphitheatre of flames
 
 ### Hygiene & Health
+
 - Biodegradable soap + shampoo
 - Toothbrush + toothpaste
 - Quick-dry towel
@@ -48,6 +53,7 @@ lead: "The essentials, so you can arrive comfortable."
 - First aid basics (band-aids, antiseptic, electrolytes)
 
 ### Self-Care & Sanity
+
 - Ear plugs (you might be tented near a snorer)
 - Sleeping mask (sunrise is early)
 - Sunscreen (SPF 30+)
@@ -60,6 +66,7 @@ lead: "The essentials, so you can arrive comfortable."
 - A **portable ashtray** if you smoke
 
 ### Dressing for Delight
+
 - Layers — warm nights aren’t guaranteed
 - Camp clothes you can move, tie, and play in
 - An outfit for the play party

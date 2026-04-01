@@ -24,6 +24,7 @@ We treat the land like we treat each other: with care, with respect, and with at
 There are no general garbage bins on site — by design. That means **whatever you bring in, you take back out**. We only provide bins for compostable waste (food scraps).
 
 Some tips to make that easy:
+
 - Pack light and leave excess packaging at home.
 - Bring a small bag for your personal waste.
 - Use reusable containers and tools whenever you can.

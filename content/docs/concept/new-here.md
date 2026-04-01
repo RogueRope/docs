@@ -69,9 +69,7 @@ We expect that. This experience can be intense. There are quiet places, kind vol
 
 Consent means you get to choose — every time.
 
-
 ![An empty circle of camp chairs around a fire pit at night.](/images/rrc26/mj/Empty_circle_of_camp_chairs_around_a_low_fire_pit_at_dusk_a_c_86a2637d-3262-4e0b-91c9-171e0dc31109_1.png)
-
 
 You don’t need to be ready. You just need to be here.
 

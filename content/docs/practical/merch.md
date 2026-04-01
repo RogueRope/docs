@@ -39,6 +39,7 @@ You’ll have the option to buy a shirt during the ticket checkout process. No n
 ### Sizing
 
 To get the right fit:
+
 1. Find a shirt you love.
 2. Lay it flat.
 3. Measure it.
