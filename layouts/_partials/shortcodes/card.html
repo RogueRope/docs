@@ -7,6 +7,13 @@
 {{- $width := .width -}}
 {{- $height := .height -}}
 {{- $imageStyle := .imageStyle -}}
+{{- $imageSrcset := .imageSrcset -}}
+{{- $imageSizes := .imageSizes -}}
+{{- $imageAvif := .imageAvif -}}
+{{- $imageAvifSrcset := .imageAvifSrcset -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $decoding := .decoding | default "async" -}}
+{{- $fetchpriority := .fetchpriority -}}
 {{- $tag := .tag -}}
 {{- $tagColor := .tagColor | default .tagType | default "" -}}{{- /* Compatibility with previous parameter. */ -}}
 {{- $tagBorder := not (eq .tagBorder false) | default true }}
@@ -35,15 +42,27 @@
   {{- with $image -}}
     {{- if $hasHoverVideo -}}
       <div class="rrc-card-media" {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}>
-        <img
-          alt="{{ $alt }}"
-          class="hextra-card-image"
-          loading="lazy"
-          decoding="async"
-          src="{{ $image | safeURL }}"
-          {{ with $width }}width="{{ . }}"{{ end }}
-          {{ with $height }}height="{{ . }}"{{ end }}
-        />
+        <picture class="rrc-card-picture">
+          {{- with $imageAvifSrcset -}}
+            <source srcset="{{ . }}" type="image/avif" {{ with $imageSizes }}sizes="{{ . }}"{{ end }}>
+          {{- else -}}
+            {{- with $imageAvif -}}
+              <source srcset="{{ . | safeURL }}" type="image/avif">
+            {{- end -}}
+          {{- end -}}
+          <img
+            alt="{{ $alt }}"
+            class="hextra-card-image"
+            loading="{{ $loading }}"
+            decoding="{{ $decoding }}"
+            src="{{ $image | safeURL }}"
+            {{ with $imageSrcset }}srcset="{{ . }}"{{ end }}
+            {{ with $imageSizes }}sizes="{{ . }}"{{ end }}
+            {{ with $fetchpriority }}fetchpriority="{{ . }}"{{ end }}
+            {{ with $width }}width="{{ . }}"{{ end }}
+            {{ with $height }}height="{{ . }}"{{ end }}
+          />
+        </picture>
         <video
           aria-hidden="true"
           class="rrc-card-hover-video"
@@ -58,16 +77,28 @@
         </video>
       </div>
     {{- else -}}
-      <img
-        alt="{{ $alt }}"
-        class="hextra-card-image"
-        loading="lazy"
-        decoding="async"
-        src="{{ $image | safeURL }}"
-        {{ with $width }}width="{{ . }}"{{ end }}
-        {{ with $height }}height="{{ . }}"{{ end }}
-        {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
-      />
+      <picture class="rrc-card-picture">
+        {{- with $imageAvifSrcset -}}
+          <source srcset="{{ . }}" type="image/avif" {{ with $imageSizes }}sizes="{{ . }}"{{ end }}>
+        {{- else -}}
+          {{- with $imageAvif -}}
+            <source srcset="{{ . | safeURL }}" type="image/avif">
+          {{- end -}}
+        {{- end -}}
+        <img
+          alt="{{ $alt }}"
+          class="hextra-card-image"
+          loading="{{ $loading }}"
+          decoding="{{ $decoding }}"
+          src="{{ $image | safeURL }}"
+          {{ with $imageSrcset }}srcset="{{ . }}"{{ end }}
+          {{ with $imageSizes }}sizes="{{ . }}"{{ end }}
+          {{ with $fetchpriority }}fetchpriority="{{ . }}"{{ end }}
+          {{ with $width }}width="{{ . }}"{{ end }}
+          {{ with $height }}height="{{ . }}"{{ end }}
+          {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
+        />
+      </picture>
     {{- end -}}
   {{- end -}}
 

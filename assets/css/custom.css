@@ -117,6 +117,11 @@ body {
   overflow: hidden;
 }
 
+.rrc-card-picture {
+  display: block;
+  height: 100%;
+}
+
 .rrc-card-media .hextra-card-image,
 .rrc-card-hover-video {
   width: 100%;
@@ -126,6 +131,18 @@ body {
 
 .rrc-card-media .hextra-card-image {
   display: block;
+}
+
+.rrc-home-card-grid .hextra-card-subtitle {
+  color: #514439;
+}
+
+.rrc-home-card-grid .hextra-card-icon {
+  color: #2f211a;
+}
+
+.rrc-home-card-grid .hextra-card:hover .hextra-card-subtitle {
+  color: #3d3026;
 }
 
 .rrc-card-hover-video {
@@ -184,6 +201,14 @@ body {
 
 .dark .rrc-home-intro-meta {
   color: #bda791;
+}
+
+.dark .rrc-home-card-grid .hextra-card-subtitle {
+  color: #d7c5b6;
+}
+
+.dark .rrc-home-card-grid .hextra-card-icon {
+  color: #fff4eb;
 }
 
 .hextra-sidebar-container [data-toggle-animation="show"] {

@@ -24,9 +24,16 @@
 {{- $subtitle := .Get "subtitle" -}}
 {{- $image := .Get "image" -}}
 {{- $alt := .Get "alt" | default $title -}}
-{{- $width := 0 -}}
-{{- $height := 0 -}}
-{{- $imageStyle := .Get "imageStyle" -}}
+{{- $width := .Get "width" | default 0 -}}
+{{- $height := .Get "height" | default 0 -}}
+{{- $imageStyle := or (.Get "imageStyle") (.Get "imagestyle") -}}
+{{- $imageSrcset := or (.Get "imageSrcset") (.Get "imagesrcset") -}}
+{{- $imageSizes := or (.Get "imageSizes") (.Get "imagesizes") -}}
+{{- $imageAvif := or (.Get "imageAvif") (.Get "imageavif") -}}
+{{- $imageAvifSrcset := or (.Get "imageAvifSrcset") (.Get "imageavifsrcset") -}}
+{{- $loading := .Get "loading" | default "lazy" -}}
+{{- $decoding := .Get "decoding" | default "async" -}}
+{{- $fetchpriority := or (.Get "fetchpriority") (.Get "fetchPriority") -}}
 {{- $tag := .Get "tag" -}}
 {{- $tagColor := .Get "tagColor" | default (.Get "tagType") | default "" -}}{{- /* Compatibility with previous parameter. */ -}}
 {{- $tagBorder := not (eq (.Get "tagBorder") false) | default true }}
@@ -68,6 +75,13 @@
   "width"          $width
   "height"         $height
   "imageStyle"     $imageStyle
+  "imageSrcset"    $imageSrcset
+  "imageSizes"     $imageSizes
+  "imageAvif"      $imageAvif
+  "imageAvifSrcset" $imageAvifSrcset
+  "loading"        $loading
+  "decoding"       $decoding
+  "fetchpriority"  $fetchpriority
   "tag"            $tag
   "tagType"        $tagColor
   "tagBorder"      $tagBorder

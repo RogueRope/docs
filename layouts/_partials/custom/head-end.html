@@ -1,3 +1,21 @@
+{{- $siteFixes := resources.Get "js/site-fixes.js" -}}
+{{- if $siteFixes -}}
+  {{- $siteFixes = $siteFixes | minify | fingerprint -}}
+  <script defer src="{{ $siteFixes.RelPermalink }}" integrity="{{ $siteFixes.Data.Integrity }}"></script>
+{{- end -}}
+
 {{- if .IsHome -}}
-  <script defer src="{{ "js/home-card-videos.js" | relURL }}"></script>
+  <link
+    rel="preload"
+    as="image"
+    href="/images/rrc26/homepage/cards/stills/vibe.avif"
+    imagesrcset="/images/rrc26/homepage/cards/stills/vibe-480.avif 480w, /images/rrc26/homepage/cards/stills/vibe.avif 800w"
+    imagesizes="(max-width: 700px) calc(100vw - 2rem), (max-width: 1024px) calc((100vw - 3rem) / 2), 33vw"
+    fetchpriority="high"
+  >
+  {{- $homeCardVideos := resources.Get "js/home-card-videos.js" -}}
+  {{- if $homeCardVideos -}}
+    {{- $homeCardVideos = $homeCardVideos | minify | fingerprint -}}
+    <script defer src="{{ $homeCardVideos.RelPermalink }}" integrity="{{ $homeCardVideos.Data.Integrity }}"></script>
+  {{- end -}}
 {{- end -}}
