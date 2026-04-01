@@ -76,29 +76,14 @@ Consent means:
 
 ---
 
-### Enthusiastic Consent = Real Consent
-
-> “Consent isn’t a question. It’s a state.  
-> If, instead of lovers, the two of you were synchronized swimmers, consent would be the water.  
-> It’s not enough to jump in, get wet and climb out —  
-> if you want to swim, you have to be in the water continually.”  
-> — [Yes Means Yes](https://www.yesmeansyes.com/consent/)
-
-We believe sex, kink, and rope all start from this same place:  
-A *shared*, excited, embodied yes.  
-The kind that moves you both.
-
----
-
 ### If Something’s Off — Tell Us
 
-If someone on the “going” list is raising red flags, if you’ve had an issue with someone, or if you’ve witnessed behavior that concerns you — **please let us know.**
+If you’ve had an experience with someone, or you directly witnessed behavior that concerns you, **please let us know.**
 
 You can:
 - Use [this contact page]({{< ref "/docs/contact" >}} "Contact us")
-- Feel free to use a pseudonymous email (ProtonMail, Fastmail, etc.)
 
-Tell us what happened. If you have ideas for how we could hold it — boundaries, support, checking in — include those too.
+Please report your own experience, not hearsay. Tell us what happened. If you have ideas for how we could hold it — boundaries, support, checking in — include those too.
 
 We’ll listen. We’ll think.  
 We’ll follow up with care, not with assumptions.
@@ -117,7 +102,3 @@ If that’s you, [get in touch.]({{< ref "/docs/contact" >}} "Contact us")
 ### More to Read
 
 - [La Quarta Corda on Consent](https://www.laquartacorda.it/en/consent/)
-- [Yes Means Yes](https://www.yesmeansyes.com/consent/)
-
-Let’s make consent more than a rule.  
-Let’s make it the rhythm we move to.
