@@ -2,6 +2,8 @@
 title: "Rogue Rope Camp"
 description: "Six-day intimate rope gathering in Belgium. Connection over performance, consent as sacred practice. Aug 4-9, 2026."
 lead: "A sanctuary for rope as ritual, connection over performance, and consent as sacred practice."
+date: 2026-03-28T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 weight: 1
 toc: false
 ---
