@@ -64,9 +64,9 @@ It’s a *letting go*.
 
 ---
 
-## ✅ DOs and ❌ DON'Ts
+## DOs and DON'Ts
 
-### ✅ DO:
+### DO:
 - Show up as you are—no mask, no act.
 - Ask questions that matter, not just technical ones.
 - Be present with emotion, stillness, softness.
@@ -74,7 +74,7 @@ It’s a *letting go*.
 - Share experience—not authority.
 - Let scenes be weird, unfinished, quiet, or tender.
 
-### ❌ DON’T:
+### DON'T:
 - Assume others want to be taught or corrected.
 - Perform or posture for validation.
 - Reduce rope to style, skill, or credentials.
