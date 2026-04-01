@@ -62,7 +62,7 @@ lead: "The essentials, so you can arrive comfortable."
 ### Dressing for Delight
 - Layers — warm nights aren’t guaranteed
 - Camp clothes you can move, tie, and play in
-- An [outfit for the play party](/docs/dresscode/)
+- An outfit for the play party
 - Something that makes you feel hot, silly, or sacred
 
 ---

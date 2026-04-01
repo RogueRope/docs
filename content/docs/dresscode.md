@@ -3,10 +3,11 @@ title: "Dress Code"
 description: "Theme night inspiration and guidelines for costumes at camp."
 lead: "Trolls, faeries, and fabled creatures: step through the portal."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 slug: "dresscode"
 images: []
 toc: true
+draft: true
 ---
 
 

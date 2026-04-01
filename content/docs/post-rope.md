@@ -98,6 +98,6 @@ We’ll be on the floor, tying quietly. Laughing. Crying.
 Making art that doesn’t need to be seen.  
 Letting things be what they are.
 
-🌀 Welcome to the post-rope.
+Welcome to the post-rope.
 
 If you want the baseline agreements that hold camp, read the [Manifesto](/docs/manifesto/).
