@@ -45,12 +45,6 @@ enableRobotsTXT = true
   weight = 4
 
 [[menus.main]]
-  identifier = "contact"
-  name = "Contact"
-  pageRef = "/docs/contact"
-  weight = 5
-
-[[menus.main]]
   identifier = "search"
   weight = 98
   [menus.main.params]
