@@ -3,12 +3,12 @@ title: Expectations
 description: 'Community agreements and how we show up for each other.'
 lead: What do we ask from you?
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
 menu: 
   docs:
     parent: "wellbeing"
-weight: 30
+weight: 20
 toc: false
 ---
 

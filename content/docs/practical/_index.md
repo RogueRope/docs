@@ -2,8 +2,9 @@
 title: "Practical Info"
 description: "Logistics, preparation, and participation for Rogue Rope Camp 2026."
 lead: "Everything you need to arrive prepared, grounded, and ready to participate."
-weight: 1
-lastmod: 2026-03-30T00:00:00+00:00
+date: 2026-03-28T00:00:00+00:00
+weight: 2
+lastmod: 2026-04-01T00:00:00+00:00
 toc: false
 aliases:
   - /docs/practical/policies/

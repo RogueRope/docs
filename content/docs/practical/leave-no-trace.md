@@ -2,9 +2,9 @@
 title: Leave No Trace
 description: "How we protect the land and our shared home."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
-weight: 35
+weight: 60
 toc: true
 lead: "Leave the land as you found it, or better."
 ---

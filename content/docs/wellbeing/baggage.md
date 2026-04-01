@@ -3,10 +3,10 @@ title: "Baggage"
 description: A gentle (but serious) word about the weight you bring—and the weight you might off‑load onto others.
 lead: We’ve all got shadows. What matters is whether we drag them through camp or meet them with care before we arrive.
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-03-30T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 aliases:
   - /docs/wellbeing/bagage/
-weight: 75
+weight: 60
 menu:
   docs:
     parent: "wellbeing"

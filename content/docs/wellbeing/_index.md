@@ -2,7 +2,9 @@
 title: "Wellbeing"
 description: "How we hold space, consent, and each other at Rogue Rope Camp."
 lead: "Support, consent culture, and integration before, during, and after camp."
-weight: 1
+date: 2026-03-28T00:00:00+00:00
+weight: 3
+lastmod: 2026-04-01T00:00:00+00:00
 toc: false
 aliases:
   - /docs/wellbeing/support-care/
@@ -21,11 +23,11 @@ Need a private check-in or have access needs you’d rather not post publicly? E
 
 {{< cards cols="3" >}}
 {{< card link="/docs/wellbeing/consent/" title="Consent" subtitle="Clear, enthusiastic, ongoing. The foundation." icon="shield-check" >}}
-{{< card link="/docs/wellbeing/fwb/" title="FWBs" subtitle="Friends With Benefits: the care and connection crew." icon="users" >}}
-{{< card link="/docs/wellbeing/conscious-care/" title="Conscious Care" subtitle="What support looks like when things get tender." icon="support" >}}
-{{< card link="/docs/wellbeing/aftercare-integration/" title="Aftercare & Integration" subtitle="Landing after camp and tending what opens." icon="heart" >}}
 {{< card link="/docs/wellbeing/emotional/" title="Emotional Wellbeing" subtitle="Staying with yourself through intensity and closeness." icon="information-circle" >}}
 {{< card link="/docs/wellbeing/neuro/" title="Neurodiversity" subtitle="Access, sensory needs, and communication styles." icon="chip" >}}
+{{< card link="/docs/wellbeing/fwb/" title="FWBs" subtitle="Friends With Benefits: the care and connection crew." icon="users" >}}
+{{< card link="/docs/wellbeing/conscious-care/" title="Conscious Care" subtitle="What support looks like when things get tender." icon="support" >}}
 {{< card link="/docs/wellbeing/baggage/" title="Baggage" subtitle="The stuff you bring that isn’t in your bag." icon="briefcase" >}}
 {{< card link="/docs/wellbeing/partners/" title="Partners" subtitle="Arriving with someone: care, autonomy, and agreements." icon="link" >}}
+{{< card link="/docs/wellbeing/aftercare-integration/" title="Aftercare & Integration" subtitle="Landing after camp and tending what opens." icon="heart" >}}
 {{< /cards >}}

@@ -3,12 +3,12 @@ title: Neuro-Divergence
 description: Creating a Safe and Inclusive Environment for Neurodivergent Individuals
 lead: "You know your needs better than we ever could."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
 menu: 
   docs:
     parent: "wellbeing"
-weight: 20
+weight: 30
 toc: true
 ---
 

@@ -3,9 +3,9 @@ title: "FAQ"
 description: "Quick answers to common questions about Rogue Rope Camp."
 lead: "The basics, clarified."
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-03-28T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
-weight: 40
+weight: 90
 toc: true
 draft: false
 ---

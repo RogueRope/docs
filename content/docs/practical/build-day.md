@@ -6,9 +6,9 @@ description: >
   contribution is the keystone to this endeavor's success.
 lead: Calling all builders and dreamers!
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-31T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
-weight: 95
+weight: 70
 toc: true
 ---
 

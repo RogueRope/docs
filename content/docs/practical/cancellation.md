@@ -3,9 +3,9 @@ title: "Cancellation"
 description: "Plans can change or go wrong — here’s how we handle it."
 lead: "Refunds, reselling, and what happens if plans change."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
-weight: 125
+weight: 80
 toc: true
 ---
 

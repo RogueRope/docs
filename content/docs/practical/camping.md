@@ -3,11 +3,11 @@ title: Camping
 description: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 lead: It's a field. It's basic. There's a firepit. Bring your guitar and marshmallows.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-30T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 aliases:
   - /docs/practical/accommodations/
 images: []
-weight: 50
+weight: 30
 toc: true
 ---
 

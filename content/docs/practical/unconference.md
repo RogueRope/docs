@@ -3,12 +3,12 @@ title: Unconference
 description: "Peer-led sessions and conversations, proposed by participants and scheduled on the day."
 lead: "A board, some post-its, and the courage to share."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
 menu: 
   docs:
     parent: "opportunities"
-weight: 2020
+weight: 130
 ---
 
 ### A Space for Sharing, Not Showing Off

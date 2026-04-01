@@ -3,12 +3,12 @@ title: "Conscious Care"
 description: "A collective effort towards a tidy and comfortable space."
 lead: "Not just clean, but consciously cared for by all."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-30T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
 menu: 
   docs:
     parent: "wellbeing"
-weight: 60
+weight: 50
 toc: true
 ---
 

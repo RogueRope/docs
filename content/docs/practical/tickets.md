@@ -3,11 +3,11 @@ title: Tickets
 description: "How ticketing works and how to secure your spot."
 lead: "Read first, then buy: a slow yes beats a rushed one."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-31T00:00:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 aliases:
   - /docs/practical/participation/
 images: []
-weight: 25
+weight: 10
 toc: true
 ---
 
@@ -20,6 +20,7 @@ This isn’t just about clicking “buy.” It’s about saying yes, with your w
 
 - Dates: Tue–Sun, Aug 4–9, 2026
 - Location: East of Ghent, west of Antwerp
+- Ticket price: 200 €
 - Ticket sales open: Wednesday, April 15, 2026
 
 ![Tickets page illustration for Rogue Rope Camp.](/images/rrc26/mj/hansf_Hero_illustration_for_the_Tickets_page_of_Rogue_Rope_Ca_d4c6b482-c5df-4e9b-99c7-a19669312130_3.png)
@@ -69,6 +70,8 @@ We’ll meet you where we can.
 
 If it’s a yes — beautiful.  
 Tickets go on sale **Wednesday, April 15, 2026**.
+
+Tickets cost **200 €**.
 
 👉 [Buy your ticket here](https://shop.gogogonzo.be/RRC26/)
 

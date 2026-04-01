@@ -3,13 +3,13 @@ title: "FWBs"
 description: "Care doesn’t belong to a crew. It belongs to all of us."
 lead: "They're Casual Friends *and* With Benefits."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 slug: "fwb"
 images: []
 menu: 
   docs:
     parent: "wellbeing"
-weight: 10
+weight: 40
 toc: false
 ---
 

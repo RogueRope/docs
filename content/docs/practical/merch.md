@@ -1,11 +1,11 @@
 ---
 title: Merch!
-description: When you order a ticket, you have the option to buy a t-shirt for 25€.
-lead: When you order a ticket, you have the option to buy a t-shirt for 25€.
+description: When you order a ticket, you have the option to buy a t-shirt for 30€.
+lead: When you order a ticket, you have the option to buy a t-shirt for 30€.
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-03-29T13:37:00+00:00
+lastmod: 2026-04-01T00:00:00+00:00
 images: []
-weight: 90
+weight: 110
 toc: true
 ---
 
@@ -17,7 +17,7 @@ We’ve got a limited run of t-shirts — soft, sustainable, and cut for bodies 
 * Fairly made  
 * 100% cotton  
 * 150 g/m² — light but durable  
-* Cost: 25€ (add it when you buy your ticket)
+* Cost: 30€ (add it when you buy your ticket)
 
 ---
 
