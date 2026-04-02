@@ -30,7 +30,7 @@ You’ll choose **vegetarian** or **meat** when you register — and we’ll ask
 | :----- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Morning | — | Brunch | Brunch | Brunch | Brunch | Brunch |
 | Afternoon | — | Snacks | Snacks | Snacks | Snacks | — |
-| Evening | Dinner (early arrivals) | Dinner | Dinner | Dinner | Dinner | — |
+| Evening | Dinner | Dinner | Dinner | Dinner | Dinner | — |
 
 _Tuesday dinner is for Build Day arrivals._
 
