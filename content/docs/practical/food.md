@@ -15,9 +15,8 @@ toc: true
 
 **🍽️ What we provide:**
 
-- **Coffee and water** — always available
-- **Bread in the morning** — daily
-- **Snacks** — most afternoons
+- **Brunch** — coffee, water, and fresh bread every morning
+- **Afternoon snacks** — to keep you going through the day
 - **Warm meal** — every evening
 
 This is *not* a gourmet camp. But it will be tasty, filling, and made with love (and probably laughter).
@@ -31,7 +30,7 @@ You'll choose **vegetarian** or **meat** when you register — and we'll ask you
 
 | _Time_ | Tue | Wed | Thu | Fri | Sat | Sun |
 | :----- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Morning | — | — | Bread | Bread | Bread | Bread |
+| Morning | — | — | Brunch | Brunch | Brunch | Brunch |
 | Afternoon | — | — | Snacks | Snacks | Snacks | Leftovers |
 | Evening | Dinner (early arrivals) | Dinner | Dinner | Dinner | Dinner | — |
 
@@ -53,10 +52,10 @@ _Tuesday dinner is for Build Day arrivals. Sunday: fend for yourself or share le
 
 ## What to Bring for Yourself
 
-- **Cooler box or insulated bag** — we provide ice cubes; you bring the container
-- **Your favorite drinks** — there's no bar. Bring what you like, bring a little to share.
-- **Breakfast additions** — we bring bread; you bring your peanut butter, jam, cheese, or whatever makes your morning right
-- **Snacks you love** — especially late-night snacks for the firepit
+- **Cooler box or insulated bag** — essential; we provide ice cubes, you bring the container
+- **Your favorite drinks** — there's no bar on site. Bring beer, wine, soft drinks, mixers, whatever you love. We provide coffee and water but not other beverages.
+- **Brunch toppings** — we bring fresh bread; you bring your peanut butter, jam, cheese, spreads, or whatever makes your morning right
+- **Snacks you love** — especially late-night snacks for the firepit and times you want extra energy
 - **Reusable plate, cutlery, and cup** — we don't do disposables
 
 ---

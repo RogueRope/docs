@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 description: 'Common questions about Rogue Rope Camp 2026 and how to prepare'
 lead: 'Questions you might have. Honest answers.'
 date: 2026-03-07T10:00:00+00:00
-lastmod: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-08T13:00:00+00:00
 menu:
   docs:
     parent: practical
@@ -14,10 +14,13 @@ toc: true
 ## The Gathering
 
 **How long is it?**  
-Tue–Sun, August 4–9, 2026. That's 6 full days — long enough to truly settle in, short enough to stay fully present. Tuesday is Build Day (optional but encouraged). Wednesday is the main arrival day. Sunday is teardown and goodbye.
+Tue–Sun, August 4–9, 2026. That's 6 full days — long enough to truly settle in, short enough to stay fully present. Tuesday is Build Day (optional but encouraged). Wednesday is the main arrival day. Sunday is teardown, goodbye, and everyone still on site needs to be packed out by 15:00.
 
 **What time do I need to arrive?**  
-**Wednesday by 21:00 for the Opening Circle — this is mandatory.** If you can come Tuesday for Build Day, even better. If you can't make the Opening Circle, this gathering isn't the right fit for you this year.
+Be on site **Wednesday by 21:00 for Opening Circle** if you're joining the gathering. If you can come Tuesday for Build Day, even better. If you can't make Opening Circle, talk to us before assuming a late join will work.
+
+**Can I leave early?**  
+Yes. If you know your limit or need to head out before Sunday, do that and let the organizers know before you leave. If you are still on site on Sunday, you must be packed out by 15:00.
 
 **Do I have to do rope?**  
 No. Watch, connect, rest, wander, or play. All of it's welcome.
@@ -29,14 +32,14 @@ Yes. This is a sex-positive gathering where intimate expression happens. If seei
 Most people arrive knowing few or none. By day 2, you'll know people. By day 4, you're part of something.
 
 **Is this outdoors?**  
-Yes. It's an outdoor camping event. You'll sleep in a tent in the field. See [Camping](camping) and [Things to Bring](things-to-bring).
+Yes. It's an outdoor camping event. You'll sleep in a tent in the field. See [Camping](/docs/practical/camping) and [Things to Bring](/docs/practical/things-to-bring).
 
 ---
 
 ## Practical Details
 
-**What's included in the €210?**  
-5 nights camping (tent space), one hot meal per day plus provisions, play spaces, support, and the full experience. You bring your own tent and camping gear.
+**What's included in the €200?**  
+5 nights camping (tent space), meals, play spaces, support, and the full experience. You bring your own tent, camping gear, and drinks. See [Food & Meals](/docs/practical/food) for the full meal plan.
 
 **Sliding scale or financial support?**  
 Yes. Email [info@roguerope.be](mailto:info@roguerope.be) with "Financial access" in the subject. No shame, no hoops.
@@ -50,7 +53,7 @@ A mix of rope experience levels, queer and kinky folks, neurodivergent people, s
 **Accessibility / disability?**  
 Tell us when you register. We'll do our best — but it's an outdoor camping event, and some terrain may be challenging. Email us early and we'll problem-solve together.
 
-**Food allergies?**  
+**Food allergies or dietary needs?**  
 Vegetarian and meat options fully supported. Vegan: best-effort. Other specific needs? Tell us when you register — we'll coordinate.
 
 **What's the dress code for the play party?**  
@@ -61,7 +64,7 @@ The theme will be announced in the pre-event info pack. Dark, comfortable, inten
 ## Camping & Logistics
 
 **Do I need to bring a tent?**  
-Yes. This is an outdoor camping event. Tent, sleeping bag, sleeping mat — see [Things to Bring](things-to-bring).
+Yes. This is an outdoor camping event. Tent, sleeping bag, sleeping mat — see [Things to Bring](/docs/practical/things-to-bring).
 
 **Is there electricity?**  
 Yes, we run power through the field. Bring a long extension cord and a power strip. No power-hungry appliances.

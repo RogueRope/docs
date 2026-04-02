@@ -3,13 +3,35 @@ title: Things to Bring
 description: 'Your packing list for six days of outdoor camping at Rogue Rope Camp 2026'
 lead: 'What you actually need. Nothing more.'
 date: 2026-03-07T10:00:00+00:00
-lastmod: 2026-03-07T10:00:00+00:00
+lastmod: 2026-03-08T12:00:00+00:00
 menu:
   docs:
     parent: practical
 weight: 22
 toc: true
 ---
+
+<div class="quick-facts not-prose">
+  <p class="quick-facts-title">Quick facts</p>
+  <div class="quick-facts-grid">
+    <div class="quick-facts-item">
+      <span class="quick-facts-label">Mandatory items</span>
+      <p>Your ticket QR code, a reusable cup, a personal trash bag, and any medication or mobility aids you rely on.</p>
+    </div>
+    <div class="quick-facts-item">
+      <span class="quick-facts-label">Do not forget</span>
+      <p>Headlamp, weather-ready tent setup, warm layers, sunscreen, charger, and a portable ashtray if you smoke.</p>
+    </div>
+    <div class="quick-facts-item">
+      <span class="quick-facts-label">Good to bring</span>
+      <p>Rope, snacks, a cooler, and one Saturday-night outfit that is easy to move in and works outdoors.</p>
+    </div>
+    <div class="quick-facts-item">
+      <span class="quick-facts-label">Leave at home</span>
+      <p>Minors, pets, glassware, and power-hungry appliances like fridges, heaters, or hair dryers.</p>
+    </div>
+  </div>
+</div>
 
 ## Required Items ⭐
 
@@ -63,10 +85,12 @@ This is an outdoor event in August:
 
 - [ ] Plate, fork, knife, spoon (or spork)
 - [ ] Water bottle or hydration container
-- [ ] **Cooler box or insulated bag** — we provide ice cubes
-- [ ] Your favorite drinks (no bar on site — bring what you love)
+- [ ] **Cooler box or insulated bag** — essential, we provide ice cubes
+- [ ] **Your favorite drinks** — no bar on site; bring beer, wine, mixers, soft drinks, whatever you love
 - [ ] Snacks and treats, especially if you enjoy sharing
-- [ ] Breakfast additions (we bring bread; you bring what goes on top)
+- [ ] Jam, spreads, or toppings for brunch (we provide bread)
+
+For the full meal plan and dietary info, see [Food & Meals](/docs/practical/food).
 
 ---
 
@@ -84,7 +108,15 @@ Nights in the field are dark:
 - [ ] **Rope** — even if you don't plan to use it, bring it
 - [ ] Rope care kit (scissors, conditioner)
 - [ ] Any toys, gear, or tools that bring you joy
-- [ ] **Something for the play party** — the dress code will be announced pre-event
+- [ ] **Something for the play party** — see the quick notes below or the full [Dress Code](/docs/dresscode)
+
+## Saturday play party & dress code 🌙
+
+- Bring one outfit that is easy to move in, layer for cool weather, and wear on grass or dirt
+- The current theme is **Dust, Roots & Wild Things**
+- Earth tones, natural textures, rope, leather, linen, and found-object energy all fit
+- The theme is an invitation, not a requirement; comfortable dark clothes are fine
+- If you want the longer inspiration piece, read [Dress Code](/docs/dresscode)
 
 ---
 
