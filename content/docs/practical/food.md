@@ -30,8 +30,8 @@ You'll choose **vegetarian** or **meat** when you register — and we'll ask you
 
 | _Time_ | Tue | Wed | Thu | Fri | Sat | Sun |
 | :----- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Morning | — | — | Brunch | Brunch | Brunch | Brunch |
-| Afternoon | — | — | Snacks | Snacks | Snacks | Leftovers |
+| Morning | — | Brunch | Brunch | Brunch | Brunch | Brunch |
+| Afternoon | — | Snacks | Snacks | Snacks | Snacks | — |
 | Evening | Dinner (early arrivals) | Dinner | Dinner | Dinner | Dinner | — |
 
 _Tuesday dinner is for Build Day arrivals. Sunday: fend for yourself or share leftovers._
