@@ -1,7 +1,7 @@
 ---
 title: "Rogue Rope Camp"
 description: "An intimate rope gathering east of Ghent, west of Antwerp."
-lead: "Tue–Sun, Aug 4–9, 2026. Tickets on sale April 15, 2026."
+lead: "Tue–Sun, Aug 4–9, 2026. Tickets on sale April 15, 2026 at 20.00."
 layout: "hextra-home"
 toc: false
 ---
@@ -14,7 +14,7 @@ toc: false
     </p>
     <p class="rrc-home-intro-meta">
       <strong>Dates:</strong> Tue–Sun, Aug 4–9, 2026<br>
-      <strong>Ticket sales:</strong> April 15, 2026
+      <strong>Ticket sales:</strong> April 15, 2026 at 20.00
     </p>
     <div class="rrc-home-intro-actions">
       {{< hextra/hero-button text="Tickets & Participation" link="/docs/practical/tickets/" >}}

@@ -3,7 +3,7 @@ title: "Rogue Rope Camp"
 description: "Six-day intimate rope gathering in Belgium. Connection over performance, consent as sacred practice. Aug 4-9, 2026."
 lead: "A sanctuary for rope as ritual, connection over performance, and consent as sacred practice."
 date: 2026-03-28T00:00:00+00:00
-lastmod: 2026-04-01T00:00:00+00:00
+lastmod: 2026-04-08T00:00:00+00:00
 weight: 1
 toc: false
 ---
@@ -13,7 +13,7 @@ toc: false
 {{< callout type="info" >}}
 **Rogue Rope Camp 2026**  
 Tue–Sun, **Aug 4–9, 2026** (east of Ghent, west of Antwerp)  
-Tickets on sale **April 15, 2026**
+Tickets on sale **April 15, 2026 at 20.00**
 {{< /callout >}}
 
 ## New here? Welcome.
