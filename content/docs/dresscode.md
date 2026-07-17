@@ -1,73 +1,155 @@
 ---
 title: "Dress Code"
 description: "Theme night inspiration and guidelines for costumes at camp."
-lead: "Trolls, faeries, and fabled creatures: step through the portal."
+lead: "Broadway After Dark: when the curtain falls, Broadway gets a little stranger."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-04-01T00:00:00+00:00
+lastmod: 2026-07-17T00:00:00+00:00
 slug: "dresscode"
 images: []
 weight: 95
 toc: true
-draft: true
+draft: false
 ---
 
+### ✨ *Dress Code: Broadway After Dark* ✨
 
+When the curtain falls, Broadway gets a little stranger.
 
-![A mischievous fairy and a grinning troll swapping a tiny treasure.](/images/rrc26/mj/Folk_art_illustration_of_a_mischievous_fairy_stealing_somethi_b39b47ca-7fbf-4cfa-bfd5-5f592b141217_1.png)
+The stage lights dim, the velvet curtains part, and the glamorous misfits, mysterious strangers, decadent performers, and creatures of the night take over.
 
-### ✨ *Dress Code: Trolls, Faeries & Fabled Creatures* ✨
+This year's dress theme is **Broadway After Dark**, inspired by four gloriously theatrical worlds:
 
-This year, we invite you to **step through the portal** and emerge as your truest, wildest self — a creature of the in-between, of moss and moonlight, of tangled roots and sparkling mischief.
+* **The Rocky Horror Picture Show**
+* **Cabaret**
+* **Moulin Rouge**
+* **The Phantom of the Opera**
 
-Our theme: **Trollen, Feeën en Fabelwezens**.
+Think corsets and tailcoats, fishnets and velvet, feathers and masks, glittering performers, gothic romantics, strange scientists, creatures in heels, tragic divas, and people making spectacularly dramatic entrances.
 
-Picture it: earthy trolls with mossy skin, mischievous goblins clinking with trinkets, regal elves in vines and silver, glowing faeries dusted with stardust. A forest full of beings that don’t quite belong — and never needed to.
+But most importantly: **this is just for fun**.
 
-Let your costume reflect the creature within — or the one you long to become.
+You do not need to know the musicals. You do not need an accurate costume. You do not need to spend money, sew anything, or arrive looking ready for a professional stage production.
 
----
-
-### 🌿 *Archetypes to Inspire* 🌿
-
-**Trolls**: Earth-toned, grounded, and a little gruff. Fur, moss, stones, oversized shapes, funny lumps. Maybe a bark-like mask or a single leafy eyebrow.  
-
-**Faeries**: Light, ethereal, and a little mischievous. Glitter, wings (or not), sheer fabrics, glowing threads. Are you a sun-fae or shadow-fae?
-
-**Goblins**: Chaotic, shiny, cluttercore. Pockets full of treasures — bottle caps, buttons, broken keys. Nothing matches. Everything works.
-
-**Forest Witches**: Herbs, cloaks, mysterious pendants. Maybe a bone wand or a grimoire full of secrets. You’re here for the transformation.
-
-**Elves & Satyrs**: Elegant or wild. Leather straps, horns, leaf crowns, silky tunics, bare feet. Choose mischief, grace, or both.
-
-**Shapeshifters**: Mix everything. Fur and feathers. Layers that change. Let your look evolve over time. Let no one pin you down.
+Take the theme as far—or as little—as you like.
 
 ---
 
-![A friendly dragon near a little castle under the sun.](/images/rrc26/mj/a_dragon_in_front_of_a_castle_--ar_43_--profile_mwbhj59_--v_7_533767be-9bc0-4916-ac43-ba40dd7037fc_1.png)
+### 🎭 *Choose Your Stage* 🎭
 
-### 🌌 *Twinkling Tokens of the Fae Realm* 🌌
+**Rocky Horror Rebels**
+Camp, chaos, fishnets, lingerie, leather, lab coats, sequins, dramatic makeup, playful gender-bending, and wonderfully questionable scientific experiments.
 
-To help you cross into the realm, we’ll provide **twinkling fae tokens** — tiny lights, glowing threads, or shimmer patches you can clip onto your look.
+**Cabaret Creatures**
+Dark nightclub glamour, smoky eyes, suspenders, stockings, waistcoats, bow ties, worn-out elegance, decadent performers, and mysterious figures watching from the shadows.
 
-Use them:
+**Moulin Rouge Royalty**
+Red velvet, lace, feathers, corsets, satin, rhinestones, showgirls, bohemians, poets, courtesans, aristocrats, and beautiful people making bad decisions.
 
-- **In your hair or horns**
-- **Wrapped around wrists, ankles, staffs**
-- **Like stars on your skin or cloak**
-
-Short on prep? No worries.  
-Dark clothes + a fae token + a glint in your eye = you’re through the portal.
+**The Phantom's Masquerade**
+Masks, opera gloves, capes, dark suits, gothic lace, candlelit elegance, dramatic romance, tragic ghosts, and creatures hiding beneath the theatre.
 
 ---
 
-### 🌟 *Consent is Sacred Magic* 🌟
+### 🖤 *Mix It, Twist It, Make It Yours* 🖤
 
-How much (or how little) you dress up is your call.  
-The portal opens wide — whether you’re covered in moss, dressed in denim, or glittering nipple to toe.
+There are no strict categories and absolutely no costume police.
 
-We don’t enforce this theme. It’s an invitation, not a requirement.
+Become a masked Rocky Horror alien.
+A gothic Moulin Rouge dancer.
+A Cabaret performer haunted by the Phantom.
+A corseted opera ghost in glittering boots.
+Or something that makes no sense at all but looks fantastic under stage lights.
 
-And if you want to come as a purple hippo in a tutu? That’s rogue enough for us. 🦛
+This is not a cosplay competition. It is an excuse to play, experiment, exaggerate, and wear something you might not usually wear.
 
-We can’t wait to see who — or what — steps through.  
-✨🌲🌀
+The most memorable looks are often not the most expensive or elaborate. They are the ones that feel playful, theatrical, and unmistakably yours.
+
+---
+
+### ✨ *Keeping It Very Simple* ✨
+
+A black outfit with **one theatrical detail** already works.
+
+Add any of the following:
+
+* A mask
+* Fishnets or patterned tights
+* A feather or flower
+* Gloves
+* A bow tie or suspenders
+* A waistcoat or tailcoat
+* A choker
+* Glitter or dramatic eyeliner
+* Red lipstick
+* A cape
+* A corset, harness, or leather accessory
+* One gloriously unnecessary piece of jewellery
+
+Some very easy combinations:
+
+**Rocky Horror:** black clothes, fishnets, eyeliner, and a bow tie or leather detail.
+
+**Cabaret:** black trousers or a dress, suspenders, a waistcoat, stockings, or smoky makeup.
+
+**Moulin Rouge:** something red or black, with lace, satin, velvet, a flower, feather, or sparkling accessory.
+
+**Phantom:** black clothing, a white shirt, gloves, lace, a cape, or a simple mask.
+
+Even regular clothes with bold makeup or one ridiculous accessory can be enough to join the show.
+
+---
+
+### 🎩 *We'll Dress Up Together* 🎩
+
+You do not have to arrive fully transformed.
+
+We'll also provide a small collection of **masks, feathers, glitter, accessories, and theatrical bits and pieces** at the event. You can add something to your outfit, experiment with a different look, help dress up a friend, or slowly become more dramatic as the day and night continue.
+
+Maybe you arrive in a black T-shirt and leave as a glitter-covered opera villain.
+
+Maybe someone gives you a feather boa.
+
+Maybe a mysterious mask appears.
+
+Maybe your sensible outfit develops fishnets, gloves, and an entirely new personality.
+
+That spontaneous transformation is part of the fun.
+
+---
+
+### 🌙 *An Invitation, Never an Obligation* 🌙
+
+The dress code is here to create atmosphere and inspire play—not to create pressure.
+
+Come in a complete handmade costume.
+Come in something assembled from your wardrobe.
+Come in regular clothes and pick up an accessory when you arrive.
+Come exactly as you are.
+
+There is no required level of glamour, kink, nudity, femininity, masculinity, or theatrical commitment.
+
+How much—or how little—you dress up is entirely your choice.
+
+Wear something that lets you move, relax, play, and enjoy the event.
+
+---
+
+### 🌟 *Consent Takes Centre Stage* 🌟
+
+A costume is never consent.
+
+Revealing clothing, fetishwear, lingerie, nudity, flirtatious styling, or dramatic performance does not automatically invite touch, photographs, comments, play, or interaction.
+
+Admire freely. Ask clearly. Accept every answer gracefully.
+
+Everyone gets to decide how they participate, how they are approached, and when they step out of the spotlight.
+
+---
+
+The stage is waiting—but nobody is expected to audition.
+
+Come elegant, excessive, mysterious, ridiculous, seductive, gothic, glittering, understated, or gloriously strange.
+
+Come dressed for the show, or let the show dress you.
+
+**The curtain rises after dark.** 🎭✨
