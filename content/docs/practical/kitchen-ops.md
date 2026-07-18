@@ -115,6 +115,7 @@ CSVs mirror Vera's spreadsheet — article number + quantity per line, ready to 
 - [Saturday order (chips + cookies/cake/fruit salad)](/files/rrc26-food/rrc26-saturday-snacks-order.csv)
 - [Fruit bowl order (all week)](/files/rrc26-food/rrc26-fruit-order.csv)
 - [Other/pantry order (salt, coffee milk)](/files/rrc26-food/rrc26-other-order.csv) — only 2 items on Vera's "Other" tab have article numbers so far; coffee, tea, sugar, pepper, extra baguette, and extra cookies are still unresolved on her sheet and aren't in this file
+- [Cleaning & consumables order](/files/rrc26-food/rrc26-cleaning-supplies-order.csv) — dish soap, all-purpose cleaner, garbage bags, paper towels, foil, cling film, sponges, gloves. **Not from Vera's spreadsheet** — a starter list for kitchen consumables her sheet doesn't cover, needs review before ordering.
 
 ## Open items
 
