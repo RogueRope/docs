@@ -2,7 +2,7 @@
 title: Things to Bring
 description: "A practical packing list for six days in the field."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-04-01T00:00:00+00:00
+lastmod: 2026-07-18T00:00:00+00:00
 images: []
 weight: 50
 toc: true
@@ -44,7 +44,7 @@ lead: "The essentials, so you can arrive comfortable."
 
 ### Hygiene & Health
 
-- Biodegradable soap + shampoo
+- Soap + shampoo
 - Toothbrush + toothpaste
 - Quick-dry towel
 - Hand sanitizer
