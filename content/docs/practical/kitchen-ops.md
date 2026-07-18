@@ -30,12 +30,25 @@ Vera coordinates food for RRC26. Her spreadsheet ["RRC2026 v2"](https://docs.goo
 | | Time | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|---|---|
 | Snack 1 | 14:00 | — | 🧀 Cheese & baguette | 🥕 Hummus + pita + vegetables | 🍅 Pumpkin & tomato soup | 🥨 Chips & salted snacks | 10:00 Leftovers Buffet |
-| Snack 2 | 16:00 | 🍦 Ice cream | 🥧 Apple pie & whipped cream | 🧇 Mini waffles or luxury biscuits | 🌮 Nachos + salsa, cheese dip & sour cream | 🥤 Smoothies | — |
+| Snack 2 | 16:00 | 🍦 Ice cream | 🥧 Apple pie & whipped cream | 🧇 Mini waffles or luxury biscuits | 🌮 Nachos + salsa, cheese dip & sour cream | 🍪 Cookies, mini cakes & fresh fruit salad | — |
 | Dinner | 18:30 | Pasta Bar | Chicken Curry Rice | Wraps Bar | BBQ (external) | Pizza (external) | — |
 
 Plus a **self-serve fruit bowl out all week** (Tue–Sun) for casual grazing, restocked daily from cold storage — separate from the per-day snack schedule.
 
-Friday's BBQ (hired crew) and Saturday's Pizza (delivery) are fully external — kitchen crew has those evenings off, no cooking or ordering needed beyond Saturday's "1 crew for ordering, 1 cleaning."
+Friday's BBQ (hired crew) and Saturday's Pizza (delivery) are fully external — kitchen crew has those evenings off beyond Saturday's ordering + cleaning pair.
+
+## Fruit — self-serve bowl (all week, Tue–Sun)
+
+Separate from the per-day snack schedule: a fruit bowl out all week for casual grazing, restocked from cold storage daily. Whole fruit, vegan and gluten-free by default.
+
+- Oranges
+- Grapes
+- Cherry tomatoes
+- Bananas (a mix of riper and less-ripe, so there's always some at the right stage)
+- Watermelon
+- Apples (two varieties)
+- Clementines
+- Pears
 
 ## Snack detail & quick allergen orientation (55 people unless noted)
 
@@ -49,7 +62,7 @@ Friday's BBQ (hired crew) and Saturday's Pizza (delivery) are fully external —
 - **Friday — Pumpkin & tomato soup**: pompoensoep + tomatencrèmesoep met balletjes, blended. *Contains: dairy (cream soup base) — the meatball ("balletjes") variant is not vegetarian.*
 - **Friday — Nachos + dips** (~45g chips + 90ml dip/person): tortilla chips, tomato salsa, cheese dip, sour cream. *Contains: dairy (cheese dip, sour cream). Chips + salsa alone are typically vegan/gluten-free (corn-based) but not confirmed on this SKU.*
 - **Saturday — Chips & salted snacks**: plain chips, paprika chips, cocktail mix/pretzels. No dip. *Contains: gluten possible (pretzels/cocktail mix) — plain/paprika chips are usually gluten-free but not confirmed on this SKU.*
-- **Saturday — Smoothies** (fresh-blended, ~180–200ml/person, ~10–11L total): frozen blueberries + mixed berries blended with milk and yoghurt in batches on one venue blender, ~20–30 min before service, held chilled until service. No ice, no coconut milk, no honey needed. *Contains: dairy.*
+- **Saturday — Cookies, mini cakes & fresh fruit salad**: cookies/cakes are individually portioned, no prep; melon is cubed fresh on-site by the crew. *Contains: gluten, dairy, likely egg (cookies/cakes). Melon fruit salad is vegan/gluten-free/dairy-free.*
 
 Every dinner has a built-in vegetarian line, kept genuinely separate from the meat prep, not an afterthought:
 - **Pasta (Tue)**: one base sauce split — 80% finished with tuna (VIS, contains fish), 20% with sautéed courgette (VEGA); plain pasta as a holding option; gorgonzola (dairy) on the table for either. *Vegetarian line contains: gluten (pasta), dairy (gorgonzola, optional).*
@@ -60,13 +73,15 @@ Allergen info above is **not itemized in Vera's spreadsheet** — it's a plain-l
 
 ## Kitchen crew staffing
 
+No food slot is ever staffed by one person alone — every slot is a minimum pair.
+
 | | Snack 1 (14:00) | Snack 2 (16:00) | Dinner (18:30) |
 |---|---|---|---|
-| Tuesday | — | 1 crew with car (ice cream run) | 2 crew + 2 cleaning. Marco on pasta sauce |
-| Wednesday | 1 crew — set up & clear | 1 crew — set up & clear | 3 crew + 2 cleaning |
-| Thursday | 1 crew — set up & clear | 1 crew — set up & clear | 3 crew + 2 cleaning |
-| Friday | 2 crew — heat soup & clean | 1 crew — set up & clear | BBQ (external) |
-| Saturday | 1 crew — set up & clear | 2 crew — blend in batches & clear | 1 crew ordering, 1 cleaning |
+| Tuesday | — | 2 crew with car (ice cream run) | 2 crew + 2 cleaning. Marco on pasta sauce |
+| Wednesday | 2 crew — set up & clear | 2 crew — set up & clear | 3 crew + 2 cleaning |
+| Thursday | 2 crew — set up & clear | 2 crew — set up & clear | 3 crew + 2 cleaning |
+| Friday | 2 crew — heat soup & clean | 2 crew — set up & clear | BBQ (external) |
+| Saturday | 2 crew — set up & clear | 2 crew — set up & clear | 2 crew — ordering + cleaning together |
 | Sunday | 10:00 Leftovers Buffet | — | — |
 
 ## Dinner cook plans
@@ -83,7 +98,6 @@ Full ingredient lists and roles: see the RRC26 vault (`Food/Pasta.md`, `Food/Cur
 
 - 2 big pots for cooking rice/pasta for 55 people
 - 1 big pot for curry/pasta sauce
-- Blenders (Saturday smoothies)
 - Kitchen scale
 - Coffee machine + filters (tbc)
 - Serving trays
@@ -96,10 +110,11 @@ CSVs mirror Vera's spreadsheet — article number + quantity per line, ready to 
 - [Wednesday order (cheese/apple pie + Curry)](/files/rrc26-food/rrc26-wednesday-full-order.csv)
 - [Thursday order (hummus/waffles + Wraps)](/files/rrc26-food/rrc26-thursday-full-order.csv)
 - [Friday order (soup + nachos)](/files/rrc26-food/rrc26-friday-snacks-order.csv)
-- [Saturday order (chips + smoothie berries)](/files/rrc26-food/rrc26-saturday-snacks-order.csv)
+- [Saturday order (chips + cookies/cake)](/files/rrc26-food/rrc26-saturday-snacks-order.csv)
 
 ## Open items
 
 - Vera's own "Other" tab is still unresolved: coffee/tea sourcing, sugar, pepper, extra baguette for the cheese board, possibly more cookies — hers to close out.
-- Confirm venue has: a blender (Saturday smoothies), coffee machine + filters, adequate fridge/freezer space.
+- Confirm venue has: coffee machine + filters, adequate fridge/freezer space.
 - Allergen tracking beyond the veg/meat split is informal (case-by-case with guests) — flag to Vera if a formal matrix is wanted.
+- Saturday's smoothie → cookies/cake swap and the no-solo-crew staffing change (2026-07-18) haven't been run past Vera yet — her spreadsheet is still the source of truth for final sign-off.
