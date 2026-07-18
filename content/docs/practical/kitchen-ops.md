@@ -50,6 +50,8 @@ Separate from the per-day snack schedule: a fruit bowl out all week for casual g
 - Clementines
 - Pears
 
+Order file: [Fruit bowl order (all week)](/files/rrc26-food/rrc26-fruit-order.csv).
+
 ## Snack detail & quick allergen orientation (55 people unless noted)
 
 "Contains" flags are a plain read of the ingredient list (gluten / dairy / fish / nuts) — not verified against product packaging. Treat as a heads-up for deciding what to ask about, not a guarantee.
@@ -110,7 +112,9 @@ CSVs mirror Vera's spreadsheet — article number + quantity per line, ready to 
 - [Wednesday order (cheese/apple pie + Curry)](/files/rrc26-food/rrc26-wednesday-full-order.csv)
 - [Thursday order (hummus/waffles + Wraps)](/files/rrc26-food/rrc26-thursday-full-order.csv)
 - [Friday order (soup + nachos)](/files/rrc26-food/rrc26-friday-snacks-order.csv)
-- [Saturday order (chips + cookies/cake)](/files/rrc26-food/rrc26-saturday-snacks-order.csv)
+- [Saturday order (chips + cookies/cake/fruit salad)](/files/rrc26-food/rrc26-saturday-snacks-order.csv)
+- [Fruit bowl order (all week)](/files/rrc26-food/rrc26-fruit-order.csv)
+- [Other/pantry order (salt, coffee milk)](/files/rrc26-food/rrc26-other-order.csv) — only 2 items on Vera's "Other" tab have article numbers so far; coffee, tea, sugar, pepper, extra baguette, and extra cookies are still unresolved on her sheet and aren't in this file
 
 ## Open items
 
