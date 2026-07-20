@@ -2997,7 +2997,7 @@ Make your space comfortable for the duration:
 
 Daily necessities for communal living:
 
-- [ ] Biodegradable soap + shampoo
+- [ ] Soap + shampoo
 - [ ] Toothbrush + toothpaste
 - [ ] Quick-dry towel
 - [ ] Hand sanitizer
