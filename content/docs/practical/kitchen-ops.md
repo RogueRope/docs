@@ -31,11 +31,11 @@ Vera coordinates food for RRC26. Her spreadsheet ["RRC2026 v2"](https://docs.goo
 |---|---|---|---|---|---|---|---|
 | Snack 1 | 14:00 | — | 🧀 Cheese & baguette | 🥕 Hummus + pita + vegetables | 🍅 Pumpkin & tomato soup | 🥨 Chips & salted snacks | 10:00 Leftovers Buffet |
 | Snack 2 | 16:00 | 🍦 Ice cream | 🥧 Apple pie & whipped cream | 🧇 Mini waffles or luxury biscuits | 🌮 Nachos + salsa, cheese dip & sour cream | 🍪 Cookies, mini cakes & fresh fruit salad | — |
-| Dinner | 18:30 | Pasta Bar | Chicken Curry Rice | Wraps Bar | BBQ (external) | Pizza (external) | — |
+| Dinner | 18:30 | Pasta Bar | Chicken Curry Rice | Wraps Bar | BBQ (external) | Pizza — Domino's (external) | — |
 
 Plus a **self-serve fruit bowl out all week** (Tue–Sun) for casual grazing, restocked daily from cold storage — separate from the per-day snack schedule.
 
-Friday's BBQ (hired crew) and Saturday's Pizza (delivery) are fully external — kitchen crew has those evenings off beyond Saturday's ordering + cleaning pair.
+Friday's BBQ (hired crew) and Saturday's Pizza (Domino's delivery) are fully external — kitchen crew has those evenings off beyond Saturday's ordering + cleaning pair. **Domino's orders are tailorable per person** — collect dietary/allergy requests before the Saturday order goes in.
 
 ## Fruit — self-serve bowl (all week, Tue–Sun)
 
