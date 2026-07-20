@@ -1,0 +1,369 @@
+<title>RRC26 — Food &amp; Allergen Guide</title>
+<style>
+  :root {
+    --bg: #f6f1ea;
+    --surface: #ffffff;
+    --surface-2: #efe6d9;
+    --ink: #2a231b;
+    --ink-soft: #6b6155;
+    --ink-faint: #978c7d;
+    --line: #e3d8c8;
+    --line-strong: #d3c4ac;
+    --accent: #b5651d;
+    --accent-ink: #ffffff;
+    --chip-bg: #efe6d9;
+    --shadow: 0 1px 2px rgba(40, 30, 15, 0.06), 0 6px 20px rgba(40, 30, 15, 0.07);
+
+    --gluten: #a8752c;
+    --gluten-bg: #f3e6d1;
+    --dairy: #3465a4;
+    --dairy-bg: #dce8f7;
+    --egg: #a8901a;
+    --egg-bg: #f6f0d2;
+    --fish: #1f7a72;
+    --fish-bg: #d9f0ec;
+    --nuts: #7a4a24;
+    --nuts-bg: #eee0d2;
+    --sesame: #6a7a2a;
+    --sesame-bg: #e8eed3;
+    --veg: #3f7d3f;
+    --veg-bg: #dcefdc;
+    --vegan: #2f8f5b;
+    --vegan-bg: #d7f2e3;
+  }
+
+  :root[data-theme="dark"] {
+    --bg: #1b1712;
+    --surface: #241f18;
+    --surface-2: #2b2419;
+    --ink: #f3ece0;
+    --ink-soft: #c2b6a4;
+    --ink-faint: #8c7f6c;
+    --line: #3a3225;
+    --line-strong: #4a4030;
+    --accent: #e3985a;
+    --accent-ink: #1b1712;
+    --chip-bg: #2b2419;
+    --shadow: 0 1px 2px rgba(0,0,0,0.35), 0 8px 24px rgba(0,0,0,0.35);
+
+    --gluten: #d9a962;
+    --gluten-bg: #3a2e18;
+    --dairy: #7fb0e8;
+    --dairy-bg: #1c2c40;
+    --egg: #dcc65e;
+    --egg-bg: #3a3316;
+    --fish: #6bd4c4;
+    --fish-bg: #17352f;
+    --nuts: #d0a679;
+    --nuts-bg: #3a2c1c;
+    --sesame: #bcce7a;
+    --sesame-bg: #313a17;
+    --veg: #8fce8f;
+    --veg-bg: #1e3320;
+    --vegan: #7fdba8;
+    --vegan-bg: #163a26;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1b1712;
+      --surface: #241f18;
+      --surface-2: #2b2419;
+      --ink: #f3ece0;
+      --ink-soft: #c2b6a4;
+      --ink-faint: #8c7f6c;
+      --line: #3a3225;
+      --line-strong: #4a4030;
+      --accent: #e3985a;
+      --accent-ink: #1b1712;
+      --chip-bg: #2b2419;
+      --shadow: 0 1px 2px rgba(0,0,0,0.35), 0 8px 24px rgba(0,0,0,0.35);
+
+      --gluten: #d9a962; --gluten-bg: #3a2e18;
+      --dairy: #7fb0e8; --dairy-bg: #1c2c40;
+      --egg: #dcc65e; --egg-bg: #3a3316;
+      --fish: #6bd4c4; --fish-bg: #17352f;
+      --nuts: #d0a679; --nuts-bg: #3a2c1c;
+      --sesame: #bcce7a; --sesame-bg: #313a17;
+      --veg: #8fce8f; --veg-bg: #1e3320;
+      --vegan: #7fdba8; --vegan-bg: #163a26;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, .display { font-weight: 800; letter-spacing: 0.01em; text-wrap: balance; }
+  a { color: var(--accent); }
+
+  .wrap { max-width: 820px; margin: 0 auto; padding: 32px 20px 80px; }
+
+  header.hero { padding: 4px 0 26px; border-bottom: 1px solid var(--line); margin-bottom: 26px; }
+  .eyebrow {
+    font-size: 12.5px; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--accent); font-weight: 700; margin-bottom: 10px;
+  }
+  h1.display { font-size: clamp(26px, 5vw, 36px); margin: 0 0 10px; line-height: 1.15; }
+  .hero-sub { color: var(--ink-soft); font-size: 16px; max-width: 62ch; margin: 0; }
+
+  .callout {
+    background: var(--surface); border: 1px solid var(--line-strong); border-left: 5px solid var(--accent);
+    border-radius: 12px; padding: 16px 18px; margin: 20px 0; box-shadow: var(--shadow);
+  }
+  .callout h3 { margin: 0 0 6px; font-size: 15.5px; }
+  .callout p { margin: 0 0 8px; font-size: 14px; color: var(--ink-soft); }
+  .callout p:last-child { margin-bottom: 0; }
+  .callout strong { color: var(--ink); }
+
+  section.block { margin: 40px 0; }
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  h2.display { font-size: 21px; margin: 0; }
+  .lede { color: var(--ink-soft); font-size: 14.5px; max-width: 68ch; margin: 4px 0 18px; }
+
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+  .fact {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; box-shadow: var(--shadow);
+  }
+  .fact .k { font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); font-weight: 700; margin-bottom: 4px; }
+  .fact p { margin: 0; font-size: 13.5px; color: var(--ink-soft); }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 4px; }
+  .tag {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12.5px; font-weight: 700; padding: 5px 11px; border-radius: 999px;
+    border: 1px solid transparent;
+  }
+  .tag.gluten { background: var(--gluten-bg); color: var(--gluten); }
+  .tag.dairy  { background: var(--dairy-bg);  color: var(--dairy); }
+  .tag.egg    { background: var(--egg-bg);    color: var(--egg); }
+  .tag.fish   { background: var(--fish-bg);   color: var(--fish); }
+  .tag.nuts   { background: var(--nuts-bg);   color: var(--nuts); }
+  .tag.sesame { background: var(--sesame-bg); color: var(--sesame); }
+  .tag.other  { background: var(--chip-bg);   color: var(--ink-soft); }
+  .tag.veg    { background: var(--veg-bg);    color: var(--veg); }
+  .tag.vegan  { background: var(--vegan-bg);  color: var(--vegan); }
+  .tag.trace  { background: transparent; border: 1px dashed currentColor; }
+  .tag.none   { background: var(--vegan-bg); color: var(--vegan); }
+
+  .verified {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 11.5px; font-weight: 700; color: var(--vegan);
+    background: var(--vegan-bg); padding: 3px 9px; border-radius: 999px; margin-bottom: 4px;
+  }
+  .ask {
+    background: var(--vegan-bg); border: 1px solid var(--vegan); color: var(--vegan);
+    border-radius: 10px; padding: 10px 13px; font-size: 13px; font-weight: 600; margin: 4px 0 0;
+  }
+
+  .daylist { display: flex; flex-direction: column; gap: 14px; }
+  .day {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+    box-shadow: var(--shadow); overflow: hidden;
+  }
+  .day-head {
+    display: flex; align-items: baseline; gap: 10px; padding: 14px 18px;
+    background: var(--surface-2); border-bottom: 1px solid var(--line);
+  }
+  .day-head h3 { margin: 0; font-size: 16.5px; }
+  .day-head .datestr { color: var(--ink-faint); font-size: 12.5px; }
+  .dish-row {
+    padding: 13px 18px; border-bottom: 1px solid var(--line);
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .dish-row:last-child { border-bottom: none; }
+  .dish-row .name { font-weight: 700; font-size: 14.5px; }
+  .dish-row .time { color: var(--ink-faint); font-size: 12px; font-weight: 600; margin-right: 6px; }
+  .dish-row .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .dish-row .note { font-size: 13px; color: var(--ink-soft); margin: 0; }
+  .dish-row .none { font-size: 13.5px; color: var(--ink-faint); font-style: italic; }
+
+  footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 13px; color: var(--ink-faint); }
+  footer p { max-width: 68ch; }
+  footer a { color: var(--ink-soft); }
+
+  ::selection { background: var(--accent); color: var(--accent-ink); }
+
+  @media print {
+    .shadow, .day, .callout, .fact { box-shadow: none !important; }
+    body { background: #fff; color: #000; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div class="eyebrow">Rogue Rope Camp 2026</div>
+    <h1 class="display">Food &amp; allergen guide</h1>
+    <p class="hero-sub">What's served each day, with allergen data pulled directly from each product's Solucious label — solid tags are confirmed ingredients, dashed tags are cross-contamination trace warnings only.</p>
+  </header>
+
+  <div class="callout">
+    <h3>⚠️ Please read this before relying on it</h3>
+    <p>Every packaged ingredient below was checked against its actual Solucious product label (2026-07-20) — this isn't a guess. <strong>Solid tags</strong> mean the allergen is an actual ingredient ("Bevat"). <strong>Dashed tags</strong> mean the label only warns of possible traces from shared equipment ("Kan sporen bevatten van") — not an ingredient, but worth knowing if your allergy is severe.</p>
+    <p>What this <em>can't</em> cover: fresh unpackaged produce (onion, garlic, herbs), substitutions the kitchen makes on the day, and cross-contact between dishes cooked in the same pots. If you have a real allergy — not just a preference — this page is a starting point for a conversation, not a substitute for one.</p>
+    <p><strong>Get in touch before your ticket is confirmed</strong> — <a href="mailto:contact@roguerope.be">contact@roguerope.be</a> — so we can plan around gluten-free, allergy, or other specific dietary needs. In some cases you can get kitchen access to prep your own food.</p>
+  </div>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">The basics</h2></div>
+    <div class="facts">
+      <div class="fact"><div class="k">Vegetarian / meat</div><p>Chosen at registration — we ask you to stick with it so portions plan correctly.</p></div>
+      <div class="fact"><div class="k">Vegan</div><p>Best-effort, not guaranteed. Flag it at registration. Safest bets: the all-week fruit bowl, Thursday's hummus + veg, and the vegetarian line of each dinner once dairy toppings are skipped.</p></div>
+      <div class="fact"><div class="k">Always available</div><p>Coffee and water. No bar on site — bring your own drinks, we provide ice for cooler boxes.</p></div>
+      <div class="fact"><div class="k">Bring your own</div><p>Plate, bowl, cutlery, reusable cup (no glass) — we don't do disposables.</p></div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">Legend</h2></div>
+    <p class="lede">Solid = confirmed ingredient. Dashed = trace warning only (shared equipment, not an ingredient).</p>
+    <div class="legend">
+      <span class="tag gluten">🌾 Gluten</span>
+      <span class="tag dairy">🥛 Dairy</span>
+      <span class="tag egg">🥚 Egg</span>
+      <span class="tag fish">🐟 Fish</span>
+      <span class="tag nuts">🌰 Tree nuts</span>
+      <span class="tag other">Sesame</span>
+      <span class="tag other">Soy</span>
+      <span class="tag other">Celery</span>
+      <span class="tag other">Mustard</span>
+      <span class="tag other">Sulphites</span>
+    </div>
+    <div class="legend" style="margin-top: 8px;">
+      <span class="tag gluten trace">🌾 Gluten (trace)</span>
+      <span class="tag veg">🌿 Vegetarian line</span>
+      <span class="tag vegan">✔ Vegan-safe option</span>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">Day by day</h2></div>
+    <p class="lede">55 people, Tue 4 – Sun 9 August. Every dinner has a genuinely separate vegetarian line, not an afterthought.</p>
+
+    <div class="daylist">
+
+      <div class="day">
+        <div class="day-head"><h3>Tuesday</h3><span class="datestr">Build Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>Snack 1</div>
+          <p class="none">Nothing scheduled.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🍦 Ice cream</div>
+          <p class="note">Bought in person, not from Solucious — no verified label data. Ask the kitchen crew what's in it on the day.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Pasta Bar</div>
+          <div class="tags"><span class="tag gluten">🌾 Gluten (penne)</span><span class="tag dairy">🥛 Dairy (pesto, gorgonzola)</span><span class="tag nuts">🌰 Tree nuts (cashew, in pesto)</span><span class="tag fish">🐟 Fish (tuna line only)</span><span class="tag veg">🌿 Vegetarian line</span></div>
+          <p class="note">The base sauce (with pesto — dairy + cashew) is shared before it splits into tuna and courgette portions, so <strong>the vegetarian line still has dairy and tree nuts</strong>, it only drops the fish. Gorgonzola on the table is optional and skippable.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Wednesday</h3><span class="datestr">Main Arrival</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🧀 Cheese board + baguette</div>
+          <div class="tags"><span class="tag dairy">🥛 Dairy (all cheeses)</span><span class="tag gluten">🌾 Gluten (mascarpone-feta dip + baguette)</span><span class="tag other">Sulphites (mascarpone-feta dip)</span></div>
+          <p class="note">Every cheese on the board is dairy, as expected. The mascarpone-feta dip specifically also has gluten and sulphites — the plain cheeses (Brie, Kruidenkaas, Fagotin, Geitenkaasrolletje) don't.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🥧 Apple pie &amp; whipped cream</div>
+          <div class="tags"><span class="tag gluten">🌾 Gluten</span><span class="tag egg">🥚 Egg</span><span class="tag dairy">🥛 Dairy</span><span class="tag nuts trace">🌰 Nuts (trace)</span><span class="tag other trace">Soy (trace)</span></div>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Chicken Curry Rice</div>
+          <div class="tags"><span class="tag gluten">🌾 Gluten (curry paste)</span><span class="tag other">Soy (curry paste)</span><span class="tag veg">🌿 Vegetarian line</span></div>
+          <p class="note">The curry paste used in the base — before the chicken goes in — actually contains gluten and soy, so <strong>both the vegetarian and chicken curry have gluten</strong>, not just the meat version. Rice, coconut milk, lentils, chickpeas, and spinach are all clean on their own. The reserved vegetarian portion has no meat, fish, or dairy.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Thursday</h3><span class="datestr">First Full Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🥕 Hummus + pita + vegetables</div>
+          <div class="tags"><span class="tag other">Sesame (both hummus)</span><span class="tag gluten">🌾 Gluten (pita)</span><span class="tag other trace">Egg, fish, dairy (trace, hummus)</span><span class="tag vegan">✔ Veg alone is vegan-safe</span></div>
+          <p class="note">Both hummus varieties confirm sesame as an actual ingredient (not just tahini rumor). The carrot, cucumber, pepper, and cherry tomato on their own are clean — gluten-free, dairy-free, vegan.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🧇 Mini waffles / luxury biscuits</div>
+          <div class="tags"><span class="tag nuts">🌰 Tree nuts (hazelnut, walnut, almond)</span><span class="tag other">Sulphites</span><span class="tag gluten">🌾 Gluten (biscuits)</span><span class="tag egg">🥚 Egg (biscuits)</span><span class="tag dairy">🥛 Dairy (biscuits)</span><span class="tag other">Soy (biscuits)</span></div>
+          <p class="note">The trail mix (studentenhaver) has real tree nuts and sulphites — not a maybe. If nuts are a real allergy, this slot is best skipped entirely rather than picked around.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Wraps Bar</div>
+          <div class="tags"><span class="tag gluten">🌾 Gluten (tortilla)</span><span class="tag dairy">🥛 Dairy (cheese, sour cream)</span><span class="tag other trace">Gluten, egg, dairy, soy, celery, mustard (trace, minced meat)</span><span class="tag veg">🌿 Vegetarian line</span></div>
+          <p class="note">Separate meat and veg pans — skip both cheese and sour cream for a vegan wrap. The minced meat itself has no confirmed allergens as an ingredient, only a broad trace warning from shared processing equipment.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Friday</h3><span class="datestr">Open Camp Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🍅 Pumpkin &amp; tomato soup</div>
+          <div class="tags"><span class="tag egg">🥚 Egg (both)</span><span class="tag dairy">🥛 Dairy (both)</span><span class="tag other">Celery (both)</span><span class="tag gluten">🌾 Gluten (tomato/meatball only)</span></div>
+          <p class="note">Both soups confirm egg, dairy, and celery as actual ingredients. The tomato soup ("met balletjes") additionally has real gluten and isn't vegetarian — the meatballs are meat. The pumpkin soup is meat-free but not gluten-free-confirmed either way; ask which pot before serving to anyone who needs to know.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🌮 Nachos + dips</div>
+          <div class="tags"><span class="tag dairy">🥛 Dairy (cheese dip, sour cream)</span><span class="tag other trace">Soy (trace, chips)</span></div>
+          <p class="note">Chips and salsa on their own are clean — no confirmed allergens, only a soy trace warning on the chips. Dairy comes entirely from the two dips.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>BBQ</div>
+          <div class="tags"><span class="tag other">External catering</span></div>
+          <p class="note">Hired crew — no Solucious data, ask them directly about ingredients.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Saturday</h3><span class="datestr">Open Camp Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🥨 Chips &amp; salted snacks</div>
+          <div class="tags"><span class="tag vegan">✔ Plain/paprika chips are vegan-safe</span><span class="tag gluten">🌾 Gluten (salted mix only)</span><span class="tag dairy">🥛 Dairy (salted mix only)</span><span class="tag other">Sesame, sulphites (salted mix only)</span></div>
+          <p class="note">The plain and paprika chips have no confirmed allergens at all. The "Celebration" salted/pretzel mix is the one to watch — it has real gluten, dairy, sesame, and sulphites.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🍪 Cookies, mini cakes &amp; fruit salad</div>
+          <div class="tags"><span class="tag gluten">🌾 Gluten (both)</span><span class="tag dairy">🥛 Dairy (both)</span><span class="tag egg">🥚 Egg (cake)</span><span class="tag nuts">🌰 Tree nuts (cake — almond)</span><span class="tag other">Soy (cake)</span><span class="tag other trace">Dairy (trace, cookies)</span><span class="tag vegan">✔ Melon salad is vegan-safe</span></div>
+          <p class="note">The mini cakes are the bigger allergen load (egg, almonds, soy on top of gluten/dairy) — the Krakelingen cookies are simpler (just gluten, with a dairy trace warning). Fresh-cut melon salad is fully vegan and gluten-free.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Pizza — Domino's</div>
+          <div class="tags"><span class="tag other">External delivery</span></div>
+          <p class="ask">🍕 This one's ordered to order — let us know your allergies or dietary needs beforehand and we'll order something tailored to you.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Sunday</h3><span class="datestr">Closing</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">10:00</span>Leftovers Buffet</div>
+          <p class="note">Whatever's left from the week — ask kitchen crew on the day what's in each dish if it matters to you.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">All-week fruit bowl</h2></div>
+    <span class="verified">✓ Every item checked — zero confirmed allergens</span>
+    <p class="lede">Out every day, Tue–Sun, for casual grazing: oranges, grapes, cherry tomatoes, bananas (both ripeness stages), watermelon, two apple varieties, clementines, pears. All whole, unpackaged-style produce — no allergens or traces on any of them.</p>
+  </section>
+
+  <footer>
+    <p>Allergen data pulled from Solucious product labels on 2026-07-20 and may go stale if products get substituted before the event — if in doubt, the kitchen crew on duty can show you the actual packaging.</p>
+    <p>Questions or dietary needs before the event: <a href="mailto:contact@roguerope.be">contact@roguerope.be</a></p>
+  </footer>
+
+</div>
