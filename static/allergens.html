@@ -30,6 +30,10 @@
     --veg-bg: #dcefdc;
     --vegan: #2f8f5b;
     --vegan-bg: #d7f2e3;
+    --tomato: #b5402c;
+    --tomato-bg: #f7ded9;
+    --meat: #8a4a2e;
+    --meat-bg: #f0e0d3;
   }
 
   :root[data-theme="dark"] {
@@ -62,6 +66,10 @@
     --veg-bg: #1e3320;
     --vegan: #7fdba8;
     --vegan-bg: #163a26;
+    --tomato: #e08a72;
+    --tomato-bg: #3a1f18;
+    --meat: #d3a480;
+    --meat-bg: #3a2a1c;
   }
 
   @media (prefers-color-scheme: dark) {
@@ -87,6 +95,8 @@
       --sesame: #bcce7a; --sesame-bg: #313a17;
       --veg: #8fce8f; --veg-bg: #1e3320;
       --vegan: #7fdba8; --vegan-bg: #163a26;
+      --tomato: #e08a72; --tomato-bg: #3a1f18;
+      --meat: #d3a480; --meat-bg: #3a2a1c;
     }
   }
 
@@ -154,6 +164,8 @@
   .tag.vegan  { background: var(--vegan-bg);  color: var(--vegan); }
   .tag.trace  { background: transparent; border: 1px dashed currentColor; }
   .tag.none   { background: var(--vegan-bg); color: var(--vegan); }
+  .tag.tomato { background: var(--tomato-bg); color: var(--tomato); }
+  .tag.meat   { background: var(--meat-bg);   color: var(--meat); font-weight: 800; }
 
   .verified {
     display: inline-flex; align-items: center; gap: 5px;
@@ -215,6 +227,21 @@
   </div>
 
   <section class="block">
+    <div class="section-head"><h2 class="display">Quick answers: tomato &amp; meat type</h2></div>
+    <p class="lede">The two things people ask about most that aren't official allergens — added by guest request.</p>
+    <div class="facts">
+      <div class="fact">
+        <div class="k">🍅 Which dishes have tomato?</div>
+        <p><strong>Yes:</strong> Tue Pasta (passata base), Wed Curry (diced tomatoes in the base — paste itself doesn't have it), Thu hummus plate (cherry tomatoes, skippable) &amp; Wraps (fajita sauce + fresh topping), Fri both soups &amp; salsa, all-week fruit bowl (cherry tomatoes).<br><strong>No:</strong> Wed cheese/pie, Thu trail mix/biscuits, Sat chips/cookies/cake. Pesto itself has none.</p>
+      </div>
+      <div class="fact">
+        <div class="k">🥩 What meat is served when?</div>
+        <p><strong>Tue Pasta:</strong> fish (tuna) only. <strong>Wed Curry:</strong> chicken (100%), no pork. <strong>Thu Wraps:</strong> <strong>pork</strong> mince (80%) — take the vegetarian veg-pan line instead if that's an issue. <strong>Fri tomato soup:</strong> chicken + turkey meatballs, no pork. <strong>Fri BBQ:</strong> unconfirmed, ask the crew. <strong>Sat Pizza:</strong> tailorable, just ask for no pork toppings.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
     <div class="section-head"><h2 class="display">The basics</h2></div>
     <div class="facts">
       <div class="fact"><div class="k">Vegetarian / meat</div><p>Chosen at registration — we ask you to stick with it so portions plan correctly.</p></div>
@@ -244,6 +271,11 @@
       <span class="tag veg">🌿 Vegetarian line</span>
       <span class="tag vegan">✔ Vegan-safe option</span>
     </div>
+    <p class="lede" style="margin-top: 12px;">Two extra tags below aren't official EU allergens, but guests specifically asked for them:</p>
+    <div class="legend">
+      <span class="tag tomato">🍅 Tomato</span>
+      <span class="tag meat">Meat type (pork / chicken / fish / poultry)</span>
+    </div>
   </section>
 
   <section class="block">
@@ -264,8 +296,8 @@
         </div>
         <div class="dish-row">
           <div class="name"><span class="time">18:30</span>Pasta Bar</div>
-          <div class="tags"><span class="tag gluten">🌾 Gluten (penne)</span><span class="tag dairy">🥛 Dairy (pesto, gorgonzola)</span><span class="tag nuts">🌰 Tree nuts (cashew, in pesto)</span><span class="tag fish">🐟 Fish (tuna line only)</span><span class="tag veg">🌿 Vegetarian line</span></div>
-          <p class="note">The base sauce (with pesto — dairy + cashew) is shared before it splits into tuna and courgette portions, so <strong>the vegetarian line still has dairy and tree nuts</strong>, it only drops the fish. Gorgonzola on the table is optional and skippable.</p>
+          <div class="tags"><span class="tag gluten">🌾 Gluten (penne)</span><span class="tag tomato">🍅 Tomato (passata base)</span><span class="tag dairy">🥛 Dairy (pesto, gorgonzola)</span><span class="tag nuts">🌰 Tree nuts (cashew, in pesto)</span><span class="tag meat">Fish (tuna line only)</span><span class="tag veg">🌿 Vegetarian line</span></div>
+          <p class="note">The base sauce is passata (tomato + salt, nothing else) mixed with pesto (dairy + cashew, no tomato) — that base is shared before it splits into tuna and courgette portions, so <strong>the vegetarian line still has tomato, dairy, and tree nuts</strong>, it only drops the fish. Gorgonzola on the table is optional and skippable. No pork anywhere in this dish.</p>
         </div>
       </div>
 
@@ -282,8 +314,8 @@
         </div>
         <div class="dish-row">
           <div class="name"><span class="time">18:30</span>Chicken Curry Rice</div>
-          <div class="tags"><span class="tag gluten">🌾 Gluten (curry paste)</span><span class="tag other">Soy (curry paste)</span><span class="tag veg">🌿 Vegetarian line</span></div>
-          <p class="note">The curry paste used in the base — before the chicken goes in — actually contains gluten and soy, so <strong>both the vegetarian and chicken curry have gluten</strong>, not just the meat version. Rice, coconut milk, lentils, chickpeas, and spinach are all clean on their own. The reserved vegetarian portion has no meat, fish, or dairy.</p>
+          <div class="tags"><span class="tag gluten">🌾 Gluten (curry paste)</span><span class="tag tomato">🍅 Tomato (diced tomatoes in base)</span><span class="tag other">Soy (curry paste)</span><span class="tag meat">Chicken (100% kip, no pork)</span><span class="tag veg">🌿 Vegetarian line</span></div>
+          <p class="note"><strong>Meat is 100% chicken — no pork anywhere in this dish.</strong> The base (before the chicken goes in) is built with real diced tomatoes, so both the vegetarian and chicken portions contain tomato. The curry paste itself has no tomato, but does have real gluten and soy — so both portions have gluten too, not just the meat version. Rice, coconut milk, lentils, chickpeas, and spinach are all clean on their own. The reserved vegetarian portion has no meat, fish, or dairy.</p>
         </div>
       </div>
 
@@ -291,8 +323,8 @@
         <div class="day-head"><h3>Thursday</h3><span class="datestr">First Full Day</span></div>
         <div class="dish-row">
           <div class="name"><span class="time">14:00</span>🥕 Hummus + pita + vegetables</div>
-          <div class="tags"><span class="tag other">Sesame (both hummus)</span><span class="tag gluten">🌾 Gluten (pita)</span><span class="tag other trace">Egg, fish, dairy (trace, hummus)</span><span class="tag vegan">✔ Veg alone is vegan-safe</span></div>
-          <p class="note">Both hummus varieties confirm sesame as an actual ingredient (not just tahini rumor). The carrot, cucumber, pepper, and cherry tomato on their own are clean — gluten-free, dairy-free, vegan.</p>
+          <div class="tags"><span class="tag other">Sesame (both hummus)</span><span class="tag gluten">🌾 Gluten (pita)</span><span class="tag tomato">🍅 Tomato (cherry tomatoes on the veg plate — easy to avoid)</span><span class="tag other trace">Egg, fish, dairy (trace, hummus)</span><span class="tag vegan">✔ Veg alone is vegan-safe</span></div>
+          <p class="note">Both hummus varieties confirm sesame as an actual ingredient (not just tahini rumor). No meat anywhere in this snack. The carrot, cucumber, pepper are clean — gluten-free, dairy-free, vegan; the cherry tomatoes are on the same plate but easy to just not take.</p>
         </div>
         <div class="dish-row">
           <div class="name"><span class="time">16:00</span>🧇 Mini waffles / luxury biscuits</div>
@@ -301,8 +333,8 @@
         </div>
         <div class="dish-row">
           <div class="name"><span class="time">18:30</span>Wraps Bar</div>
-          <div class="tags"><span class="tag gluten">🌾 Gluten (tortilla)</span><span class="tag dairy">🥛 Dairy (cheese, sour cream)</span><span class="tag other trace">Gluten, egg, dairy, soy, celery, mustard (trace, minced meat)</span><span class="tag veg">🌿 Vegetarian line</span></div>
-          <p class="note">Separate meat and veg pans — skip both cheese and sour cream for a vegan wrap. The minced meat itself has no confirmed allergens as an ingredient, only a broad trace warning from shared processing equipment.</p>
+          <div class="tags"><span class="tag meat">⚠ Pork (80% varkensvlees mince)</span><span class="tag gluten">🌾 Gluten (tortilla)</span><span class="tag tomato">🍅 Tomato (fajita sauce in the veg pan, plus fresh tomato topping)</span><span class="tag dairy">🥛 Dairy (cheese, sour cream)</span><span class="tag other trace">Gluten, egg, dairy, soy, celery, mustard (trace, minced meat)</span><span class="tag veg">🌿 Vegetarian line</span></div>
+          <p class="note"><strong>The meat is pork mince (80% varkensvlees), not beef.</strong> If you react to pork, take the vegetarian veg-pan line instead — it's cooked separately, has no meat, and vegetarians get a double portion of it. That veg pan does still have tomato (fajita sauce, 34% tomatoes) and gluten (tortilla); skip cheese and sour cream too for a vegan wrap. Fresh tomato is also on the topping line if you want to skip that specifically.</p>
         </div>
       </div>
 
@@ -310,18 +342,18 @@
         <div class="day-head"><h3>Friday</h3><span class="datestr">Open Camp Day</span></div>
         <div class="dish-row">
           <div class="name"><span class="time">14:00</span>🍅 Pumpkin &amp; tomato soup</div>
-          <div class="tags"><span class="tag egg">🥚 Egg (both)</span><span class="tag dairy">🥛 Dairy (both)</span><span class="tag other">Celery (both)</span><span class="tag gluten">🌾 Gluten (tomato/meatball only)</span></div>
-          <p class="note">Both soups confirm egg, dairy, and celery as actual ingredients. The tomato soup ("met balletjes") additionally has real gluten and isn't vegetarian — the meatballs are meat. The pumpkin soup is meat-free but not gluten-free-confirmed either way; ask which pot before serving to anyone who needs to know.</p>
+          <div class="tags"><span class="tag tomato">🍅 Tomato (both — yes, even the pumpkin one)</span><span class="tag egg">🥚 Egg (both)</span><span class="tag dairy">🥛 Dairy (both)</span><span class="tag other">Celery (both)</span><span class="tag gluten">🌾 Gluten (tomato/meatball only)</span><span class="tag meat">Poultry (chicken + turkey meatballs, tomato soup only — no pork)</span></div>
+          <p class="note"><strong>Both soups contain tomato</strong> — the pumpkin one has tomato purée from concentrate as an ingredient too, not just the tomato soup. Both confirm egg, dairy, and celery. The tomato soup ("met balletjes") additionally has real gluten and its meatballs are chicken + turkey (no pork) — still not vegetarian though. Ask which pot before serving to anyone who needs to know.</p>
         </div>
         <div class="dish-row">
           <div class="name"><span class="time">16:00</span>🌮 Nachos + dips</div>
-          <div class="tags"><span class="tag dairy">🥛 Dairy (cheese dip, sour cream)</span><span class="tag other trace">Soy (trace, chips)</span></div>
-          <p class="note">Chips and salsa on their own are clean — no confirmed allergens, only a soy trace warning on the chips. Dairy comes entirely from the two dips.</p>
+          <div class="tags"><span class="tag tomato">🍅 Tomato (salsa — 56% tomatoes)</span><span class="tag dairy">🥛 Dairy (cheese dip, sour cream)</span><span class="tag other trace">Soy (trace, chips)</span></div>
+          <p class="note">No meat in this snack. Chips on their own are clean — no confirmed allergens, only a soy trace warning. The salsa is over half tomato by weight. Dairy comes entirely from the two dips, which have no tomato.</p>
         </div>
         <div class="dish-row">
           <div class="name"><span class="time">18:30</span>BBQ</div>
-          <div class="tags"><span class="tag other">External catering</span></div>
-          <p class="note">Hired crew — no Solucious data, ask them directly about ingredients.</p>
+          <div class="tags"><span class="tag other">External catering</span><span class="tag meat trace">Meat type unconfirmed — BBQs commonly include pork</span></div>
+          <p class="note">Hired crew — no Solucious data on this one. If pork is a concern, ask the crew directly what's on the grill before serving yourself; don't assume based on the other dinners this week.</p>
         </div>
       </div>
 
@@ -340,7 +372,7 @@
         <div class="dish-row">
           <div class="name"><span class="time">18:30</span>Pizza — Domino's</div>
           <div class="tags"><span class="tag other">External delivery</span></div>
-          <p class="ask">🍕 This one's ordered to order — let us know your allergies or dietary needs beforehand and we'll order something tailored to you.</p>
+          <p class="ask">🍕 This one's ordered to order — let us know your allergies or dietary needs beforehand (e.g. no pork/ham/salami toppings) and we'll order something tailored to you.</p>
         </div>
       </div>
 
@@ -358,7 +390,7 @@
   <section class="block">
     <div class="section-head"><h2 class="display">All-week fruit bowl</h2></div>
     <span class="verified">✓ Every item checked — zero confirmed allergens</span>
-    <p class="lede">Out every day, Tue–Sun, for casual grazing: oranges, grapes, cherry tomatoes, bananas (both ripeness stages), watermelon, two apple varieties, clementines, pears. All whole, unpackaged-style produce — no allergens or traces on any of them.</p>
+    <p class="lede">Out every day, Tue–Sun, for casual grazing: oranges, grapes, <span class="tag tomato" style="vertical-align: middle;">🍅 cherry tomatoes</span>, bananas (both ripeness stages), watermelon, two apple varieties, clementines, pears. No meat, no allergens, no traces on any of it — the cherry tomatoes are the only tomato in the bowl, and easy to just skip.</p>
   </section>
 
   <footer>
