@@ -2,7 +2,7 @@
 title: Things to Bring
 description: "A practical packing list for six days in the field."
 date: 2024-04-06T13:37:00+00:00
-lastmod: 2026-07-18T00:00:00+00:00
+lastmod: 2026-07-23T00:00:00+00:00
 images: []
 weight: 50
 toc: true
@@ -19,13 +19,15 @@ lead: "The essentials, so you can arrive comfortable."
 
 ### For Eating & Drinking
 
+The full meal plan lives on the [Food & Meals page](/docs/practical/food/). In short: we provide brunch, afternoon snacks, and warm evening meals; you bring the personal extras that keep you happy.
+
 - Solid **reusable cup** (no glass) ~ **MANDATORY**
-- Plate for meals
-- Fork, knife, spoon (or spork if you’re that kind of genius)
+- **Reusable plate, cutlery, and cup** — we don’t do disposables
 - Water bottle or hydration container
-- Your favorite snacks or specialty food items
-- Drinks you love — with or without alcohol
-- Cooler bag or box + space in your heart for ice (we’ll provide that part)
+- **Cooler box or insulated bag** — we provide ice cubes, you bring the container
+- **Your favorite drinks** — there’s no bar on site
+- **Brunch toppings** — fresh bread is provided; bring the spreads, cheese, or other toppings you love
+- **Snacks you love** — especially late-night snacks for the firepit or extra energy
 
 ### Lighting & Navigation
 
@@ -76,7 +78,7 @@ lead: "The essentials, so you can arrive comfortable."
 
 ### Food Planning
 
-We’ve got meals in motion — check the [Food section](/docs/practical/food/) for what’s provided and what to bring.
+For dietary choices, allergies, special diets, and the sample meal rhythm, check the [Food & Meals page](/docs/practical/food/) before you pack. It has the most complete food guidance; this page is only the packing checklist.
 
 ---
 
