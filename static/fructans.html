@@ -1,0 +1,351 @@
+<title>RRC26 — Fructan &amp; Onion/Garlic Guide</title>
+<style>
+  :root {
+    --bg: #f2f3ec;
+    --surface: #ffffff;
+    --surface-2: #e7ebdb;
+    --ink: #232620;
+    --ink-soft: #5c6255;
+    --ink-faint: #8b9182;
+    --line: #dde2d0;
+    --line-strong: #c7cfb6;
+    --accent: #5c7a3a;
+    --accent-ink: #ffffff;
+    --chip-bg: #e7ebdb;
+    --shadow: 0 1px 2px rgba(20, 26, 12, 0.06), 0 6px 20px rgba(20, 26, 12, 0.07);
+
+    --onion: #8a3fa0;
+    --onion-bg: #eddcf2;
+    --garlic: #b5651d;
+    --garlic-bg: #f3e2ce;
+    --wheat: #a8752c;
+    --wheat-bg: #f3e6d1;
+    --leek: #2f7d5f;
+    --leek-bg: #d9f0e6;
+    --safe: #2f8f5b;
+    --safe-bg: #d7f2e3;
+    --watch: #a8901a;
+    --watch-bg: #f6f0d2;
+  }
+
+  :root[data-theme="dark"] {
+    --bg: #171a14;
+    --surface: #1e2318;
+    --surface-2: #252b1d;
+    --ink: #eef1e6;
+    --ink-soft: #b9c0ac;
+    --ink-faint: #808a72;
+    --line: #333a28;
+    --line-strong: #414a32;
+    --accent: #9bc16f;
+    --accent-ink: #131810;
+    --chip-bg: #252b1d;
+    --shadow: 0 1px 2px rgba(0,0,0,0.35), 0 8px 24px rgba(0,0,0,0.35);
+
+    --onion: #d6a2e6;
+    --onion-bg: #372a3e;
+    --garlic: #e3985a;
+    --garlic-bg: #3a2c18;
+    --wheat: #d9a962;
+    --wheat-bg: #3a2e18;
+    --leek: #7fd0ac;
+    --leek-bg: #17352a;
+    --safe: #7fdba8;
+    --safe-bg: #163a26;
+    --watch: #dcc65e;
+    --watch-bg: #3a3316;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #171a14;
+      --surface: #1e2318;
+      --surface-2: #252b1d;
+      --ink: #eef1e6;
+      --ink-soft: #b9c0ac;
+      --ink-faint: #808a72;
+      --line: #333a28;
+      --line-strong: #414a32;
+      --accent: #9bc16f;
+      --accent-ink: #131810;
+      --chip-bg: #252b1d;
+      --shadow: 0 1px 2px rgba(0,0,0,0.35), 0 8px 24px rgba(0,0,0,0.35);
+
+      --onion: #d6a2e6; --onion-bg: #372a3e;
+      --garlic: #e3985a; --garlic-bg: #3a2c18;
+      --wheat: #d9a962; --wheat-bg: #3a2e18;
+      --leek: #7fd0ac; --leek-bg: #17352a;
+      --safe: #7fdba8; --safe-bg: #163a26;
+      --watch: #dcc65e; --watch-bg: #3a3316;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, .display { font-weight: 800; letter-spacing: 0.01em; text-wrap: balance; }
+  a { color: var(--accent); }
+
+  .wrap { max-width: 820px; margin: 0 auto; padding: 32px 20px 80px; }
+
+  header.hero { padding: 4px 0 26px; border-bottom: 1px solid var(--line); margin-bottom: 26px; }
+  .eyebrow {
+    font-size: 12.5px; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--accent); font-weight: 700; margin-bottom: 10px;
+  }
+  h1.display { font-size: clamp(24px, 5vw, 34px); margin: 0 0 10px; line-height: 1.15; }
+  .hero-sub { color: var(--ink-soft); font-size: 16px; max-width: 64ch; margin: 0; }
+
+  .callout {
+    background: var(--surface); border: 1px solid var(--line-strong); border-left: 5px solid var(--accent);
+    border-radius: 12px; padding: 16px 18px; margin: 20px 0; box-shadow: var(--shadow);
+  }
+  .callout h3 { margin: 0 0 6px; font-size: 15.5px; }
+  .callout p { margin: 0 0 8px; font-size: 14px; color: var(--ink-soft); }
+  .callout p:last-child { margin-bottom: 0; }
+  .callout strong { color: var(--ink); }
+
+  .reply {
+    background: var(--safe-bg); border: 1px solid var(--safe); border-radius: 12px;
+    padding: 16px 18px; margin: 20px 0;
+  }
+  .reply h3 { margin: 0 0 6px; font-size: 15.5px; color: var(--safe); }
+  .reply p { margin: 0 0 8px; font-size: 14px; color: var(--ink); }
+  .reply p:last-child { margin-bottom: 0; }
+
+  section.block { margin: 40px 0; }
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 8px; }
+  h2.display { font-size: 20px; margin: 0; }
+  .lede { color: var(--ink-soft); font-size: 14.5px; max-width: 68ch; margin: 4px 0 18px; }
+
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+  .fact {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; box-shadow: var(--shadow);
+  }
+  .fact .k { font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); font-weight: 700; margin-bottom: 4px; }
+  .fact p { margin: 0; font-size: 13.5px; color: var(--ink-soft); }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 4px; }
+  .tag {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12.5px; font-weight: 700; padding: 5px 11px; border-radius: 999px;
+    border: 1px solid transparent;
+  }
+  .tag.onion  { background: var(--onion-bg);  color: var(--onion); }
+  .tag.garlic { background: var(--garlic-bg); color: var(--garlic); }
+  .tag.wheat  { background: var(--wheat-bg);  color: var(--wheat); }
+  .tag.leek   { background: var(--leek-bg);   color: var(--leek); }
+  .tag.safe   { background: var(--safe-bg);   color: var(--safe); }
+  .tag.watch  { background: var(--watch-bg);  color: var(--watch); }
+
+  .daylist { display: flex; flex-direction: column; gap: 14px; }
+  .day {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+    box-shadow: var(--shadow); overflow: hidden;
+  }
+  .day-head {
+    display: flex; align-items: baseline; gap: 10px; padding: 14px 18px;
+    background: var(--surface-2); border-bottom: 1px solid var(--line);
+  }
+  .day-head h3 { margin: 0; font-size: 16.5px; }
+  .day-head .datestr { color: var(--ink-faint); font-size: 12.5px; }
+  .dish-row {
+    padding: 13px 18px; border-bottom: 1px solid var(--line);
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .dish-row:last-child { border-bottom: none; }
+  .dish-row .name { font-weight: 700; font-size: 14.5px; }
+  .dish-row .time { color: var(--ink-faint); font-size: 12px; font-weight: 600; margin-right: 6px; }
+  .dish-row .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .dish-row .note { font-size: 13px; color: var(--ink-soft); margin: 0; }
+  .dish-row .none { font-size: 13.5px; color: var(--ink-faint); font-style: italic; }
+
+  footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 13px; color: var(--ink-faint); }
+  footer p { max-width: 68ch; }
+  footer a { color: var(--ink-soft); }
+
+  ::selection { background: var(--accent); color: var(--accent-ink); }
+
+  @media print {
+    .shadow, .day, .callout, .fact, .reply { box-shadow: none !important; }
+    body { background: #fff; color: #000; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div class="eyebrow">Rogue Rope Camp 2026</div>
+    <h1 class="display">Fructan guide — onion, garlic &amp; wheat</h1>
+    <p class="hero-sub">A focused companion to the <a href="/allergens.html">general allergen guide</a>, for anyone limiting fructans specifically — the FODMAP group found heavily in onion, garlic, shallot, leek, and wheat/gluten grains.</p>
+  </header>
+
+  <div class="reply">
+    <h3>To the person who asked us this</h3>
+    <p>Thank you for asking — this isn't lastig (annoying), it's exactly the kind of thing we'd rather know about in advance than not. Short answer to your specific questions:</p>
+    <p><strong>Yes, please also message Vera directly</strong> (she runs the kitchen) — not instead of this page, but in addition. This page tells you what's already in the plan; only she can actually change how a dish gets cooked on the day (e.g. holding back an onion/garlic-free portion before the base sauce goes in). That's a kitchen-planning decision, not something we can promise from a webpage.</p>
+    <p><strong>Bringing your own bread is a genuinely good call</strong> — see the wheat breakdown below, it's in almost everything baked or doughy this week.</p>
+    <p>And to be direct about the harder part: <strong>onion and/or garlic is cooked into the shared base of all three main dinners this week</strong> (Pasta, Curry, Wraps) — before it ever splits into vegetarian or meat portions. There's no "pick it out" option for those the way there is with, say, a cheese topping. The realistic paths are: a separate small batch cooked without it (needs Vera/kitchen crew to plan for), bringing/prepping your own for those nights, or leaning on the genuinely clean options called out below.</p>
+  </div>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">Quick answer</h2></div>
+    <div class="facts">
+      <div class="fact">
+        <div class="k">🧅🧄 The 3 cooked dinners</div>
+        <p>Tue Pasta, Wed Curry, and Thu Wraps <strong>all</strong> have onion and/or garlic cooked into the shared base before serving — confirmed on the product labels, not a guess. No portion of any of these three is onion/garlic-free as currently planned.</p>
+      </div>
+      <div class="fact">
+        <div class="k">🌾 Wheat is everywhere</div>
+        <p>Pasta, pita, tortillas, baguette, apple pie, biscuits, cookies, cake, and the Saturday salted mix are all wheat-based. Bringing your own bread/crackers covers a lot of ground.</p>
+      </div>
+      <div class="fact">
+        <div class="k">✅ What's actually clean</div>
+        <p>The raw veg plate on Thursday (carrot/cucumber/pepper, skip the hummus), plain &amp; paprika chips on Saturday, plain cheeses on Wednesday's board (not the dip), and most of the all-week fruit bowl.</p>
+      </div>
+      <div class="fact">
+        <div class="k">🍎 One more thing labels can't show</div>
+        <p>Fresh whole fruit (like apple and watermelon) can be naturally high in fructose/fructans regardless of any ingredient label — that's outside what this page can check. Worth factoring in separately if you're being strict.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">Legend</h2></div>
+    <div class="legend">
+      <span class="tag onion">🧅 Onion</span>
+      <span class="tag garlic">🧄 Garlic</span>
+      <span class="tag leek">🌿 Leek / shallot</span>
+      <span class="tag wheat">🌾 Wheat</span>
+      <span class="tag safe">✔ Onion/garlic/wheat-free</span>
+      <span class="tag watch">? Unconfirmed / ask</span>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">Day by day</h2></div>
+    <p class="lede">Checked against each product's actual ingredient list. Where onion/garlic is in a shared base (built before the dish splits into portions), that's called out explicitly — it means every portion has it, not just one line.</p>
+
+    <div class="daylist">
+
+      <div class="day">
+        <div class="day-head"><h3>Tuesday</h3><span class="datestr">Build Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🍦 Ice cream</div>
+          <p class="note">Bought in person, not from Solucious — no label to check. Ask on the day.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Pasta Bar</div>
+          <div class="tags"><span class="tag onion">🧅 Onion (base sauce)</span><span class="tag garlic">🧄 Garlic (pesto, 2%)</span><span class="tag wheat">🌾 Wheat (penne)</span></div>
+          <p class="note">The onion and pesto (with garlic) are both in the shared base before it splits into tuna and vegetarian portions — <strong>every portion has onion, garlic, and wheat</strong>. No fructan-safe option here without a separate batch.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Wednesday</h3><span class="datestr">Main Arrival</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🧀 Cheese board + baguette</div>
+          <div class="tags"><span class="tag safe">✔ Brie, Fagotin, Geitenkaasrolletje</span><span class="tag garlic">🧄 Garlic (Kruidenkaas — 1%, mascarpone dip)</span><span class="tag wheat">🌾 Wheat (baguette)</span></div>
+          <p class="note">Three of the five cheeses are genuinely clean. Kruidenkaas (herb cheese) and the mascarpone-feta dip both have real garlic — easy to just not take those two.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🥧 Apple pie &amp; whipped cream</div>
+          <div class="tags"><span class="tag wheat">🌾 Wheat</span></div>
+          <p class="note">No onion or garlic — wheat is the only fructan source here.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Chicken Curry Rice</div>
+          <div class="tags"><span class="tag onion">🧅 Onion (2.5kg, base)</span><span class="tag garlic">🧄 Garlic (fresh, base + curry paste)</span><span class="tag leek">🌿 Shallot 33.5% (curry paste)</span><span class="tag wheat">🌾 Wheat (curry paste — via soy sauce)</span></div>
+          <p class="note">This is the heaviest dinner of the week for fructans: real onion, fresh garlic, <em>and</em> shallot at 33.5% of the curry paste, plus wheat hiding in the paste's soy sauce. All of it is in the base built before the vegetarian portion is set aside — <strong>the vegetarian curry has just as much onion/garlic/shallot as the chicken version</strong>. Rice, coconut milk, lentils, chickpeas, and spinach are clean on their own.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Thursday</h3><span class="datestr">First Full Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🥕 Hummus + pita + vegetables</div>
+          <div class="tags"><span class="tag safe">✔ Carrot, cucumber, pepper, cherry tomato</span><span class="tag garlic">🧄 Garlic (both hummus)</span><span class="tag wheat">🌾 Wheat (pita)</span></div>
+          <p class="note">Both hummus varieties have real garlic. <strong>The raw veg plate on its own is genuinely onion/garlic/wheat-free</strong> — probably your safest snack of the week.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🧇 Mini waffles / luxury biscuits</div>
+          <div class="tags"><span class="tag safe">✔ Trail mix (studentenhaver)</span><span class="tag wheat">🌾 Wheat (biscuits)</span></div>
+          <p class="note">The trail mix itself (raisins, sunflower/cottonseed oil) has no onion, garlic, or wheat. The biscuits are wheat-based.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Wraps Bar</div>
+          <div class="tags"><span class="tag onion">🧅 Onion (veg pan, fajita sauce 11%, Tex Mex mix)</span><span class="tag garlic">🧄 Garlic (Tex Mex mix)</span><span class="tag wheat">🌾 Wheat (tortilla)</span><span class="tag watch">? Pork mince has generic "spices" — onion/garlic not ruled out</span></div>
+          <p class="note">Onion shows up three separate ways in the veg pan alone (raw onion, fajita sauce, and the seasoning mix), plus confirmed garlic in the seasoning. The tortilla is wheat regardless of filling. This is the second onion/garlic-heavy dinner of the week.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Friday</h3><span class="datestr">Open Camp Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🍅 Pumpkin &amp; tomato soup</div>
+          <div class="tags"><span class="tag onion">🧅 Onion (both — "gegaarde ui")</span><span class="tag leek">🌿 Leek (both)</span><span class="tag wheat">🌾 Wheat (tomato/meatball soup only)</span></div>
+          <p class="note">Both soups have cooked onion <em>and</em> leek as actual ingredients — this isn't a "maybe," both are named on the label. No onion-free soup option either pot.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🌮 Nachos + dips</div>
+          <div class="tags"><span class="tag safe">✔ Chips, cheese dip, sour cream</span><span class="tag onion">🧅 Onion (salsa only, 9.5%)</span></div>
+          <p class="note">Good news here — the tortilla chips, cheese dip, and sour cream all check out clean. <strong>Only the salsa has onion.</strong> Skip the salsa and this snack works.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>BBQ</div>
+          <div class="tags"><span class="tag watch">? External catering — no label data</span></div>
+          <p class="note">Hired crew, no Solucious data. Ask them directly — marinades and sauces commonly have both onion and garlic.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Saturday</h3><span class="datestr">Open Camp Day</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">14:00</span>🥨 Chips &amp; salted snacks</div>
+          <div class="tags"><span class="tag safe">✔ Plain &amp; paprika chips</span><span class="tag wheat">🌾 Wheat + barley/malt (salted mix only)</span></div>
+          <p class="note">Both chip varieties are confirmed free of onion, garlic, and wheat. The "Celebration" pretzel/snack mix is the one with wheat and malted barley.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">16:00</span>🍪 Cookies, mini cakes &amp; fruit salad</div>
+          <div class="tags"><span class="tag safe">✔ Melon fruit salad*</span><span class="tag wheat">🌾 Wheat (both cookies and cake)</span></div>
+          <p class="note">No onion or garlic in either the cookies or the cake — just wheat. The fresh-cut melon salad has none of the three. *See the fresh-fruit note above about natural fructan content in whole fruit.</p>
+        </div>
+        <div class="dish-row">
+          <div class="name"><span class="time">18:30</span>Pizza — Domino's</div>
+          <div class="tags"><span class="tag watch">? Tailorable — just ask</span></div>
+          <p class="note">This is the one dinner where you can actually just ask for no onion/garlic on your order, base included. Flag it when orders are collected.</p>
+        </div>
+      </div>
+
+      <div class="day">
+        <div class="day-head"><h3>Sunday</h3><span class="datestr">Closing</span></div>
+        <div class="dish-row">
+          <div class="name"><span class="time">10:00</span>Leftovers Buffet</div>
+          <p class="note">Whatever's left from the week — same onion/garlic content as whichever dish it came from. Ask kitchen crew what's what.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="section-head"><h2 class="display">All-week fruit bowl</h2></div>
+    <p class="lede">No onion, garlic, or wheat on any label — but this is exactly the category where whole-fruit fructan content matters most. Watermelon and apples (both in the bowl) are commonly flagged as higher-FODMAP fresh fruit; grapes, oranges, clementines, bananas, and pears are generally easier. Worth checking against whatever guidance your dietitian gave you rather than this label-based page.</p>
+  </section>
+
+  <footer>
+    <p>This page checks packaged-product ingredient labels (pulled 2026-07-20) for onion, garlic, shallot, leek, and wheat — it can't verify fresh spice blends, "specerijen" catch-all ingredients, or natural FODMAP content in whole fruit/vegetables. It's a starting point for a conversation with Vera, not a medical guarantee.</p>
+    <p>Reach out any time: <a href="mailto:contact@roguerope.be">contact@roguerope.be</a> — and yes, messaging Vera directly about this is genuinely the right move, not an imposition.</p>
+  </footer>
+
+</div>
